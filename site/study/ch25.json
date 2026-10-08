@@ -1,0 +1,158 @@
+{
+  "chapter": 25,
+  "sections": {
+    "25.0": {
+      "big": "Animals get energy and building blocks by eating, then breaking food into molecules small enough to absorb.",
+      "points": [
+        "This chapter covers digestive systems in different animals, nutrition, the steps of digestion, and how hormones and nerves control it."
+      ],
+      "words": []
+    },
+    "25.1": {
+      "big": "Digestive systems are built to match the diet. Plant eaters need long guts and microbe helpers, and meat eaters have short, simple guts.",
+      "points": [
+        "<b>Herbivores</b> eat plants, <b>carnivores</b> eat meat, <b>omnivores</b> eat both.",
+        "Simple animals (like hydra) have a <b>gastrovascular cavity</b> with one opening. Most animals have an <b>alimentary canal</b>: a one-way tube with a mouth at one end and an <b>anus</b> at the other.",
+        "<b>Monogastric</b> = one stomach (humans, dogs). Birds have no teeth: the <b>proventriculus</b> adds acid and enzymes, and the muscular <b>gizzard</b> grinds food (often with swallowed stones).",
+        "<b>Ruminants</b> (cows, goats) have four chambers: rumen and reticulum (microbes digest cellulose; the cud is brought back up from the reticulum and chewed again), omasum (removes water), abomasum (the true stomach). Pseudo-ruminants (horses, camels) digest <b>roughage</b> (fiber) in a big cecum.",
+        "The path: mouth (teeth chew, saliva starts breaking down starch, makes a <b>bolus</b>) → <b>esophagus</b> (<b>peristalsis</b> = waves of muscle; <b>sphincters</b> are ring-shaped valves) → <b>stomach</b> (acid + <b>pepsin</b> turn food into <b>chyme</b>) → <b>small intestine</b> (<b>duodenum</b>, <b>jejunum</b>, <b>ileum</b>; most digestion and absorption) → <b>large intestine</b> (reabsorbs water; bacteria) → <b>rectum</b> → anus.",
+        "The small intestine is lined with <b>villi</b> (and microvilli on them) that give a huge surface area for absorbing nutrients.",
+        "Accessory organs (food doesn't pass through them): the <b>liver</b> makes <b>bile</b> (breaks fat into small droplets), the <b>gallbladder</b> stores bile, and the <b>pancreas</b> makes enzymes plus bicarbonate to neutralize chyme."
+      ],
+      "words": ["herbivore", "carnivore", "omnivore", "gastrovascular cavity", "alimentary canal", "monogastric", "proventriculus", "gizzard", "ruminant", "roughage", "bolus", "esophagus", "peristalsis", "sphincter", "stomach", "chyme", "small intestine", "duodenum", "jejunum", "ileum", "villi", "large intestine", "rectum", "anus", "liver", "bile", "gallbladder", "pancreas"]
+    },
+    "25.2": {
+      "big": "Food supplies energy (stored as ATP or glycogen) and building blocks your body can't make on its own.",
+      "points": [
+        "Carbs → glucose → ATP. Extra glucose is stored as glycogen in the liver and muscles, and the liver releases it when blood sugar drops. Too much leftover glucose is turned into fat.",
+        "An <b>essential nutrient</b> must come from food: some amino acids and fatty acids, <b>vitamins</b> and <b>minerals</b>.",
+        "Vitamins: water-soluble (B, C) and fat-soluble (A for vision, D, E, K for clotting). Fat-soluble vitamins need dietary fat to be absorbed.",
+        "Minerals: iodine (too little causes goiter), calcium, iron, and others.",
+        "Fat has the most energy per gram, and fiber has the least."
+      ],
+      "words": ["essential nutrient", "vitamin", "mineral"]
+    },
+    "25.3": {
+      "big": "Food processing goes in order: <b>ingestion → digestion → absorption → elimination</b>.",
+      "points": [
+        "<b>Ingestion</b> = taking food in. <b>Digestion</b> = mechanical (chewing, churning) and chemical (enzymes) breakdown into molecules small enough to cross cell membranes.",
+        "Carbs: <b>salivary amylase</b> (mouth) and pancreatic amylase break starch into sugars, then <b>maltase</b>, <b>sucrase</b> and <b>lactase</b> finish the job.",
+        "Protein: the stomach turns inactive <b>pepsinogen</b> into <b>pepsin</b> (using acid), which starts protein breakdown. In the small intestine, pancreatic <b>trypsin</b>, <b>chymotrypsin</b>, <b>elastase</b> and <b>carboxypeptidase</b>, then <b>aminopeptidase</b> and <b>dipeptidase</b>, produce amino acids.",
+        "Fat: bile emulsifies it, <b>lipase</b> breaks it into fatty acids and monoglycerides, these travel in bile-salt bubbles (micelles) into cells, are rebuilt into triglycerides, packed into <b>chylomicrons</b>, and enter the lymph (lacteals).",
+        "Elimination: the colon reabsorbs water. Too little reabsorption causes diarrhea; too much causes constipation. Vomiting (emesis) is controlled by the medulla."
+      ],
+      "words": ["ingestion", "digestion", "salivary amylase", "maltase", "sucrase", "lactase", "pepsinogen", "pepsin", "trypsin", "chymotrypsin", "elastase", "carboxypeptidase", "aminopeptidase", "dipeptidase", "lipase", "chylomicron"]
+    },
+    "25.4": {
+      "big": "Nerves and hormones control when digestive juices flow and when you feel hungry or full.",
+      "points": [
+        "Three phases: the <b>cephalic phase</b> (seeing, smelling or thinking about food → saliva and stomach juices), the <b>gastric phase</b> (food arrives in the stomach → <b>gastrin</b> → more acid), the <b>intestinal phase</b> (chyme enters the duodenum → slows the stomach down).",
+        "Hormones: <b>gastrin</b> (more stomach acid), <b>secretin</b> (pancreas releases bicarbonate), <b>cholecystokinin</b> (CCK: the gallbladder releases bile and the pancreas releases enzymes), <b>gastric inhibitory peptide</b> (slows the stomach), <b>somatostatin</b> (shuts secretions down).",
+        "The <b>endocrine system</b> and the brain (hypothalamus) control hunger and fullness signals."
+      ],
+      "words": ["cephalic phase", "gastric phase", "intestinal phase", "gastrin", "secretin", "cholecystokinin", "gastric inhibitory peptide", "somatostatin", "endocrine system"]
+    }
+  },
+  "fix": {
+    "38": {
+      "stem": ["a. How does a stomach ulcer form?<br>b. How could you prevent a stomach ulcer from forming in your stomach?"],
+      "opts": [
+        "a. When the serosa layer of the stomach ruptures and does not reform, an open wound is formed. It may be caused by bacteria. b. Ulcers can be prevented by eliminating ingested items that degrade the mucus lining, like foods that irritate the stomach.",
+        "a. When the mucus lining of the stomach ruptures and does not reform, an open wound is formed. It may be caused by a virus. b. Ulcers can be prevented by eliminating ingested items that degrade the mucus lining, like foods that irritate the stomach.",
+        "a. When the mucus lining of the stomach ruptures and does not reform, an open wound is formed. It may be caused by bacteria. b. Ulcers can be prevented by ingesting items that will increase the acid content of the stomach.",
+        "a. When the mucus lining of the stomach ruptures and does not reform, an open wound forms. It may be caused by bacteria. b. Ulcers can be prevented by eliminating ingested items that degrade the mucus lining, such as foods that irritate the stomach."
+      ]
+    },
+    "43": {
+      "stem": ["a. Why is it necessary to consume essential nutrients?<br>b. What are two examples of fat-soluble essential vitamins, and what are their functions in the human body?"],
+      "opts": [
+        "a. Essential nutrients are not synthesized by the body and are not necessary for proper body function. b. Vitamins B and C are two fat-soluble essential vitamins. Vitamin B helps maintain eyesight, and vitamin C is essential for blood clotting.",
+        "a. Essential nutrients are not synthesized by the body but are necessary for proper body function. b. Vitamins A and K are two fat-soluble essential vitamins. Vitamin A helps maintain connective tissue, and vitamin K is essential for blood clotting.",
+        "a. Essential nutrients are synthesized by the body and are necessary for proper body function. b. Vitamins D and K are two fat-soluble essential vitamins. Vitamin D helps maintain a stable nervous system, and vitamin K is essential for blood clotting.",
+        "a. Essential nutrients are not synthesized by the body but are necessary for proper body function. b. Vitamins A and K are two fat-soluble essential vitamins. Vitamin A helps maintain eyesight, and vitamin K is essential for blood clotting."
+      ]
+    },
+    "50": {
+      "stem": ["a. What are micelles?<br>b. Why are micelles integral to lipid absorption?"],
+      "opts": [
+        "a. Micelles are lipoproteins designed for the transport of lipids that enter lacteals. b. Micelles facilitate absorption by microvilli, where the fatty acids and proteins diffuse out to form lipoproteins.",
+        "a. Micelles are lipoproteins designed for the transport of lipids that enter lacteals. b. Micelles facilitate absorption by microvilli, where the fatty acids and monoglycerides diffuse out to form triglycerides.",
+        "a. Micelles are bile salt–surrounded fatty acids and phospholipids. b. Micelles facilitate absorption by microvilli, where the fatty acids and monoglycerides diffuse out to form triglycerides.",
+        "a. Micelles are bile salt–surrounded fatty acids and monoglycerides. b. Micelles facilitate absorption by microvilli, where the fatty acids and monoglycerides diffuse out to form triglycerides."
+      ]
+    }
+  },
+  "answers": {
+    "1": { "a": "c", "why": "Chewing = <b>mastication</b>." },
+    "2": { "a": "d", "why": "Nutrients <b>diffuse across the small intestine's lining</b> into the blood. (Water is mostly reabsorbed in the colon.)" },
+    "3": { "a": "d", "why": "<b>Horses</b> digest fiber in a big cecum (pseudo-ruminant). Cows and goats are true ruminants." },
+    "4": { "a": "d", "why": "Pseudo-ruminants digest roughage in the <b>cecum</b>." },
+    "5": { "a": "a", "why": "Chewed food plus saliva makes a <b>bolus</b>." },
+    "6": { "a": "b", "why": "Salivary amylase starts <b>starch</b> digestion in the mouth. (Pepsinogen becomes pepsin, not the other way.)" },
+    "7": { "a": "b", "why": "The pancreas releases <b>bicarbonate</b>, a base." },
+    "8": { "a": "c", "why": "The liver <b>makes bile</b>. The gallbladder stores and concentrates it." },
+    "9": { "a": "d", "why": "Absorption = nutrients <b>diffuse across the intestine wall</b> into the blood." },
+    "10": { "a": "d", "why": "The <b>hypothalamus</b> controls hunger and fullness." },
+    "11": { "a": "b", "why": "Deep frying adds <b>fat</b>, the most energy-dense food." },
+    "12": { "a": "b", "why": "Humans can't make cellulase, but <b>gut bacteria</b> break down some fiber." },
+    "13": { "a": "c", "why": "Fat has <b>high</b> energy density, not low." },
+    "14": { "a": "b", "why": "<b>Vitamins</b> are organic molecules we must eat, often needed as enzyme helpers." },
+    "15": { "a": "d", "why": "Too little iodine causes a <b>goiter</b> (enlarged thyroid)." },
+    "16": { "a": "d", "why": "ATP's energy is in the bonds linking its <b>phosphate</b> groups." },
+    "17": { "a": "b", "why": "When blood sugar drops, the <b>liver releases glycogen</b> as glucose." },
+    "18": { "a": "a", "why": "Extra ATP and glucose are stored as <b>glycogen</b>." },
+    "19": { "a": "b", "why": "<b>Dried fish</b> has 60.2 g of protein per 100 g, the most in the table." },
+    "20": { "a": "c", "why": "<b>Fiber</b> gives the least energy because we can't digest most of it." },
+    "21": { "a": "b", "why": "Chewing uses teeth, tongue and saliva. The <b>pharynx</b> is for swallowing." },
+    "22": { "a": "d", "why": "Food is made into a <b>bolus</b> before swallowing." },
+    "23": { "a": "a", "why": "<b>Amylase</b> digests carbohydrates. The others digest protein." },
+    "24": { "a": "b", "why": "In the stomach, <b>pepsin</b> breaks proteins into peptides." },
+    "25": { "a": "c", "why": "Most water is reabsorbed in the <b>colon</b> (large intestine)." },
+    "26": { "a": "a", "why": "Vomiting is forceful <b>stomach muscle contractions</b>." },
+    "27": { "a": "b", "why": "The <b>anus</b> only eliminates waste. It doesn't digest." },
+    "28": { "a": "b", "why": "Peristalsis moves <b>semi-solid waste</b> through the large intestine." },
+    "29": { "a": "b", "why": "Taking food in = <b>ingestion</b>." },
+    "30": { "a": "c", "why": "<b>Ingestion → digestion → absorption → elimination</b>." },
+    "31": { "a": "a", "why": "Chyme entering the duodenum starts the <b>intestinal</b> phase." },
+    "32": { "a": "a", "why": "The cephalic phase (sight, smell, thought) triggers <b>salivation</b>." },
+    "33": { "a": "d", "why": "<b>Cholecystokinin</b> (CCK) makes the gallbladder release bile." },
+    "34": { "a": "a", "why": "Gastrin <b>stimulates stomach acid</b>." },
+    "35": { "a": "b", "why": "The gastric phase begins when food <b>reaches the stomach</b>." },
+    "36": { "a": "b", "why": "They hugely <b>increase surface area</b> for nutrients to diffuse across." },
+    "37": { "a": "a", "why": "Rumen and reticulum microbes digest cellulose, cud comes back up from the <b>reticulum</b>, the <b>omasum</b> removes water, then the intestines absorb." },
+    "38": { "a": "d", "why": "The <b>mucus lining</b> breaks down (often from <i>H. pylori</i> <b>bacteria</b>). Avoid things that irritate it." },
+    "39": { "a": "b", "why": "It sends bile to the <b>duodenum</b> to break up <b>fats</b>. Food never passes through it." },
+    "40": { "a": "d", "why": "Saliva's <b>amylase</b> starts breaking down <b>carbohydrates</b>." },
+    "41": { "a": "c", "why": "It gives nutrients for body functions, and vitamins and minerals to <b>maintain</b> health and reproduction." },
+    "42": { "a": "c", "why": "Goiter is most common where water has <b>little iodine</b>." },
+    "43": { "a": "d", "why": "Essential = your body <b>can't make it but needs it</b>. Fat-soluble examples: <b>A</b> (eyesight) and <b>K</b> (clotting)." },
+    "44": { "a": "b", "why": "The liver breaks glycogen down into <b>glucose</b> to raise blood sugar." },
+    "45": { "a": "c", "why": "Stored glycogen means <b>energy for later</b>, which helps survive when food is scarce." },
+    "46": { "a": "b", "why": "Extra glucose → extra pyruvate → <b>fatty acids</b> stored in <b>adipose</b> (fat) cells." },
+    "47": { "a": "b", "why": "Ingestion = taking food in by mouth, where <b>both mechanical and chemical</b> digestion begin." },
+    "48": { "a": "d", "why": "Fat helps absorb the <b>fat-soluble vitamins A, D, E and K</b>." },
+    "49": { "a": "c", "why": "E. coli is highest in the <b>caecum and rectum</b> (the large intestine)." },
+    "50": { "a": "d", "why": "Micelles = <b>bile salts around fatty acids and monoglycerides</b>. They carry fat to the microvilli, where it's rebuilt into triglycerides." },
+    "51": { "a": "c", "why": "Big molecules <b>can't cross cell membranes</b>, so they must be broken down first." },
+    "52": { "a": "a", "why": "All the foods raised saliva a lot (about 7–9 vs 0.5), and fairly similarly." },
+    "53": { "a": "d", "why": "Hormones control <b>which</b> digestive juices are released and <b>when</b>." },
+    "54": { "a": "b", "why": "Stretch signals go to the <b>brain</b>, which makes you feel full." },
+    "55": { "a": "a", "why": "The <b>smallest</b> cube has the highest surface-to-volume ratio." },
+    "56": { "a": "d", "why": "Villi give the surface area for absorption. Damaged villi = <b>malnutrition</b>." },
+    "57": { "a": "b", "why": "Their shape adds <b>more surface area</b> for absorption." },
+    "58": { "a": "a", "why": "Tiny thin projections = <b>high surface-to-volume ratio</b>, lots of contact with nutrients." },
+    "59": { "a": "b", "why": "Birds have no teeth, so the <b>gizzard</b> does the grinding." },
+    "60": { "a": "a", "why": "Teeth chew, saliva moistens and starts <b>chemical</b> digestion, the tongue pushes food to the <b>pharynx</b>, then peristalsis." },
+    "61": { "a": "a", "why": "Their chambers hold <b>microbes</b> that break down and ferment plant material." },
+    "62": { "a": "c", "why": "The bottom tract is <b>longer</b>, giving tough plant material more time with enzymes: the herbivore." },
+    "63": { "a": "d", "why": "The <b>gizzard</b> belongs to birds, not ruminants." },
+    "64": { "a": "a", "why": "Animal A has the <b>shortest, simplest</b> gut and a tiny cecum: a carnivore." },
+    "65": { "a": "d", "why": "<b>Swallowing</b> triggers peristalsis in the esophagus." },
+    "66": { "a": "a", "why": "The chambers house <b>microbes with cellulase</b>, which animals can't make themselves." },
+    "67": { "a": "a", "why": "The mice at 10 °C used more oxygen per gram, so they made <b>more ATP</b> to stay warm." },
+    "68": { "a": "b", "why": "Energy is released when the bonds between <b>phosphate groups (P–O)</b> break." },
+    "69": { "a": "b", "why": "Of those foods, eggs stand out for <b>protein</b>." },
+    "70": { "a": "d", "why": "Carbs → glucose → <b>ATP</b>, which every cell needs to work." },
+    "71": { "a": "c", "why": "Running from a coyote needs <b>quick energy in the muscles</b>, right where the glycogen is stored." }
+  }
+}
