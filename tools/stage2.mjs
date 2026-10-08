@@ -251,6 +251,11 @@ function analysePage(pg, mathSink) {
     const opening = boxTitles.some(t => r.b[1] >= t.bbox[1] && r.b[1] - t.bbox[3] < 26);
     if (!opening) markers.push({ kind: "boxend", y: r.b[1], x: 72, bbox: r.b });
   }
+  // some boxes are drawn as a coloured frame instead of top/bottom rules: the box ends at the frame's bottom edge
+  for (const r of pg.rules) {
+    if (r.k !== "f" || !isColored(r.c) || W(r.b) < 400 || r.b[3] - r.b[1] < 20 || r.b[3] > 745) continue;
+    markers.push({ kind: "boxend", frame: true, y: r.b[3], x: 72, bbox: [r.b[0], r.b[3], r.b[2], r.b[3]] });
+  }
   const items = [];
   for (const l of lines) if (!used.has(l)) items.push({ kind: "line", l, y: l.bbox[1], x: l.bbox[0], w: W(l.bbox), bbox: l.bbox });
   for (const f of figs) items.push({ kind: "fig", f, y: f.y, x: f.x, w: f.region ? W(f.region) : 300, bbox: f.region || f.capLines[0].bbox });
@@ -357,6 +362,9 @@ function buildChapter(ch) {
   const mathSink = (p, box, k) => { const name = `m${p}-${k}.png`; renderMath(p, box, `${dir}/${name}`); return `img/${cdir}/${name}`; };
   for (let p = ch.start; p < ch.end; p++) {
     const a = analysePage(loadPage(p), mathSink);
+    // a frame that runs to the bottom of the page and picks up again at the top of the next page is one box, not two
+    if (p + 1 < ch.end && loadPage(p + 1).rules.some(r => r.k === "f" && isColored(r.c) && W(r.b) > 400 && r.b[3] - r.b[1] > 20 && r.b[1] < 75))
+      a.items = a.items.filter(i => !(i.kind === "boxend" && i.frame && i.y > 680));
     if (a.printed == null && lastPrinted != null) a.printed = lastPrinted + (p - lastPdf);
     if (a.printed != null) { lastPrinted = a.printed; lastPdf = p; }
     stream.push({ kind: "page", printed: a.printed, pdf: p });
@@ -473,7 +481,9 @@ function buildChapter(ch) {
       const t = l.text.trim();
       const firstBold = l.spans.find(sp => (sp.t || "").trim())?.b;
       let startType = null;
-      if (/^[•●▪◦]\s*/.test(t)) startType = "li";
+      const sameVisualLine = lastLine && l.page === lastLine.page && Math.abs(l.bbox[1] - lastLine.bbox[1]) < 2.5;
+      if (l.font === "math" && !sameVisualLine) startType = "eq"; // a displayed equation on its own line
+      else if (/^[•●▪◦]\s*/.test(t)) startType = "li";
       else if (/^[a-e]\.(\s|$)/.test(t)) startType = "opt";
       else if (["review", "critical", "testprep", "challenge"].includes(s.kind) && /^(\d+)\s?\.(\s|$)/.test(t) && (lastQ == null || (+t.match(/^\d+/)[0] > lastQ && +t.match(/^\d+/)[0] <= lastQ + 4))) { startType = "q"; lastQ = +t.match(/^\d+/)[0]; }
       else if (s.kind === "terms" && firstBold && lastLine && (l.bbox[0] <= (it.twoCol && l.bbox[0] >= 300 ? 318 : 74))) startType = "term";
@@ -481,7 +491,7 @@ function buildChapter(ch) {
       else if (!["review", "critical", "testprep", "challenge", "terms"].includes(s.kind) && /^\d{1,2}\.\s+\S/.test(t) && !/^\d+\.\d/.test(t)) startType = "nli";
       let newPara = !!startType;
       if (!newPara && para) {
-        if (!["p", "li", "nli", "opt", "q", "term", "small"].includes(para.type)) newPara = true;
+        if (!["p", "li", "nli", "opt", "q", "term", "small"].includes(para.type) && !(para.type === "eq" && sameVisualLine)) newPara = true;
         else if (lastLine) {
           const dy = l.bbox[1] - lastLine.bbox[1];
           const samePage = l.page === lastLine.page;

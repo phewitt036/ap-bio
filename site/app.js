@@ -90,7 +90,8 @@
       const id = `b${path.replace(/\./g, "-")}`;
       switch (b.t) {
         case "p": html += `<p id="${id}" data-say>${pgTag}${enhance(b.html, ctx)}</p>`; break;
-        case "small": html += `<p id="${id}" class="small">${pgTag}${enhance(b.html, ctx)}</p>`; break;
+        case "eq": html += `<p id="${id}" class="eq">${pgTag}${b.html}</p>`; break;
+        case "small": html +=`<p id="${id}" class="small">${pgTag}${enhance(b.html, ctx)}</p>`; break;
         case "h3": html += `${pgTag}<h3 id="${id}" data-say>${b.html.replace(/<\/?b>/g, "")}</h3>`; break;
         case "h4": html += `${pgTag}<h4 id="${id}" data-say>${b.html.replace(/<\/?b>/g, "")}</h4>`; break;
         case "label": html += `${pgTag}<p id="${id}" class="label">${/learning objectives/i.test(strip(b.html)) ? "Goals for this section" : esc(titleCase(strip(b.html)))}</p>`; break;

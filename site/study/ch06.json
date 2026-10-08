@@ -1,0 +1,133 @@
+{
+  "chapter": 6,
+  "sections": {
+    "6.0": {
+      "big": "Everything a cell does (building, moving, pumping, even you thinking) costs energy. This chapter is about where that energy comes from and the rules it has to follow.",
+      "points": [
+        "Cells use energy both to <b>build</b> molecules and to <b>break them down</b>, the same way it takes work to build a building and to tear one down.",
+        "<b>Enzymes</b> speed up the cell's chemical reactions. Without them, reactions would be far too slow to keep anything alive.",
+        "When one enzyme is missing, waste can pile up and cause disease. One example is Sanfilippo syndrome, which damages the brain."
+      ],
+      "words": ["metabolism"]
+    },
+    "6.1": {
+      "big": "<b>Metabolism</b> is every chemical reaction in a cell. Some reactions build things and cost energy (<b>anabolic</b>). Others break things down and release energy (<b>catabolic</b>).",
+      "points": [
+        "Photosynthesis <i>builds</i> glucose using sunlight's energy. Cellular respiration <i>breaks</i> glucose down and captures its energy as ATP. Each equation is the other one in reverse.",
+        "<b>ATP</b> is the cell's cash. Energy from food gets turned into ATP, and ATP pays for work right now.",
+        "Building one glucose takes 18 ATP + 12 NADPH (54 ATP's worth). Breaking one glucose down can make 36–38 ATP.",
+        "A <b>metabolic pathway</b> is a chain of steps, and each step has its own enzyme.",
+        "All living things share some of the same pathways, which is evidence of a common ancestor. Early life was anaerobic (no oxygen) because there was no O<sub>2</sub> in the air until photosynthesis made it."
+      ],
+      "tip": "<b>A</b>nabolic = <b>A</b>dd pieces together (build). <b>Cat</b>abolic = <b>cut</b> apart (like a <b>cat</b>astrophe breaking things down).",
+      "words": ["metabolism", "bioenergetics", "anabolic", "catabolic", "ATP"]
+    },
+    "6.2": {
+      "big": "Energy is the ability to do work. <b>Free energy (G)</b> is the usable part, and its change (<b>ΔG</b>) tells you whether a reaction gives off energy or needs energy put in.",
+      "points": [
+        "<b>Kinetic</b> energy is the energy of motion. <b>Potential</b> energy is stored energy, from position or structure. The energy stored in chemical bonds is a kind of potential energy.",
+        "<b>ΔG negative</b> means the reaction is <b>exergonic</b>: energy exits and the reaction is \"spontaneous\". <b>ΔG positive</b> means it's <b>endergonic</b>: it needs energy put in.",
+        "Spontaneous does <i>not</i> mean fast. Iron rusting is spontaneous but takes years.",
+        "ΔG = ΔH − TΔS: the total energy change (enthalpy) minus the energy lost to disorder (temperature × entropy).",
+        "Every reaction needs a push to get started, the <b>activation energy (E<sub>A</sub>)</b>, to reach an unstable <b>transition state</b>. The higher E<sub>A</sub> is, the slower the reaction. Enzymes lower E<sub>A</sub> but do <i>not</i> change ΔG.",
+        "Cells are open systems, so their reactions never reach equilibrium. A cell at equilibrium is a dead cell."
+      ],
+      "tip": "<b>Ex</b>ergonic = energy <b>ex</b>its (ΔG &lt; 0). <b>En</b>dergonic = energy <b>en</b>ters (ΔG &gt; 0).",
+      "words": ["kinetic energy", "potential energy", "chemical energy", "free energy", "enthalpy", "exergonic", "endergonic", "activation energy", "transition state"]
+    },
+    "6.3": {
+      "big": "Two rules for energy: it can't be created or destroyed (<b>first law</b>), and every transfer loses some as heat, which makes things more disordered (<b>second law</b>).",
+      "points": [
+        "A <b>system</b> is whatever you're studying, and everything else is its <b>surroundings</b>. Living things are <b>open systems</b>: energy and matter go in and out.",
+        "First law: energy only changes form. Plants turn light into chemical energy, and you turn the chemical energy in food into motion.",
+        "Second law: no energy transfer is 100% efficient. Some energy always escapes as heat, so the <b>entropy</b> of the universe keeps going up.",
+        "<b>Entropy</b> means disorder. A messy bedroom has high entropy, and cleaning it takes energy. Gases have more entropy than liquids, and liquids more than solids.",
+        "Living things stay organized (low entropy) only by taking in energy all the time."
+      ],
+      "words": ["thermodynamics", "entropy", "heat energy"]
+    },
+    "6.4": {
+      "big": "<b>ATP</b> is the cell's energy currency. Snapping off its last phosphate (ATP → ADP + P<sub>i</sub>) releases energy the cell uses to do work.",
+      "points": [
+        "ATP is adenine + ribose (a sugar) + <b>three phosphates</b>. The bonds between the phosphates are high-energy <b>phosphoanhydride bonds</b>.",
+        "Breaking down (hydrolyzing) ATP gives off about 7.3 kcal/mol under standard lab conditions, and about 14 kcal/mol inside a real cell.",
+        "ATP gets rebuilt from ADP + P<sub>i</sub> using energy from food, like earning money back after you spend it.",
+        "<b>Energy coupling:</b> the cell pairs ATP's energy-releasing breakdown with an energy-requiring job so that job can happen.",
+        "It usually works by <b>phosphorylation</b>: ATP hands its phosphate to another molecule, such as the Na<sup>+</sup>/K<sup>+</sup> pump. That molecule changes shape and does the work."
+      ],
+      "words": ["ATP", "phosphoanhydride bond", "energy coupling"]
+    },
+    "6.5": {
+      "big": "<b>Enzymes</b> are protein catalysts. They speed up reactions by lowering the activation energy, they don't get used up, and they don't change ΔG.",
+      "points": [
+        "The <b>substrate</b> binds the enzyme's <b>active site</b>, which only fits certain substrates. That's why enzymes are so specific.",
+        "<b>Induced fit:</b> the enzyme and substrate both shift shape a little when they bind. It's more like a hug than a key in a lock.",
+        "Temperature and pH matter. Too hot or the wrong pH and the enzyme <b>denatures</b> (loses its shape) and stops working.",
+        "<b>Competitive inhibitors</b> block the active site. <b>Allosteric</b> (noncompetitive) inhibitors bind somewhere else and change the active site's shape. Allosteric <i>activators</i> do the opposite.",
+        "Many enzymes need helpers: <b>cofactors</b> (ions like Mg<sup>2+</sup> or Zn<sup>2+</sup>) and <b>coenzymes</b> (organic molecules, often from vitamins).",
+        "<b>Feedback inhibition:</b> the end product of a pathway shuts off an enzyme earlier in it, so the cell doesn't make too much. For example, lots of ATP slows down sugar breakdown."
+      ],
+      "words": ["substrate", "active site", "induced fit", "denature", "competitive inhibition", "allosteric inhibition", "cofactor", "coenzyme", "feedback inhibition"]
+    }
+  },
+  "answers": {
+    "1": { "a": "d", "why": "Energy from glucose gets converted into <b>ATP</b> (adenosine triphosphate), the molecule cells spend to do work." },
+    "2": { "a": "b", "why": "Cellular respiration stores the energy it releases in <b>ATP</b>." },
+    "3": { "a": "a", "why": "Breaking big molecules down to release energy is <i>catabolism</i>. DNA replication unwinds, copies and builds DNA strands, which is building, not breaking down." },
+    "4": { "a": "a", "why": "Digesting sucrose breaks a bigger molecule into smaller ones (glucose + fructose), so it's catabolic. Dissolving sugar isn't a chemical reaction, and DNA replication and translation build molecules (anabolic)." },
+    "5": { "a": "a", "why": "Plants use sunlight to make <b>glucose</b> in photosynthesis, and animals eat it for energy." },
+    "6": { "a": "b", "why": "Breaking ATP down to ADP releases energy that powers other reactions. The other choices are building reactions, which <i>use</i> energy." },
+    "7": { "a": "c", "why": "At the very top of the swing it's momentarily still, so it has only potential energy. At the bottom it's moving fastest (kinetic). On the way up it has some of both." },
+    "8": { "a": "d", "why": "Energy is something all living systems need a constant input of. None of the other choices describe energy." },
+    "9": { "a": "d", "why": "The <b>sun</b>. Plants capture sunlight and almost every other living thing gets its energy from plants, directly or indirectly." },
+    "10": { "a": "d", "why": "Sucrose is the biggest molecule here (glucose + fructose bonded together), so it stores the most energy in its bonds." },
+    "11": { "a": "b", "why": "The higher the activation energy, the slower the reaction, so comparing <b>rates</b> tells you which has the bigger E<sub>A</sub>. ΔG tells you whether a reaction releases energy, not how hard it is to start." },
+    "12": { "a": "b", "why": "In ΔG = ΔH − TΔS, <b>ΔH</b> is enthalpy (the total energy change). ΔS is entropy and T is temperature." },
+    "13": { "a": "d", "why": "<b>Exergonic</b> reactions release energy and are spontaneous, so they're the ones that happen on their own." },
+    "14": { "a": "a", "why": "That one is false. Different reactions have different activation energies, which is why some are fast and some are slow. The other three are true." },
+    "15": { "a": "a", "why": "1. Right after spraying, the perfume is still bunched together (low entropy). It spreads out later. 2. An old, neglected car is more disordered (high). 3. A living cell stays highly organized (low)." },
+    "16": { "a": "a", "why": "Releasing energy moves a system to a lower-energy, more stable state, the way a ball comes to rest at the bottom of a hill." },
+    "17": { "a": "c", "why": "The first law says energy changes form but isn't created or destroyed. A power plant turning the chemical energy in coal into electricity is a clear energy transformation." },
+    "18": { "a": "c", "why": "First law: energy is <b>conserved</b> (never created or destroyed). Second law: every transfer loses some energy as heat that can't be fully recaptured." },
+    "19": { "a": "a", "why": "Living things lose energy as heat all the time, so they have to take in more than they lose to stay organized and keep their processes running." },
+    "20": { "a": "d", "why": "Like money, ATP is made in one place (from food energy) and spent somewhere else in the cell, so it moves energy to where it's needed." },
+    "21": { "a": "b", "why": "ATP is rebuilt by sticking a <b>phosphate</b> back onto <b>ADP</b>, which takes energy." },
+    "22": { "a": "d", "alt": ["a"], "why": "The energy from ATP hydrolysis powers <b>coupled reactions</b>, which is the big idea. The book also gives −57 kJ/mol as the value inside a cell, so (a) counts too. It isn't used as heat, and the key bond is between the second and third phosphates." },
+    "23": { "a": "d", "why": "To release energy, ATP loses its last phosphate: the bond between the <b>second and third</b> (beta and gamma) phosphates breaks, leaving ADP." },
+    "24": { "a": "c", "why": "An allosteric inhibitor binds <i>away</i> from the active site and changes its shape so the substrate doesn't fit as well. Choice (a) describes an allosteric <i>activator</i>, and (b) and (d) describe competitive inhibition." },
+    "25": { "a": "b", "why": "Without the enzyme the reaction can still happen, but much more slowly, usually too slowly for the organism's needs." },
+    "26": { "a": "a", "why": "That's the false one. Enzymes are <b>not</b> used up: they come out of the reaction unchanged and can be used again." },
+    "27": { "a": "a", "why": "In induced fit, both the enzyme and the substrate change shape a little as they come together, like two people adjusting during a hug. A key in a lock is the old, rigid model." },
+    "28": { "a": "d", "why": "Enzymes <b>lower the activation energy</b>. They don't change the free energy of the reaction." },
+    "29": { "a": "a", "why": "Catabolic reactions break molecules down and release energy. Anabolic reactions use energy to build more complex molecules." },
+    "30": { "a": "a", "why": "Exercise uses <b>both</b>. Glucose is broken down (catabolic) to make energy, and that energy is used to build molecules like ATP and muscle protein (anabolic). Choice (d) is wrong because we can't break down cellulose." },
+    "31": { "a": "a", "why": "Breaking down glucose releases energy that gets stored in <b>ATP</b>, and ATP passes that energy to other reactions." },
+    "32": { "a": "a", "why": "An amoeba uses energy to take in food by phagocytosis and to move with pseudopodia (\"false feet\"). Amoebas don't use cilia to move, and pseudopodia aren't for taking in nutrients." },
+    "33": { "a": "d", "why": "Water held behind the dam has <b>potential</b> energy. When it falls through the opening, that becomes <b>kinetic</b> energy (energy of motion)." },
+    "34": { "a": "a", "why": "Spontaneous means it releases free energy and can happen on its own, though maybe slowly (like rust). Instantaneous means it happens fast." },
+    "35": { "a": "b", "why": "The transition state is always <b>higher</b> in energy than the reactants, for both kinds of reaction. That's why activation energy is always positive." },
+    "36": { "a": "b", "why": "After the earthquake the nest is a mess, so <b>more disorder means higher entropy</b>. The ants have to spend energy rebuilding to bring it back to low entropy." },
+    "37": { "a": "a", "why": "No energy transfer is perfect, and some energy always escapes as heat: into the kitchen while cooking, and into the engine while burning gasoline." },
+    "38": { "a": "a", "why": "Higher entropy means more disorder. The only way to lower it is to put energy in, the way cleaning a room takes work." },
+    "39": { "a": "b", "why": "As rain freezes into snow, the water releases heat into the colder air. Energy flowing out as heat and spreading into the surroundings is what the second law describes." },
+    "40": { "a": "a", "why": "When ATP breaks down, its released phosphate is attached to another molecule (phosphorylation). That powers coupled, energy-requiring reactions." },
+    "41": { "a": "c", "why": "The book describes ATP as unstable: it breaks down easily and releases a lot of energy, so its activation energy is considered relatively low." },
+    "42": { "a": "a", "why": "Phosphorylation means attaching a <b>phosphate group</b> to another molecule, which energizes it for the next step." },
+    "43": { "a": "b", "alt": ["a"], "why": "The main reason is <b>speed</b>: without the enzyme, the products wouldn't show up fast enough or reliably enough when the cell needs them. Enzymes are also very specific, so (a) counts too." },
+    "44": { "a": "a", "why": "When the end product builds up, it changes an enzyme's shape and shuts down its own production, so the cell doesn't waste resources or make too much." },
+    "45": { "a": "a", "why": "<b>Enzyme-catalyzed</b> reactions are fast enough to make what an organism needs in time." },
+    "46": { "a": "d", "why": "Almost every reaction in metabolism depends on enzymes, so losing them would shut the cell down. Choice (a) is backwards: glucose is a <i>product</i> of photosynthesis." },
+    "47": { "a": "d", "why": "Hydrolysis breaks molecules apart, which releases energy, so it's exergonic. Building (anabolic, dehydration synthesis) is endergonic, and breaking down (catabolic) is exergonic." },
+    "48": { "a": "a", "why": "Every organism has to get energy from its surroundings and turn it into ATP. That shared need, and the shared pathways for it, point to a common ancestor." },
+    "49": { "a": "c", "why": "The tree in Figure 6.4 shows prokaryotes first, then protists, which branched into fungi, plants and animals." },
+    "50": { "a": "b", "why": "The book says building one glucose takes <b>18 ATP and 12 NADPH</b>. Since each NADPH is worth about 3 ATP, that's 54 ATP equivalents in total." },
+    "51": { "a": "d", "why": "Anabolic pathways <b>build</b> bigger molecules from smaller ones, like linking nucleotides into mRNA. The other examples are all breaking things down (catabolic)." },
+    "52": { "a": "b", "why": "The book says one glucose can make <b>36 to 38</b> ATP." },
+    "53": { "a": "b", "why": "With less light, photosynthesis slows down, so the plant makes less glucose for energy." },
+    "54": { "a": "a", "why": "Water is a raw material of photosynthesis, so without it photosynthesis slows, less glucose is made, and the water cells use up isn't replaced, which is why the plant wilts." },
+    "55": { "a": "a", "why": "In the induced-fit model, <b>both</b> the enzyme and the substrate change shape, which pushes the substrate into its transition state (Figure 6.16)." },
+    "56": { "a": "b", "why": "<b>Competitive</b> inhibitors slow the starting rate, but enough extra substrate can outcompete them, so the maximum rate stays the same (Figure 6.17)." },
+    "63": { "why": "7.3 ÷ 2.1 ≈ 3.5. You can't move half an ion, so <b>3 sodium ions</b> at most per ATP. That matches the real pump, which moves 3 Na<sup>+</sup> out per cycle." },
+    "66": { "why": "Example: ATP is made by breaking down sugar. When ATP piles up, it binds an allosteric site on an enzyme early in sugar breakdown and slows it down, so the cell stops making ATP it doesn't need. When ADP builds up instead, it activates the same enzyme and production speeds back up." }
+  }
+}
