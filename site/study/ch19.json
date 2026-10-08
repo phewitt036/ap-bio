@@ -52,7 +52,7 @@
     }
   },
   "fix": {
-    "24": { "stem": ["The table below shows data for a small population of mice. The mice are either brown or black. Based on the data, is the population experiencing genetic drift? Explain.", 1, 2] },
+    "24": { "stem": ["The table below shows data for a small population of mice. The mice are either brown or black. Based on the data, is the population experiencing genetic drift? Explain.", 1] },
     "29": { "stem": ["A scientist is studying the genetics of a population of plants that she suspects is undergoing natural selection. After examining samples of the population’s DNA over several years, she finds the following data:", { "t": "table", "rows": [["<b>Year</b>", "<b>Allele A frequency</b>", "<b>Allele B frequency</b>"], ["1", "0.80", "0.20"], ["2", "0.72", "0.28"], ["3", "0.66", "0.34"], ["4", "0.52", "0.48"], ["5", "0.45", "0.55"], ["6", "0.39", "0.61"]] }, 4] },
     "30": {
       "stem": [0,

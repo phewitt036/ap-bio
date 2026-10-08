@@ -110,6 +110,16 @@ function analysePage(pg, mathSink) {
     if (c) { c.rules.push(r); c.box = [Math.min(c.box[0], r.b[0]), Math.min(c.box[1], r.b[1]), Math.max(c.box[2], r.b[2]), Math.max(c.box[3], r.b[3])]; }
     else clusters.push({ rules: [r], box: [...r.b] });
   }
+  // a lone top rule sitting above a tall header row belongs to the table below it
+  for (let i = clusters.length - 1; i >= 0; i--) {
+    const c1 = clusters[i];
+    if (c1.rules.length !== 1 || c1.box[3] - c1.box[1] > 2.5) continue;
+    const c2 = clusters.find(c => c !== c1 && c.rules.length >= 2 && c.box[1] - c1.box[3] > 0 && c.box[1] - c1.box[3] <= 90 && Math.abs(c.box[0] - c1.box[0]) < 6 && Math.abs(c.box[2] - c1.box[2]) < 6);
+    if (!c2) continue;
+    c2.rules.push(c1.rules[0]);
+    c2.box[1] = c1.box[1];
+    clusters.splice(i, 1);
+  }
   const tables = [];
   for (const c of clusters) {
     const hs = c.rules.filter(r => r.b[3] - r.b[1] <= 2.5 && W(r.b) > 40);
@@ -237,7 +247,7 @@ function analysePage(pg, mathSink) {
     t.lines.forEach(l => used.add(l));
     // caption just above: TABLE label and/or centered title
     t.capLines = [];
-    for (const l of lines) if (!used.has(l) && l.bbox[3] <= t.box[1] + 1 && l.bbox[1] >= t.box[1] - 38 && (/^TABLE\s+\d/.test(l.text) || (l.bbox[0] > 110 && W(l.bbox) < 380))) t.capLines.push(l);
+    for (const l of lines) if (!used.has(l) && l.bbox[3] <= t.box[1] + 1 && l.bbox[1] >= t.box[1] - 38 && l.bbox[0] >= t.box[0] - 6 && l.bbox[2] <= t.box[2] + 6 && (/^TABLE\s+\d/.test(l.text) || (l.bbox[0] > 110 && W(l.bbox) < 380))) t.capLines.push(l);
     t.capLines.forEach(l => used.add(l));
     t.y = Math.min(t.box[1], ...t.capLines.map(l => l.bbox[1]));
     t.x = t.box[0];
@@ -442,7 +452,19 @@ function buildChapter(ch) {
       const prev = target()[target().length - 1];
       if (text && para.type === "small" && prev && prev.t === "fig" && /^\(credit/.test(text)) { prev.cap += " " + html; prev.capText += " " + text; para = null; return; }
       if (para.type === "small" && prev && (prev.t === "table" || prev.t === "tableimg") && !prev.id && /^TABLE\s+\d+\.\d+/.test(text)) {
-        prev.id = text.match(/^TABLE\s+(\d+\.\d+)/)[1]; const rest = html.replace(/^(<b>)?TABLE\s+\d+\.\d+\s*(<\/b>)?\s*/, ""); if (rest) prev.cap = rest; para = null; return;
+        prev.id = text.match(/^TABLE\s+(\d+\.\d+)/)[1]; const rest = html.replace(/^(<b>)?TABLE\s+\d+\.\d+\s*(<\/b>)?\s*/, ""); if (rest) prev.cap = rest; para = null;
+        // a table continued onto the next page repeats its header: append its rows to the first part
+        // (a footnote may sit between the two parts)
+        const tg = target(); let fi = tg.length - 2;
+        if (tg[fi] && tg[fi].t === "small" && !/^TABLE\s/.test(tg[fi].text || "")) fi--;
+        const first = tg[fi];
+        const hdr = r => r.map(c => c.replace(/<[^>]+>/g, "").trim()).join("|");
+        if (first && first.t === "table" && prev.t === "table" && (first.id === prev.id || !first.id) && !first.ap && hdr(first.rows[0]) === hdr(prev.rows[0])) {
+          first.rows.push(...prev.rows.slice(1)); first.text += " " + prev.text;
+          if (!first.id) { first.id = prev.id; if (prev.cap && prev.cap !== first.cap) first.cap = first.cap ? first.cap + " " + prev.cap : prev.cap; }
+          target().pop();
+        }
+        return;
       }
       if (text || /<img/.test(html)) {
         const b = { t: para.type, html, text };

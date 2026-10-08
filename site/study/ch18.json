@@ -51,7 +51,6 @@
   "fix": {
     "34": { "stem": [0, "A labrador retriever suffers from a mutation while growing. A patch of gold-colored fur turns black.", "Would the same mutation affect this dog's offspring?"] },
     "36": { "stem": ["A population of flowers was separated into two subpopulations when a new river cut through the plain in which they were growing. The number of interbreeding events per year for the two subpopulations of flowers is shown in the graph (Figure 18.26, the graph next to the dog picture in question 34). Twenty-four years after they were separated, can you conclude that the two subpopulations of flowers have become new species? Why or why not?"] },
-    "54": { "stem": [0, { "t": "table", "rows": [["", "<b>Strains collected from flies in the wild in the 1930s</b>", "<b>Strains collected from flies in the wild in the 1960s</b>"], ["Frequency of allele conferring DDT resistance", "0%", "40%"]] }, 6] },
     "55": { "opts": ["In most mammals, the ulna is a vestigial structure.", "In bats and bison, forearm rotation is done by some other means.", "Mammals that walk, instead of fly, have a non-vestigial ulna.", "The mammals shown here and humans share a common ancestor which had an ulna."] }
   },
   "answers": {
