@@ -1,0 +1,111 @@
+{
+  "chapter": 26,
+  "sections": {
+    "26.0": {
+      "big": "The nervous system is the body's fast messaging network: it senses, decides and acts in fractions of a second.",
+      "points": [
+        "It's built from <b>neurons</b> (which send signals) and <b>glia</b> (support cells)."
+      ],
+      "words": ["neuron", "glia"]
+    },
+    "26.1": {
+      "big": "A <b>neuron</b> receives signals on its dendrites, adds them up, and sends its own signal down the axon.",
+      "points": [
+        "Parts: <b>dendrites</b> receive input (<b>synapses</b> are the connection points), the cell body (soma) holds the nucleus, the <b>axon hillock</b> adds up the signals and decides whether to fire, the <b>axon</b> carries the signal, and the <b>axon terminals</b> release chemicals to the next cell.",
+        "<b>Myelin</b> wraps the axon to speed up signals. It's made by <b>oligodendrocytes</b> in the brain and spinal cord and by <b>Schwann cells</b> in nerves. The gaps between wraps are <b>nodes of Ranvier</b>.",
+        "Glia types: <b>astrocytes</b> (support, nutrients, blood-brain barrier), <b>microglia</b> (clean up debris, immune defense), <b>ependymal</b> cells (make cerebrospinal fluid), <b>radial glia</b> (guide growing neurons), <b>satellite glia</b> (support neurons in ganglia)."
+      ],
+      "words": ["dendrite", "synapse", "axon hillock", "axon", "axon terminal", "myelin", "oligodendrocyte", "Schwann cell", "nodes of Ranvier", "astrocyte", "microglia", "ependymal", "radial glia", "satellite glia"]
+    },
+    "26.2": {
+      "big": "Neurons fire using <b>electricity</b> (ions moving across the membrane) and talk to each other using <b>chemicals</b> (neurotransmitters).",
+      "points": [
+        "<b>Membrane potential</b> at rest is about −70 mV (more negative inside). The Na⁺/K⁺ pump keeps more Na⁺ outside and more K⁺ inside.",
+        "<b>Action potential</b>: a stimulus reaches the <b>threshold of excitation</b> (about −55 mV) → Na⁺ channels open and Na⁺ rushes in (<b>depolarization</b>, up to about +40 mV) → Na⁺ channels close and K⁺ channels open, K⁺ rushes out (repolarization) → it briefly dips below resting (<b>hyperpolarization</b>).",
+        "All or nothing: it either fires fully or not at all. During the <b>refractory period</b> it can't fire again, which keeps the signal moving forward.",
+        "On myelinated axons the signal jumps from node to node (<b>saltatory conduction</b>), which is much faster.",
+        "Chemical synapse: the signal reaches the terminal → Ca²⁺ flows in → <b>synaptic vesicles</b> release neurotransmitter into the <b>synaptic cleft</b> → it binds ligand-gated channels on the next cell → the neurotransmitter is cleared away (broken down or taken back up).",
+        "Signals can excite (<b>EPSP</b>, makes firing more likely) or inhibit (<b>IPSP</b>, less likely). The axon hillock adds them together (<b>summation</b>).",
+        "Learning: <b>long-term potentiation (LTP)</b> strengthens a synapse that's used a lot. <b>Long-term depression (LTD)</b> weakens one.",
+        "Key neurotransmitters: <b>acetylcholine</b> (muscles), <b>norepinephrine</b> (alertness), dopamine, serotonin."
+      ],
+      "tip": "Sodium in = spike up. Potassium out = back down.",
+      "words": ["membrane potential", "action potential", "threshold of excitation", "depolarization", "hyperpolarization", "refractory period", "saltatory conduction", "synaptic vesicle", "synaptic cleft", "excitatory postsynaptic potential", "inhibitory postsynaptic potential", "summation", "long-term potentiation", "long-term depression", "acetylcholine", "norepinephrine"]
+    },
+    "26.3": {
+      "big": "The brain and spinal cord make up the central nervous system, which processes everything.",
+      "points": [
+        "Protection: three <b>meninges</b> (<b>dura mater</b> outside, <b>arachnoid mater</b>, <b>pia mater</b> inside) and <b>cerebrospinal fluid (CSF)</b>, made by the <b>choroid plexus</b> and filling the <b>ventricles</b>.",
+        "<b>Cerebral cortex</b>: the wrinkly outer layer with ridges (<b>gyri</b>) and grooves (<b>sulci</b>). More folds = more surface area. The two halves talk through the <b>corpus callosum</b>.",
+        "Lobes: <b>frontal lobe</b> (movement, planning, personality, smell), <b>parietal lobe</b> (touch and body sense: <b>somatosensation</b> and <b>proprioception</b>), <b>temporal lobe</b> (hearing, memory), <b>occipital lobe</b> (vision).",
+        "Deeper parts: the <b>basal ganglia</b> (<b>basal nuclei</b>) (movement control), the <b>thalamus</b> (sensory relay, sleep and wakefulness), the <b>hypothalamus</b> (hunger, temperature, hormones).",
+        "<b>Limbic system</b> (emotion and memory): the <b>amygdala</b> (fear), the <b>hippocampus</b> (new memories), the <b>cingulate gyrus</b>.",
+        "<b>Cerebellum</b>: balance, coordination, learning motor skills. <b>Brainstem</b>: breathing and heart rate; motor nerves cross sides here, so the left brain controls the right body.",
+        "<b>Spinal cord</b>: gray matter (cell bodies and synapses) inside, white matter (myelinated axons) outside. It handles reflexes."
+      ],
+      "words": ["meninge", "dura mater", "arachnoid mater", "pia mater", "cerebrospinal fluid", "choroid plexus", "ventricle", "cerebral cortex", "gyrus", "sulcus", "corpus callosum", "frontal lobe", "parietal lobe", "somatosensation", "proprioception", "temporal lobe", "occipital lobe", "basal ganglia", "basal nuclei", "thalamus", "hypothalamus", "limbic system", "amygdala", "hippocampus", "cingulate gyrus", "cerebellum", "brainstem", "spinal cord"]
+    },
+    "26.4": {
+      "big": "The peripheral nervous system connects the CNS to the rest of the body. It has an automatic side and a voluntary side.",
+      "points": [
+        "The <b>autonomic nervous system</b> runs things automatically (heart, gut, glands).",
+        "<b>Sympathetic nervous system</b>: \"fight or flight\". Raises heart rate, widens airways, releases glucose, slows digestion. One preganglionic neuron reaches many postganglionic neurons, and the adrenal gland adds norepinephrine and epinephrine (adrenaline).",
+        "<b>Parasympathetic nervous system</b>: \"rest and digest\". Slows the heart, restarts digestion, and brings things back to normal. Its preganglionic neurons start in the brainstem and lower spinal cord.",
+        "The <b>sensory-somatic nervous system</b> is the voluntary side: it carries senses (skin, muscles, eyes) to the CNS and motor commands out to skeletal muscles, using acetylcholine.",
+        "<b>Cranial nerves</b> (12 pairs) connect straight to the brain. <b>Spinal nerves</b> (31 pairs) connect to the spinal cord."
+      ],
+      "tip": "Sympathetic = Stress. Parasympathetic = Peace.",
+      "words": ["autonomic nervous system", "sympathetic nervous system", "parasympathetic nervous system", "sensory-somatic nervous system", "cranial nerve", "spinal nerve"]
+    },
+    "26.5": {
+      "big": "When neurons or neurotransmitters go wrong, the result is a nervous system disorder.",
+      "points": [
+        "A <b>neurodegenerative disorder</b> means neurons slowly die. <b>Alzheimer's disease</b>: memory loss, with amyloid plaques and tangles; the APOE4 allele raises the risk. <b>Parkinson's disease</b>: loss of dopamine-releasing neurons causes tremors and slow movement.",
+        "Neurodevelopmental: <b>autism spectrum disorder (ASD)</b> (difficulty with social cues and communication, repetitive behaviors) and <b>attention deficit hyperactivity disorder (ADHD)</b> (often treated with stimulants).",
+        "Mental illness: <b>schizophrenia</b> (hallucinations, delusions; linked to dopamine) and <b>major depression</b> (linked to low serotonin; treated with SSRIs).",
+        "<b>Epilepsy</b> = repeated seizures from bursts of uncontrolled neuron firing. A stroke = blood flow to part of the brain is blocked or a vessel bursts."
+      ],
+      "words": ["neurodegenerative disorder", "Alzheimer’s disease", "Parkinson’s disease", "autism spectrum disorder", "attention deficit hyperactivity disorder", "schizophrenia", "major depression", "epilepsy"]
+    }
+  },
+  "fix": {
+    "10": { "stem": [0] }
+  },
+  "answers": {
+    "1": { "a": "b", "why": "Parasympathetic preganglionic neurons start in the <b>brainstem</b> (and the lower spinal cord)." },
+    "2": { "a": "b", "why": "Parasympathetic = rest and digest: it <b>brings organs back to normal</b>." },
+    "3": { "a": "a", "why": "Motor neurons release <b>acetylcholine</b> onto muscle." },
+    "4": { "a": "d", "why": "The sensory-somatic system controls <b>voluntary movement</b>." },
+    "5": { "a": "a", "why": "Both are parts of the <b>autonomic</b> nervous system." },
+    "6": { "a": "c", "why": "ADHD is usually treated with <b>stimulants</b>." },
+    "7": { "a": "d", "why": "Trouble with social cues and eye contact suggests <b>autism spectrum disorder</b>." },
+    "8": { "a": "b", "why": "Parkinson's = loss of <b>dopamine</b> neurons." },
+    "9": { "why": "Cold slows everything down, including the ion channels and pumps in sensory neurons. The neurons can't reach threshold or fire action potentials normally, so touch signals don't make it to the brain." },
+    "10": { "why": "Without voltage-gated Na⁺ channels, sodium can't rush in, so the neuron <b>can't depolarize or fire</b>. No action potentials means pain and touch signals never reach the brain: numbness and no pain." },
+    "11": { "a": "a", "why": "Sympathetic = <b>stress</b> (fight or flight). Parasympathetic = <b>rest and digest</b>." },
+    "12": { "a": "b", "why": "Senses go to the <b>CNS</b>, and motor commands travel between the <b>CNS</b> and muscles." },
+    "13": { "a": "d", "why": "One preganglionic neuron fans out to many, and the <b>adrenal gland</b> releases norepinephrine and adrenaline." },
+    "14": { "a": "a", "why": "Risk climbs with each E4 copy, and <b>E4/E4</b> is highest by far." },
+    "15": { "a": "d", "why": "The depressed (KO) mice have <b>much less</b> serotonin." },
+    "16": { "a": "c", "why": "Synapses are where a neuron <b>receives signals</b> from other neurons." },
+    "17": { "a": "a", "why": "Axon terminals release neurotransmitters across the synapse onto the next neuron's <b>dendrites</b>." },
+    "18": { "a": "d", "why": "The axon has no terminals at the end, so it <b>couldn't pass signals on</b>." },
+    "19": { "a": "b", "why": "Terminals release the signal → dendrites → soma → the <b>axon hillock adds up signals from many synapses</b> → axon → next cell." },
+    "20": { "a": "c", "why": "Dendrites carry incoming signals <b>to the soma</b>." },
+    "21": { "a": "b", "why": "Ion 1 is high outside = <b>Na⁺</b>. Ion 2 is high inside = <b>K⁺</b>. Ion 3 is high outside = <b>Cl⁻</b>." },
+    "22": { "a": "c", "why": "Voltage-gated channels drive <b>depolarization, repolarization and hyperpolarization</b>. Without them, none of it happens." },
+    "23": { "a": "b", "why": "Right after the peak, <b>K⁺ channels open</b> and K⁺ flows out." },
+    "24": { "a": "b", "why": "K⁺ leaving the cell causes <b>repolarization</b>. Blocking it slows that down." },
+    "25": { "a": "c", "why": "In panel 3 the first part is back to <b>resting</b>, so it could fire again." },
+    "26": { "a": "a", "why": "The gate is open and <b>Na⁺ is flowing in</b>: a signal is being sent." },
+    "27": { "a": "b", "why": "Ca²⁺ coming in makes <b>vesicles fuse</b> with the membrane and release neurotransmitter." },
+    "28": { "a": "a", "why": "Binding <b>opens the channel</b>." },
+    "29": { "a": "c", "why": "The occipital lobe handles <b>vision</b>, including recognizing what you see." },
+    "30": { "a": "c", "why": "Motor (descending) pathways <b>cross over in the brainstem</b>." },
+    "31": { "a": "b", "why": "The <b>dolphin</b> brain has the most folds." },
+    "32": { "a": "c", "why": "Gray matter holds the <b>synapses</b> (and cell bodies) where signals are passed in the spinal cord." },
+    "33": { "a": "b", "why": "Neighboring body parts are controlled by <b>neighboring areas</b> of the motor cortex." },
+    "34": { "a": "d", "why": "Cutting the <b>corpus callosum</b> stops the two hemispheres from communicating." },
+    "35": { "a": "a", "why": "The thalamus helps control <b>sleep and wakefulness</b>, so damage can cause insomnia." }
+  }
+}
