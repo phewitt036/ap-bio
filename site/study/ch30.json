@@ -1,0 +1,102 @@
+{
+  "chapter": 30,
+  "sections": {
+    "30.0": {
+      "big": "Cells need oxygen for cellular respiration and must get rid of carbon dioxide. The respiratory system handles that swap.",
+      "points": [
+        "Gas exchange always works by diffusion, from high <b>partial pressure</b> to low."
+      ],
+      "words": ["partial pressure"]
+    },
+    "30.1": {
+      "big": "Small or flat animals exchange gas straight through their surface. Bigger animals need gills, tracheal tubes or lungs.",
+      "points": [
+        "Direct diffusion works for tiny or thin organisms. Earthworms and frogs also use moist skin. Fish use gills.",
+        "Insects use a tracheal system: tubes running from body openings (spiracles) straight to cells.",
+        "The human path: <b>nasal cavity</b> (warms, humidifies and filters air) → <b>pharynx</b> → <b>larynx</b> (voice box) → <b>trachea</b> → <b>primary bronchus</b> (one per lung) → smaller <b>bronchi</b> → <b>bronchioles</b> → <b>terminal bronchioles</b> → <b>respiratory bronchioles</b> → <b>alveolar ducts</b> → <b>alveolar sacs</b> → <b>alveoli</b>.",
+        "Alveoli are tiny thin-walled sacs wrapped in capillaries: a huge surface area (about 75 m²) for diffusion.",
+        "Protection: hair and <b>mucus</b> (made from <b>mucin</b>) trap <b>particulate matter</b>, and cilia sweep it up and out."
+      ],
+      "words": ["nasal cavity", "pharynx", "larynx", "trachea", "primary bronchus", "bronchus", "bronchiole", "terminal bronchiole", "respiratory bronchiole", "alveolar duct", "alveolar sac", "alveolus", "mucus", "mucin", "particulate matter"]
+    },
+    "30.2": {
+      "big": "Oxygen and CO₂ move by diffusion down their partial pressure gradients: air → alveoli → blood → tissues, and back for CO₂.",
+      "points": [
+        "Partial pressure = each gas's share of the total air pressure. Air in the alveoli has less O₂ than outside air because it's mixed with leftover air and water vapor, and O₂ is constantly diffusing into the blood.",
+        "In the lungs, O₂ is higher in the alveoli than in the <b>venous</b> blood arriving, so it moves in. In tissues, O₂ is higher in arterial blood than in cells, so it moves out. CO₂ goes the opposite way.",
+        "<b>Spirometry</b> measures <b>lung volumes</b>: <b>tidal volume (TV)</b> (a normal breath), <b>inspiratory reserve volume (IRV)</b> (extra you can breathe in), <b>expiratory reserve volume (ERV)</b> (extra you can breathe out), <b>residual volume (RV)</b> (always left in the lungs).",
+        "<b>Lung capacities</b> are sums: <b>vital capacity (VC)</b> = TV + IRV + ERV, <b>total lung capacity (TLC)</b> = all four, <b>inspiratory capacity (IC)</b> = TV + IRV, <b>functional residual capacity (FRC)</b> = ERV + RV.",
+        "<b>FEV1/FVC ratio</b>: how much of your <b>functional vital capacity (FVC)</b> you can blow out in 1 second (<b>forced expiratory volume (FEV)</b>). High ratio = stiff lungs (fibrosis). Low ratio = blocked airways (asthma).",
+        "The <b>respiratory quotient (RQ)</b> compares CO₂ made to O₂ used, and it depends on the food being burned."
+      ],
+      "words": ["venous", "spirometry", "lung volume", "tidal volume", "inspiratory reserve volume", "expiratory reserve volume", "residual volume", "lung capacity", "vital capacity", "total lung capacity", "inspiratory capacity", "functional residual capacity", "FEV1/FVC ratio", "functional vital capacity", "forced expiratory volume", "respiratory quotient"]
+    },
+    "30.3": {
+      "big": "Breathing works by changing chest volume: bigger chest = lower pressure = air rushes in.",
+      "points": [
+        "Inhale: the <b>diaphragm</b> contracts and moves down, and the <b>intercostal muscles</b> lift the ribs, so pressure in the <b>intrapleural space</b> drops and air flows in. Exhale (at rest): the muscles relax and the <b>elastic recoil</b> of the lungs pushes air out.",
+        "Each lung is wrapped in a two-layer <b>pleura</b>. Inflamed pleura (<b>pleurisy</b>) makes breathing painful.",
+        "<b>Surfactant</b> coats the alveoli and lowers surface tension so they don't collapse. Premature babies lacking it get <b>respiratory distress syndrome</b>.",
+        "Work of breathing: <b>compliance</b> = how easily the lungs stretch (<b>elastic work</b>). <b>Resistance</b> = how hard air is to push through the airways (<b>flow-resistive</b> work). <b>Restrictive disease</b> (like fibrosis) lowers compliance. <b>Obstructive disease</b> (like asthma or swollen airways) raises resistance.",
+        "<b>Respiratory rate</b> × air per breath sets <b>alveolar ventilation</b>. You can breathe fast and shallow or slow and deep.",
+        "<b>Dead space</b> = air that doesn't reach working alveoli. <b>Anatomical dead space</b> = the airways themselves. <b>Physiological dead space</b> = alveoli that don't exchange gas (for example, no blood flow). A <b>ventilation/perfusion (V/Q) mismatch</b> means air and blood flow don't match; the body adjusts with <b>recruitment</b> (opening more capillaries). Standing up, the top of the lung has the highest V/Q."
+      ],
+      "words": ["diaphragm", "intercostal muscle", "intrapleural space", "elastic recoil", "pleura", "pleurisy", "surfactant", "respiratory distress syndrome", "compliance", "elastic work", "resistance", "flow-resistive", "restrictive disease", "obstructive disease", "respiratory rate", "alveolar ventilation", "dead space", "anatomical dead space", "physiological dead space", "ventilation/perfusion mismatch", "recruitment"]
+    },
+    "30.4": {
+      "big": "<b>Hemoglobin</b> in red blood cells carries most oxygen. Most CO₂ travels as <b>bicarbonate</b>.",
+      "points": [
+        "Each hemoglobin has four <b>heme groups</b> (iron), so it carries up to 4 O₂. Binding is cooperative: once one O₂ binds, the rest bind more easily (the S-shaped <b>oxygen dissociation curve</b>). This sets blood's <b>oxygen-carrying capacity</b>.",
+        "The curve shifts <b>right</b> (Hb lets go of O₂ more easily) with more CO₂, lower pH, and higher temperature: exactly what working muscles need. It shifts left with the opposite.",
+        "Carbon monoxide binds hemoglobin far more tightly than O₂. Treatment is 100% oxygen to push it off.",
+        "Blood disorders: <b>sickle cell anemia</b> (misshapen red blood cells carry O₂ poorly) and <b>thalassemia</b> (not enough working hemoglobin).",
+        "CO₂ transport: about 70% as bicarbonate, made by <b>carbonic anhydrase (CA)</b> in red cells (CO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻). About 20% binds hemoglobin as <b>carbaminohemoglobin</b>, and about 10% dissolves in plasma.",
+        "<b>Chloride shift</b>: bicarbonate leaves the red cell into the plasma and chloride comes in to balance the charge. This <b>bicarbonate buffer system</b> also keeps blood pH steady."
+      ],
+      "tip": "Exercising muscle is hot, acidic and full of CO₂, which all make hemoglobin drop off more oxygen right where it's needed.",
+      "words": ["hemoglobin", "heme group", "oxygen dissociation curve", "oxygen-carrying capacity", "sickle cell anemia", "thalassemia", "bicarbonate", "carbonic anhydrase", "carbaminohemoglobin", "chloride shift", "bicarbonate buffer system"]
+    }
+  },
+  "answers": {
+    "1": { "a": "a", "why": "Its main job is to <b>supply oxygen</b> (and remove CO₂, not supply it)." },
+    "2": { "a": "a", "why": "Nose → larynx → trachea → bronchi → bronchioles → alveoli." },
+    "3": { "a": "c", "why": "Warming and humidifying air <b>protects the trachea and lungs</b> from damage." },
+    "4": { "a": "a", "why": "Fewer alveoli = <b>less gas exchange</b>." },
+    "5": { "a": "d", "why": "IRV = the <b>extra air you can breathe in</b> after a normal breath." },
+    "6": { "a": "d", "why": "TLC = RV + ERV + TV + IRV (all four volumes)." },
+    "7": { "a": "a", "alt": "d", "why": "Oxygen is constantly <b>diffusing out of the alveoli into the blood</b>, and the air there is mixed with water vapor, so its O₂ share is lower." },
+    "8": { "a": "d", "why": "Less O₂ in the air = a <b>smaller pressure difference</b> = slower diffusion into the blood." },
+    "9": { "a": "d", "why": "Intercostals <b>contract</b> to inhale and <b>relax</b> to exhale (at rest)." },
+    "10": { "a": "b", "why": "Without the diaphragm contracting, chest pressure won't drop, so air won't flow in." },
+    "11": { "a": "b", "why": "Restrictive diseases make lungs stiffer: <b>lower compliance</b>." },
+    "12": { "a": "c", "why": "Narrower airways = <b>more resistance</b> to air flow." },
+    "13": { "a": "c", "why": "Physiological dead space = alveoli that aren't exchanging gas, for example because their capillaries <b>get no blood</b>." },
+    "14": { "a": "c", "why": "The body compensates: too little ventilation → breathe <b>faster and deeper</b>. Too much → <b>slower and shallower</b>." },
+    "15": { "a": "d", "why": "Elastic recoil = the stretched lung <b>pushing back inward</b>, which helps <b>exhale</b>." },
+    "16": { "a": "d", "why": "Low pH <b>decreases</b> hemoglobin's grip on <b>oxygen</b>, so it releases more." },
+    "17": { "a": "a", "why": "<b>Lower temperature</b> makes hemoglobin hold oxygen tighter. The others help release it." },
+    "18": { "a": "c", "why": "Most CO₂ travels as <b>bicarbonate</b>." },
+    "19": { "a": "a", "why": "Swapping chloride in lets <b>bicarbonate move out</b> into the plasma to be carried." },
+    "20": { "a": "a", "why": "Grape-like sacs give a <b>huge surface area</b>." },
+    "21": { "a": "b", "why": "<b>Hair and mucus</b> trap particles, and the nasal cavity warms the air." },
+    "22": { "a": "b", "why": "Pharynx → <b>larynx → trachea → bronchi → bronchioles</b> → alveolus." },
+    "23": { "a": "d", "why": "FEV1/FVC = <b>forced</b> expiratory volume in 1 s over <b>forced</b> vital capacity. Fibrosis makes lungs <b>stiff</b>, so the ratio rises." },
+    "24": { "a": "b", "why": "O₂ is <b>lower in venous blood than in alveolar air</b> (so it loads) and <b>higher in arterial blood than in tissues</b> (so it unloads)." },
+    "25": { "a": "c", "why": "<b>Restrictive</b> disease (stiff lungs) raises the ratio. Increased resistance (obstruction) lowers it." },
+    "26": { "a": "d", "why": "Mammals <b>expand the chest</b>, creating negative pressure that pulls air in. Frogs push air in." },
+    "27": { "a": "b", "why": "At the same 40 cm H₂O, the lungs without surfactant hold only about half the volume." },
+    "28": { "a": "a", "why": "At the top of the lung, blood flow is low compared with air: the <b>highest V/Q</b>." },
+    "29": { "a": "b", "why": "Flooding with O₂ <b>pushes CO off</b> hemoglobin. CO₂ wouldn't help because O₂ binds hemoglobin more strongly than CO₂." },
+    "30": { "a": "d", "why": "Without carbonic anhydrase, CO₂ isn't turned into bicarbonate, so the blood carries only a <b>small fraction</b> of it." },
+    "31": { "a": "a", "why": "A <b>genetic</b> disease with sickle-shaped red cells that <b>carry less oxygen</b>." },
+    "32": { "a": "c", "why": "A huge single cell must make <b>diffusion across its membrane more efficient</b>." },
+    "33": { "a": "a", "why": "The lines go up: <b>bigger animals have bigger respiratory surfaces</b>." },
+    "34": { "a": "a", "why": "Air comes in through the bronchiole (<b>inhaled air</b>), and the pulmonary artery brings <b>blood from the heart</b>. (The A/B labels aren't printed on the book's figure.)" },
+    "35": { "a": "a", "why": "The tube goes in <b>below</b> the blockage to bypass it, so the injury is <b>above</b> the site." },
+    "36": { "a": "a", "why": "Equal O₂ in cell and blood means no diffusion. The body would <b>speed up the heart</b> to bring more oxygen." },
+    "37": { "a": "c", "why": "In tissues, O₂ moves from the high-O₂ RBC into the low-O₂ body cell. CO₂ moves from the high-CO₂ cell into the RBC." },
+    "38": { "a": "c", "why": "As hemoglobin nears full, there are fewer open binding sites, so extra O₂ adds less: the curve flattens." },
+    "39": { "a": "a", "why": "Left shift (holds O₂ tighter) comes from <b>less CO₂, higher pH, lower temperature</b>." },
+    "40": { "a": "c", "why": "More CO₂ lowers pH, so hemoglobin lets go more easily: the curve shifts <b>right</b>." }
+  }
+}
