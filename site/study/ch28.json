@@ -1,0 +1,138 @@
+{
+  "chapter": 28,
+  "sections": {
+    "28.0": {
+      "big": "The endocrine system uses hormones, chemical messengers carried in the blood, to control growth, metabolism, water balance, stress and reproduction.",
+      "points": [
+        "Hormones are slower than nerves but their effects last longer. They only affect cells that have the matching <b>hormone receptor</b>."
+      ],
+      "words": ["hormone receptor"]
+    },
+    "28.1": {
+      "big": "Hormones come in three chemical classes, and the class decides how they get into cells.",
+      "points": [
+        "<b>Lipid-derived hormones</b> (steroids made from cholesterol, like estrogen, testosterone and cortisol) are fat-soluble. They slip through membranes and last longer in the blood (they ride on carrier proteins).",
+        "<b>Amino acid-derived hormones</b> are made from one amino acid: epinephrine and <b>norepinephrine</b> (from tyrosine), thyroid hormone, melatonin (from tryptophan).",
+        "<b>Peptide hormones</b> are chains of amino acids: insulin, ADH, growth hormone. They're water-soluble and can't cross the membrane."
+      ],
+      "words": ["lipid-derived hormone", "amino acid-derived hormone", "peptide hormone", "norepinephrine"]
+    },
+    "28.2": {
+      "big": "Fat-soluble hormones go <i>inside</i> the cell to change genes directly. Water-soluble hormones knock at the door and use messengers inside.",
+      "points": [
+        "<b>Intracellular hormone receptors</b> (for steroids): the hormone and receptor bind DNA and switch genes on or off. This is direct.",
+        "<b>Plasma membrane hormone receptors</b> (for peptides and most amino-acid hormones): the hormone is the <b>first messenger</b>. It activates a <b>G-protein</b> → <b>adenylate cyclase</b> makes cAMP (the second messenger) → a kinase cascade → a response. <b>Phosphodiesterase (PDE)</b> breaks cAMP down to end the signal. This is indirect.",
+        "Cells adjust how sensitive they are: lots of hormone causes <b>down-regulation</b> (fewer receptors); too little causes <b>up-regulation</b> (more receptors)."
+      ],
+      "words": ["intracellular hormone receptor", "plasma membrane hormone receptor", "first messenger", "G-protein", "adenylate cyclase", "phosphodiesterase", "down-regulation", "up-regulation"]
+    },
+    "28.3": {
+      "big": "Hormones manage water, reproduction, metabolism, calcium, growth and stress, mostly by negative feedback.",
+      "points": [
+        "Water: <b>osmoreceptors</b> sense salty blood → <b>antidiuretic hormone (ADH)</b> makes kidneys keep water (alcohol blocks ADH, which causes dehydration). Too little ADH = <b>diabetes insipidus</b>. Low blood pressure → the kidneys release <b>renin</b> → angiotensin → <b>aldosterone</b> (keeps sodium, so water follows). <b>Atrial natriuretic peptide (ANP)</b> does the opposite.",
+        "Reproduction: GnRH → <b>FSH</b> and <b>LH</b> (<b>gonadotropins</b>) → testosterone (an <b>androgen</b>) or <b>estrogens</b>. <b>Prolactin (PRL)</b> → milk. <b>Oxytocin</b> → contractions and milk release (positive feedback).",
+        "Blood sugar: <b>insulin</b> (from <b>beta cells</b>) lowers glucose. <b>Glucagon</b> (from <b>alpha cells</b>) raises it by <b>glycogenolysis</b> (breaking glycogen) and <b>gluconeogenesis</b> (making new glucose). Not enough insulin or response = <b>diabetes mellitus</b> and <b>hyperglycemia</b>. Too much insulin = <b>hypoglycemia</b>.",
+        "Metabolism: <b>thyroxine (T4)</b> and <b>triiodothyronine (T3)</b> raise metabolic rate. <b>Hypothyroidism</b> = tired, weight gain. <b>Hyperthyroidism</b> = jittery, weight loss. No iodine = <b>goiter</b>.",
+        "Calcium: <b>parathyroid hormone (PTH)</b> raises blood calcium (bone breakdown by osteoclasts, more absorption). <b>Calcitonin</b> lowers it.",
+        "Growth: <b>growth hormone (GH)</b> works partly through <b>insulin-like growth factor (IGF)</b>, saves glucose (<b>glucose-sparing effect</b>) and raises blood sugar (<b>diabetogenic effect</b>). Too much in kids = <b>gigantism</b>; in adults = <b>acromegaly</b> (big hands, feet, face). Too little = <b>pituitary dwarfism</b>.",
+        "Stress: short-term = epinephrine from the <b>adrenal medulla</b> (fight or flight). Long-term = <b>corticosteroids</b> from the <b>adrenal cortex</b>: <b>glucocorticoids</b> like <b>cortisol</b> and <b>mineralocorticoids</b> like aldosterone. Too much cortisol = <b>Cushing's disease</b>; too little = <b>Addison's disease</b>."
+      ],
+      "words": ["osmoreceptor", "antidiuretic hormone", "diabetes insipidus", "renin", "aldosterone", "atrial natriuretic peptide", "follicle-stimulating hormone", "gonadotropin", "androgen", "estrogens", "prolactin", "oxytocin", "insulin", "beta cell", "glucagon", "alpha cell", "glycogenolysis", "gluconeogenesis", "diabetes mellitus", "hyperglycemia", "hypoglycemia", "thyroxine", "triiodothyronine", "hypothyroidism", "hyperthyroidism", "goiter", "parathyroid hormone", "calcitonin", "growth hormone", "insulin-like growth factor", "glucose-sparing effect", "diabetogenic effect", "gigantism", "acromegaly", "pituitary dwarfism", "adrenal medulla", "adrenal cortex", "corticosteroid", "glucocorticoid", "cortisol", "mineralocorticoid", "Cushing’s disease", "Addison’s disease"]
+    },
+    "28.4": {
+      "big": "Glands release hormones in response to three kinds of triggers, and negative feedback turns them off.",
+      "points": [
+        "<b>Humoral stimuli</b>: a change in the blood (glucose, calcium, water). Example: high blood sugar → insulin.",
+        "<b>Hormonal stimuli</b>: one hormone triggers another. Example: TSH → thyroid hormone.",
+        "<b>Neural stimuli</b>: nerves trigger release. Example: sympathetic nerves → adrenal medulla → epinephrine.",
+        "Most loops are negative feedback (the result shuts off the signal, like testosterone shutting off GnRH and FSH). Only a few are positive (oxytocin in childbirth)."
+      ],
+      "words": ["humoral stimuli", "hormonal stimuli", "neural stimuli"]
+    },
+    "28.5": {
+      "big": "The hypothalamus and pituitary are the command center. They control most other <b>endocrine glands</b>.",
+      "points": [
+        "The <b>pituitary gland</b> hangs from the hypothalamus by the <b>pituitary stalk</b>. The hypothalamus sends releasing and inhibiting hormones (<b>GHRH</b>, <b>GHIH</b>, <b>prolactin-releasing hormone</b>, <b>prolactin-inhibiting hormone</b>, GnRH) to the <b>anterior pituitary</b> through blood vessels called the <b>hypophyseal portal system</b>.",
+        "The anterior pituitary makes GH, PRL, TSH, <b>ACTH</b>, FSH and LH. The <b>posterior pituitary</b> only stores and releases ADH and oxytocin (which are made in the hypothalamus).",
+        "<b>Thyroid gland</b>: two lobes joined by an <b>isthmus</b>. Follicles hold <b>colloid</b> with <b>thyroglobulin</b>, used to make T3 and T4. <b>Parafollicular cells</b> make calcitonin. <b>Thyroid-stimulating hormone (TSH)</b> controls it.",
+        "<b>Parathyroid glands</b> (on the back of the thyroid) → PTH. The <b>adrenal gland</b> sits on the kidney: cortex (steroids) and medulla (epinephrine, norepinephrine).",
+        "<b>Pancreas</b>: the <b>islets of Langerhans</b> (pancreatic islets) make insulin and glucagon. The pineal gland makes melatonin (sleep). The gonads make sex hormones.",
+        "Organs with side jobs: the heart (ANP), kidneys (<b>erythropoietin (EPO)</b> for red blood cells), fat (<b>leptin</b> signals \"full\"), the <b>thymus</b> (T-cell development)."
+      ],
+      "words": ["endocrine gland", "pituitary gland", "pituitary stalk", "growth hormone-releasing hormone", "growth hormone-inhibiting hormone", "prolactin-releasing hormone", "prolactin-inhibiting hormone", "hypophyseal portal system", "anterior pituitary", "posterior pituitary", "adrenocorticotropic hormone", "thyroid gland", "isthmus", "colloid", "thyroglobulin", "parafollicular cell", "thyroid-stimulating hormone", "parathyroid gland", "adrenal gland", "pancreas", "islets of Langerhans", "erythropoietin", "leptin", "thymus"]
+    }
+  },
+  "answers": {
+    "1": { "a": "a", "why": "<b>Lipid-derived</b> (steroid) hormones are fat-soluble and cross membranes." },
+    "2": { "a": "a", "why": "Estradiol and cortisol are both steroids: <b>lipid-derived</b>." },
+    "3": { "a": "d", "why": "<b>Graves' disease</b> is a thyroid (endocrine) disorder. The others are brain disorders." },
+    "4": { "a": "b", "why": "One curve peaks later (60 min vs 45) <b>and</b> higher: slower to respond but more insulin overall, typical of insulin resistance." },
+    "5": { "a": "b", "why": "Made from single amino acids = <b>amino acid-derived</b>." },
+    "6": { "a": "c", "why": "A chain of amino acids = <b>peptide</b> hormone." },
+    "7": { "a": "a", "why": "<b>Intracellular</b> receptors act directly on genes." },
+    "8": { "a": "c", "why": "Many <b>different tissues have thyroid hormone receptors</b>." },
+    "9": { "a": "c", "why": "The hormone itself is the <b>first messenger</b>." },
+    "10": { "a": "d", "why": "Testosterone is a steroid that uses <b>intracellular</b> receptors, so blocking surface receptors <b>won't affect it</b>." },
+    "11": { "a": "d", "why": "Too much hormone → fewer receptors = <b>down-regulation</b>." },
+    "12": { "a": "a", "why": "Products like alcohol and caffeine <b>block ADH</b>, so more urine." },
+    "13": { "a": "b", "why": "<b>GnRH</b> from the hypothalamus triggers FSH and LH." },
+    "14": { "a": "c", "why": "Beta cells make <b>insulin</b>." },
+    "15": { "a": "d", "why": "PTH activates <b>osteoclasts</b> to break down bone and release calcium." },
+    "16": { "a": "b", "why": "The kidneys release <b>renin</b> when blood pressure drops." },
+    "17": { "a": "a", "why": "Alcohol <b>blocks ADH</b>, so the kidneys release more water." },
+    "18": { "a": "d", "why": "The hypothalamus makes <b>GnRH</b>. FSH and LH come from the pituitary." },
+    "19": { "a": "a", "why": "The young female's peaks (up to about 50) are much higher than the young male's (about 22)." },
+    "20": { "a": "c", "why": "Long-term stress = <b>corticosteroids</b> (like cortisol)." },
+    "21": { "a": "d", "why": "PTH stimulates <b>osteoclasts</b>." },
+    "22": { "a": "d", "why": "Too much insulin drops blood sugar too low: <b>hypoglycemia</b>." },
+    "23": { "a": "c", "why": "Acromegaly = too much GH in adults: <b>enlarged hands, feet and face</b>." },
+    "24": { "a": "c", "why": "High glucose → beta cells release <b>insulin</b>." },
+    "25": { "a": "b", "why": "<b>Oxytocin</b> in childbirth is positive feedback." },
+    "26": { "a": "d", "why": "Hormonal stimulus = <b>another hormone</b> triggers the release." },
+    "27": { "a": "a", "why": "A change in the blood = <b>humoral</b> stimulus." },
+    "28": { "a": "d", "why": "Testosterone feeds back negatively on the pituitary, so it <b>decreases FSH</b>." },
+    "29": { "a": "a", "why": "Ion levels in the blood = <b>humoral</b>." },
+    "30": { "a": "b", "why": "The <b>adrenal glands</b> (aldosterone) control kidney salt and water handling." },
+    "31": { "a": "d", "why": "The islets make insulin and glucagon: <b>blood glucose</b>." },
+    "32": { "a": "b", "why": "Fat releases <b>leptin</b>, the fullness signal." },
+    "33": { "a": "c", "why": "Renin is high when pressure is <b>low</b> and flat above about 91 mmHg." },
+    "34": { "a": "a", "why": "<b>Oxytocin</b> is released by the <b>posterior</b> pituitary." },
+    "35": { "a": "b", "why": "Lipid-derived = water <b>insoluble</b>. Amino acid-derived and peptide = water <b>soluble</b>." },
+    "36": { "a": "c", "why": "Hormones carry messages between nearby cells <b>and</b> faraway tissues: any distance." },
+    "37": { "a": "d", "why": "A long chain of many amino acids is a <b>peptide</b> hormone." },
+    "38": { "a": "a", "why": "The hormone passes through the membrane to a receptor inside: <b>lipid-soluble</b>." },
+    "39": { "a": "c", "why": "Receptors either <b>start signaling pathways</b> (surface) or act as <b>transcription regulators</b> (intracellular)." },
+    "40": { "a": "a", "why": "Both are hormone receptors. Surface = <b>indirect</b>. Intracellular = <b>direct</b>." },
+    "41": { "a": "a", "why": "Alcohol lowers <b>ADH</b>, the hormone that keeps water." },
+    "42": { "a": "a", "why": "The biggest GH peak happens right after falling asleep: <b>most GH is made during sleep</b>." },
+    "43": { "a": "a", "why": "It's stored in the <b>pancreas</b> and released when glucose <b>rises</b>, to help cells take it in." },
+    "44": { "a": "c", "why": "ADH <b>keeps water</b>. Faulty ADH = water lost in urine = always thirsty." },
+    "45": { "a": "b", "why": "Stress raises osmolality → <b>more ADH</b> → water is retained." },
+    "46": { "a": "c", "why": "<b>Negative</b> feedback keeps things within a range." },
+    "47": { "a": "c", "why": "Both release hormones. Humoral = triggered by <b>body fluid changes</b>. Hormonal = triggered by <b>another hormone</b>." },
+    "48": { "a": "a", "why": "Positive feedback would make growth or blood sugar <b>keep going</b> out of control." },
+    "49": { "a": "b", "why": "Aldosterone controls <b>sodium</b> (and so water). Low sodium, blood volume or pressure, or high potassium trigger it." },
+    "50": { "a": "b", "why": "Cortisol fights inflammation and <b>shuts down</b> CRH and ACTH (negative feedback)." },
+    "51": { "a": "d", "why": "The medulla makes <b>epinephrine and norepinephrine</b> for the <b>short-term</b> stress response." },
+    "52": { "a": "b", "why": "Watch the y-axis: norepinephrine reaches about 1,300 pg/mL; epinephrine only about 300." },
+    "53": { "a": "b", "why": "The ACD line rises slowly, then steeply, then levels off: an <b>S-shape</b>. It drops when the injection stops." },
+    "54": { "a": "b", "why": "Steroids are <b>water-insoluble</b>, so they ride on carrier proteins that protect them from breakdown." },
+    "55": { "a": "b", "why": "Lipid hormones <b>cross the membrane</b> to inside receptors. Water-soluble ones can't, so they need surface receptors." },
+    "56": { "a": "c", "why": "Epinephrine climbs during exercise (sharply at first), stays high, then drops off after exercise ends." },
+    "57": { "a": "a", "why": "If PI3K is blocked, GLUT4 <b>never moves</b> to the membrane, so the cell can't take in more glucose: insulin resistance." },
+    "58": { "a": "b", "why": "The hormone goes <b>through the membrane</b> to a nuclear receptor: a fat-soluble, lipid-derived hormone." },
+    "59": { "a": "d", "why": "GnRH is a chain of amino acids: a <b>peptide</b> hormone." },
+    "60": { "a": "a", "why": "Renin <b>cuts angiotensinogen</b>, which starts the chain leading to angiotensin II, ADH and aldosterone." },
+    "61": { "a": "b", "why": "The diabetic person's insulin reaches similar levels, but glucose stays very high: the insulin <b>isn't working</b>." },
+    "62": { "a": "d", "why": "After the meal insulin goes up and glucagon goes down: <b>opposite</b> effects on glucose." },
+    "63": { "a": "c", "why": "Time is the independent variable. <b>Hormone levels</b> are what's measured." },
+    "64": { "a": "b", "why": "Of the choices, day 18 is when estradiol is rising gradually after ovulation (along with a sharp rise in progesterone)." },
+    "65": { "a": "c", "why": "Pregnant women reach the same ADH at a <b>lower</b> osmolality, meaning their blood is more watery." },
+    "66": { "a": "b", "why": "Suckling → oxytocin → milk → more suckling: <b>positive</b> feedback." },
+    "67": { "a": "a", "why": "Baby pushes → <b>oxytocin</b> → contractions → more oxytocin, until birth." },
+    "68": { "a": "c", "why": "Osmoreceptors <b>sense changes</b> in blood solute (electrolyte) levels." },
+    "69": { "a": "a", "why": "High blood glucose is a <b>humoral</b> stimulus." },
+    "70": { "a": "d", "why": "No TSH → not enough T3/T4 → <b>low metabolism</b> → weight gain and fatigue." },
+    "71": { "a": "b", "why": "Fight or flight depends on <b>nerves</b> triggering the adrenal medulla (a neural stimulus)." }
+  }
+}
