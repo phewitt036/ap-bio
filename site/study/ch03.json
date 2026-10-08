@@ -1,0 +1,152 @@
+{
+  "chapter": 3,
+  "sections": {
+    "3.0": {
+      "big": "Living things are built from four kinds of large molecules: carbohydrates, lipids, proteins and nucleic acids.",
+      "points": [
+        "These <b>biological macromolecules</b> are built from small pieces and do nearly everything in a cell: store energy, build structures, speed up reactions, and carry genetic information."
+      ],
+      "words": ["biological macromolecule"]
+    },
+    "3.1": {
+      "big": "Small building blocks (<b>monomers</b>) link into chains (<b>polymers</b>) by removing water, and break apart by adding water back.",
+      "points": [
+        "<b>Dehydration synthesis</b>: an –OH from one monomer and an –H from another leave as water, and the monomers bond. This builds polymers.",
+        "<b>Hydrolysis</b>: water is split and added back across the bond, breaking the polymer into monomers. Digestion is hydrolysis, and it releases energy.",
+        "Enzymes speed up both reactions."
+      ],
+      "tip": "Dehydration = remove water to build. Hydro-lysis = water-splitting to break.",
+      "words": ["monomer", "polymer", "dehydration synthesis", "hydrolysis"]
+    },
+    "3.2": {
+      "big": "<b>Carbohydrates</b> are sugars and their polymers. They're used for quick energy, energy storage and structure.",
+      "points": [
+        "<b>Monosaccharides</b> (simple sugars): glucose, fructose, galactose. They often form rings in water.",
+        "<b>Disaccharides</b>: two sugars joined by a <b>glycosidic bond</b>. Sucrose = glucose + fructose. Lactose = glucose + galactose. Maltose = glucose + glucose.",
+        "<b>Polysaccharides</b>: <b>starch</b> (plant energy storage: amylose and amylopectin, α-linkages), <b>glycogen</b> (animal storage in liver and muscle, very branched), <b>cellulose</b> (plant cell walls, β-1,4 linkages humans can't digest, so it's fiber), <b>chitin</b> (insect exoskeletons and fungal walls; contains nitrogen)."
+      ],
+      "words": ["carbohydrate", "monosaccharide", "disaccharide", "glycosidic bond", "polysaccharide", "starch", "glycogen", "cellulose", "chitin"]
+    },
+    "3.3": {
+      "big": "<b>Lipids</b> are hydrophobic (they don't mix with water). They store energy, form membranes, and act as hormones.",
+      "points": [
+        "<b>Triacylglycerol (triglyceride)</b> = glycerol + 3 fatty acids: the main energy storage form in animals.",
+        "<b>Saturated fatty acid</b>: all single bonds, packed with hydrogen, straight, solid at room temperature (butter). <b>Unsaturated fatty acid</b>: one or more double bonds, kinked, liquid (oils). <b>Omega fats</b> (omega-3) are healthy unsaturated fats we must eat.",
+        "<b>Trans fat</b>: made by hydrogenating oil; the hydrogens around the double bond sit on opposite sides. Raises LDL (\"bad\" cholesterol).",
+        "<b>Waxes</b>: waterproof coatings on leaves and feathers.",
+        "<b>Phospholipids</b>: glycerol + 2 fatty-acid tails (hydrophobic) + a phosphate head (hydrophilic). They form the cell membrane bilayer, heads out and tails in.",
+        "<b>Steroids</b>: four fused rings. Cholesterol makes steroid hormones (testosterone, estradiol) and bile salts, and keeps membranes flexible."
+      ],
+      "words": ["lipid", "triacylglycerol", "saturated fatty acid", "unsaturated fatty acid", "omega fat", "trans fat", "wax", "phospholipid", "steroid"]
+    },
+    "3.4": {
+      "big": "<b>Proteins</b> do most of the work in a cell, and their job depends on their 3-D shape, which depends on their <b>amino acid</b> sequence.",
+      "points": [
+        "Jobs: <b>enzymes</b> (speed up reactions), structure, transport, <b>hormones</b> (signals), defense (antibodies), movement.",
+        "20 amino acids, each with an amino group, a carboxyl group, and a unique R group (nonpolar, polar, or charged). They're joined by <b>peptide bonds</b> (carboxyl to amino) into a <b>polypeptide</b>.",
+        "<b>Primary structure</b>: the amino acid sequence. <b>Secondary structure</b>: the <b>α-helix</b> and <b>β-pleated sheet</b> (held by hydrogen bonds). <b>Tertiary structure</b>: the overall 3-D fold (R-group interactions, disulfide bonds), which usually sets the function. <b>Quaternary structure</b>: several polypeptides together (hemoglobin).",
+        "One changed amino acid can change everything: sickle cell anemia comes from a single swap in hemoglobin.",
+        "<b>Denaturation</b>: heat, pH changes or chemicals unfold a protein, so it stops working. <b>Chaperones</b> help proteins fold correctly.",
+        "In water-soluble proteins, polar and charged amino acids sit on the outside and nonpolar ones are tucked inside."
+      ],
+      "words": ["protein", "enzyme", "hormone", "amino acid", "peptide bond", "polypeptide", "primary structure", "secondary structure", "alpha-helix structure", "beta-pleated sheet", "tertiary structure", "quaternary structure", "denaturation", "chaperone"]
+    },
+    "3.5": {
+      "big": "<b>Nucleic acids</b> (DNA and RNA) store and use genetic information.",
+      "points": [
+        "Building block: the <b>nucleotide</b> = a 5-carbon sugar + a phosphate + a nitrogen base. Nucleotides link by <b>phosphodiester linkages</b> into a <b>polynucleotide</b>.",
+        "Bases: <b>purines</b> (two rings: A, G) and <b>pyrimidines</b> (one ring: C, T, U).",
+        "<b>Deoxyribonucleic acid (DNA)</b>: deoxyribose sugar, bases A T G C, a double helix with A–T and G–C pairing. Stores hereditary info, mostly in the nucleus.",
+        "<b>Ribonucleic acid (RNA)</b>: ribose sugar, U instead of T, usually single-stranded. <b>Messenger RNA (mRNA)</b> carries the gene's message, <b>ribosomal RNA (rRNA)</b> builds ribosomes, <b>transfer RNA (tRNA)</b> brings amino acids, and microRNA (the smallest) regulates genes.",
+        "<b>Transcription</b> = DNA → mRNA. <b>Translation</b> = mRNA → protein."
+      ],
+      "words": ["nucleic acid", "nucleotide", "phosphodiester linkage", "polynucleotide", "purine", "pyrimidine", "deoxyribonucleic acid", "ribonucleic acid", "messenger RNA", "ribosomal RNA", "transfer RNA", "transcription", "translation"]
+    }
+  },
+  "fix": {
+    "70": { "opts": ["The change will definitely not be sufficient to have any effect on the function and structure of the protein.", "The amino acid may not show any significant effect on the protein structure and function, or it may have a significant effect, as in the case of hemoglobin in individuals with sickle cell trait.", "These changes would increase the possibility of having extra bends and loops in the proteins as in Leber congenital disease.", "These changes would modify the structures of proteins making them nonfunctional."] },
+    "73": {
+      "stem": [0,
+        { "t": "eq", "html": "<img class=\"math\" src=\"img/c03/m154-2.png\" alt=\"ATC/GTT/GTA/CTG/TAG/GAT/AAA\" style=\"height:0.98em\">" },
+        "A change has occurred in the segment resulting in the following:",
+        { "t": "eq", "html": "<img class=\"math\" src=\"img/c03/m154-1.png\" alt=\"ATC/GTT/GAA/CTG/TAG/GAT/AAA\" style=\"height:0.98em\">" },
+        3]
+    }
+  },
+  "answers": {
+    "1": { "a": "b", "why": "Dehydration synthesis <b>builds polymers</b>." },
+    "2": { "a": "b", "why": "Water leaves, taking a <b>hydroxyl</b> (–OH) from one nucleotide (and H from the other)." },
+    "3": { "a": "d", "why": "Breaking polymers = <b>hydrolysis</b>." },
+    "4": { "a": "c", "why": "<b>Hydrolysis</b> releases energy." },
+    "5": { "a": "a", "why": "Hydrolysis <b>breaks down</b> polymers (like digesting food)." },
+    "6": { "a": "a", "why": "Plant cell walls are mostly <b>cellulose</b>." },
+    "7": { "a": "a", "why": "Insect exoskeletons are chitin, a <b>carbohydrate</b>." },
+    "8": { "a": "b", "why": "<b>Fructose</b> is a single sugar." },
+    "9": { "a": "d", "why": "Long chains of sugars = <b>polysaccharides</b>." },
+    "10": { "a": "b", "why": "Lactose = glucose + <b>galactose</b>, linked by a <b>glycosidic</b> bond." },
+    "11": { "a": "b", "why": "Cellulose uses <b>β-1,4</b> linkages (starch uses α)." },
+    "12": { "a": "d", "why": "<b>Oils and waxes</b> are lipids." },
+    "13": { "a": "c", "why": "Cholesterol is a <b>steroid</b>." },
+    "14": { "a": "d", "why": "Animals store energy as <b>triglycerides</b>." },
+    "15": { "a": "a", "why": "<b>Estradiol and testosterone</b> are steroid hormones made from cholesterol." },
+    "16": { "a": "c", "why": "Not true: fats are hydrophobic and <b>don't</b> dissolve in water." },
+    "17": { "a": "c", "why": "Double bonds replace hydrogens, so <b>unsaturated</b> fats have the fewest." },
+    "18": { "a": "b", "why": "Phospholipids form the <b>plasma membrane</b>." },
+    "19": { "a": "d", "why": "Diacylglycerol 3-phosphate = <b>phosphatidate</b>, the simplest phospholipid." },
+    "20": { "a": "a", "why": "Steroids have <b>four fused rings</b>." },
+    "21": { "a": "b", "why": "Cholesterol is used to make <b>bile salts</b>." },
+    "22": { "a": "c", "why": "Cholesterol sits <b>among the phospholipid tails</b>." },
+    "23": { "a": "c", "why": "<b>Red blood cells</b> squeeze through tiny capillaries, and cholesterol helps keep their membranes stable yet flexible." },
+    "24": { "a": "d", "why": "Proteins provide <b>structure</b> (and much more)." },
+    "25": { "a": "a", "why": "An <b>enzyme</b> speeds up reactions." },
+    "26": { "why": "<b>Polar and charged</b> (hydrophilic) amino acids, like serine, lysine and glutamate, because they interact well with water." },
+    "27": { "a": "a", "why": "Proteins are made of <b>amino acids</b>." },
+    "28": { "a": "b", "why": "A peptide bond joins one amino acid's <b>carboxyl</b> to the next one's <b>amino</b> group." },
+    "29": { "a": "b", "why": "α-helix and β-sheet = <b>secondary</b> structure." },
+    "30": { "a": "c", "why": "The 3-D <b>tertiary</b> fold usually decides what a protein does." },
+    "31": { "a": "d", "why": "pH, heat and chemicals can <b>all</b> denature proteins." },
+    "32": { "a": "c", "why": "Chaperones help proteins <b>fold correctly</b>." },
+    "33": { "a": "b", "why": "Nucleic acids are built from <b>nucleotides</b>." },
+    "34": { "a": "c", "why": "DNA = <b>deoxyribose, thymine</b> (or A, G, C), and phosphate." },
+    "35": { "a": "b", "why": "DNA is a <b>double helix</b>." },
+    "36": { "a": "d", "why": "RNA has <b>ribose and uracil</b>." },
+    "37": { "a": "b", "why": "<b>MicroRNA</b> is the smallest." },
+    "38": { "a": "b", "why": "Most DNA is in the <b>nucleus</b>." },
+    "39": { "a": "a", "why": "Water splits into H and OH, which are added to the monomers as the polymer breaks." },
+    "40": { "a": "a", "why": "In dehydration synthesis, electrons end up with the OH and H that leave as water. In hydrolysis they're taken back from them as the bond reforms." },
+    "41": { "a": "a", "why": "Digestion is hydrolysis, which <b>needs water</b>." },
+    "42": { "a": "d", "why": "We lack the enzyme to break <b>β-1,4</b> bonds." },
+    "43": { "a": "c", "why": "Starch (plants) is <b>less branched</b> than glycogen (animals)." },
+    "44": { "a": "a", "why": "Sucrose = glucose + fructose. Lactose = glucose + galactose. Maltose = 2 glucose." },
+    "45": { "a": "a", "why": "Fats (margarine), waxes (feather coating), phospholipids (membranes), steroids (cholesterol)." },
+    "46": { "a": "a", "why": "Energy storage, hormones, and signaling." },
+    "47": { "a": "a", "why": "Partial <b>hydrogenation</b> of oil makes trans fats, which raise LDL." },
+    "48": { "a": "a", "why": "Heads face water and tails face inward: a <b>bilayer</b>." },
+    "49": { "a": "b", "why": "<b>Cholesterol</b> does all three." },
+    "50": { "a": "c", "why": "<b>Lipids</b> (phospholipids and cholesterol) give flexibility." },
+    "51": { "a": "a", "why": "Different amino acids form different bonds, giving different shapes and jobs." },
+    "52": { "a": "a", "why": "The sequence folds into helices and sheets, which fold further into the 3-D tertiary shape." },
+    "53": { "a": "b", "why": "Red is at about 70 kDa, higher up than green (about 10 kDa), so red is <b>heavier</b>." },
+    "54": { "a": "a", "why": "Chaperones help proteins <b>fold</b>." },
+    "55": { "a": "b", "why": "DNA: <b>deoxyribose and thymine</b>. RNA: <b>ribose and uracil</b>." },
+    "56": { "a": "a", "why": "Heredity is stored in <b>DNA</b>." },
+    "57": { "a": "a", "why": "mRNA = DNA transcript, rRNA = ribosomes, tRNA = brings amino acids, miRNA = regulates mRNA." },
+    "58": { "a": "b", "why": "They <b>assumed what gases</b> made up the early atmosphere." },
+    "59": { "a": "a", "why": "Simple gases with hydrogen and nitrogen formed <b>amino acids</b>." },
+    "60": { "a": "c", "why": "<b>Inorganic</b> molecules formed amino acids and other organic molecules." },
+    "61": { "a": "c", "why": "Condensing and evaporating water modeled the <b>water cycle</b>." },
+    "62": { "a": "a", "why": "Light hydrogen gas <b>escaped into space</b>." },
+    "63": { "a": "a", "why": "Today's air is <b>oxidizing</b> (oxygen-rich) and has almost no hydrogen." },
+    "64": { "a": "a", "why": "Cellulose's <b>β-1,4</b> links form rigid, cross-linked fibers. Starch's α links don't." },
+    "65": { "a": "d", "why": "Glucose + fructose → <b>sucrose</b> + water: a dehydration reaction." },
+    "66": { "a": "c", "why": "Trans fats are unsaturated fats with the hydrogens on <b>opposite sides</b> of the double bond." },
+    "67": { "a": "a", "why": "Chitin contains <b>nitrogen</b> (N-acetylglucosamine units)." },
+    "68": { "a": "c", "why": "<b>Polar and charged</b> outside (touching water), <b>nonpolar</b> inside." },
+    "69": { "a": "b", "why": "Arginine is <b>positively charged</b>, now sitting in a nonpolar stretch, which could change bonding there." },
+    "70": { "a": "b", "why": "It may do nothing, or a lot, like the single swap that causes <b>sickle cell</b>." },
+    "71": { "a": "b", "why": "HIV's RNA copying is error-prone, so it <b>mutates</b> fast." },
+    "72": { "a": "a", "why": "Hershey and Chase labeled DNA and protein differently. Only the <b>DNA</b> entered the host." },
+    "73": { "a": "a", "why": "Only the third codon changed (GTA → GAA): a single-base <b>substitution</b>." },
+    "74": { "a": "a", "why": "DNA changes are copied to <b>daughter cells</b>, so they're permanent." }
+  }
+}
