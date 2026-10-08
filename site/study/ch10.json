@@ -1,0 +1,119 @@
+{
+  "chapter": 10,
+  "sections": {
+    "10.0": {
+      "big": "Every one of your trillions of cells came from one fertilized egg dividing again and again. Cell division builds bodies, repairs them, and is how single cells reproduce.",
+      "points": [
+        "Multicellular organisms divide cells to <b>grow</b>, to <b>maintain</b>, and to <b>repair</b> tissue. Skin and blood cells are replaced all the time.",
+        "Cell division is tightly controlled. When the controls fail, the result can be cancer.",
+        "Most nerve cells don't divide, which is why nerve damage is so hard to heal."
+      ],
+      "words": ["cell cycle"]
+    },
+    "10.1": {
+      "big": "A cell's DNA (its <b>genome</b>) is packed into <b>chromosomes</b>. Before a cell divides, each chromosome is copied so both new cells get a full set.",
+      "points": [
+        "Prokaryotes have one <b>circular</b> chromosome (in the nucleoid). Eukaryotes have several <b>linear</b> chromosomes in a nucleus.",
+        "Human body (<b>somatic</b>) cells are <b>diploid (2n = 46)</b>: two sets, one from each parent. <b>Gametes</b> (egg and sperm) are <b>haploid (n = 23)</b>.",
+        "<b>Homologous chromosomes</b> are a matched pair: same genes in the same places (<b>loci</b>), but possibly different versions.",
+        "<b>Genes</b> code for proteins that produce <b>traits</b> (like blood type A, B or O).",
+        "Packing: DNA wraps around <b>histone</b> proteins to make <b>nucleosomes</b> (\"beads on a string\"), which coil and fold again and again. Two meters of DNA fit in a tiny nucleus.",
+        "After copying, a chromosome is two identical <b>sister chromatids</b> joined at the <b>centromere</b>."
+      ],
+      "words": ["genome", "diploid", "haploid", "gamete", "homologous chromosomes", "gene", "locus", "histone", "nucleosome", "chromatid", "centromere"]
+    },
+    "10.2": {
+      "big": "The <b>cell cycle</b> is a long prep phase (<b>interphase</b>), then the dividing phase: <b>mitosis</b> (splitting the nucleus) and <b>cytokinesis</b> (splitting the cell).",
+      "points": [
+        "<b>Interphase</b> (most of the cell's life): <b>G<sub>1</sub></b>, grow and stock up; <b>S</b>, copy the DNA; <b>G<sub>2</sub></b>, final prep and make proteins for division.",
+        "<b>Prophase:</b> chromosomes condense, the nuclear envelope breaks up, and the spindle starts forming.",
+        "<b>Prometaphase:</b> spindle fibers grab each chromatid at its <b>kinetochore</b>.",
+        "<b>Metaphase:</b> chromosomes line up in the middle (the <b>metaphase plate</b>).",
+        "<b>Anaphase:</b> sister chromatids are pulled apart to opposite poles.",
+        "<b>Telophase:</b> new nuclei form around each set and the chromosomes relax.",
+        "<b>Cytokinesis:</b> animal cells pinch in (a <b>cleavage furrow</b> made by an actin ring). Plant cells build a <b>cell plate</b> that becomes the new wall.",
+        "<b>G<sub>0</sub>:</b> cells that aren't dividing, like mature nerve and heart cells, rest here."
+      ],
+      "tip": "Order of mitosis: <b>PPMAT</b>, \"<b>P</b>lease <b>P</b>ass <b>M</b>e <b>A</b> <b>T</b>aco\": Prophase, Prometaphase, Metaphase (Middle), Anaphase (Apart), Telophase (Two nuclei).",
+      "words": ["interphase", "G1 phase", "S phase", "G2 phase", "mitosis", "prophase", "prometaphase", "kinetochore", "metaphase", "metaphase plate", "anaphase", "telophase", "cytokinesis", "cleavage furrow", "cell plate", "G0 phase"]
+    },
+    "10.3": {
+      "big": "The cell cycle has <b>checkpoints</b>, like quality-control stops, and molecules that either push the cycle forward or hit the brakes.",
+      "points": [
+        "<b>G<sub>1</sub> checkpoint:</b> big enough? Enough energy? DNA undamaged? Growth factors are what push a cell past it.",
+        "<b>G<sub>2</sub> checkpoint:</b> was all the DNA copied correctly?",
+        "<b>M checkpoint</b> (in metaphase): is every chromatid attached to the spindle? Anaphase can't be undone, so it waits.",
+        "<b>Positive regulators</b> (the gas pedal): <b>cyclins</b> pair with <b>Cdks</b> (cyclin-dependent kinases), which add phosphates to proteins that move the cycle forward.",
+        "<b>Negative regulators</b> (the brakes): <b>p53</b> spots damaged DNA, halts the cycle, calls in repair, and triggers apoptosis if the damage can't be fixed. <b>p21</b> blocks Cdks. <b>Rb</b> holds the cycle until the cell is big enough."
+      ],
+      "words": ["cell cycle checkpoint", "cyclin", "cyclin-dependent kinase", "p53", "p21", "retinoblastoma protein"]
+    },
+    "10.4": {
+      "big": "<b>Cancer</b> is cell division out of control, caused by mutations in the genes that run the cell cycle.",
+      "points": [
+        "<b>Proto-oncogenes</b> are normal \"gas pedal\" genes. A mutation can turn one into an <b>oncogene</b>, a gas pedal stuck down.",
+        "<b>Tumor suppressor genes</b> (like p53, p21 and Rb) are the brakes. Mutations that break them let damaged cells keep dividing.",
+        "Over half of human tumors have a broken <b>p53</b>.",
+        "Damaged cells pile up more mutations each time they divide, and eventually all the checkpoints fail and a tumor forms.",
+        "HPV makes a protein (E6) that marks p53 for destruction, which is how it can lead to cervical cancer."
+      ],
+      "tip": "Cancer usually needs both: a stuck gas pedal (<b>oncogene</b>) <i>and</i> broken brakes (<b>tumor suppressor</b>).",
+      "words": ["proto-oncogene", "oncogene", "tumor suppressor gene"]
+    },
+    "10.5": {
+      "big": "Bacteria divide by <b>binary fission</b>: copy the single circular chromosome, pull the copies apart, and split in two. No mitosis needed.",
+      "points": [
+        "Copying starts at one spot (the <b>origin</b>) and goes both ways around the loop.",
+        "There's no nucleus, so there's no karyokinesis and no mitotic spindle. The growing cell membrane helps pull the copies apart.",
+        "A ring of <b>FtsZ</b> protein directs the building of a <b>septum</b> that splits the cell.",
+        "FtsZ is related to tubulin, the protein that builds our mitotic spindle, which is evidence of shared ancestry."
+      ],
+      "words": ["binary fission", "origin", "FtsZ", "septum"]
+    }
+  },
+  "answers": {
+    "1": { "a": "d", "why": "Diploid is <b>two</b> sets of chromosomes, and haploid is one, so diploid is twice as many." },
+    "2": { "a": "d", "why": "DNA first wraps around <b>histone</b> proteins to form nucleosomes." },
+    "3": { "a": "b", "why": "<b>Genes</b>, inherited from both parents, determine traits." },
+    "4": { "a": "d", "why": "Two identical copies held together at the centromere are <b>sister chromatids</b>." },
+    "5": { "a": "d", "why": "DNA is copied in the <b>S</b> (synthesis) phase of interphase." },
+    "6": { "a": "d", "why": "Sister chromatids separate during <b>anaphase</b> of mitosis, not during interphase." },
+    "7": { "a": "c", "why": "Spindle fibers attach to kinetochores in <b>prometaphase</b>." },
+    "8": { "a": "b", "why": "Golgi vesicles fuse into a <b>cell plate</b>, which becomes the new cell wall." },
+    "9": { "a": "b", "why": "S phase is when DNA is copied, so blocking it means <b>no DNA replication</b>." },
+    "10": { "a": "a", "why": "Outside signals like growth factors matter most at the <b>G<sub>1</sub> checkpoint</b>, where the cell decides whether to divide at all." },
+    "11": { "a": "d", "why": "The M checkpoint holds the cell in metaphase, so <b>anaphase</b> can't start until every chromatid is attached." },
+    "12": { "a": "d", "why": "<b>Cdks</b> are kinases: once activated by cyclin, they phosphorylate other proteins." },
+    "13": { "a": "a", "why": "<b>p53</b> can trigger apoptosis when DNA damage can't be repaired." },
+    "14": { "a": "c", "why": "The G<sub>2</sub> checkpoint mainly checks that DNA replication was <b>complete and accurate</b>." },
+    "15": { "a": "c", "why": "A change in a gene's nucleotide sequence is a <b>gene mutation</b>." },
+    "16": { "a": "d", "why": "E6 binds p53 and <b>marks it for destruction</b>, removing the cell's brake." },
+    "17": { "a": "c", "why": "Normal \"gas pedal\" genes are <b>proto-oncogenes</b>. They become oncogenes only when mutated." },
+    "18": { "a": "c", "why": "<b>p21</b> is made when p53 rises, and it blocks Cdk/cyclin activity." },
+    "19": { "a": "c", "why": "There's no nucleus to divide, so there's no <b>karyokinesis</b> (mitosis)." },
+    "20": { "a": "d", "why": "That's false: bacteria <b>don't</b> have a mitotic spindle. The other statements are true." },
+    "21": { "a": "d", "why": "FtsZ directs the building of the <b>septum</b>, which becomes the new walls." },
+    "22": { "a": "a", "why": "Somatic cells are diploid with 46 chromosomes. Gametes are haploid with half as many (23)." },
+    "23": { "a": "c", "why": "DNA wraps around proteins (histones) into nucleosomes, which coil and fold into a much more compact form." },
+    "24": { "a": "a", "why": "G<sub>1</sub>: grow and prepare. S: copy the DNA. G<sub>2</sub>: copy organelles and take down the cytoskeleton to get ready for mitosis." },
+    "25": { "a": "a", "alt": ["b"], "why": "These drugs attack the <b>mitotic spindle</b>. Without working spindle fibers, chromosomes can't line up or separate, so division stalls (and damaged cells may die)." },
+    "26": { "a": "c", "why": "With the drug, fewer cells are in G<sub>1</sub> (53% → 38%) and many more pile up in S (20% → 46%), so cells move out of G<sub>1</sub> faster and get stuck in S." },
+    "27": { "a": "b", "why": "G<sub>1</sub>: enough reserves for S phase (plus size and DNA damage). G<sub>2</sub>: was the new DNA copied correctly? M: are the spindle fibers attached to every kinetochore?" },
+    "28": { "a": "c", "why": "Positive regulators push the cycle forward. Negative regulators stop it until problems are fixed." },
+    "29": { "a": "a", "why": "The M checkpoint checks that sister chromatids are attached to the spindle. If it fails, chromosomes can be split wrongly (nondisjunction)." },
+    "30": { "a": "b", "why": "p53 checks DNA quality, calls in repair enzymes, and triggers apoptosis. A faulty p53 loses all three." },
+    "31": { "a": "b", "why": "Killing a cell with unfixable DNA damage stops it from passing on mutations and making faulty proteins, which protects the whole body." },
+    "32": { "a": "b", "why": "Both copy the DNA, separate the copies, and divide the cytoplasm." },
+    "33": { "a": "d", "why": "FtsZ directs the building of the <b>septum</b>." },
+    "34": { "a": "d", "why": "A karyotype of 46 chromosomes in pairs means a eukaryotic, diploid cell. Prokaryotes have one circular chromosome." },
+    "35": { "a": "a", "why": "Eukaryotic DNA wraps around histones into nucleosomes and forms linear chromosomes. Prokaryotes have a single loop." },
+    "36": { "a": "b", "why": "That's the false one: homologous chromosomes carry the <b>same genes in the same places</b>. They come from different parents and may differ slightly in sequence." },
+    "37": { "a": "a", "why": "Down syndrome is an extra copy of <b>chromosome 21</b>." },
+    "38": { "a": "d", "why": "<b>Prophase → metaphase → anaphase</b>, then cytokinesis." },
+    "39": { "a": "b", "why": "Cells pile up in <b>S phase</b>, where DNA is copied, so the drug most likely interferes with DNA replication." },
+    "40": { "a": "b", "why": "Sample B has twice the DNA of sample A: the cells have <b>copied their DNA</b> (S phase) but haven't divided yet." },
+    "41": { "a": "d", "why": "CHK2 activates p53, p53 makes p21, and p21 holds the cycle until things are fixed. Then the cycle moves on." },
+    "42": { "a": "c", "why": "The diagram's inhibition line runs from active Cdk4 back to the <b>cyclin D1/Cdk4 complex</b>, so that's what's under negative feedback." },
+    "43": { "a": "b", "why": "The group with working p53 survives longer with fewer recurrences, so functional p53 helps against cancer." }
+  }
+}
