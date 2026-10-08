@@ -1,0 +1,114 @@
+{
+  "chapter": 19,
+  "sections": {
+    "19.0": {
+      "big": "Evolution happens to <b>populations</b>, not individuals. This chapter is about how and why a population's genes change from one generation to the next.",
+      "points": [
+        "Example: the Florida panther nearly died out from too little genetic variety until panthers from Texas were brought in."
+      ],
+      "words": ["population genetics"]
+    },
+    "19.1": {
+      "big": "<b>Population genetics</b> joins Mendel (how genes are inherited) with Darwin (natural selection). That combo is called the <b>modern synthesis</b>.",
+      "points": [
+        "<b>Microevolution</b> = changes in <b>allele frequencies</b> in a population over generations. <b>Macroevolution</b> = bigger changes over long times, like new species.",
+        "The <b>gene pool</b> is every allele in the population. <b>Genetic structure</b> = its allele and <b>genotype frequencies</b>.",
+        "<b>Hardy–Weinberg principle of equilibrium</b>: allele frequencies stay the same <i>unless</i> something changes them.",
+        "The five conditions for no evolution: no mutation, no migration (gene flow), a very large population (no drift), random mating, and no natural selection. Break any one and the population evolves.",
+        "The math: <b>p + q = 1</b> (allele frequencies) and <b>p² + 2pq + q² = 1</b> (genotype frequencies: AA, Aa, aa).",
+        "Trick: count the recessive-looking individuals first. That number is <b>q²</b>. Take the square root to get q, then p = 1 − q."
+      ],
+      "tip": "Example: 16% of flowers are white (recessive). q² = 0.16, so q = 0.4, p = 0.6. Heterozygotes = 2pq = 0.48.",
+      "words": ["population genetics", "modern synthesis", "microevolution", "macroevolution", "allele frequency", "gene pool", "genetic structure", "genotype frequency", "Hardy–Weinberg principle of equilibrium"]
+    },
+    "19.2": {
+      "big": "Five forces change a population's genes: natural selection, <b>genetic drift</b>, <b>gene flow</b>, mutation, and <b>nonrandom mating</b>.",
+      "points": [
+        "<b>Population variation</b> is the spread of phenotypes. Only the part caused by genes (<b>heritability</b>) can evolve. Different alleles of the same gene are <b>polymorphisms</b>.",
+        "<b>Genetic drift</b> = allele frequencies change by <b>chance</b>. It's strongest in small populations.",
+        "<b>Bottleneck effect</b>: a disaster wipes out most of a population at random, so the survivors' genes take over. <b>Founder effect</b>: a small group starts a new population, carrying only some of the alleles.",
+        "<b>Gene flow</b> = alleles move between populations as individuals or pollen migrate. It makes populations more alike.",
+        "<b>Mutation</b> is the only source of brand-new alleles. Most mutations are harmful or neutral.",
+        "<b>Nonrandom mating</b>: <b>assortative mating</b> (picking mates like yourself) and <b>inbreeding</b>. Inbreeding exposes rare harmful recessive alleles, which is called <b>inbreeding depression</b>.",
+        "Environment can change phenotypes too. <b>Geographical variation</b> across a gradual environmental change (like warmer to colder) is a <b>cline</b>.",
+        "<b>Fitness</b> = how many offspring you leave. <b>Relative fitness</b> compares that to others in the population."
+      ],
+      "tip": "Bottleneck = population shrinks in place. Founder = a few move away and start over.",
+      "words": ["population variation", "heritability", "polymorphisms", "genetic variability", "genetic drift", "bottleneck effect", "founder effect", "gene flow", "nonrandom mating", "assortative mating", "inbreeding", "inbreeding depression", "geographical variation", "cline", "fitness", "relative fitness"]
+    },
+    "19.3": {
+      "big": "Natural selection can push a trait in different directions. Draw the bell curve before and after to see which type it is.",
+      "points": [
+        "<b>Stabilizing selection</b>: the middle is favored and the extremes lose (like average-weight human babies). The curve gets <b>narrower</b>.",
+        "<b>Directional selection</b>: one extreme is favored (dark peppered moths during pollution). The curve <b>shifts</b> to one side.",
+        "<b>Diversifying selection</b>: <b>both</b> extremes win and the middle loses. The curve splits into <b>two peaks</b>, and variation goes up.",
+        "<b>Frequency-dependent selection</b>: a phenotype's fitness depends on how common it is. Negative = <b>rare</b> types win (side-blotched lizards). Positive = common types win.",
+        "<b>Sexual selection</b> leads to <b>sexual dimorphism</b> (males and females look different, like peacocks). The <b>handicap principle</b> says a costly ornament is an <b>honest signal</b> of good health. The <b>good genes hypothesis</b> says females pick males with ornaments because they carry good genes.",
+        "There's <b>no perfect organism</b>: selection can only work with the variation that already exists, and traits trade off against each other.",
+        "Selection that improves the fit between a population and its environment is <b>adaptive evolution</b>, driven by a <b>selective pressure</b>."
+      ],
+      "tip": "Stabilizing squeezes the middle. Directional slides it over. Diversifying splits it in two.",
+      "words": ["adaptive evolution", "evolutionary fitness", "selective pressure", "stabilizing selection", "directional selection", "diversifying selection", "frequency-dependent selection", "sexual dimorphism", "handicap principle", "honest signal", "good genes hypothesis"]
+    }
+  },
+  "fix": {
+    "24": { "stem": ["The table below shows data for a small population of mice. The mice are either brown or black. Based on the data, is the population experiencing genetic drift? Explain.", 1, 2] },
+    "29": { "stem": ["A scientist is studying the genetics of a population of plants that she suspects is undergoing natural selection. After examining samples of the population’s DNA over several years, she finds the following data:", { "t": "table", "rows": [["<b>Year</b>", "<b>Allele A frequency</b>", "<b>Allele B frequency</b>"], ["1", "0.80", "0.20"], ["2", "0.72", "0.28"], ["3", "0.66", "0.34"], ["4", "0.52", "0.48"], ["5", "0.45", "0.55"], ["6", "0.39", "0.61"]] }, 4] },
+    "30": {
+      "stem": [0,
+        { "t": "table", "rows": [["<b>Year</b>", "<b>Population 1: Allele A</b>", "<b>Allele B</b>"], ["1", "0.69", "0.31"], ["2", "0.71", "0.29"], ["3", "0.73", "0.27"], ["4", "0.75", "0.25"], ["5", "0.81", "0.19"], ["6", "0.84", "0.16"]] },
+        { "t": "table", "rows": [["<b>Year</b>", "<b>Population 2: Allele A</b>", "<b>Allele B</b>"], ["1", "0.00", "1.00"], ["2", "0.00", "1.00"], ["3", "0.10", "0.90"], ["4", "0.16", "0.84"], ["5", "0.21", "0.79"], ["6", "0.25", "0.75"]] }],
+      "opts": [
+        "In population 1, genetic drift is likely occurring, causing allele A to become more prevalent than allele B. In population 2, a mutation apparently occurred, introducing allele A to population 2. Allele A also appears to be increasing due to genetic drift in population 2.",
+        "In population 1, natural selection is likely occurring, with allele A being favored over allele B. In population 2, gene flow apparently occurred, allowing allele A to become established in population 2. Allele A also appears to be favored by selection in population 2.",
+        "In population 1, gene flow apparently occurred, allowing allele B to become established in population 1. Allele A also appears to be favored by selection in population 1. In population 2, genetic drift is likely occurring, causing allele A to become more prevalent than allele B.",
+        "In population 1, mutation apparently occurred, introducing allele B to population 1. Allele A also appears to be increasing due to genetic drift in population 1. In population 2, natural selection is likely occurring, with allele A being favored over allele B."
+      ]
+    },
+    "31": { "stem": [0, { "t": "table", "rows": [["<b>Year</b>", "<b>Mowed field flowering date</b>", "<b>Unmowed field flowering date</b>"], ["2010", "7/29", "7/28"], ["2011", "7/20", "7/26"], ["2012", "7/13", "8/1"], ["2013", "7/8", "7/29"], ["2014", "7/1", "8/2"], ["2015", "6/29", "7/26"]] }] },
+    "35": { "stem": [0, 1, "<i>Heads up: the book printed the wrong graph here (it repeats the insect mouthpart graph). Use the question to practice how you'd reason it out.</i>"], "opts": [] },
+    "36": { "stem": [0, 1, "<i>Heads up: the book printed the wrong picture here (it shows the wind diagram from question 38). Use the question to practice how you'd reason it out.</i>"], "opts": [] }
+  },
+  "answers": {
+    "1": { "a": "a", "why": "All new variation starts as <b>mutations</b>." },
+    "2": { "a": "b", "why": "Males leave and join other groups, carrying their alleles with them: <b>gene flow</b>." },
+    "3": { "a": "d", "why": "Hardy-Weinberg requires <b>no natural selection</b>." },
+    "4": { "a": "c", "why": "Micro = allele changes <b>within populations</b>. Macro = changes in <b>species over long times</b>." },
+    "5": { "a": "b", "why": "Lamarck thought traits earned during life (strong arms from use) get <b>passed to offspring</b>. That's wrong, but it's his idea." },
+    "6": { "a": "d", "why": "Genes, environment and diet all shape the phenotypes you see." },
+    "7": { "a": "c", "why": "Genetic variance = the <b>diversity of alleles and genotypes</b> in a population." },
+    "8": { "a": "c", "why": "Relatives share the same rare <b>harmful recessive alleles</b>, so inbred offspring are more likely to get two copies." },
+    "9": { "a": "a", "why": "A <b>natural disaster</b> kills randomly, which is genetic drift (a bottleneck)." },
+    "10": { "a": "a", "why": "Change by chance = <b>genetic drift</b>." },
+    "11": { "a": "a", "why": "Assortative mating = picking mates <b>like yourself</b>." },
+    "12": { "a": "d", "why": "A cline is a <b>gradual change across a range</b>, like more cold tolerance in colder areas." },
+    "13": { "a": "c", "why": "Diversifying favors <b>both extremes</b>, so variation goes up." },
+    "14": { "a": "b", "why": "Negative frequency-dependent selection favors <b>rare</b> phenotypes." },
+    "15": { "a": "d", "why": "It explains <b>showy ornaments</b>: they advertise good genes to mates." },
+    "16": { "a": "c", "why": "Males and females looking different = <b>sexual dimorphism</b>." },
+    "17": { "a": "c", "why": "Natural selection = <b>better-adapted organisms survive and reproduce more</b>, like finch beaks changing with seed size." },
+    "18": { "a": "b", "why": "Red is recessive: 200/800 = 0.25 = q², so q = 0.5 and p = 0.5. AA = 0.25 × 800 = <b>200</b>, Aa = 0.5 × 800 = <b>400</b>, aa = <b>200</b>." },
+    "19": { "a": "d", "why": "New alleles come from <b>mutation or gene flow</b>, and they become common only if <b>selection favors</b> them." },
+    "20": { "a": "c", "why": "Population variation = the <b>spread of phenotypes</b>, like all the fur colors in dogs." },
+    "21": { "a": "d", "why": "A few individuals leave and start a new population with only some of the colors: <b>founder effect</b>." },
+    "22": { "a": "b", "why": "Founders come from the <b>nearest island (H)</b>, so the new population should look like H's." },
+    "23": { "a": "a", "why": "A cline is variation that changes <b>gradually across a gradient</b>, like bigger bodies toward the poles." },
+    "24": { "why": "Probably <b>yes</b>. It's a small population, and the brown and black numbers bounce up and down with no steady trend. Random ups and downs in a small population are the sign of drift, not selection." },
+    "25": { "a": "c", "why": "The big alpha male <b>and</b> the small sneaky males both mate, while the medium males lose. Both extremes winning = <b>diversifying</b> selection." },
+    "26": { "a": "c", "why": "Selection can only work with the <b>variation that already exists</b>." },
+    "27": { "why": "The curve should <b>shift toward smaller</b> body sizes in the new population, because small mice escape the predator. That's <b>directional selection</b>." },
+    "28": { "why": "The drug's effectiveness drops over time as resistant parasites survive and multiply. That's <b>directional selection</b> toward drug resistance." },
+    "29": { "a": "c", "why": "A falls steadily (0.80 to 0.39) while B rises. A steady trend, not random wobbling, means <b>selection</b> against A." },
+    "30": { "a": "b", "why": "Pop 1: A rises steadily, so <b>selection</b> favors A. Pop 2: A appears out of nowhere (from deer in the nearby forest), so that's <b>gene flow</b>, and then A keeps rising." },
+    "31": { "a": "c", "why": "Grass that flowers before the mower comes gets to reproduce, so the mowed field evolves to <b>flower earlier</b>." },
+    "32": { "a": "d", "why": "Two peaks became one peak in the middle, so <b>mid-sized</b> mouthparts are favored: stabilizing natural selection." },
+    "33": { "a": "a", "why": "p = q = 0.5, so we'd expect AA = p² = <b>25%</b>. Seeing 35% is higher than expected, so evolution happened (aa fish likely died of disease)." },
+    "34": { "a": "c", "why": "Favoring heterozygotes means <b>2pq goes up</b>, so the population is no longer in equilibrium." },
+    "35": { "why": "With no migration, look at the graph's shape. A <b>steady</b> rise or fall in one allele means <b>natural selection</b> (selected for or against). Random ups and downs mean <b>genetic drift</b>, where the alleles are neutral." },
+    "36": { "why": "With no migration and genes that don't affect each other, a <b>steady trend</b> in an allele means <b>natural selection</b>. <b>Random wobbling</b> means <b>genetic drift</b>. If neither changes, the population isn't evolving at that gene." },
+    "37": { "a": "a", "why": "p = 0.7, q = 0.3. With random mating you'd get AA = 0.49, Aa = 0.42, aa = 0.09, so AA and aa each <b>drop by 0.21</b>, the same amount." },
+    "38": { "a": "b", "why": "Wind now carries pollen (with allele C) from population 1 to the others. That's <b>gene flow</b>, which brings in C and lowers A and B in population 3." },
+    "39": { "a": "a", "why": "Once the river dried up, blue and yellow individuals crossed over: <b>more gene flow</b>." },
+    "40": { "a": "b", "why": "Each later year's curve sits farther right, so the fungus tolerates more fungicide: resistance from <b>directional selection</b>." }
+  }
+}
