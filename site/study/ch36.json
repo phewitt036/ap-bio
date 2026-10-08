@@ -1,0 +1,220 @@
+{
+  "chapter": 36,
+  "sections": {
+    "36.0": {
+      "big": "Populations grow, shrink and interact with other species, and animal <b>behavior</b> is shaped by natural selection too.",
+      "points": [
+        "This chapter is the core of AP ecology: population growth, life strategies, human population, community interactions, and <b>behavioral biology</b>."
+      ],
+      "words": ["behavior", "behavioral biology", "ecology"]
+    },
+    "36.1": {
+      "big": "<b>Demography</b> is the statistics of populations: how many, how crowded, how spread out, and who's dying when.",
+      "points": [
+        "<b>Population size (N)</b> = how many. <b>Population density</b> = how many per area (size ÷ area).",
+        "Counting: a <b>quadrat</b> (count everything in sample squares; good for plants and slow animals) or <b>mark and recapture</b> (mark some, release, recapture later; N = marked × total recaptured ÷ marked recaptured). Animals that learn to avoid traps cause an overestimate; ones that seek out bait cause an underestimate.",
+        "<b>Species dispersion pattern</b>: random, uniform (evenly spaced, often from competition or chemicals that keep neighbors away), or clumped (most common: around resources or in herds).",
+        "A <b>life table</b> tracks the <b>mortality rate</b> and life expectancy by age. A <b>demographic-based population model</b> uses birth and death rates to predict changes.",
+        "<b>Survivorship curve</b>: Type I (most live long and die old: humans, elephants), Type II (steady death rate at all ages: some birds, turtles), Type III (most die young: fish, frogs, salmon)."
+      ],
+      "words": ["demography", "population size", "population density", "quadrat", "mark and recapture", "species dispersion pattern", "life table", "mortality rate", "demographic-based population model", "survivorship curve"]
+    },
+    "36.2": {
+      "big": "A species' <b>life history</b> is how it spends its <b>energy budget</b>: lots of cheap offspring, or a few well cared for.",
+      "points": [
+        "<b>Fecundity</b> = how many offspring an individual can produce. High fecundity usually means little parental care.",
+        "<b>Semelparity</b> = reproduce once, then die (salmon, many insects). <b>Iteroparity</b> = reproduce many times (most mammals, birds).",
+        "Every organism has a limited energy budget to split between growth, survival and reproduction. Late breeders (albatrosses) risk dying before ever reproducing."
+      ],
+      "words": ["life history", "energy budget", "fecundity", "semelparity", "iteroparity"]
+    },
+    "36.3": {
+      "big": "With unlimited resources, populations grow <b>exponentially</b> (a J-curve). In the real world they level off at the <b>carrying capacity</b> (an S-curve).",
+      "points": [
+        "<b>Birth rate (B)</b> − <b>death rate (D)</b> = the <b>population growth rate</b>. <b>Biotic potential (rmax)</b> = the fastest possible growth rate: high for fleas and bacteria, low for elephants.",
+        "<b>Exponential growth</b>: dN/dt = rmax·N, a <b>J-shaped growth curve</b>. It happens with plenty of resources (bacteria in fresh medium, a species arriving somewhere new).",
+        "<b>Logistic growth</b>: dN/dt = rmax·N·(K − N)/K, an <b>S-shaped growth curve</b>. Growth slows as N approaches the <b>carrying capacity (K)</b>, the most the environment can support. K can change (drought, new food, disease)."
+      ],
+      "tip": "J = no limits. S = slows down and flattens at K.",
+      "words": ["birth rate", "death rate", "population growth rate", "biotic potential", "exponential growth", "J-shaped growth curve", "logistic growth", "S-shaped growth curve", "carrying capacity"]
+    },
+    "36.4": {
+      "big": "Things that limit populations either depend on how crowded it is or don't.",
+      "points": [
+        "<b>Density-dependent regulation</b>: effects get stronger as the population gets crowded: competition (<b>intraspecific competition</b> within the species), disease, predation, waste buildup.",
+        "<b>Density-independent regulation</b>: hits no matter the density: fires, floods, freezes, pesticides, weather.",
+        "<b>r-selected species</b>: many small offspring, little care, mature fast, short life (insects, frogs, weeds). Favored in unstable environments.",
+        "<b>K-selected species</b>: few large offspring, lots of care, mature slowly, long life (elephants, whales, humans). Favored in stable, crowded environments.",
+        "Modern view: the r/K idea is a simplification. Real species mix traits shaped by their environment."
+      ],
+      "words": ["density-dependent regulation", "intraspecific competition", "density-independent regulation", "r-selected species", "K-selected species"]
+    },
+    "36.5": {
+      "big": "Humans have grown exponentially by repeatedly <b>raising their own carrying capacity</b> through agriculture, medicine and technology.",
+      "points": [
+        "Tools, language, farming, domesticated animals, sanitation, vaccines, and fossil-fuel machinery all raised K. Overusing resources can lower it.",
+        "<b>Age structure</b> diagrams: a wide base (many young people) = rapid growth, typical of less-developed countries. Column-like = slow or stable growth. Narrow base = shrinking (Japan, parts of Europe).",
+        "<b>Zero population growth</b> = births equal deaths. China's <b>one-child policy</b> was an attempt to slow growth.",
+        "Consequences: habitat loss, pollution, climate change, biodiversity loss, more CO₂. Humanity's ecological footprint already exceeds one Earth."
+      ],
+      "words": ["age structure", "zero population growth", "one-child policy"]
+    },
+    "36.6": {
+      "big": "Species in a community interact through predation, competition and <b>symbiosis</b>, and communities change over time through <b>succession</b>.",
+      "points": [
+        "Predator-prey cycles: prey rise → predators rise → prey fall → predators fall (the predator peak lags behind the prey peak).",
+        "Defenses: <b>camouflage</b>; <b>aposematic coloration</b> (bright warning colors); <b>Batesian mimicry</b> (a harmless species looks like a dangerous one); <b>Müllerian mimicry</b> (two harmful species look alike); <b>Emsleyan/Mertensian mimicry</b> (a deadly species looks like a less harmful one).",
+        "<b>Interspecific competition</b> between species: the <b>competitive exclusion principle</b> says two species can't share exactly the same resources forever. One wins, or they divide the resources.",
+        "<b>Symbiosis</b>: <b>mutualism</b> (both benefit: bees and flowers), <b>commensalism</b> (one benefits, the other unaffected), parasitism (a <b>parasite</b> benefits and its <b>host</b> is harmed).",
+        "Community traits: <b>species richness</b> (number of species), <b>relative species abundance</b> (how common each is). <b>Island biogeography</b>: big islands close to the mainland hold more species.",
+        "<b>Foundation species</b> build the habitat (coral). A <b>keystone species</b> has an outsized effect, and the community collapses without it (sea otters, prairie dogs). Invasive species spread without natural controls.",
+        "After an <b>environmental disturbance</b>: <b>primary succession</b> starts on bare rock with <b>pioneer species</b> (lichens). <b>Secondary succession</b> follows a fire or flood where soil remains. Both move toward a stable <b>climax community</b>."
+      ],
+      "words": ["camouflage", "aposematic coloration", "Batesian mimicry", "Müllerian mimicry", "Emsleyan/Mertensian mimicry", "interspecific competition", "competitive exclusion principle", "symbiosis", "mutualism", "commensalism", "parasite", "host", "species richness", "relative species abundance", "island biogeography", "foundation species", "keystone species", "environmental disturbance", "primary succession", "pioneer species", "secondary succession", "climax community"]
+    },
+    "36.7": {
+      "big": "<b>Ethology</b> studies animal behavior: what triggers it (proximate cause) and why it evolved (ultimate cause).",
+      "points": [
+        "<b>Innate behavior</b> (instinct, no learning needed): <b>reflex action</b>, <b>fixed action pattern</b> (a set sequence that runs to completion once triggered), <b>kinesis</b> (random movement that speeds up or slows in response to a stimulus), <b>taxis</b> (directed movement toward or away from something, like phototaxis toward light), <b>migration</b> (seasonal long-distance moves, triggered by day length).",
+        "Communication uses a <b>signal</b>: chemical (pheromones), visual (displays), sound (alarm calls), touch. Displays include the <b>courtship display</b>, <b>aggressive display</b> and <b>distraction display</b>.",
+        "Groups: <b>foraging</b> for food, altruism, and <b>kin selection</b> (helping relatives pass on shared genes). Mating systems: <b>monogamy</b> (one pair), <b>polygyny</b> (one male, many females), <b>polyandry</b> (one female, many males). Sexual selection: <b>intrasexual selection</b> (same sex competing) and <b>intersexual selection</b> (mate choice).",
+        "<b>Learned behavior</b>: <b>habituation</b> (learning to ignore a harmless stimulus), <b>imprinting</b> (early bonding, like ducklings following their mother).",
+        "<b>Conditioned behavior</b>: <b>classical conditioning</b> (Pavlov's dog links a bell with food), <b>operant conditioning</b> (a behavior linked to a reward or punishment).",
+        "<b>Cognitive learning</b>: problem solving and reasoning (rats learning mazes, chimps stacking boxes). Sociobiology explains social behavior through evolution."
+      ],
+      "words": ["ethology", "innate behavior", "reflex action", "fixed action pattern", "kinesis", "taxis", "migration", "signal", "courtship display", "aggressive display", "distraction display", "foraging", "kin selection", "monogamy", "polygyny", "polyandry", "intrasexual selection", "intersexual selection", "learned behavior", "habituation", "imprinting", "conditioned behavior", "classical conditioning", "operant conditioning", "cognitive learning"]
+    }
+  },
+  "fix": {
+    "31": {
+      "stem": [0],
+      "opts": [
+        "<img class=\"choice\" src=\"img/c36/p1619-5.jpg\" width=\"228\" height=\"155\" alt=\"Predator peaks first, then prey\">",
+        "<img class=\"choice\" src=\"img/c36/p1619-6.jpg\" width=\"228\" height=\"155\" alt=\"Predator and prey are exact opposites (mirror images)\">",
+        "<img class=\"choice\" src=\"img/c36/p1619-7.jpg\" width=\"228\" height=\"155\" alt=\"Predator and prey rise and fall at exactly the same time\">",
+        "<img class=\"choice\" src=\"img/c36/p1619-8.jpg\" width=\"228\" height=\"155\" alt=\"Prey peaks first, predator peaks shortly after\">"
+      ]
+    },
+    "32": { "stem": [2] }
+  },
+  "answers": {
+    "1": { "a": "c", "why": "For plants, count in <b>quadrats</b> to get size and density." },
+    "2": { "a": "d", "why": "Animals that learn to seek bait get recaptured more, so the count comes out <b>too low</b>." },
+    "3": { "a": "b", "why": "Even spacing = <b>uniform</b>." },
+    "4": { "a": "d", "why": "A <b>life table</b> shows life expectancy by age." },
+    "5": { "a": "a", "why": "For each age group, count how many <b>died vs. survived</b> over a set time." },
+    "6": { "a": "a", "why": "Humans mostly live to old age: <b>Type I</b>." },
+    "7": { "a": "c", "why": "<b>Salmon</b> make thousands of eggs and most die young: Type III." },
+    "8": { "a": "a", "why": "Long care goes with <b>few offspring</b>." },
+    "9": { "a": "c", "why": "More offspring = less <b>parental care</b> each." },
+    "10": { "a": "d", "why": "Reproductive potential = <b>fecundity</b>." },
+    "11": { "a": "a", "why": "Breeding late means more chances to <b>die before reproducing</b>." },
+    "12": { "a": "d", "why": "High fecundity goes with <b>little parental care</b>." },
+    "13": { "a": "a", "why": "Limited resources → <b>logistic</b> growth." },
+    "14": { "a": "c", "why": "<b>Bacteria in rich medium</b> have no limits at first." },
+    "15": { "a": "b", "why": "Otters held steady around 600 for years (that's K), then dropped after about 2010." },
+    "16": { "a": "c", "why": "K = the <b>most individuals the resources can support</b>, and it can change." },
+    "17": { "a": "c", "why": "The population starts falling around <b>2008</b>." },
+    "18": { "a": "d", "why": "Its effect depends on <b>how dense</b> the population is." },
+    "19": { "a": "b", "why": "Fire kills regardless of density: <b>density-independent</b>." },
+    "20": { "a": "a", "why": "Many offspring = <b>r-selected</b>." },
+    "21": { "a": "b", "why": "Both have limited energy for reproduction but spend it in <b>completely different</b> ways." },
+    "22": { "a": "d", "why": "Plenty of resources → <b>exponential</b> growth." },
+    "23": { "a": "c", "why": "Humans have raised their <b>carrying capacity</b>." },
+    "24": { "a": "d", "why": "By <b>raising</b> K (farming, medicine), humans grew exponentially." },
+    "25": { "a": "b", "why": "<b>Overusing natural resources</b> lowers K." },
+    "26": { "a": "a", "why": "Oil-powered machines boosted food production, which <b>raised</b> K." },
+    "27": { "a": "b", "why": "<b>Less-developed</b> countries have the most young people." },
+    "28": { "a": "d", "why": "Less-developed countries: <b>many children, few elderly</b>." },
+    "29": { "a": "d", "why": "More people burning fuel = more <b>atmospheric CO₂</b>." },
+    "30": { "a": "a", "why": "Habitat loss, pollution and climate change <b>reduce</b> biodiversity." },
+    "31": { "a": "d", "why": "In a real predator-prey cycle, the <b>prey peaks first</b> and the predator peaks a bit later." },
+    "32": { "a": "a", "why": "Prey ↑ → predators ↑ → prey ↓ → predators ↓ → repeat." },
+    "33": { "a": "d", "why": "Two harmful species that look alike = <b>Müllerian</b> mimicry." },
+    "34": { "a": "d", "why": "A Batesian mimic is harmless. Without its disguise, predators would just <b>eat it</b>." },
+    "35": { "a": "c", "why": "They can coexist only if they <b>don't share exactly the same resources</b>." },
+    "36": { "a": "a", "why": "A harmless octopus copying a dangerous stingray = <b>Batesian</b> mimicry." },
+    "37": { "a": "c", "why": "Mutualism = <b>both benefit</b>." },
+    "38": { "a": "c", "why": "In every symbiosis, <b>at least one</b> species benefits." },
+    "39": { "a": "d", "why": "Pioneer species colonize <b>bare ground</b> and start succession." },
+    "40": { "a": "c", "why": "Secondary succession: groups of species <b>replace each other</b> in stages." },
+    "41": { "a": "b", "why": "Innate = <b>no learning needed</b>." },
+    "42": { "a": "d", "why": "Innate = automatic responses. Learned = changes with <b>experience</b>." },
+    "43": { "a": "d", "why": "Phototaxis = moving toward or away from <b>light</b>." },
+    "44": { "a": "c", "why": "Butterflies that migrated <b>survived and reproduced</b>, so natural selection favored migration." },
+    "45": { "a": "a", "why": "Pheromones are <b>chemicals</b>." },
+    "46": { "a": "d", "why": "Birds use <b>calls</b> (sound) to warn others." },
+    "47": { "a": "b", "why": "Helping relatives pass on shared genes = <b>kin selection</b>." },
+    "48": { "a": "b", "why": "Male cardinals <b>fighting rivals</b> for territory spend energy to win mates." },
+    "49": { "a": "c", "why": "Poly + andry = <b>one female, many males</b>." },
+    "50": { "a": "d", "why": "One devoted male helps raise healthier offspring." },
+    "51": { "a": "d", "why": "Cognitive learning is the most complex type, using <b>many brain processes</b>." },
+    "52": { "a": "a", "why": "Operant: a <b>voluntary</b> behavior linked to its consequences. Classical: an involuntary response linked to a new stimulus." },
+    "53": { "a": "b", "why": "Use <b>mark and recapture</b> to estimate size, then density = size ÷ area." },
+    "54": { "a": "d", "why": "Same range and same number = <b>same density</b>, but one herds (clumped) and one is random." },
+    "55": { "a": "c", "why": "Many young but few adults → <b>high death rate before maturity</b>. Test it with a life table." },
+    "56": { "a": "b", "why": "Few offspring means losing even one is a <b>big risk</b>." },
+    "57": { "a": "d", "why": "Sterile workers put their energy into the hive and raising the queen's offspring (their relatives)." },
+    "58": { "a": "a", "why": "Many seeds: most energy goes into <b>numbers</b>, and few survive. Few seeds: energy goes into making each one <b>likely to survive</b>." },
+    "59": { "a": "b", "why": "Fleas reproduce much faster (higher rmax), so you study them over a <b>shorter</b> time." },
+    "60": { "a": "c", "why": "N roughly doubles every month (exponential). It'll level off (logistic) when resources run short." },
+    "61": { "a": "d", "why": "Warming helps <b>drought-resistant</b> plants and hurts others." },
+    "62": { "a": "b", "why": "Density-independent (pesticide) kills regardless of numbers. Density-dependent (running out of food) bites harder when crowded." },
+    "63": { "a": "d", "why": "Frogs spend their energy making <b>huge numbers</b> of eggs, leaving little for care." },
+    "64": { "a": "c", "why": "The curve is still rising steeply (exponentially), so it would likely keep growing." },
+    "65": { "a": "b", "why": "The base is only slightly wider than the middle: <b>slow growth</b>." },
+    "66": { "a": "a", "why": "Machines boosted farming, which raised resources (K) and allowed <b>exponential</b> growth." },
+    "67": { "a": "c", "why": "A fairly even spread across ages suggests a <b>developed</b> country." },
+    "68": { "a": "b", "why": "We passed 1.0 Earth around 1987. Our demand for <b>land and resources</b> exceeds what Earth supplies. If it keeps rising, our population could crash." },
+    "69": { "a": "a", "why": "Real data include <b>every</b> influence (weather, disease, food), not just predator-prey effects." },
+    "70": { "a": "d", "why": "What's measured, <b>wolves and elk</b>, are the dependent variables." },
+    "71": { "a": "d", "why": "They feed in <b>different places</b>, so they don't directly compete and can coexist." },
+    "72": { "a": "d", "why": "Bees get nectar and plants get pollinated: <b>mutualism</b>." },
+    "73": { "a": "b", "why": "Their burrows shelter others and they feed predators, so without them the ecosystem could <b>collapse</b>." },
+    "74": { "a": "a", "why": "Chicks learn the contact call from whoever raised them (<b>learned</b>), but use their own species' alarm call (<b>innate</b>)." },
+    "75": { "a": "c", "why": "Those with the response survived and <b>passed it on</b>." },
+    "76": { "a": "a", "why": "The threatened fish released <b>chemical alarm signals</b> that flowed to the other tank." },
+    "77": { "a": "c", "why": "Brighter males had more surviving chicks, so brightness signals <b>fitness</b>." },
+    "78": { "a": "a", "why": "Females holding rich territories attract several males: <b>polyandry</b>." },
+    "79": { "a": "d", "why": "Bell + food → eventually the bell alone causes drooling." },
+    "80": { "a": "a", "why": "The same share dies each year (20%): <b>Type II</b>." },
+    "81": { "a": "a", "why": "Traps at many locations already show <b>where they're distributed</b>." },
+    "82": { "a": "b", "why": "Above 30 °C, parous females drop to <b>zero</b>, and dry air also lowers them." },
+    "83": { "a": "a", "why": "Ask whether grazing makes <b>insects (bird food) more available</b>, a more specific question about the birds." },
+    "84": { "a": "a", "why": "Shade = less light = less photosynthesis, so <b>less energy</b> for everyone." },
+    "85": { "a": "d", "why": "Uniform spacing often comes from plants releasing <b>chemicals that block neighbors</b>." },
+    "86": { "a": "a", "why": "Flies that stored energy instead of breeding early <b>survived cold better</b>, so selection favored that trade-off." },
+    "87": { "a": "c", "why": "Without food, females lived shorter lives and laid fewer eggs, putting energy toward <b>survival</b> over reproduction." },
+    "88": { "a": "b", "why": "Selection favored <b>not getting pregnant</b> when fat reserves are too low to support it." },
+    "89": { "a": "a", "why": "Winter has <b>little food</b>, so elk must store enough fat beforehand." },
+    "90": { "a": "d", "why": "Deaths outnumber births only in <b>B</b> (43 vs 79) and <b>E</b> (933 vs 1351)." },
+    "91": { "a": "b", "why": "Fast early growth, then it slows and levels off around 120: logistic, with K about 120." },
+    "92": { "a": "a", "why": "The trend line slopes up: <b>more bees, heavier strawberries</b>." },
+    "93": { "a": "d", "why": "Compare trout numbers <b>before and after</b> logging." },
+    "94": { "a": "c", "why": "More emissions → <b>warmer oceans</b> → shifting marine populations." },
+    "95": { "a": "a", "why": "Waste grows with the population, and dealing with it <b>eats into habitats</b>." },
+    "96": { "a": "a", "alt": "c", "why": "Grow mussels under <b>different phytoplankton levels</b> and see whether growth tracks food supply." },
+    "97": { "a": "c", "why": "Test whether predators that know the venomous snake <b>avoid the bright mimics</b> more than the dull ones." },
+    "98": { "a": "a", "why": "Separate compartments that <b>share water</b> but block sight and sound, so only chemicals could reach the frogs." },
+    "99": { "a": "d", "why": "Without ants, the plants lost leaf area: the <b>ants protect the plants</b> (and live in them): mutualism." },
+    "100": { "a": "c", "why": "Each color survives best in its <b>home</b> region: camouflage." },
+    "101": { "a": "d", "why": "Species D's diet <b>doesn't overlap</b> with the others." },
+    "102": { "a": "d", "why": "They need nearly the <b>same food and nest sites</b>, so one will outcompete the other." },
+    "103": { "a": "d", "why": "As blackberries rose, salmonberries fell: blackberries <b>displaced</b> them." },
+    "104": { "a": "b", "why": "Warming shifts which species live up north." },
+    "105": { "a": "d", "why": "Raise frogs in <b>isolation</b>. If they still croak normally, the call is innate." },
+    "106": { "a": "a", "why": "<b>Cameras</b> can record behavior at all the feeders at once." },
+    "107": { "a": "d", "why": "Birds fled only from butterflies <b>with</b> eyespots, so selection favors eyespots in butterflies." },
+    "108": { "a": "d", "why": "The warning call (7–8 kHz) is too high for predators to hear: a <b>survival advantage</b>." },
+    "109": { "a": "d", "why": "Day length triggers hormonal and nervous changes: a <b>regulated</b> event." },
+    "110": { "a": "a", "why": "Survival drops about a month after rainfall drops, so <b>rain</b> (through grass) drives survival." },
+    "111": { "a": "c", "why": "Bears fed by people <b>learn</b> to seek human food." },
+    "112": { "a": "b", "why": "A long neck let it reach a wide area <b>without moving its huge body</b>." },
+    "113": { "a": "a", "why": "Salamanders avoided towels with <b>injured</b> salamander fluid (3 vs 17) but not with healthy fluid." },
+    "114": { "a": "b", "why": "Prosocial choices start near 60% and <b>rise</b> with more trials." },
+    "115": { "a": "b", "why": "Footsteps get paired with a loud noise until footsteps alone cause hiding: <b>classical conditioning</b>." },
+    "116": { "a": "d", "why": "<b>Seasonal change → physiological change → behavioral change → migration</b>." },
+    "117": { "a": "d", "why": "Fish see and follow their neighbors: <b>visual</b> signals." },
+    "118": { "a": "d", "why": "The lookout skips eating to protect relatives: <b>altruism</b>." }
+  }
+}
