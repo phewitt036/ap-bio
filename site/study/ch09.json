@@ -1,0 +1,103 @@
+{
+  "chapter": 9,
+  "sections": {
+    "9.0": {
+      "big": "Cells constantly send and receive chemical messages. That's how organs coordinate, how cells know when to divide, and even how bacteria team up.",
+      "points": [
+        "Cell signaling has three parts: <b>receive</b> the message, <b>pass it</b> across the membrane and through the cell, and <b>respond</b>.",
+        "Even single cells signal: yeast signal to find mates, and bacteria signal to build biofilms.",
+        "When signaling breaks, cells can divide out of control and cause cancer."
+      ],
+      "words": ["signal transduction"]
+    },
+    "9.1": {
+      "big": "A signaling cell releases a <b>ligand</b> (the message), which binds a specific <b>receptor</b> on or in a target cell.",
+      "points": [
+        "Four kinds, by distance: <b>autocrine</b> (a cell signals itself), <b>gap junctions</b> (directly into the next cell), <b>paracrine</b> (nearby cells, fast and short-lived, like neurotransmitters at a synapse), and <b>endocrine</b> (hormones carried in the blood, slow but long-lasting).",
+        "<b>Internal receptors</b> sit inside the cell and catch <b>hydrophobic</b> ligands that slip through the membrane, like steroid hormones. The ligand-receptor pair goes to the nucleus and turns genes on.",
+        "<b>Cell-surface receptors</b> catch <b>hydrophilic</b> (water-soluble) ligands that can't get through the membrane, and pass the message inside.",
+        "Three kinds of surface receptor: <b>ion channel-linked</b> (opens a channel), <b>G-protein-linked</b> (activates a G-protein, which swaps GDP for GTP), and <b>enzyme-linked</b> (like receptor tyrosine kinases, which pair up and add phosphates).",
+        "Nitric oxide (NO) is a gas that diffuses straight into cells and relaxes blood vessels."
+      ],
+      "tip": "<b>Inter</b>cellular = <b>between</b> cells (like an <b>inter</b>state). <b>Intra</b>cellular = <b>inside</b> one cell (like <b>intra</b>venous).",
+      "words": ["ligand", "receptor", "target cell", "autocrine signal", "paracrine signal", "endocrine signal", "internal receptor", "cell-surface receptor", "ion channel-linked receptor", "G-protein-linked receptor", "enzyme-linked receptor"]
+    },
+    "9.2": {
+      "big": "Once a ligand binds a surface receptor, the message is relayed and <b>amplified</b> inside the cell by a chain of proteins: a <b>signaling cascade</b>.",
+      "points": [
+        "Binding changes the receptor's shape. Some receptors pair up (<b>dimerization</b>) and activate each other.",
+        "<b>Kinases</b> add phosphate groups to switch proteins on or off. <b>Phosphatases</b> take them back off.",
+        "<b>Second messengers</b> spread the signal through the cell. The main ones are <b>cAMP</b> (made from ATP by adenylyl cyclase), <b>Ca<sup>2+</sup></b>, and <b>IP<sub>3</sub> and DAG</b> (split from the membrane lipid PIP<sub>2</sub>).",
+        "One ligand can switch on many enzymes, each of which switches on many more, so a tiny signal becomes a big response.",
+        "The same second messenger can mean different things in different cells, because each cell type has different proteins downstream."
+      ],
+      "words": ["signaling pathway", "dimerization", "kinase", "second messenger", "cyclic AMP", "inositol phospholipid", "diacylglycerol", "inositol triphosphate"]
+    },
+    "9.3": {
+      "big": "A signal ends in a <b>response</b>: turning genes on, speeding up metabolism, growing and dividing, or even dying on purpose.",
+      "points": [
+        "<b>Gene expression:</b> cascades like the MAP kinase pathway (EGF → ERK) or NF-κB can turn on transcription or translation.",
+        "<b>Metabolism:</b> adrenaline (epinephrine) raises cAMP, which leads cells to break down glycogen into glucose for quick energy.",
+        "<b>Growth:</b> <b>growth factors</b> act through receptor tyrosine kinases and RAS to start cell division. RAS that's stuck \"on\" can cause cancer.",
+        "<b>Apoptosis</b> is programmed cell death. It removes damaged, infected or unneeded cells, like the webbing between developing fingers and toes.",
+        "Signals have to be turned <b>off</b> too: ligands are broken down, phosphatases remove phosphates, and phosphodiesterase breaks down cAMP."
+      ],
+      "words": ["growth factor", "apoptosis", "phosphatase", "phosphodiesterase", "inhibitor"]
+    },
+    "9.4": {
+      "big": "Single-celled organisms signal too. Yeast use it to find mates, and bacteria use it to count themselves (<b>quorum sensing</b>).",
+      "points": [
+        "Budding yeast release <b>mating factor</b>, which works much like G-protein signaling in our cells.",
+        "<b>Quorum sensing:</b> bacteria release <b>autoinducers</b>. Once enough bacteria are packed together, the signal gets strong enough to switch on group behaviors.",
+        "Example: <i>Vibrio fischeri</i> in the bobtail squid only glows when the population is dense.",
+        "<b>Biofilms</b> are bacterial colonies held together by signaling. They resist antibiotics and can infect medical implants.",
+        "Yeast have many of the same kinases we do, but no tyrosine kinases. That's why scientists use yeast to study signaling."
+      ],
+      "words": ["mating factor", "quorum sensing", "autoinducer"]
+    }
+  },
+  "answers": {
+    "1": { "a": "b", "why": "Ligands for surface receptors are <b>hydrophilic</b> (water-loving), so they can't cross the oily inside of the membrane." },
+    "2": { "a": "c", "why": "The pituitary releases <b>hormones</b> into the blood that act far away, which is <b>endocrine</b> signaling." },
+    "3": { "a": "b", "why": "Ions are <b>charged</b>, so they can't diffuse through the hydrophobic middle of the membrane. They need a channel." },
+    "4": { "a": "a", "why": "Endocrine signals ride in the <b>bloodstream</b> over long distances, which takes longer." },
+    "5": { "a": "d", "why": "Aldosterone is a <b>steroid</b>, so it's hydrophobic. It crosses the membrane, binds an internal receptor, and turns on genes." },
+    "6": { "a": "d", "why": "A small gas like NO diffuses straight through the membrane, so it acts on a receptor <b>inside</b> the cell." },
+    "7": { "a": "d", "why": "Phospholipase C splits the membrane lipid <b>PIP<sub>2</sub></b> into DAG and IP<sub>3</sub>." },
+    "8": { "a": "c", "why": "Serine, threonine and tyrosine all have a <b>hydroxyl (–OH) group</b>, which is where the phosphate attaches." },
+    "9": { "a": "b", "why": "G-protein-linked receptors often activate adenylyl cyclase, which makes <b>cAMP</b>." },
+    "10": { "a": "c", "why": "Receptor tyrosine kinases <b>pair up (dimerize)</b> first. Then they phosphorylate each other's tyrosines." },
+    "11": { "a": "b", "why": "A phosphatase <b>removes the phosphate group</b> that a kinase added, which turns the signal off." },
+    "12": { "a": "d", "why": "IκB normally holds NF-κB in the cytoplasm. When IκB is phosphorylated, it lets go, and NF-κB enters the nucleus to start transcription." },
+    "13": { "a": "d", "why": "Apoptosis can happen for <b>all</b> of these reasons: infection, damage, or the cell no longer being needed." },
+    "14": { "a": "a", "why": "Damaged cells should die by <b>apoptosis</b>. Cancer cells often dodge it and keep dividing." },
+    "15": { "a": "a", "why": "Epinephrine signaling ramps up <b>metabolism</b>: liver cells break down glycogen and release glucose." },
+    "16": { "a": "b", "why": "Yeast use <b>mating factor</b>. Autoinducers are the bacterial signal." },
+    "17": { "a": "a", "why": "Quorum sensing kicks in once there are <b>enough bacteria</b> (a high enough density)." },
+    "18": { "a": "c", "why": "Mating factor acts on <b>nearby</b> yeast cells, which makes it paracrine." },
+    "19": { "a": "c", "why": "Autoinducers switch on genes that make <b>more autoinducer</b>. That positive feedback makes the response grow with population size." },
+    "20": { "a": "c", "why": "<b>Intra</b> = inside one cell. <b>Inter</b> = between cells." },
+    "21": { "a": "a", "why": "Internal receptors bind <b>hydrophobic</b> ligands and go straight to the nucleus. Surface receptors bind <b>hydrophilic</b> ligands and start a cascade." },
+    "22": { "a": "b", "why": "The ligand opened a channel the dye could pass through, so the receptor must be a <b>ligand-gated ion channel</b>." },
+    "23": { "a": "d", "why": "Cells can have different receptors for the same ligand, or the same receptor hooked up to different downstream proteins, so the response differs." },
+    "24": { "a": "a", "why": "The <b>inside</b> part of the receptor decides which pathway gets switched on, so you'd get the pathway that domain normally triggers." },
+    "25": { "a": "b", "why": "If EGF can't bind its receptor, the growth pathway is <b>blocked</b>, which slows cancer cells that rely on it." },
+    "26": { "a": "d", "why": "Receptors touching the extracellular matrix tell a cell it's in the right place. Cells that lose that contact undergo apoptosis, which helps prevent cancer from spreading." },
+    "27": { "a": "b", "why": "Protein expression: MAP kinase cascade. Metabolism: epinephrine through a G-protein receptor (glycogen breakdown). Cell division: EGF through its receptor tyrosine kinase." },
+    "28": { "a": "c", "why": "RAS stuck holding GTP (always \"on\"), a broken IκB brake, overactive MAPK genes, and a phosphorylation cascade that won't shut off all push cells to keep dividing." },
+    "29": { "a": "b", "why": "Yeast are <b>eukaryotes</b> like us, grow fast and easily, and share many of our signaling proteins." },
+    "30": { "a": "a", "why": "Multicellular organisms have to coordinate cells that are far apart (organs, tissues). Single cells mainly signal nearby cells." },
+    "31": { "why": "Aim at the bacteria's <b>communication</b>: for example, a molecule that blocks autoinducer receptors or destroys autoinducers. Then the bacteria never \"count\" enough neighbors to switch on biofilm genes, and they stay exposed to antibiotics." },
+    "32": { "a": "b", "why": "Yeast mating-factor signaling uses G-protein-style signaling like ours. Similar machinery in yeast and humans suggests it evolved early and was kept. (Yeast have no tyrosine kinases, so (a) is out.)" },
+    "33": { "a": "b", "why": "The messenger travels through the <b>bloodstream</b> to distant liver cells, which is endocrine signaling." },
+    "34": { "a": "d", "why": "<b>Tight junctions</b> seal neighboring cells together so nothing leaks between them, which is how the blood-brain barrier works." },
+    "35": { "a": "c", "why": "With autocrine signaling the cell responds to its own signal, which can make it release even more, amplifying the response." },
+    "36": { "a": "d", "why": "Adenylyl cyclase is the enzyme that <b>makes cAMP</b>. Block it and no cAMP is made. The earlier steps would still happen." },
+    "37": { "a": "c", "why": "Thyroid hormone needs an <b>intracellular receptor</b>. A cell without that receptor can't respond." },
+    "38": { "a": "c", "why": "Acetylcholine receptors at the synapse are <b>ion channels</b>. If they're blocked, ions can't flow into the cell." },
+    "39": { "a": "b", "why": "The FAS receptor triggers <b>apoptosis</b>. Without it, lymphocytes that should die after an infection keep living and damage tissue." },
+    "40": { "a": "d", "why": "Epinephrine binds (3) → G-protein swaps GDP for GTP (5) → G-protein activates adenylyl cyclase (4) → ATP becomes cAMP (6) → protein kinase A activates (1) → glycogen breakdown (2)." },
+    "41": { "a": "b", "why": "RAS normally turns itself off by breaking down GTP. If it can't, it stays <b>permanently active</b>, telling the cell to divide even without a signal." },
+    "42": { "a": "a", "why": "Adrenaline <b>speeds up</b> the heart and raises blood pressure. β-blockers sit on its receptors and block it, so heart rate and pressure come down." }
+  }
+}
