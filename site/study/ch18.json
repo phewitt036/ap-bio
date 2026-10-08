@@ -1,0 +1,130 @@
+{
+  "chapter": 18,
+  "sections": {
+    "18.0": {
+      "big": "Evolution is the one theme that ties all of biology together: every living thing descends from a common ancestor, and evolution is still happening.",
+      "points": [
+        "Example: a green sea slug steals photosynthesis genes from the algae it eats (horizontal gene transfer), so it can photosynthesize like a plant."
+      ],
+      "words": ["theory of evolution"]
+    },
+    "18.1": {
+      "big": "<b>Natural selection</b>: individuals with helpful, inherited traits survive and reproduce more, so those traits become more common over generations.",
+      "points": [
+        "Darwin and Wallace came up with natural selection <b>independently</b>. Darwin's clues included Galápagos finch beaks. Lamarck's wrong idea was <b>inheritance of acquired characteristics</b> (use a body part and your kids get a better one).",
+        "Darwin's three ingredients: traits are <b>inherited</b>, more offspring are born than can survive (<b>competition</b>), and offspring <b>vary</b>. Result: the better-suited leave more offspring.",
+        "<b>Variation</b> must be genetic to matter. It comes from <b>mutation</b> (the only source of brand-new alleles) and <b>sexual reproduction</b> (shuffles them).",
+        "An <b>adaptation</b> is a <i>heritable</i> trait that helps survival and reproduction <i>in the current environment</i>. Change the environment and the best trait can change.",
+        "<b>Divergent evolution</b>: one ancestor, many different forms (human arm, whale flipper). <b>Convergent evolution</b>: unrelated species evolve similar solutions (bat and insect wings).",
+        "Evidence: <b>fossils</b>, <b>homologous structures</b> (same bones, different jobs), <b>vestigial structures</b> (whale hip bones, flightless bird wings), embryos (all vertebrate embryos have gill slits and tails), biogeography (Australia's marsupials), and DNA similarity.",
+        "Evolution is happening now: bacteria becoming antibiotic-resistant.",
+        "Myths to bust: \"just a theory\" (a scientific theory is a heavily tested explanation, not a guess); individuals don't evolve, <b>populations</b> do; evolution doesn't explain the origin of life; evolution has no goal; resistance genes were <i>already there</i> before the antibiotic came."
+      ],
+      "tip": "Homologous = same ancestor (same bones). Analogous/convergent = same job, different ancestors.",
+      "words": ["natural selection", "acquired characteristics", "variation", "adaptation", "divergent evolution", "convergent evolution", "homologous structures", "vestigial structure", "theory of evolution"]
+    },
+    "18.2": {
+      "big": "A <b>species</b> is a group that can interbreed and make <b>fertile, viable</b> offspring. <b>Speciation</b> happens when populations become <b>reproductively isolated</b>.",
+      "points": [
+        "Looks can fool you: poodles and cocker spaniels are one species. Bald eagles and African fish eagles are two. A <b>hybrid</b> between species is usually infertile.",
+        "<b>Allopatric speciation</b> (\"other homeland\"): a geographic barrier splits the population. It happens by <b>dispersal</b> (some members move away) or <b>vicariance</b> (a river, lake or valley forms and divides them). Example: northern vs. Mexican spotted owls.",
+        "<b>Adaptive radiation</b>: one founder species spreads into many niches and becomes many species. Examples: Hawaiian honeycreepers, Darwin's finches.",
+        "<b>Sympatric speciation</b> (\"same homeland\"): no barrier. Often by <b>polyploidy</b> (extra full sets of chromosomes), mostly in plants. <b>Autopolyploid</b> = extra sets from its own species. <b>Allopolyploid</b> = sets from two species (wheat, cotton, tobacco). <b>Aneuploidy</b> = one chromosome too many or too few.",
+        "<b>Prezygotic barriers</b> (before fertilization): <b>temporal</b> (breed at different times), <b>habitat</b>, <b>behavioral</b> (firefly flash patterns), mechanical (parts don't fit), <b>gametic</b> (egg and sperm don't fuse), and different pollinators.",
+        "<b>Postzygotic barriers</b> (after fertilization): hybrid inviability (embryo dies) and hybrid sterility (mule)."
+      ],
+      "tip": "Pre = before the zygote (they never make a baby). Post = a baby is made but it dies or is sterile.",
+      "words": ["species", "speciation", "hybrid", "allopatric speciation", "dispersal", "vicariance", "adaptive radiation", "sympatric speciation", "polyploidy", "autopolyploid", "allopolyploid", "aneuploidy", "reproductive isolation", "prezygotic barrier", "postzygotic barrier", "temporal isolation", "habitat isolation", "behavioral isolation", "gametic barrier"]
+    },
+    "18.3": {
+      "big": "After two species split, they may meet again. And speciation can be slow and steady or happen in sudden bursts.",
+      "points": [
+        "A <b>hybrid zone</b> is where two related species still meet and make hybrids. Three outcomes:",
+        "<b>Reinforcement</b>: hybrids are less fit, so barriers get stronger and the species keep diverging. <b>Fusion</b>: barriers weaken and the two become one species again. <b>Stability</b>: hybrids keep being made with no net change.",
+        "<b>Gradual speciation model</b>: small changes over long periods. Fossils show many in-between forms.",
+        "<b>Punctuated equilibrium</b>: fast change (often a small group cut off by sudden environmental change), then long periods of little change.",
+        "The main thing that changes the speed of speciation is the <b>environment</b>."
+      ],
+      "words": ["hybrid zone", "reinforcement", "gradual speciation model", "punctuated equilibrium"]
+    }
+  },
+  "fix": {
+    "34": { "stem": [0, "A labrador retriever suffers from a mutation while growing. A patch of gold-colored fur turns black.", "Would the same mutation affect this dog's offspring?"] },
+    "36": { "stem": ["A population of flowers was separated into two subpopulations when a new river cut through the plain in which they were growing. The number of interbreeding events per year for the two subpopulations of flowers is shown in the graph (Figure 18.26, the graph next to the dog picture in question 34). Twenty-four years after they were separated, can you conclude that the two subpopulations of flowers have become new species? Why or why not?"] },
+    "54": { "stem": [0, { "t": "table", "rows": [["", "<b>Strains collected from flies in the wild in the 1930s</b>", "<b>Strains collected from flies in the wild in the 1960s</b>"], ["Frequency of allele conferring DDT resistance", "0%", "40%"]] }, 6] },
+    "55": { "opts": ["In most mammals, the ulna is a vestigial structure.", "In bats and bison, forearm rotation is done by some other means.", "Mammals that walk, instead of fly, have a non-vestigial ulna.", "The mammals shown here and humans share a common ancestor which had an ulna."] }
+  },
+  "answers": {
+    "1": { "a": "b", "why": "Both independently came up with <b>natural selection</b>." },
+    "2": { "a": "c", "why": "False: more offspring are born than can survive, so there is <b>always</b> competition for resources." },
+    "3": { "a": "b", "why": "An adaptation must be <b>heritable</b> and help the <b>organism</b> survive and reproduce." },
+    "4": { "a": "b", "why": "Webbed feet are inherited and help ducks swim. Better nutrition isn't inherited." },
+    "5": { "a": "a", "why": "Divergent = groups evolve in <b>different directions from a common point</b>." },
+    "6": { "a": "c", "why": "Worms and snakes are unrelated but both evolved to move without legs: <b>convergent</b>." },
+    "7": { "a": "b", "why": "Homologous = similar structures because of a <b>common ancestor</b>." },
+    "8": { "a": "c", "why": "Whale hind leg bones and cactus leaves don't do their original job anymore: <b>vestigial</b>." },
+    "9": { "a": "c", "why": "Evolution explains how life changes, but it <b>doesn't try</b> to explain how life began." },
+    "10": { "a": "d", "why": "The resistance gene was <b>already there</b>. The antibiotic kills the others, so the gene becomes more common." },
+    "11": { "a": "d", "why": "Species = they interbreed <b>and</b> make viable, fertile offspring." },
+    "12": { "a": "c", "why": "Species are defined by whether they can reproduce together, so scientists look at <b>reproductive barriers</b>." },
+    "13": { "a": "a", "why": "<b>Mutation</b> makes new alleles, and <b>sexual reproduction</b> shuffles them." },
+    "14": { "a": "b", "why": "With no genetic variation, there's nothing for selection to act on, so speciation <b>can't happen</b>." },
+    "15": { "a": "d", "why": "Reproductive organs not fitting stops mating before fertilization, so it's <b>prezygotic</b>, not postzygotic." },
+    "16": { "a": "b", "why": "Different pollinators mean pollen never reaches the other flower. No zygote forms: <b>prezygotic</b>." },
+    "17": { "a": "a", "why": "A new lake physically splits the population, which is <b>geographic</b> separation." },
+    "18": { "a": "c", "why": "The difference is the <b>source</b>: auto = its own species, allo = two different species." },
+    "19": { "a": "a", "why": "Adaptive radiation = <b>many new species from one parent species</b>." },
+    "20": { "a": "b", "why": "Empty niches, isolated habitats and few competitors all help. <b>Genetic drift</b> isn't what drives it." },
+    "21": { "a": "b", "why": "In a hybrid zone they keep <b>reproducing</b> together and making hybrids." },
+    "22": { "a": "d", "why": "Reinforcement = hybrids do poorly, so <b>barriers strengthen</b>." },
+    "23": { "a": "b", "why": "False: punctuated equilibrium usually happens in a <b>small</b> population after a <b>sudden change</b>, not a large one in a stable environment." },
+    "24": { "a": "c", "why": "Speciation needs gene flow to <b>stop</b>. Ongoing gene flow wouldn't fit." },
+    "25": { "a": "d", "why": "Two scientists reaching the same conclusion <b>independently</b> makes that conclusion more credible." },
+    "26": { "a": "a", "why": "If faster running is <b>genetic</b> and helps survival and reproduction, natural selection favors it." },
+    "27": { "a": "d", "why": "Insects and birds both fly with wings built from very different parts: <b>convergent</b> evolution from similar pressures." },
+    "28": { "a": "b", "why": "Vestigial parts are leftovers from a <b>shared ancestor</b>, showing groups evolved from a common point." },
+    "29": { "why": "On land, sperm can't swim through water and pollen-style scattering wouldn't work, so humans evolved <b>internal fertilization</b>: sperm are delivered inside the body, where the egg stays moist and protected. The embryo also develops inside the mother (placenta), protected from drying out." },
+    "30": { "why": "No. A unique gene can appear by <b>mutation</b> or gene duplication and then change over time. The rest of our genome, the universal genetic code, and shared genes with other species still show a common ancestor." },
+    "31": { "why": "Where malaria is common, people with the mutation would have <b>higher fitness</b> because they survive malaria more often, even though they risk anemia. So the allele would become more common there (like sickle-cell)." },
+    "32": { "a": "c", "why": "Scientific theory = thoroughly <b>tested</b> explanation. Everyday \"theory\" = a guess." },
+    "33": { "a": "d", "why": "Evolution is measured as change in species and populations, so the <b>species is the unit</b> you track." },
+    "34": { "a": "d", "why": "A mutation in fur (a body cell) isn't in the <b>sperm or egg</b>, so it can't be passed on." },
+    "35": { "a": "b", "why": "Barriers stop interbreeding, so there's <b>no gene flow</b>, and the populations stay separate species." },
+    "36": { "why": "Interbreeding dropped to <b>zero</b> by about 20 years, which suggests they're reproductively isolated. But to be sure they're new species, you'd test whether they <i>can</i> still make fertile offspring if brought together. If they can't, they're separate species." },
+    "37": { "a": "a", "why": "<b>Allopatric</b> is more common because a physical barrier completely stops gene flow." },
+    "38": { "a": "c", "why": "One finch species spread to different islands, and different <b>foods</b> selected for different beak shapes." },
+    "39": { "a": "b", "why": "If hybrids are <b>more fit</b>, interbreeding continues and the two species fuse into one." },
+    "40": { "a": "c", "why": "The number of frog lineages shoots up recently after a long flat stretch: a <b>sudden jump</b> (punctuated equilibrium) that's still going." },
+    "41": { "a": "c", "why": "<b>Less-fit hybrids</b> lead to reinforcement, so the species keep diverging." },
+    "42": { "a": "c", "why": "The moths that matched the bark survived and reproduced more: <b>differential reproduction</b>." },
+    "43": { "a": "d", "why": "Clean, light bark means dark moths stand out again, so <b>light moths increase</b> and dark moths decrease." },
+    "44": { "a": "d", "why": "Large-scale (macro) evolution means something truly new: the moth <b>develops a new adaptation</b>, not just swapping between existing forms." },
+    "45": { "a": "b", "why": "Many of the same genes (in the same order) appear in both, so <b>humans and mice share some genes</b>." },
+    "46": { "a": "b", "why": "Nearby plants being related, even in different climates, fits <b>descent with modification</b> from local ancestors." },
+    "47": { "a": "c", "why": "A reptile with feathers is an in-between form, showing reptiles and birds share a <b>common ancestor</b>." },
+    "48": { "a": "d", "why": "Penicillin-resistant Staph appeared within decades. That's evolution <b>happening now</b>." },
+    "49": { "a": "b", "why": "The apes' extra chromosome pair lines up with human chromosome 2, so two ape chromosomes <b>fused</b> in humans. The common ancestor had <b>48</b>." },
+    "50": { "a": "a", "why": "The map shows marsupials moving from the Americas through <b>Antarctica</b> to Australia, so Antarctica should have marsupial fossils." },
+    "51": { "a": "d", "why": "Small changes in the embryo have <b>magnified effects</b> on the adult, often deadly, so these genes stay the same." },
+    "52": { "a": "c", "why": "Same ancestor, but the whale's flipper changed shape as an <b>adaptation to water</b>." },
+    "53": { "a": "a", "why": "Dinosaurs started before <b>Pangaea</b> broke up, so their fossils should be on many continents." },
+    "54": { "a": "d", "alt": "a", "why": "With DDT everywhere, flies carrying the resistance allele <b>survived and reproduced more</b>, so the allele rose from 0% to 40%." },
+    "55": { "a": "d", "why": "Even where the ulna is vestigial, it's still there, so these mammals and humans share an <b>ancestor that had an ulna</b>." },
+    "56": { "a": "b", "why": "The drug killed the non-resistant viruses, and the resistant ones multiplied: <b>natural selection</b> happening right now." },
+    "57": { "a": "d", "why": "\"Fittest\" means best at <b>surviving and reproducing</b>, not strongest or biggest." },
+    "58": { "a": "d", "why": "In dish B, all seedlings got the <b>same light</b>, yet some were yellow and some green. That points to genes." },
+    "59": { "a": "b", "why": "About 5 or 6 yellow seedlings showed up whether in light or dark, so their germination is <b>unaffected by light</b>." },
+    "60": { "a": "c", "why": "Yellow seedlings can't photosynthesize, so once their seed food runs out, <b>none survive</b> in either dish." },
+    "61": { "a": "c", "why": "Few, frail hybrids = a <b>postzygotic barrier</b>, which is strong evidence they're separate species." },
+    "62": { "a": "c", "why": "The Devonian extinction hit <b>marine</b> life (reefs, corals, brachiopods, bivalves), so search sediment for marine fossils." },
+    "63": { "a": "d", "why": "Test directly whether they can <b>cross and make fertile offspring</b>, and look for fertile hybrids in between." },
+    "64": { "a": "b", "why": "If they can cross and make <b>fertile offspring</b>, they're still one species." },
+    "65": { "a": "a", "why": "Environment changes, then poorly adapted individuals die more, then the well-adapted leave more offspring, then gene frequencies change, then phenotypes shift." },
+    "66": { "a": "d", "why": "More survived, so there was <b>more food or less predation</b>. Less selection means <b>more variation</b> survives." },
+    "67": { "a": "b", "why": "Big-beaked birds survive and reproduce more, so <b>future generations</b> have more big beaks. Individual beaks don't grow." },
+    "68": { "a": "d", "why": "Being a separate species means <b>reproductive isolation</b>." },
+    "69": { "a": "c", "why": "Gradual = many <b>in-between forms</b>. Punctuated = forms stay the same for many layers, then suddenly change." },
+    "70": { "a": "c", "why": "Separated by location = <b>allopatric</b> speciation." },
+    "71": { "a": "a", "why": "Poor hybrids mean selection favors not mating with the other species: <b>prezygotic barriers strengthen</b> (reinforcement)." }
+  }
+}
