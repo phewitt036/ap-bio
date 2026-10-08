@@ -1,0 +1,140 @@
+{
+  "chapter": 4,
+  "sections": {
+    "4.0": {
+      "big": "The cell is the basic unit of life. Every organism is one cell or many, and every cell comes from another cell.",
+      "points": [
+        "Cells come in two big types: <b>prokaryotes</b> (simple, no nucleus) and eukaryotes (with a nucleus and organelles)."
+      ],
+      "words": ["prokaryote"]
+    },
+    "4.1": {
+      "big": "Cells are too small to see without a <b>microscope</b>, and studying them led to the <b>cell theory</b>.",
+      "points": [
+        "<b>Light microscope</b>: uses light, can view <b>living</b> cells, magnifies about 400–1,000×, and often needs stains for contrast.",
+        "<b>Electron microscope</b>: uses electrons, far higher magnification and resolution, but the specimen is dead. Scanning EM shows 3-D surfaces. Transmission EM shows inside structures.",
+        "History: Hooke named \"cells\" (cork), van Leeuwenhoek saw living microbes, Schleiden (plants) and Schwann (animals) proposed that all living things are made of cells, and Virchow said all cells come from existing cells.",
+        "<b>Cell theory</b> (the <b>unified cell theory</b>): all living things are made of cells, the cell is the basic unit of life, and new cells come from existing cells. (That last part is why sterilizing works: no cells, no new cells.)"
+      ],
+      "words": ["microscope", "light microscope", "electron microscope", "cell theory", "unified cell theory"]
+    },
+    "4.2": {
+      "big": "Prokaryotes (bacteria and archaea) are small and simple: no nucleus and no membrane-bound organelles.",
+      "points": [
+        "All cells have a <b>plasma membrane</b>, <b>cytoplasm</b>, <b>ribosomes</b>, and DNA.",
+        "Prokaryote DNA sits in a <b>nucleoid</b> region. Extras: a <b>cell wall</b> (peptidoglycan in bacteria), capsule, fimbriae (for sticking to surfaces), a <b>flagellum</b> (for swimming), and plasmids.",
+        "Small cells have a high surface-area-to-volume ratio, so nutrients and waste diffuse in and out quickly. That ratio is why cells stay small."
+      ],
+      "tip": "As a cell gets bigger, its volume grows faster than its surface, so it can't feed itself through its membrane anymore.",
+      "words": ["plasma membrane", "cytoplasm", "ribosome", "nucleoid", "cell wall", "flagellum"]
+    },
+    "4.3": {
+      "big": "A <b>eukaryotic cell</b> has a nucleus and many <b>organelles</b>, each doing a specialized job.",
+      "points": [
+        "<b>Plasma membrane</b>: a phospholipid bilayer that controls what goes in and out. Some cells add folds (microvilli) for absorption.",
+        "<b>Cytoplasm</b> = everything between membrane and nucleus. The fluid part is the <b>cytosol</b>.",
+        "<b>Nucleus</b>: holds DNA as <b>chromatin</b> (which condenses into <b>chromosomes</b> for division), surrounded by a double <b>nuclear envelope</b> and filled with <b>nucleoplasm</b>. The <b>nucleolus</b> builds ribosomes.",
+        "<b>Ribosomes</b>: make proteins. Found in all cells.",
+        "<b>Mitochondria</b>: cellular respiration, making ATP. Double membrane with folds (cristae), their own DNA. Muscle cells have lots.",
+        "<b>Peroxisomes</b>: break down fatty acids and toxins, making and then destroying hydrogen peroxide.",
+        "<b>Vesicles</b> and <b>vacuoles</b>: membrane sacs for storage and transport.",
+        "Plant cells add a <b>cell wall</b> (cellulose), <b>chloroplasts</b> (photosynthesis with <b>chlorophyll</b>; double membrane, own DNA), and a big <b>central vacuole</b> (water pressure; also does lysosome-like digestion). Animal cells have <b>lysosomes</b> and a <b>centrosome</b> (centrioles)."
+      ],
+      "words": ["eukaryotic cell", "organelle", "cytosol", "nucleus", "chromatin", "chromosome", "nuclear envelope", "nucleoplasm", "nucleolus", "mitochondria", "peroxisome", "vesicle", "vacuole", "chloroplast", "chlorophyll", "central vacuole", "lysosome", "centrosome"]
+    },
+    "4.4": {
+      "big": "The <b>endomembrane system</b> is the cell's factory and shipping department: the ER, Golgi, lysosomes, vesicles, nuclear envelope and plasma membrane.",
+      "points": [
+        "<b>Rough endoplasmic reticulum (RER)</b>: covered in ribosomes. It makes and folds proteins headed for membranes or export, and is continuous with the nuclear envelope.",
+        "<b>Smooth endoplasmic reticulum (SER)</b>: no ribosomes. It makes lipids and steroid hormones, detoxifies, and stores calcium.",
+        "<b>Golgi apparatus</b>: receives vesicles from the ER at its cis face, modifies and sorts proteins, and ships them out from its trans face.",
+        "Protein path: ribosome on the RER → vesicle → Golgi → vesicle → plasma membrane (secretion) or lysosome.",
+        "<b>Lysosomes</b>: bags of digestive enzymes that break down food, old organelles and pathogens (very busy in macrophages).",
+        "Proteins made on free ribosomes stay in the cytosol and skip the Golgi."
+      ],
+      "words": ["endomembrane system", "endoplasmic reticulum", "rough endoplasmic reticulum", "smooth endoplasmic reticulum", "Golgi apparatus"]
+    },
+    "4.5": {
+      "big": "The <b>cytoskeleton</b> is a network of protein fibers that gives the cell shape, moves things around, and lets cells move.",
+      "points": [
+        "<b>Microfilaments</b> (actin, the thinnest): muscle contraction (with myosin), cell crawling, and cell division pinching. They assemble and disassemble quickly.",
+        "<b>Intermediate filaments</b>: strong ropes that bear tension and hold the nucleus in place. Not involved in movement.",
+        "<b>Microtubules</b> (tubulin, the thickest): tracks for vesicles, pulling chromosomes apart in division, and building centrioles, cilia and flagella. Drugs that block them stop cancer cells from dividing.",
+        "<b>Cilia</b> (short and many, singular <b>cilium</b>) and flagella (long and few) share a 9 + 2 microtubule arrangement. Centrioles have a 9 × 3 arrangement."
+      ],
+      "words": ["cytoskeleton", "microfilament", "intermediate filament", "microtubule", "cilium"]
+    },
+    "4.6": {
+      "big": "Cells connect to and communicate with neighbors through the <b>extracellular matrix</b> and cell junctions.",
+      "points": [
+        "<b>Extracellular matrix</b> (animals): mostly collagen and proteoglycans. It links to the cytoskeleton through membrane proteins, so outside signals can change what's inside.",
+        "<b>Tight junctions</b>: seal neighboring cells so nothing leaks between them (gut lining).",
+        "<b>Desmosomes</b>: spot-welds that hold cells together under stress (skin, heart and muscle).",
+        "<b>Gap junctions</b>: protein channels that let ions and small molecules pass between animal cells (heart muscle signals).",
+        "<b>Plasmodesma</b> (plural plasmodesmata): channels through plant cell walls connecting neighboring cells."
+      ],
+      "words": ["extracellular matrix", "tight junction", "desmosome", "gap junction", "plasmodesma"]
+    }
+  },
+  "answers": {
+    "1": { "a": "d", "why": "<b>Stains</b> add contrast so parts stand out." },
+    "2": { "a": "a", "why": "The <b>cell</b> is the basic unit of life." },
+    "3": { "a": "a", "why": "Cell theory: all living things are <b>made of cells</b>." },
+    "4": { "a": "c", "why": "Scanning EM shows <b>3-D surfaces</b>." },
+    "5": { "a": "c", "why": "<b>Robert Hooke</b> named cells." },
+    "6": { "a": "a", "why": "Seeing that plant and animal cells share nuclei and organelles helped show all life is made of cells." },
+    "7": { "a": "b", "why": "Small prokaryotes rely on <b>diffusion</b>." },
+    "8": { "a": "a", "why": "Fimbriae help bacteria <b>stick</b> to surfaces." },
+    "9": { "a": "b", "why": "Both have cytoplasm, but prokaryotes <b>lack a nucleus</b>." },
+    "10": { "a": "a", "why": "Smaller cells have a <b>higher surface-to-volume ratio</b>." },
+    "11": { "a": "d", "why": "The <b>nucleoplasm</b> is enclosed by the double-membrane nuclear envelope." },
+    "12": { "a": "c", "why": "Their reactions <b>produce</b> hydrogen peroxide." },
+    "13": { "a": "d", "why": "The plant <b>vacuole</b> does the lysosome's digesting." },
+    "14": { "a": "c", "why": "All cells have <b>ribosomes</b>." },
+    "15": { "a": "b", "why": "Prokaryotes have no <b>chloroplasts</b> (no membrane organelles)." },
+    "16": { "a": "c", "why": "DNA is in the <b>nucleus and the mitochondria</b>." },
+    "17": { "a": "c", "why": "The SER makes lipids, including <b>steroid hormones</b>." },
+    "18": { "a": "c", "why": "After the ribosome, proteins go into the ER to be <b>modified</b>." },
+    "19": { "a": "d", "why": "<b>Mitochondria</b> make the ATP." },
+    "20": { "a": "c", "why": "<b>Microfilaments and microtubules</b> rapidly build and break down." },
+    "21": { "a": "d", "why": "<b>Intermediate filaments</b> only bear tension. They don't move things." },
+    "22": { "a": "b", "why": "Actin <b>microfilaments</b> (with myosin) contract muscle." },
+    "23": { "a": "d", "why": "<b>Tight junctions</b> seal cells together." },
+    "24": { "a": "b", "why": "Gap junctions are <b>protein channels</b> between cells." },
+    "25": { "a": "b", "why": "The matrix is mostly <b>collagen</b>." },
+    "26": { "a": "d", "why": "<b>Proteoglycans</b> are part of the matrix." },
+    "27": { "a": "a", "why": "Cells only come from <b>existing cells</b>, so killing them (sterilizing) prevents growth." },
+    "28": { "a": "a", "why": "Light: keeps cells alive but lower resolution. Electron: high detail but costly and kills the specimen." },
+    "29": { "a": "d", "why": "Plants still need mitochondria to <b>break down sugar for ATP</b>." },
+    "30": { "a": "b", "why": "Light microscopes can watch <b>living</b> cells grow." },
+    "31": { "a": "c", "why": "Without a wall, water rushes in and the cells may <b>burst</b>." },
+    "32": { "a": "b", "why": "<b>Surface-to-volume ratio</b> limits how big a cell can get." },
+    "33": { "a": "b", "why": "The wall protects against <b>osmotic pressure</b>, preventing bursting." },
+    "34": { "a": "c", "why": "Bacteria use their <b>plasma membrane</b> for these reactions." },
+    "35": { "a": "a", "why": "Both have double membranes, make ATP and have DNA. Mitochondria have cristae. Chloroplasts have thylakoids, grana and stroma." },
+    "36": { "a": "c", "why": "Yes. The nuclear envelope is <b>continuous with the rough ER</b>." },
+    "37": { "a": "d", "why": "Free-ribosome proteins <b>skip the Golgi</b> and stay in the cytosol." },
+    "38": { "a": "a", "why": "Both are <b>microtubules</b>, arranged differently (9×3 vs 9+2)." },
+    "39": { "a": "a", "why": "No microtubules = no spindle = chromosomes can't separate, so <b>division stops</b>." },
+    "40": { "a": "c", "why": "Cilia are <b>short and many</b>. Flagella are <b>long and few</b>." },
+    "41": { "a": "b", "why": "<b>Muscle and skin</b> handle mechanical stress." },
+    "42": { "a": "a", "why": "Yes. Exposed collagen in damaged vessels triggers <b>platelets to clump</b>, so faulty collagen affects clotting." },
+    "43": { "a": "a", "why": "Gap junctions connect <b>animal</b> cells. Plasmodesmata connect <b>plant</b> cells through their walls." },
+    "44": { "a": "a", "why": "Simple prokaryotes like <b>archaea</b> came first, in a low-oxygen world." },
+    "45": { "a": "a", "why": "Bacteria have no hard parts, so their fossils keep little detail to analyze." },
+    "46": { "a": "c", "why": "The bigger cell B has a <b>smaller surface-to-volume ratio</b>." },
+    "47": { "a": "a", "why": "Cube: volume 1, surface 6. Sphere: volume about 0.52, surface about 3.14. The <b>cube</b> wins both." },
+    "48": { "a": "d", "why": "Sphere: 3.14 ÷ 0.52 = 6. Cube: 6 ÷ 1 = 6. The ratios are <b>equal</b>." },
+    "49": { "a": "d", "why": "A cell must be big enough to hold <b>everything needed for life</b>." },
+    "50": { "a": "b", "why": "Every cell has a <b>cytoplasmic (plasma) membrane</b>." },
+    "51": { "a": "b", "why": "All life shares the <b>same phospholipid-and-protein</b> membrane layout." },
+    "52": { "a": "c", "why": "Endurance muscles need lots of ATP: <b>mitochondria</b>." },
+    "53": { "a": "b", "why": "<b>Lysosomes</b> digest what macrophages eat." },
+    "54": { "a": "c", "why": "No <b>nucleus</b> = prokaryote." },
+    "55": { "a": "b", "why": "It has <b>no membrane-bound organelles</b>, so it's a bacterium despite its size." },
+    "56": { "a": "b", "why": "ER → vesicles → Golgi → vesicles → out of the cell." },
+    "57": { "a": "a", "why": "The matrix links (through membrane proteins) to the <b>cytoskeleton</b>." },
+    "58": { "a": "b", "why": "Only <b>flagella</b> move bacteria. Fimbriae are for sticking." },
+    "59": { "a": "d", "why": "<b>Microvilli</b> add surface area for absorbing nutrients." }
+  }
+}
