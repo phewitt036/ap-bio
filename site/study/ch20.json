@@ -1,0 +1,111 @@
+{
+  "chapter": 20,
+  "sections": {
+    "20.0": {
+      "big": "Scientists organize all life into a family tree based on who evolved from whom.",
+      "points": [
+        "That evolutionary history is called <b>phylogeny</b>. The science of building it is <b>systematics</b>."
+      ],
+      "words": ["phylogeny", "systematics"]
+    },
+    "20.1": {
+      "big": "A <b>phylogenetic tree</b> is a diagram of evolutionary relationships, and <b>taxonomy</b> is the naming system that sorts organisms into nested groups.",
+      "points": [
+        "A <b>rooted</b> tree has one common ancestor at the base. Each <b>branch point</b> is where one lineage split into two.",
+        "<b>Sister taxa</b> come from the same branch point. A <b>basal taxon</b> branches off early and stays unbranched. A <b>polytomy</b> is a branch point with three or more groups.",
+        "Trees show the <b>order</b> of splits, not necessarily how long ago, unless the tree is drawn to a time scale. Branch length doesn't always mean time.",
+        "The <b>taxonomic classification system</b> (Linnaeus): <b>Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species</b>. Each level down holds fewer, more similar organisms. Any one of these groups is a <b>taxon</b>.",
+        "<b>Binomial nomenclature</b>: <i>Genus species</i>, in italics, with the genus capitalized and the species lowercase. Example: <i>Canis lupus</i>."
+      ],
+      "tip": "Remember the order: \"Dear King Philip Came Over For Good Soup.\"",
+      "words": ["phylogenetic tree", "rooted", "branch point", "sister taxa", "basal taxon", "polytomy", "taxonomy", "taxonomic classification system", "taxon", "kingdom", "phylum", "class", "order", "family", "genus", "binomial nomenclature"]
+    },
+    "20.2": {
+      "big": "To build trees, scientists use traits shared because of <b>common ancestry</b>, and they double-check with DNA.",
+      "points": [
+        "<b>Homology</b> = similar because of a shared ancestor (the same bones in a bat wing and a human arm). <b>Analogy</b> = similar because of similar environments, not shared ancestry (bird wings and insect wings). Only homologous traits belong on a tree.",
+        "Looks can mislead. DNA comparison (<b>molecular systematics</b>) shows true relatedness: the more DNA two species share, the more closely related they are.",
+        "<b>Cladistics</b> sorts organisms into <b>clades</b>. A clade is a <b>monophyletic group</b>: one ancestor plus <i>all</i> of its descendants. Trees built this way are <b>cladograms</b>.",
+        "A <b>shared ancestral character</b> is shared by the whole group (like a backbone in vertebrates). A <b>shared derived character</b> appeared later and marks a smaller clade within it (like hair in mammals).",
+        "<b>Maximum parsimony</b>: choose the tree with the <b>fewest evolutionary changes</b>, because it's the simplest explanation."
+      ],
+      "tip": "A clade is like a branch you snip off the tree: you get one ancestor and everything above it.",
+      "words": ["homology", "analogy", "molecular systematics", "cladistics", "monophyletic group", "cladograms", "shared ancestral character", "shared derived character", "maximum parsimony", "parsimony"]
+    },
+    "20.3": {
+      "big": "Real evolution is messier than a neat tree, because genes also jump <b>sideways</b> between unrelated species.",
+      "points": [
+        "<b>Horizontal gene transfer (HGT)</b> = genes pass between species, not from parent to offspring.",
+        "In prokaryotes, HGT happens through transformation (taking up DNA), transduction (viruses carry it), conjugation (a direct bridge), and <b>gene transfer agents (GTAs)</b> (small virus-like particles). This is how antibiotic resistance spreads.",
+        "HGT happens in eukaryotes too, for example through transposons (jumping genes, found by Barbara McClintock).",
+        "<b>Genome fusion</b>: eukaryotes likely came from a bacterium and an archaeon merging. Mitochondria and chloroplasts came from <b>endosymbiosis</b>.",
+        "Which came first? The <b>mitochondria-first hypothesis</b>, the <b>nucleus-first hypothesis</b>, and the <b>eukaryote-first hypothesis</b> (prokaryotes came from eukaryotes by losing parts).",
+        "New models: the <b>web of life</b> (a tangled network showing gene sharing) and the <b>ring of life</b> (all three domains came from a pool of early prokaryotes)."
+      ],
+      "words": ["horizontal gene transfer", "gene transfer agent", "genome fusion", "mitochondria-first hypothesis", "nucleus-first hypothesis", "eukaryote-first hypothesis", "web of life", "ring of life"]
+    }
+  },
+  "fix": {
+    "40": { "opts": ["Mitochondria and chloroplasts are closely related to each other.", "Mitochondria and chloroplasts have a common ancestor, which was a gram negative bacteria.", "Chloroplasts are closely related to chlamydia.", "Mitochondria are closely related to multiple gram positive bacteria."] },
+    "43": {
+      "stem": ["Five new species of bacteria were discovered in Antarctic ice core samples. The nucleotide (base) sequences of rRNA subunits were determined for the new species. The table below shows the number of nucleotide differences between the species.", { "t": "table", "rows": [["<b>Species</b>", "<b>1</b>", "<b>2</b>", "<b>3</b>", "<b>4</b>", "<b>5</b>"], ["1", "-", "3", "19", "18", "27"], ["2", "", "-", "19", "18", "26"], ["3", "", "", "-", "1", "27"], ["4", "", "", "", "-", "27"]] }, 2],
+      "opts": [
+        "<img class=\"choice\" src=\"img/c20/p824-12.jpg\" width=\"132\" height=\"255\" alt=\"Tree: 2 on its own branch; 5 and 1 together; 3 and 4 together\">",
+        "<img class=\"choice\" src=\"img/c20/p825-13.jpg\" width=\"132\" height=\"255\" alt=\"Tree: 4 first, then 3 and 5 together; 1 and 2 together\">",
+        "<img class=\"choice\" src=\"img/c20/p825-14.jpg\" width=\"132\" height=\"255\" alt=\"Tree: 5 first; then 3 and 4 together, sister to 2 and 1 together\">",
+        "<img class=\"choice\" src=\"img/c20/p825-15.jpg\" width=\"132\" height=\"255\" alt=\"Tree: 5, then 3, then 4, then 1 and 2 together\">"
+      ]
+    },
+    "44": { "stem": [3, 4] }
+  },
+  "answers": {
+    "1": { "a": "a", "why": "<b>Carl Linnaeus</b> created the naming and ranking system we still use." },
+    "2": { "a": "b", "why": "The <b>taxonomic classification system</b> is nested (hierarchical): domain down to species." },
+    "3": { "a": "c", "why": "<b>D</b>omain, <b>K</b>ingdom, <b>P</b>hylum, <b>C</b>lass, <b>O</b>rder, <b>F</b>amily, <b>G</b>enus, <b>S</b>pecies." },
+    "4": { "a": "b", "why": "Right below kingdom is <b>phylum</b>, the next biggest group." },
+    "5": { "a": "c", "why": "Systematics combines data from many sources about evolutionary relationships to build a <b>phylogeny</b>." },
+    "6": { "a": "c", "why": "Systematists build, update and maintain the <b>tree of life</b>." },
+    "7": { "a": "c", "why": "Phylogenetic trees show <b>evolutionary pathways and connections</b>." },
+    "8": { "a": "b", "why": "Rooted = everything traces back to <b>one common ancestor</b>." },
+    "9": { "a": "c", "why": "They found a <b>DNA marker</b> in medicinal legumes and used it to screen plants for possible medicines." },
+    "10": { "a": "c", "why": "Rabbit and human (mammals) have hair. Hair is inside the Amniota clade, so the <b>amniotic egg came first</b>." },
+    "11": { "a": "a", "why": "The animals + fungi + plants clade includes three groups, the most of any choice." },
+    "12": { "a": "b", "why": "Trees show <b>ancestry</b>, so only <b>homologous</b> traits (from shared ancestors) count." },
+    "13": { "a": "c", "why": "Bird and butterfly wings both fly but don't share an origin: <b>analogous</b>." },
+    "14": { "a": "a", "why": "Ring of life = all three domains came from a <b>pool of primitive prokaryotes</b>." },
+    "15": { "a": "d", "why": "Genes and organelles moving between many different lineages is the tangled <b>web of life</b>." },
+    "16": { "a": "d", "why": "The classic tree ignores <b>horizontal gene transfer</b> between unrelated species." },
+    "17": { "a": "a", "why": "The three hypotheses: <b>mitochondria first</b>, <b>nucleus first</b>, or <b>eukaryotes first</b> (prokaryotes came from them by losing genes)." },
+    "18": { "a": "b", "why": "In all three models, Y1 and Y2 hang off the <b>same branch</b>." },
+    "19": { "a": "c", "why": "Only resistant cells grow on ampicillin. Plate <b>IV</b> (plasmid + ampicillin) shows only those colonies." },
+    "20": { "a": "a", "why": "It's hierarchical, and at each lower level the organisms are <b>more similar</b>." },
+    "21": { "a": "b", "why": "Italicize both words. Capitalize the <b>genus</b>, keep the species lowercase: <i>Homo sapiens</i>." },
+    "22": { "a": "d", "why": "The giant panda and spectacled bear branch off <b>first</b>, closest to the root." },
+    "23": { "a": "d", "why": "A tree only shows time if it's drawn with <b>how long ago</b> the splits happened." },
+    "24": { "why": "A scientific hypothesis has to be <b>testable</b> and possible to prove wrong with evidence. A supernatural event can't be tested or measured, so it isn't a scientific hypothesis." },
+    "25": { "a": "d", "why": "Cladistics groups organisms into clades, which are <b>monophyletic groups</b>." },
+    "26": { "a": "b", "why": "Everything in a clade comes from <b>one branch point</b>: an ancestor and all its descendants." },
+    "27": { "a": "a", "why": "Parsimony picks the simplest tree (fewest changes), which is most likely to <b>describe phylogeny accurately</b>." },
+    "28": { "why": "Compare it to its closest relatives using <b>shared derived characters</b>: physical traits that are new in its line, and especially its <b>DNA</b>. Traits the others lack (or DNA differences) set it apart within the clade." },
+    "29": { "why": "<b>The cougar.</b> The jungle cat and cougar share a more recent branch point (in the group that split off from Panthera). The tiger is in Panthera, which split away earlier." },
+    "30": { "a": "b", "why": "The filter blocks cell-to-cell contact, so <b>conjugation</b> (which needs a bridge between cells) is out. That leaves <b>transformation</b> (free DNA passes through), <b>transduction</b> (viruses pass through), and a new <b>mutation</b>." },
+    "31": { "a": "d", "why": "The fig-shaped model shows gene sharing between lineages, so it can show <b>organelles coming in by horizontal transfer</b>." },
+    "32": { "a": "b", "why": "Hornworts and <b>mosses</b> join at the most recent branch point." },
+    "33": { "a": "d", "why": "The branch point that joins charophytes with land plants is labeled <b>sporopollenin</b> biosynthesis." },
+    "34": { "a": "a", "why": "D and E are sister species (most recent shared ancestor), so they share more DNA with each other." },
+    "35": { "a": "b", "why": "Parsimony = the <b>shortest tree with the fewest changes</b>." },
+    "36": { "a": "a", "why": "Dolphins are mammals and fish aren't. Their body shapes match because of the <b>same environment</b> (water): analogous." },
+    "37": { "a": "d", "why": "Computers compare DNA sequences, and together with body features that makes trees <b>more accurate</b>." },
+    "38": { "a": "c", "why": "Mitochondria and chloroplasts sit in <b>different</b> parts of the bacteria tree, so they came from <b>two separate</b> endosymbiosis events." },
+    "39": { "a": "b", "why": "They look alike but aren't closely related: <b>convergent evolution</b>." },
+    "40": { "a": "b", "why": "Both sit within the <b>gram-negative</b> bacteria, so they share a gram-negative ancestor." },
+    "41": { "a": "c", "why": "Plant chloroplast DNA branches from cyanobacteria at the base of the tree: <b>early endosymbiosis</b>." },
+    "42": { "a": "b", "why": "Too big gets eaten, too small gets cold. The <b>middle</b> wins: stabilizing selection." },
+    "43": { "a": "c", "why": "1 and 2 differ by only 3 bases, and 3 and 4 by only 1, so each pair goes together. Species 5 is about 27 different from everyone, so it branches off <b>first</b>." },
+    "44": { "a": "c", "why": "Count the shared traits. Lancelet (notochord only) branches first, then shark (+ vertebrae), frog (+ lungs), snake (+ amniotic egg), ostrich (+ feathers, endotherm)." },
+    "45": { "a": "c", "why": "Transposons are <b>segments of DNA</b> that jump around the genome." },
+    "46": { "a": "b", "why": "HGT = genes moving between species <b>other than parent to offspring</b>." },
+    "47": { "a": "d", "why": "<b>Horizontal gene transfer</b> doesn't go through reproduction." },
+    "48": { "a": "a", "why": "Small virus-like particles that carry genes = <b>gene transfer agents</b>." }
+  }
+}
