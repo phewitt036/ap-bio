@@ -1,0 +1,97 @@
+{
+  "chapter": 29,
+  "sections": {
+    "29.0": {
+      "big": "Skeletons support the body and protect organs, and muscles pulling on them make movement possible.",
+      "points": [
+        "Movement depends on bones, the <b>joints</b> between them, and muscles that contract using ATP."
+      ],
+      "words": ["joint"]
+    },
+    "29.1": {
+      "big": "There are three kinds of skeleton: fluid-filled, outside armor, or inside bones.",
+      "points": [
+        "<b>Hydrostatic skeleton</b>: fluid under pressure in a body cavity (earthworms, jellyfish, sea stars). Muscles squeeze the fluid to move, often by peristalsis.",
+        "<b>Exoskeleton</b>: hard outer shell of chitin (and calcium carbonate in crabs and lobsters). It has to be shed (molted) to grow, and it limits size.",
+        "<b>Endoskeleton</b>: internal bones and cartilage that grow with the animal (vertebrates, plus sponges' spicules).",
+        "<b>Axial skeleton</b> (the body's center line): the <b>skull</b> (<b>cranial bones</b> around the brain plus <b>facial bones</b>), the <b>auditory ossicles</b> and <b>hyoid bone</b>, the <b>vertebral column</b> (supports the head, protects the spinal cord; cushioned by <b>intervertebral discs</b>), and the <b>thoracic cage</b> (<b>ribs</b> + <b>sternum</b>, protects the heart and lungs).",
+        "<b>Appendicular skeleton</b> (limbs and girdles): the <b>pectoral girdle</b> (<b>clavicle</b>, <b>scapula</b>), arm (<b>humerus</b>, then the <b>forearm</b>: <b>radius</b> and <b>ulna</b>), hand (<b>carpus</b>, <b>metacarpus</b>, <b>phalanges</b>). The <b>pelvic girdle</b> (<b>coxal bones</b>), <b>lower limb</b> (<b>femur</b>, <b>patella</b>, <b>tibia</b>, <b>fibula</b>), foot (<b>tarsals</b>, <b>metatarsals</b>, phalanges)."
+      ],
+      "words": ["hydrostatic skeleton", "exoskeleton", "endoskeleton", "axial skeleton", "skull", "cranial bone", "facial bone", "auditory ossicle", "hyoid bone", "vertebral column", "intervertebral disc", "thoracic cage", "rib", "sternum", "appendicular skeleton", "pectoral girdle", "clavicle", "scapula", "humerus", "forearm", "radius", "ulna", "carpus", "metacarpus", "phalange", "pelvic girdle", "coxal bone", "lower limb", "femur", "patella", "tibia", "fibula", "tarsal", "metatarsal"]
+    },
+    "29.2": {
+      "big": "<b>Bone</b> is living tissue that is constantly being built and broken down. It also stores calcium.",
+      "points": [
+        "Shapes: <b>long bones</b> (shaft + two ends, like the femur), <b>short bones</b> (cube-shaped, wrist and ankle), <b>flat bones</b> (skull, ribs), <b>sutural (suture) bones</b> (small bones in skull sutures), <b>sesamoid bones</b> (small, flat, inside tendons, like the kneecap), <b>irregular bones</b> (vertebrae).",
+        "<b>Osseous tissue</b>: <b>compact bone</b> is built from <b>osteons</b> (rings of <b>lamellae</b> around a <b>Haversian canal</b> carrying vessels and nerves). <b>Spongy bone tissue</b> is a lattice of <b>trabeculae</b> that holds red marrow.",
+        "Cells: <b>osteoblasts</b> build bone, <b>osteocytes</b> are mature bone cells, <b>osteoclasts</b> break bone down (<b>resorption</b>), releasing calcium.",
+        "<b>Ossification</b> (bone formation): <b>intramembranous ossification</b> (flat bones of the skull and the clavicle) and <b>endochondral ossification</b> (cartilage replaced by bone, as in long bones). <b>Calcification</b> = calcium salts deposited.",
+        "Long bones grow in length at the <b>epiphyseal plate</b> (between the <b>diaphysis</b> shaft and the <b>epiphysis</b> ends). It closes after puberty; closing early means short stature. Growth in width = <b>appositional growth</b>.",
+        "<b>Bone remodeling</b> balances osteoblasts and osteoclasts. Osteoporosis = too much breakdown."
+      ],
+      "words": ["bone", "long bone", "short bone", "flat bone", "suture bone", "sesamoid bone", "irregular bone", "osseous tissue", "compact bone", "osteon", "lamella", "Haversian canal", "spongy bone tissue", "trabeculae", "osteoblast", "osteocyte", "osteoclast", "resorption", "ossification", "intramembranous ossification", "endochondral ossification", "calcification", "epiphyseal plate", "diaphysis", "epiphysis", "appositional growth", "bone remodeling"]
+    },
+    "29.3": {
+      "big": "A <b>joint</b> (<b>articulation</b>) is where bones meet. The more a joint moves, the weaker it is.",
+      "points": [
+        "By structure: <b>fibrous joints</b> (no cavity, held by fibers: <b>sutures</b> in the skull, <b>syndesmosis</b>, <b>gomphosis</b> for teeth), <b>cartilaginous joints</b> (<b>synchondrosis</b>, <b>symphysis</b> like the discs between vertebrae), <b>synovial joints</b> (fluid-filled cavity, most movable, weakest).",
+        "By movement: <b>synarthrosis</b> (immovable), <b>amphiarthrosis</b> (slightly movable), <b>diarthrosis</b> (freely movable).",
+        "Movements: <b>gliding movement</b>; <b>angular movement</b> such as <b>flexion</b> (bend), <b>extension</b> (straighten), <b>hyperextension</b>, <b>abduction</b> (away from the midline), <b>adduction</b> (toward it), <b>circumduction</b> (circle); <b>rotational movement</b> such as <b>medial rotation</b> and <b>lateral rotation</b>.",
+        "Special movements: <b>supination</b> and <b>pronation</b> (palm up, palm down), <b>dorsiflexion</b> and <b>plantar flexion</b> (toes up, toes down), <b>inversion</b> and <b>eversion</b> (sole in, sole out), <b>protraction</b> and <b>retraction</b>, <b>elevation</b> and <b>depression</b>, <b>opposition</b> (thumb touching fingers).",
+        "Synovial joint types: <b>planar joint</b> (gliding, wrist bones), <b>hinge joint</b> (elbow, knee), <b>pivot joint</b> (rotation, like the top of the neck), <b>condyloid joint</b> (wrist), <b>saddle joint</b> (thumb), <b>ball-and-socket joint</b> (shoulder, hip: most movement)."
+      ],
+      "words": ["articulation", "fibrous joint", "suture", "syndesmosis", "gomphosis", "cartilaginous joint", "synchondrosis", "symphysis", "synovial joint", "synarthrosis", "amphiarthrosis", "diarthrosis", "gliding movement", "angular movement", "flexion", "extension", "hyperextension", "abduction", "adduction", "circumduction", "rotational movement", "medial rotation", "lateral rotation", "supination", "pronation", "dorsiflexion", "plantar flexion", "inversion", "eversion", "protraction", "retraction", "elevation", "depression", "opposition", "planar joint", "hinge joint", "pivot joint", "condyloid joint", "saddle joint", "ball-and-socket joint"]
+    },
+    "29.4": {
+      "big": "Muscles contract when <b>myosin</b> pulls <b>actin</b> filaments together, powered by ATP and switched on by calcium.",
+      "points": [
+        "Three muscle types: <b>skeletal muscle tissue</b> (voluntary, striped), <b>cardiac muscle</b> (heart, involuntary), <b>smooth muscle</b> (organs and blood vessels, involuntary).",
+        "Structure: a muscle fiber (cell, wrapped in the <b>sarcolemma</b>) is packed with <b>myofibrils</b>, which are made of <b>myofilaments</b> arranged in repeating <b>sarcomeres</b>. <b>Thick filaments</b> = myosin. <b>Thin filaments</b> = actin.",
+        "Sliding filament model: myosin heads grab actin and pull, so the sarcomere shortens. The filaments themselves don't shrink; they slide past each other (the H zone shrinks, the A band stays the same).",
+        "ATP lets myosin <b>let go</b> and reset. No ATP = myosin stuck to actin (rigor mortis).",
+        "Control: at rest, <b>tropomyosin</b> covers the binding sites on actin. A nerve signal at the <b>motor end plate</b> releases acetylcholine → Ca²⁺ is released → Ca²⁺ binds <b>troponin</b> → tropomyosin moves aside → contraction. <b>Acetylcholinesterase</b> clears acetylcholine to stop it.",
+        "More force = more motor units firing at once."
+      ],
+      "tip": "Calcium unlocks, myosin pulls, ATP releases.",
+      "words": ["skeletal muscle tissue", "cardiac muscle", "smooth muscle", "sarcolemma", "myofibril", "myofilament", "sarcomere", "thick filament", "thin filament", "myosin", "actin", "tropomyosin", "troponin", "motor end plate", "acetylcholinesterase"]
+    }
+  },
+  "answers": {
+    "1": { "a": "a", "why": "Fluid pressure in the coelom = <b>hydrostatic skeleton</b>." },
+    "2": { "a": "b", "why": "A <b>lobster</b> has an exoskeleton it must molt to grow." },
+    "3": { "a": "b", "why": "The vertebral column <b>supports the head</b> (and protects the spinal cord)." },
+    "4": { "a": "d", "why": "The thoracic cage protects the <b>heart</b> and lungs." },
+    "5": { "a": "b", "why": "A hard outside layer = <b>exoskeleton</b>." },
+    "6": { "a": "c", "why": "Animals with hydrostatic skeletons, like <b>sea stars</b>, move this way." },
+    "7": { "a": "c", "why": "Cube-shaped bones in the wrist and ankle = <b>short bones</b>." },
+    "8": { "a": "a", "why": "Sesamoid = <b>small and flat</b>. Short = about <b>equal height and width</b> (cube-like)." },
+    "9": { "a": "a", "why": "<b>Osteoclasts</b> break down (resorb) bone." },
+    "10": { "a": "a", "why": "Osteoclasts release calcium from bone. If they don't work, blood calcium stays low." },
+    "11": { "a": "d", "why": "Long bones like the <b>femur</b> form from cartilage (endochondral). The skull and clavicle are intramembranous." },
+    "12": { "a": "b", "why": "If the growth plate closes early, the bones stop lengthening: <b>short stature</b>." },
+    "13": { "a": "d", "why": "Shaft + two ends = <b>long bone</b>." },
+    "14": { "a": "c", "why": "These are cartilaginous joints, held by <b>cartilage</b>." },
+    "15": { "a": "b", "why": "Synovial fluid <b>lubricates</b> the joint." },
+    "16": { "a": "a", "why": "The <b>elbow</b> includes a pivot joint, where the radius rotates against the ulna." },
+    "17": { "a": "c", "why": "Turning your head <b>away from the midline</b> = lateral rotation." },
+    "18": { "a": "a", "why": "Skull <b>sutures</b> are fibrous joints." },
+    "19": { "a": "c", "why": "The more a joint moves, the weaker it is. <b>Synovial</b> joints move the most." },
+    "20": { "a": "d", "why": "<b>Skeletal</b> muscle is voluntary." },
+    "21": { "a": "a", "why": "Smooth muscle in vessel walls controls <b>blood flow and pressure</b>." },
+    "22": { "a": "b", "why": "<b>Tropomyosin</b> covers the myosin-binding sites at rest." },
+    "23": { "a": "b", "why": "The filaments <b>don't shorten</b>. They slide past each other." },
+    "24": { "a": "c", "why": "Myofibrils are made of <b>myofilaments</b> (actin and myosin)." },
+    "25": { "a": "c", "why": "Pull out the fluid and it collapses: <b>hydrostatic</b> skeleton." },
+    "26": { "a": "a", "why": "Chitin exoskeletons (like crabs') are often hardened with <b>calcium carbonate</b>." },
+    "27": { "a": "b", "why": "Osteoclasts use lysosomal enzymes to break down bone. Faulty lysosomes → <b>skeletal deformities and calcium problems</b>." },
+    "28": { "a": "b", "why": "A pianist needs the arm, wrist and hand bones, including the finger <b>phalanges</b>. Leg and foot bones aren't key." },
+    "29": { "a": "d", "why": "Bad collagen = <b>weak bones that break easily</b>, and often thinner or shorter bones." },
+    "30": { "a": "c", "why": "<b>Slow osteoclasts</b> (less breakdown) and/or <b>boost osteoblasts</b> (more building)." },
+    "31": { "a": "b", "why": "Of the ball-and-socket joints, the <b>hip</b> (less movement) has far fewer injuries than the shoulder." },
+    "32": { "a": "d", "why": "Touching your toes <b>bends at the hip</b> (flexion) with <b>straight knees</b> (extension)." },
+    "33": { "a": "c", "why": "A rodent has sutures like ours, so the shared mammal <b>ancestor likely had them</b>." },
+    "34": { "a": "b", "why": "Voluntary = you control it (<b>skeletal</b>). Involuntary = automatic (<b>cardiac</b>)." },
+    "35": { "a": "c", "why": "Without ATP, myosin <b>can't let go</b> of actin. In the living that's like writer's cramp; after death it's rigor mortis." },
+    "36": { "a": "d", "why": "Voluntary = <b>skeletal</b>. Involuntary = <b>cardiac</b> (and smooth)." }
+  }
+}
