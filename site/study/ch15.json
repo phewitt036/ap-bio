@@ -1,0 +1,125 @@
+{
+  "chapter": 15,
+  "sections": {
+    "15.0": {
+      "big": "A <b>gene</b> is a stretch of DNA with instructions for making an RNA or protein. This chapter shows how cells read those instructions.",
+      "points": [
+        "Genetic testing raises real questions about privacy and fairness.",
+        "In the U.S., the Genetic Information Nondiscrimination Act (2008) bans health insurers and employers from discriminating based on your genes."
+      ],
+      "words": ["Central Dogma"]
+    },
+    "15.1": {
+      "big": "<b>Central Dogma:</b> DNA → (transcription) → mRNA → (translation) → protein. The <b>genetic code</b> reads mRNA three letters (one <b>codon</b>) at a time.",
+      "points": [
+        "4 bases, read in groups of 3, give 4<sup>3</sup> = <b>64 codons</b> for 20 amino acids. Pairs of bases (4<sup>2</sup> = 16) wouldn't be enough.",
+        "The code is <b>degenerate</b>: most amino acids have more than one codon, which softens the effect of many mutations.",
+        "<b>AUG</b> is the start codon (methionine). <b>UAA, UAG and UGA</b> are stop codons.",
+        "The code is <b>universal</b>: almost every organism uses the same code, which is strong evidence for a common origin.",
+        "Exceptions: HIV (a retrovirus) copies RNA back into DNA with <b>reverse transcriptase</b>. Flu viruses copy RNA to RNA."
+      ],
+      "words": ["Central Dogma", "codon", "degeneracy", "start codon", "nonsense codon", "reading frame"]
+    },
+    "15.2": {
+      "big": "In bacteria, <b>RNA polymerase</b> binds a <b>promoter</b>, unwinds the DNA, builds mRNA 5'→3', and stops at a <b>terminator</b>.",
+      "points": [
+        "Only the <b>template strand</b> is read. The mRNA matches the <b>nontemplate strand</b>, except with U instead of T.",
+        "The <b>σ (sigma)</b> subunit finds the promoter's −35 and −10 (TATAAT) sequences. Without σ, the polymerase would start in random places.",
+        "Ending: <b>rho-dependent</b> termination (a protein knocks the polymerase off) or <b>rho-independent</b> termination (the mRNA folds into a GC-rich <b>hairpin</b>).",
+        "No nucleus means bacteria can transcribe and translate the <b>same mRNA at the same time</b>."
+      ],
+      "words": ["promoter", "template strand", "nontemplate strand", "transcription bubble", "core enzyme", "holoenzyme", "consensus", "Rho-dependent termination", "hairpin"]
+    },
+    "15.3": {
+      "big": "Eukaryotic transcription works the same basic way, but with <b>three RNA polymerases</b>, complex promoters, and lots of <b>transcription factors</b>.",
+      "points": [
+        "<b>Pol I</b> (nucleolus) makes most rRNAs. <b>Pol II</b> makes all protein-coding pre-mRNAs. <b>Pol III</b> makes tRNAs, 5S rRNA and small RNAs.",
+        "Death-cap mushroom poison (α-amanitin) blocks pol II strongly, pol III partly, and pol I not at all.",
+        "Promoters include a <b>TATA box</b> (about −30), plus CAAT and GC boxes. <b>TFII</b> transcription factors assemble first and then recruit pol II.",
+        "Enhancers and silencers fine-tune how much a gene is transcribed.",
+        "The FACT complex moves histones out of the way as the polymerase moves along."
+      ],
+      "words": ["TATA box", "CAAT box", "GC-rich box", "preinitiation complex", "FACT"]
+    },
+    "15.4": {
+      "big": "Eukaryotic pre-mRNA gets edited before it leaves the nucleus: a <b>cap</b>, a <b>tail</b>, and <b>splicing</b>.",
+      "points": [
+        "<b>5' cap</b> (7-methylguanosine): protects the mRNA and helps ribosomes find it.",
+        "<b>3' poly-A tail</b> (about 200 A's): more protection, and it helps export the mRNA.",
+        "<b>Splicing:</b> <b>spliceosomes</b> cut out <b>introns</b> (in-the-way parts) and join <b>exons</b> (expressed parts) with single-nucleotide precision.",
+        "<b>Alternative splicing</b> joins exons in different combinations, so one gene can make several proteins.",
+        "tRNAs and rRNAs are trimmed and methylated. tRNAs fold so the <b>anticodon</b> is at one end and the amino acid at the other."
+      ],
+      "tip": "<b>Ex</b>ons are <b>ex</b>pressed. <b>In</b>trons are <b>in</b> the way and get cut out.",
+      "words": ["7-methylguanosine cap", "poly-A tail", "intron", "exon", "splicing", "RNA editing", "anticodon"]
+    },
+    "15.5": {
+      "big": "<b>Translation:</b> a <b>ribosome</b> reads the mRNA codon by codon while <b>tRNAs</b> bring the matching amino acids, linking them into a polypeptide.",
+      "points": [
+        "<b>Aminoacyl tRNA synthetases</b> (at least 20, one per amino acid) load each tRNA with its correct amino acid.",
+        "<b>Initiation:</b> the small subunit finds the start (Shine-Dalgarno sequence in bacteria, the 5' cap and Kozak sequence in eukaryotes). The initiator tRNA (Met) pairs with AUG, and the large subunit joins.",
+        "<b>Elongation:</b> tRNAs enter the <b>A site</b>, the growing chain sits in the <b>P site</b>, and empty tRNAs leave from the <b>E site</b>. <b>Peptidyl transferase</b>, which is rRNA, forms each peptide bond.",
+        "<b>Termination:</b> a stop codon brings in a release factor, and the protein is let go.",
+        "Afterwards, proteins fold (sometimes with <b>chaperones</b>), get modified, and follow <b>signal sequences</b> to where they belong."
+      ],
+      "tip": "Ribosome sites in order: <b>A</b>rrive → <b>P</b>eptide bond → <b>E</b>xit.",
+      "words": ["aminoacyl tRNA synthetase", "initiator tRNA", "Shine-Dalgarno sequence", "Kozak’s rules", "peptidyl transferase", "polysome", "signal sequence"]
+    }
+  },
+  "fix": {
+    "7": { "stem": [0], "opts": ["α", "β", "β′", "σ"] }
+  },
+  "answers": {
+    "1": { "a": "a", "why": "DNA → mRNA → protein. tRNA helps, but it isn't a step in the flow of information." },
+    "2": { "a": "b", "why": "The DNA (from virus A) carries the instructions, so the new viruses have A's DNA <i>and</i> A's protein coat." },
+    "3": { "a": "b", "why": "More than one codon for the same amino acid means the code is <b>degenerate</b>." },
+    "4": { "a": "c", "why": "12 codons × 3 nucleotides = <b>36</b>." },
+    "5": { "a": "c", "why": "Proteins are the <i>product</i> of genetic information. They don't store it the way DNA and RNA do." },
+    "6": { "a": "b", "why": "<b>mRNA</b> is a temporary working copy. The original (DNA) stays safe in the nucleus." },
+    "7": { "a": "d", "why": "The <b>σ (sigma)</b> subunit recognizes the promoter, so transcription starts in the right place." },
+    "8": { "a": "b", "why": "\"Consensus\" means <b>similar</b> across bacterial species, not identical." },
+    "9": { "a": "d", "why": "The <b>terminator</b> sequence ends transcription. A stop codon ends <i>translation</i>." },
+    "10": { "a": "a", "why": "<b>It depends on the gene</b>: rho-independent genes stop with a hairpin and don't need rho." },
+    "11": { "a": "c", "why": "Both have a <b>TATA box</b> (TATAAT in bacteria at −10, TATAAAA in eukaryotes)." },
+    "12": { "a": "b", "why": "TFII factors build the preinitiation complex during <b>initiation</b>." },
+    "13": { "a": "c", "why": "<b>Polymerase III</b> makes 5S rRNA, tRNAs and small RNAs." },
+    "14": { "a": "d", "why": "Pol II is <b>extremely sensitive</b> to α-amanitin, and it makes the <b>pre-mRNAs</b>." },
+    "15": { "a": "c", "why": "The nucleus separates them: eukaryotes transcribe in the nucleus and translate in the cytoplasm, so the two <b>don't happen at the same time</b>." },
+    "16": { "a": "b", "why": "The poly-A tail goes on the <b>3' end</b>, while the transcript is still <b>in the nucleus</b>." },
+    "17": { "a": "d", "why": "Ribosomes recognize the <b>5' cap</b> to start translation." },
+    "18": { "a": "d", "why": "rRNAs are made and assembled in the <b>nucleolus</b>." },
+    "19": { "a": "b", "why": "Adding methyl groups (<b>methylation</b>) stabilizes pre-tRNAs and pre-rRNAs." },
+    "20": { "a": "d", "why": "Introns are <b>untranslated</b> stretches inside a gene that get spliced out." },
+    "21": { "a": "c", "why": "AUG codes for <b>methionine</b>, so that's usually the first amino acid." },
+    "22": { "a": "a", "why": "At least one for each of the <b>20</b> amino acids." },
+    "23": { "a": "a", "why": "Prokaryotes have no ER or nucleus, so their ribosomes are in the <b>cytoplasm</b>." },
+    "24": { "a": "d", "why": "Peptidyl transferase is <b>ribosomal RNA</b>, an RNA enzyme." },
+    "25": { "a": "a", "why": "Without the cap, the mRNA isn't protected and gets broken down once it reaches the cytoplasm (and ribosomes couldn't recognize it either)." },
+    "26": { "a": "a", "why": "In eukaryotes, the sequence around the start AUG (<b>Kozak's sequence</b>) helps position the ribosome. Shine-Dalgarno is the bacterial version." },
+    "27": { "a": "a", "why": "They match except that RNA uses <b>U</b> wherever DNA has <b>T</b>, so they're never truly identical." },
+    "28": { "a": "c", "why": "4<sup>3</sup> = 64 isn't enough for 200 amino acids, but 4<sup>4</sup> = 256 is. So codons would need to be <b>4</b> letters long." },
+    "29": { "a": "a", "why": "HIV goes RNA → DNA (reverse transcription) → RNA → protein. Flu goes RNA → RNA and never uses DNA." },
+    "30": { "why": "Codons: ATG-CGT-TAT-<b>CGG</b>-GAG-TAG becomes ATG-CGT-TAT-<b>GGG</b>-GAG-TAG. The 4th codon changes from CGG (arginine) to GGG (glycine), so it's a <b>missense</b> mutation: one amino acid swapped, and the rest of the protein is the same." },
+    "31": { "a": "a", "why": "The core enzyme is α, α, β and β′. Adding σ, which is only needed to start, makes the full <b>holoenzyme</b>." },
+    "32": { "a": "a", "why": "Rho-dependent: the polymerase stalls at a run of G's and the rho protein knocks it off. Rho-independent: a GC-rich stretch folds into a <b>hairpin</b> that stalls the polymerase." },
+    "33": { "a": "a", "why": "The key structure is the mRNA <b>hairpin</b>, used in <b>rho-independent</b> termination." },
+    "34": { "a": "a", "why": "<b>Initiation</b> differs the most: eukaryotes need transcription factors, enhancers and a preinitiation complex, and have to deal with histones." },
+    "35": { "a": "c", "why": "Yes: test the polymerase with <b>α-amanitin</b>. Pol I ignores it, pol II is blocked strongly, and pol III partly." },
+    "36": { "a": "a", "why": "Alternative splicing lets <b>one gene make several proteins</b>, so you don't need a separate gene for every protein." },
+    "37": { "a": "a", "why": "Eukaryotic mRNA has to be processed and <b>exported out of the nucleus</b> before it can be translated." },
+    "38": { "a": "a", "why": "No cap means no protection, so the mRNA is broken down once it reaches the cytoplasm." },
+    "39": { "a": "a", "why": "mRNA = 5'-AUG GCC GGU UAU UAA GCA-3'. That gives Met-Ala-Gly-Tyr, then UAA = stop: <b>MAGY</b>." },
+    "40": { "a": "a", "why": "rRNA in the large subunit <b>catalyzes</b> peptide bonds. RNA acting as an enzyme supports the idea that RNA came before proteins." },
+    "41": { "a": "a", "why": "The ribosome matches <b>anticodon to codon</b>. It never checks the amino acid, so the tRNA still pairs with the codon its anticodon matches (and puts the wrong amino acid in)." },
+    "42": { "a": "c", "why": "Nearly every organism uses the <b>same code</b>, which points to one shared ancestor." },
+    "43": { "a": "a", "why": "DNA <b>replication</b> copies the genetic material to pass on." },
+    "44": { "a": "a", "why": "Both use RNA polymerase, recognize consensus sequences in promoters, and can end with a hairpin loop." },
+    "45": { "a": "b", "why": "The plasma (cytoplasmic) membrane has no DNA. The nucleus, mitochondria and chloroplasts all do." },
+    "46": { "a": "a", "why": "Reverse transcriptase copies <b>RNA into DNA</b>, which runs the dogma backwards." },
+    "47": { "a": "d", "why": "Labeled thymidine goes into new DNA, found in the nucleus, mitochondria and chloroplasts. The <b>plasma membrane</b> has no DNA." },
+    "48": { "a": "c", "why": "<b>Introns were spliced out</b> of the mRNA, so it's shorter than the gene." },
+    "49": { "a": "c", "why": "A weaker promoter means <b>less transcription</b>, so less globin is made." },
+    "50": { "a": "a", "why": "1: UCG GCA AAU UUA GUU = Ser-Ala-Asn-Leu-Val. 2: UCU is also Ser, so it's the same. 3: UAA is a stop, so it's Ser-Ala-Asn, then stop." },
+    "51": { "a": "a", "why": "Peptide 2 is unchanged (a <b>silent</b> mutation). Peptide 3 hits an early <b>stop codon</b> (nonsense), making a short, likely useless protein." }
+  }
+}
