@@ -1,0 +1,108 @@
+{
+  "chapter": 21,
+  "sections": {
+    "21.0": {
+      "big": "Viruses aren't cells (they're <b>acellular</b>). They can only make copies of themselves inside a living host cell.",
+      "points": [
+        "They infect every kind of life (bacteria, plants, animals) and cause diseases from colds to HIV. A virus that causes disease is a <b>pathogen</b>."
+      ],
+      "words": ["acellular", "pathogen"]
+    },
+    "21.1": {
+      "big": "A virus is just genetic material (DNA <i>or</i> RNA) inside a protein coat. Scientists group viruses by how they make their mRNA.",
+      "points": [
+        "Discovery: the porcelain filter removed bacteria, yet the filtered liquid still made tobacco plants sick, so something smaller was at work. Viruses were first seen with the <b>electron microscope</b> (1930s).",
+        "Where viruses came from is unclear. <b>Devolution/regressive</b>: they shrank down from free-living cells. <b>Escapist/progressive</b>: they're bits of DNA or RNA that escaped from cells. <b>Self-replicating</b>: they came first.",
+        "A <b>virion</b> is one virus particle outside a cell: a <b>virus core</b> (nucleic acid) inside a <b>capsid</b> made of <b>capsomeres</b>, sometimes wrapped in an <b>envelope</b> stolen from the host's membrane. <b>Matrix proteins</b> sit between capsid and envelope.",
+        "Viruses attach using <b>viral receptors</b> (often glycoproteins) that fit specific host molecules. That's why each virus infects only certain species and cells.",
+        "<b>Positive polarity</b> (+) RNA can be used directly as mRNA. <b>Negative polarity</b> (−) RNA has to be copied first.",
+        "<b>Baltimore classification</b>, 7 groups: <b>I</b> dsDNA (herpes), <b>II</b> ssDNA (parvovirus), <b>III</b> dsRNA (rotavirus), <b>IV</b> ss(+)RNA (cold, polio), <b>V</b> ss(−)RNA (rabies, flu, measles), <b>VI</b> ssRNA with <b>reverse transcriptase</b> (HIV), <b>VII</b> dsDNA with reverse transcriptase (hepatitis B)."
+      ],
+      "words": ["virion", "virus core", "capsid", "capsomere", "envelope", "matrix protein", "viral receptor", "positive polarity", "negative polarity", "replicative intermediate", "group I virus", "group II virus", "group III virus", "group IV virus", "group V virus", "group VI virus", "group VII virus"]
+    },
+    "21.2": {
+      "big": "Every virus follows the same basic steps: <b>attach, get in, copy and assemble, get out</b>.",
+      "points": [
+        "<b>Attachment</b>: viral receptors bind to the host cell. The cell must be <b>permissive</b> (able to support the virus).",
+        "<b>Entry</b>: phages inject only their DNA. Animal and plant viruses come in by endocytosis, or by <b>fusion</b> of the envelope with the membrane (only enveloped viruses can fuse).",
+        "<b>Replication and assembly</b>: the host's machinery copies the viral genome and makes viral proteins. <b>Retroviruses</b> (HIV) use <b>reverse transcriptase</b> to turn their RNA into DNA.",
+        "<b>Egress</b> (exit): <b>lysis</b> (the cell bursts and dies) or <b>budding</b> (virions leave one at a time wrapped in membrane, so the cell may live a while).",
+        "<b>Bacteriophages</b> infect bacteria. <b>Lytic cycle</b>: take over, copy, burst. <b>Lysogenic cycle</b>: viral DNA hides in the host chromosome as a <b>prophage</b> and gets copied every time the cell divides. Stress can flip it into the lytic cycle.",
+        "Animal viruses can cause an <b>acute disease</b> (short), a <b>chronic infection</b> (long-lasting), or <b>latency</b> (hides, then comes back, like chickenpox returning as shingles). They're <b>cytopathic</b> when they damage cells. <b>Oncogenic viruses</b> (like HPV) can cause cancer.",
+        "Plant viruses spread by <b>horizontal transmission</b> (from outside, like insects) or <b>vertical transmission</b> (parent to offspring). Symptoms: <b>hyperplasia</b> (overgrowth, like <b>galls</b>), <b>hypoplasia</b> (stunting), <b>cell necrosis</b> (dead tissue), and discoloration (yellow spots)."
+      ],
+      "tip": "Lytic = loud (burst now). Lysogenic = lying low (hiding in the DNA).",
+      "words": ["permissive", "fusion", "retrovirus", "reverse transcriptase", "lysis", "budding", "bacteriophage", "lytic cycle", "lysogenic cycle", "prophage", "productive", "acute disease", "chronic infection", "latency", "asymptomatic disease", "intermittent symptom", "cytopathic", "oncogenic virus", "horizontal transmission", "vertical transmission", "hyperplasia", "gall", "hypoplasia", "cell necrosis"]
+    },
+    "21.3": {
+      "big": "<b>Vaccines</b> prevent viral disease by training your immune system ahead of time. Antiviral drugs slow viruses down but can't cure most infections.",
+      "points": [
+        "Vaccines use weakened (<b>attenuated</b>) live viruses, killed viruses, or viral pieces. Rarely, a weakened virus can mutate back to the dangerous form (<b>back mutation</b>).",
+        "Antivirals block a step of the virus's life cycle. <b>AZT</b> blocks reverse transcriptase, so HIV can't make DNA from its RNA. Anti-retroviral cocktails hit several steps at once.",
+        "Viruses can be used for good: <b>phage therapy</b> kills antibiotic-resistant bacteria, <b>oncolytic viruses</b> attack cancer cells, and <b>gene therapy</b> uses viruses to deliver healthy genes."
+      ],
+      "words": ["vaccine", "attenuation", "back mutation", "AZT", "phage therapy", "oncolytic virus", "gene therapy"]
+    },
+    "21.4": {
+      "big": "Even simpler than viruses: <b>prions</b> are just misfolded proteins, and <b>viroids</b> are just naked RNA.",
+      "points": [
+        "Prions have no DNA or RNA. A misfolded <b>PrPsc</b> protein makes normal <b>PrPc</b> proteins refold into the bad shape (extra pleated sheets), which piles up and destroys brain tissue.",
+        "Prion diseases: <b>mad cow disease</b> (BSE), <b>kuru</b> (spread by ritual cannibalism), and <b>vCJD</b> in humans. They can't be killed by normal sterilizing.",
+        "<b>Viroids</b> are tiny, single-stranded, circular RNA with no protein coat. They make no proteins and infect only <b>plants</b> (potatoes, tomatoes, avocados)."
+      ],
+      "words": ["prion", "PrPc", "PrPsc", "viroid"]
+    }
+  },
+  "fix": {
+    "41": { "opts": ["DNA or RNA, though present, is not transmitted when a prion causes infection.", "The prion does not contain any DNA or RNA.", "Only parts of DNA or RNA are transmitted in a prion.", "Far more protein than DNA or RNA is transmitted in a prion."] }
+  },
+  "answers": {
+    "1": { "a": "c", "why": "The filter removed <b>bacteria</b>, but the liquid still caused disease, so something smaller (a virus) was there." },
+    "2": { "a": "d", "why": "Viruses are too small for light microscopes. The <b>electron microscope</b> showed them." },
+    "3": { "a": "c", "why": "<b>Devolution/regressive</b>: viruses came from free-living cells that lost parts." },
+    "4": { "a": "b", "why": "Viruses leave no fossils, so <b>much is still unknown</b>." },
+    "5": { "a": "b", "why": "A single virus particle outside a cell is a <b>virion</b>." },
+    "6": { "a": "d", "why": "Viruses latch on with <b>viral receptors</b> that fit molecules on the host." },
+    "7": { "a": "c", "why": "<b>Positive (+)</b> RNA can be read directly as mRNA." },
+    "8": { "a": "b", "why": "<b>Rabies</b> is a single-stranded (−) RNA virus (group V)." },
+    "9": { "a": "b", "why": "To see <i>inside</i> a virion, you need a <b>transmission</b> electron microscope. Scanning EM shows surfaces." },
+    "10": { "a": "d", "why": "Viruses can <b>change how the cell works or kill it</b>." },
+    "11": { "a": "a", "why": "In budding, virions leave <b>one at a time</b>, wrapped in host membrane." },
+    "12": { "a": "a", "why": "Replicate and burst = <b>lytic</b>." },
+    "13": { "a": "c", "why": "Lytic makes new phages right away. Lysogenic first <b>merges</b> the phage DNA into the host genome." },
+    "14": { "a": "a", "why": "False: <b>fusion</b> needs an envelope, so naked viruses can't use it." },
+    "15": { "a": "b", "why": "Yellow splotches = <b>discoloration</b>." },
+    "16": { "a": "d", "why": "Released virions go on to <b>infect nearby cells</b> and repeat the cycle." },
+    "17": { "a": "c", "why": "HIV is a <b>retrovirus</b>: it must turn its RNA into DNA." },
+    "18": { "a": "a", "why": "Herpes simplex causes <b>skin lesions</b> (like cold sores)." },
+    "19": { "a": "a", "why": "Measles starts with a runny nose and sore throat and can cause pneumonia: <b>nose and lung</b> infections." },
+    "20": { "a": "b", "why": "Vaccines prepare the immune system to fight <b>future infections</b>." },
+    "21": { "a": "b", "why": "<b>Anti-retroviral</b> drugs block steps of the virus's replication cycle." },
+    "22": { "a": "d", "why": "Parotitis (swollen salivary glands) is caused by <b>mumps</b>." },
+    "23": { "a": "d", "why": "PrPsc is the <b>misfolded</b> form. PrPc is the normal one." },
+    "24": { "a": "b", "why": "Kuru spread <b>person to person</b> through ritual cannibalism in Papua New Guinea." },
+    "25": { "a": "a", "why": "Viroids are <b>single-stranded RNA</b> with no protein coat." },
+    "26": { "a": "c", "why": "Viroids infect plants, including <b>avocados</b>." },
+    "27": { "a": "c", "why": "Prions make normal proteins <b>change shape</b> into the misfolded form." },
+    "28": { "a": "b", "why": "Even after filtering out bacteria, the liquid <b>still infected</b> healthy plants." },
+    "29": { "a": "c", "why": "New technology (like DNA sequencing) gives scientists <b>new kinds of information</b> to test their hypotheses." },
+    "30": { "a": "c", "why": "Viruses need a matching receptor. Measles <b>can't attach</b> to dog cells." },
+    "31": { "a": "a", "why": "Viruses that make mRNA the same way <b>behave similarly</b>." },
+    "32": { "a": "d", "why": "AZT blocks <b>reverse transcriptase</b>, so HIV can't make DNA from its RNA." },
+    "33": { "a": "c", "why": "In the lysogenic cycle the viral genome is copied into <b>every daughter cell</b>. Each one can later go lytic, so in theory far more virions come out." },
+    "34": { "a": "a", "why": "Shingles patients can spread the virus. Someone never exposed would get <b>chickenpox</b> first; shingles only comes later from latent virus." },
+    "35": { "a": "a", "why": "If the virus can't <b>attach</b>, nothing else can happen." },
+    "36": { "a": "c", "why": "Measles can cause <b>encephalitis</b> (brain swelling), which can be deadly." },
+    "37": { "a": "d", "why": "Viroids have the tiniest genomes and the highest mutation rates. Tiny genome = <b>extremely small</b> particle." },
+    "38": { "a": "d", "why": "On the graph, bigger genomes have <b>lower</b> mutation rates. A low rate for an ss(+)RNA virus suggests a genome <b>above 10,000</b> nt (it's about 30,000)." },
+    "39": { "a": "d", "why": "vCJD spread through <b>poorly sterilized surgical tools</b> and <b>pituitary growth hormone</b> from infected cadavers." },
+    "40": { "a": "d", "why": "A misfolded protein causing other proteins to misfold = <b>prions</b>." },
+    "41": { "a": "b", "why": "Prions are just protein. They <b>contain no DNA or RNA</b> at all." },
+    "42": { "a": "b", "why": "Group I is dsDNA, so RNA is made from a <b>DNA</b> genome. Group III is dsRNA, so RNA is made from an <b>RNA</b> genome." },
+    "43": { "a": "d", "why": "Group I = <b>DNA</b> genome, transcribed to RNA. Group VI = <b>RNA</b> genome that must be turned into DNA by <b>reverse transcriptase</b> first." },
+    "44": { "a": "b", "why": "At step 2 the viral RNA enters the nucleus and starts <b>being copied</b>, so the amount of viral genetic material starts to rise." },
+    "45": { "a": "a", "why": "The precancer curve rises right after the HPV infection peak, so <b>high infection leads to more precancerous growths</b>. Cancer stays low." },
+    "46": { "a": "d", "why": "In <b>lysogeny</b>, viral DNA is part of the host chromosome, so it's <b>copied every time the cell divides</b>." },
+    "47": { "a": "c", "why": "False. Under bad conditions the prophage <b>leaves the genome and goes lytic</b>." }
+  }
+}
