@@ -1,0 +1,104 @@
+{
+  "chapter": 31,
+  "sections": {
+    "31.0": {
+      "big": "The circulatory system is the body's delivery network: it moves oxygen, nutrients, hormones and wastes, and helps fight infection and control temperature.",
+      "points": [
+        "It has three parts: a pump (the heart), tubes (blood vessels), and a fluid (blood)."
+      ],
+      "words": []
+    },
+    "31.1": {
+      "big": "Animals use simple diffusion, an open system, or a closed system to move materials around.",
+      "points": [
+        "Tiny or thin animals (jellyfish, flatworms) rely on <b>diffusion</b> alone.",
+        "<b>Open circulatory system</b> (insects, most mollusks): <b>hemolymph</b> is pumped into a body cavity (<b>hemocoel</b>) and mixes with <b>interstitial fluid</b>, then returns to the heart through holes (<b>ostia</b>, singular <b>ostium</b>). It uses less energy but is less efficient.",
+        "<b>Closed circulatory system</b> (vertebrates, earthworms): blood stays inside vessels with <b>unidirectional circulation</b> (one-way flow). It's more efficient and allows bigger, more active bodies.",
+        "Fish: a 2-chamber heart with one loop (<b>gill circulation</b>). Amphibians: a 3-chamber heart with <b>pulmocutaneous circulation</b> (lungs and skin), so some blood mixes. Reptiles: 3 chambers with a partial wall. Birds and mammals: 4 chambers with <b>double circulation</b>: <b>pulmonary circulation</b> (to the lungs) and <b>systemic circulation</b> (to the body), with no mixing."
+      ],
+      "words": ["open circulatory system", "hemolymph", "hemocoel", "interstitial fluid", "ostium", "closed circulatory system", "unidirectional circulation", "gill circulation", "pulmocutaneous circulation", "double circulation", "pulmonary circulation", "systemic circulation"]
+    },
+    "31.2": {
+      "big": "Blood is <b>plasma</b> (the liquid) plus <b>red blood cells</b>, <b>white blood cells</b> and <b>platelets</b>.",
+      "points": [
+        "<b>Red blood cells</b> (erythrocytes): disc-shaped, with no nucleus in mammals, full of hemoglobin to carry O₂.",
+        "<b>White blood cells</b> fight infection: neutrophils, lymphocytes, monocytes and others. <b>Lymph nodes</b> filter lymph and hold immune cells.",
+        "<b>Platelets</b> (pieces of megakaryocytes) start clotting. Clotting factors turn fibrinogen into fibrin threads that form a clot. Clotting is positive feedback.",
+        "Blood types: A and B antigens (glycolipids and glycoproteins) on red cells, plus the Rh factor. Your antibodies attack antigens you don't have.",
+        "<b>Plasma</b> is about 90% water plus proteins, salts, nutrients and hormones. <b>Serum</b> = plasma without clotting factors."
+      ],
+      "words": ["plasma", "red blood cell", "white blood cell", "lymph node", "platelet", "serum"]
+    },
+    "31.3": {
+      "big": "The heart is a four-chambered double pump, and its beat is set by its own electrical pacemaker.",
+      "points": [
+        "Wrapping and layers: the <b>pericardium</b> (outer sac), the <b>epicardium</b>, the <b>myocardium</b> (heart muscle, made of <b>cardiomyocytes</b>: striated but involuntary), the <b>endocardium</b> (inner lining). <b>Coronary arteries</b> and <b>coronary veins</b> feed and drain the heart muscle itself.",
+        "Path: body → <b>superior vena cava</b> and <b>inferior vena cava</b> → right <b>atrium</b> → <b>tricuspid valve</b> → right <b>ventricle</b> → <b>semilunar valve</b> → pulmonary artery → lungs → pulmonary veins → left atrium → <b>bicuspid valve</b> (mitral) → left ventricle → <b>aorta</b> → body. The tricuspid and bicuspid are <b>atrioventricular valves</b>.",
+        "Pulmonary arteries carry <b>deoxygenated</b> blood and pulmonary veins carry <b>oxygenated</b> blood (the exception to the usual rule).",
+        "<b>Cardiac cycle</b>: <b>systole</b> = contracting (pumping). <b>Diastole</b> = relaxing (filling).",
+        "Electrical path: the <b>sinoatrial (SA) node</b> (pacemaker) → the atria contract → the AV node (brief pause so the ventricles can fill) → bundle of His → Purkinje fibers → the ventricles contract. An <b>electrocardiogram (ECG)</b> records it.",
+        "Vessels: <b>arteries</b> carry blood away from the heart (thick, elastic, high pressure) → <b>arterioles</b> → <b>capillaries</b> (one cell thick; exchange happens in <b>capillary beds</b>) → <b>venules</b> → <b>veins</b> (thinner walls, valves, low pressure) → <b>vena cava</b>.",
+        "Problems: <b>atherosclerosis</b> (plaque buildup in arteries) → <b>angina</b> (chest pain) → <b>myocardial infarction</b> (heart attack)."
+      ],
+      "tip": "Arteries go Away from the heart. Veins go back.",
+      "words": ["pericardium", "epicardium", "myocardium", "cardiomyocyte", "endocardium", "coronary artery", "coronary vein", "superior vena cava", "inferior vena cava", "atrium", "tricuspid valve", "ventricle", "semilunar valve", "bicuspid valve", "atrioventricular valve", "aorta", "cardiac cycle", "systole", "diastole", "sinoatrial node", "electrocardiogram", "artery", "arteriole", "capillary", "capillary bed", "venule", "vein", "vena cava", "atherosclerosis", "angina", "myocardial infarction"]
+    },
+    "31.4": {
+      "big": "Blood pressure pushes blood through the body, and the body adjusts it by changing heart output and vessel width.",
+      "points": [
+        "<b>Blood pressure (BP)</b> is highest in arteries and drops through capillaries to veins. Blood slows down in capillaries, giving time for exchange.",
+        "Veins rely on muscle squeezing and one-way valves to get blood back to the heart.",
+        "<b>Cardiac output</b> = heart rate × <b>stroke volume</b> (blood pumped per beat).",
+        "<b>Peripheral resistance</b> = how hard the vessels make it to push blood through. <b>Vasoconstriction</b> (narrowing) raises pressure. <b>Vasodilation</b> (widening) lowers it.",
+        "<b>Precapillary sphincters</b> open or close to send blood to the tissues that need it most.",
+        "Pressure sensors (baroreceptors) and hormones (ADH, aldosterone, epinephrine) keep blood pressure steady."
+      ],
+      "words": ["blood pressure", "cardiac output", "stroke volume", "peripheral resistance", "vasoconstriction", "vasodilation", "precapillary sphincter"]
+    }
+  },
+  "answers": {
+    "1": { "a": "b", "why": "Insects like the <b>bee</b> have open circulation." },
+    "2": { "a": "a", "why": "Open systems use <b>less energy</b>." },
+    "3": { "a": "d", "why": "False: lobsters (arthropods) have <b>open</b> systems." },
+    "4": { "a": "a", "why": "Open = blood (hemolymph) <b>mixes with interstitial fluid</b> in the hemocoel." },
+    "5": { "a": "b", "why": "Simple animals like jellyfish use <b>diffusion</b>." },
+    "6": { "a": "a", "why": "Heart → lungs → heart = the <b>pulmonary</b> circuit." },
+    "7": { "a": "b", "why": "The 4-chambered heart (<b>B</b>) is the most recently evolved, so it's on the far right." },
+    "8": { "a": "c", "why": "Simplest to most complex: diffusion (F) → open (E) → partly closed (C) → 2 chambers (A) → 3 (D) → 4 (B)." },
+    "9": { "a": "b", "why": "Blood types come from <b>glycolipid and glycoprotein antigens</b> on red cells." },
+    "10": { "a": "c", "why": "AB blood has both A and B antigens, so no anti-A or anti-B. Being Rh⁻, it can have <b>Rh antibodies</b> (after exposure)." },
+    "11": { "a": "a", "why": "Blood also contains <b>platelets</b>." },
+    "12": { "a": "d", "why": "Red blood cells are cells, not part of the plasma liquid." },
+    "13": { "a": "a", "why": "Clotting is <b>positive</b> feedback. If part breaks off, the loop restarts and calls in more platelets." },
+    "14": { "a": "d", "why": "<b>Platelets, fibrinogen and clotting factors</b> build the clot." },
+    "15": { "a": "c", "why": "They're <b>glycoproteins</b> (antigens) that mark self. Antibodies attack foreign blood cells." },
+    "16": { "a": "a", "why": "False: pulmonary veins carry <b>oxygenated</b> blood from the lungs." },
+    "17": { "a": "b", "why": "False: the bicuspid valve leads <b>into the left ventricle</b>, not the left atrium." },
+    "18": { "a": "c", "why": "The beat starts at the <b>SA node</b>." },
+    "19": { "a": "a", "why": "Systole = pumping, diastole = filling. SA node → atria → AV node pause → bundle of His → bundle branches → Purkinje fibers → ventricles." },
+    "20": { "a": "b", "why": "Both have three layers. <b>Arteries</b> go away from the heart, <b>veins</b> come back." },
+    "21": { "a": "b", "why": "Purkinje fibers trigger the ventricles. Block them and the <b>ventricles won't contract</b>." },
+    "22": { "a": "a", "why": "The atria still contract (SA node), but the signal can't reach the Purkinje fibers, so the <b>ventricles don't</b>." },
+    "23": { "a": "b", "why": "Closed = blood <b>separate</b> from interstitial fluid. Fish 2 chambers; amphibians and reptiles 3; birds and mammals 4." },
+    "24": { "a": "d", "why": "Closed = inside vessels, one-way, <b>more controlled and efficient</b> than open." },
+    "25": { "a": "d", "why": "No mixing of oxygen-rich and oxygen-poor blood = <b>more oxygen delivered</b>, supporting high activity." },
+    "26": { "a": "c", "why": "Red blood cells = <b>erythrocytes</b>." },
+    "27": { "a": "a", "why": "Their small, flexible disc <b>shape</b> (and lots of hemoglobin, no nucleus) helps them carry and pass on oxygen." },
+    "28": { "a": "c", "why": "Plasma is the liquid you get when you <b>spin blood</b> to separate it." },
+    "29": { "a": "b", "why": "The natural pacemaker is the <b>SA node</b>." },
+    "30": { "a": "d", "why": "Like skeletal muscle, heart muscle is <b>striated</b>." },
+    "31": { "a": "b", "why": "The pulmonary valve leads to the lungs. If it's shut, blood <b>can't reach the lungs</b>." },
+    "32": { "a": "c", "why": "No flow into the right ventricle → nothing reaches the pulmonary artery → <b>no blood to the lungs</b>." },
+    "33": { "a": "c", "why": "Slow flow allows <b>gas and nutrient exchange</b> and fluid movement into tissues." },
+    "34": { "a": "a", "why": "Open circulation <b>uses less energy</b>, which helps when food is short." },
+    "35": { "a": "d", "why": "A long heart with many openings lets hemolymph <b>return from almost anywhere</b> in the body." },
+    "36": { "a": "c", "why": "Closed systems work far better at <b>large sizes</b>, so birds could grow bigger." },
+    "37": { "a": "b", "why": "Serum = <b>plasma without clotting factors</b>." },
+    "38": { "a": "d", "why": "By the <b>antigens</b> on the red cell surface." },
+    "39": { "a": "a", "why": "Once the pathogens are <b>destroyed</b>, the trigger is gone and the loop stops." },
+    "40": { "a": "d", "why": "Contracting phase = <b>systole</b>." },
+    "41": { "a": "b", "why": "An <b>ECG</b> records the heart's electrical activity." },
+    "42": { "a": "c", "why": "The count peaks around day 3 and then <b>drops gradually</b>." },
+    "43": { "a": "b", "why": "The outer layer <b>supports and protects</b> the vessel. Arteries face <b>higher pressure</b>, so it's thicker." }
+  }
+}
