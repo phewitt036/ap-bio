@@ -18,7 +18,9 @@
 
   // ---------- data ----------
   const cache = {};
-  const getJSON = url => cache[url] ||= fetch(url).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); });
+  // every deploy stamps a new version into index.html, so data files never mix old and new after an update
+  const V = (document.currentScript && new URL(document.currentScript.src).searchParams.get("v")) || "dev";
+  const getJSON = url => cache[url] ||= fetch(`${url}?v=${V}`).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); });
   const tryJSON = url => getJSON(url).catch(() => { delete cache[url]; return null; });
   let toc = null;
   const loadToc = async () => toc ||= await getJSON("data/toc.json");
