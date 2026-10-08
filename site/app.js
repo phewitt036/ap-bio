@@ -143,7 +143,7 @@
   function fixQ(q, study) {
     const f = study?.fix?.[q.n];
     if (!f) return q;
-    const stem = f.stem ? f.stem.map(x => typeof x === "number" ? q.stem[x] : { t: "p", html: x }).filter(Boolean) : q.stem;
+    const stem = f.stem ? f.stem.map(x => typeof x === "number" ? q.stem[x] : typeof x === "object" ? x : { t: "p", html: x }).filter(Boolean) : q.stem;
     return { ...q, stem, opts: f.opts || q.opts };
   }
   function questionCard(q, ctx, key) {

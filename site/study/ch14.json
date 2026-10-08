@@ -1,0 +1,155 @@
+{
+  "chapter": 14,
+  "sections": {
+    "14.0": {
+      "big": "Every person's DNA is unique, which makes it useful for solving crimes, testing paternity, tracing ancestry, and diagnosing disease.",
+      "points": [
+        "DNA evidence has freed hundreds of people who were wrongly convicted.",
+        "Doctors use DNA for diagnosis, vaccines, cancer treatment, and spotting disease risks."
+      ],
+      "words": ["mutation"]
+    },
+    "14.1": {
+      "big": "A series of clever experiments proved that <b>DNA</b>, not protein, is the genetic material.",
+      "points": [
+        "<b>Miescher (1860s)</b> first isolated nucleic acid from white blood cells and called it \"nuclein\".",
+        "<b>Griffith (1928):</b> heat-killed deadly (S) bacteria mixed with harmless (R) bacteria killed mice. Something from the dead S cells changed the R cells into S cells. This is <b>transformation</b>.",
+        "<b>Avery, MacLeod and McCarty:</b> destroying DNA, and only DNA, stopped transformation. So DNA was the \"transforming principle\".",
+        "<b>Hershey and Chase (1952):</b> they labeled virus protein with <sup>35</sup>S and virus DNA with <sup>32</sup>P. Only the <sup>32</sup>P (DNA) went into the bacteria, so DNA carries the instructions.",
+        "<b>Chargaff's rules:</b> A = T and G = C. The overall mix of bases differs between species."
+      ],
+      "words": ["transformation"]
+    },
+    "14.2": {
+      "big": "DNA is a <b>double helix</b>: two antiparallel strands of nucleotides, held together by base pairs (A–T, G–C).",
+      "points": [
+        "A <b>nucleotide</b> is a deoxyribose sugar + a phosphate + a base. <b>Purines</b> (A, G) have two rings. <b>Pyrimidines</b> (C, T) have one.",
+        "Watson and Crick built the model using Rosalind Franklin's X-ray photo.",
+        "A–T pairs make 2 hydrogen bonds and G–C pairs make 3. The sugar-phosphate backbone is on the outside and the bases point inside.",
+        "<b>Antiparallel:</b> one strand runs 5'→3' and the other runs 3'→5'.",
+        "<b>Sanger sequencing</b> uses dideoxynucleotides (ddNTPs), which stop the chain. The fragments are sorted by size with <b>gel electrophoresis</b> (DNA is negative, so it moves toward + and small pieces travel farthest).",
+        "Packing: prokaryotes supercoil one circular chromosome. Eukaryotes wrap DNA around <b>histones</b> into nucleosomes. Tightly packed <b>heterochromatin</b> is mostly switched off, and looser <b>euchromatin</b> is active."
+      ],
+      "tip": "Purines are the \"<b>pure</b> <b>A</b>s <b>G</b>old\" bases (A, G). Pyrimidines have a \"y\" and are the <b>C</b>u<b>T</b> ones (C, T, and U in RNA).",
+      "words": ["electrophoresis"]
+    },
+    "14.3": {
+      "big": "DNA copies itself <b>semi-conservatively</b>: each new double helix has one old strand and one new strand.",
+      "points": [
+        "Three possible models: conservative (old pair stays together), semi-conservative (half old, half new), dispersive (mixed pieces).",
+        "<b>Meselson and Stahl</b> grew bacteria in heavy <sup>15</sup>N, then moved them to light <sup>14</sup>N. After one round, all the DNA was intermediate in weight. After two rounds, it was half intermediate and half light. That fits <b>semi-conservative</b> replication.",
+        "Each old strand is a <b>template</b> for a new, complementary strand."
+      ],
+      "words": ["replication fork"]
+    },
+    "14.4": {
+      "big": "In bacteria, replication starts at one origin and runs both ways around the circle. A team of enzymes unzips, primes, copies, and stitches.",
+      "points": [
+        "<b>Helicase</b> unzips the DNA, making a <b>replication fork</b>. <b>Single-strand binding proteins</b> keep it open. <b>Topoisomerase</b> relieves twisting ahead of the fork.",
+        "<b>Primase</b> lays down a short <b>RNA primer</b>, and <b>DNA polymerase III</b> adds nucleotides only in the <b>5'→3'</b> direction.",
+        "<b>Leading strand:</b> built continuously toward the fork. <b>Lagging strand:</b> built away from the fork in short <b>Okazaki fragments</b>, each needing its own primer.",
+        "<b>DNA pol I</b> swaps the RNA primers for DNA, and <b>ligase</b> seals the gaps.",
+        "<b>Sliding clamp</b> keeps the polymerase on the DNA. Bacteria copy about 1,000 nucleotides per second."
+      ],
+      "tip": "Unzip (helicase) → hold open (SSBs) → untwist (topoisomerase) → prime (primase) → build (pol III) → swap primers (pol I) → glue (ligase).",
+      "words": ["helicase", "single-strand binding protein", "topoisomerase", "primase", "primer", "leading strand", "lagging strand", "Okazaki fragment", "sliding clamp", "ligase"]
+    },
+    "14.5": {
+      "big": "Eukaryotes replicate the same basic way, but with many origins, more enzymes, and a special fix for the ends of linear chromosomes.",
+      "points": [
+        "Eukaryotes have <b>many origins</b> (humans have up to 100,000) and copy about 10× slower (around 100 nucleotides per second).",
+        "The lagging strand can't be fully copied at the very end, so chromosomes would shrink a little each division.",
+        "<b>Telomeres</b> (repeats of TTAGGG) at the ends protect the genes. <b>Telomerase</b> rebuilds them using its own RNA template.",
+        "Telomerase is active in germ cells and stem cells, but not in most body cells, which is linked to aging. Cancer cells often switch it back on."
+      ],
+      "words": ["telomere", "telomerase"]
+    },
+    "14.6": {
+      "big": "Copying mistakes and DNA damage happen, and cells have repair systems. Mistakes that slip through become <b>mutations</b>.",
+      "points": [
+        "<b>Proofreading:</b> DNA polymerase checks each new base and fixes errors right away.",
+        "<b>Mismatch repair:</b> errors found after copying are cut out of the new strand.",
+        "<b>Nucleotide excision repair:</b> cuts out damaged stretches, like <b>thymine dimers</b> from UV light. People with xeroderma pigmentosa lack this and get skin cancers.",
+        "<b>Point mutations:</b> substitutions (transitions and transversions), insertions and deletions. Inserting or deleting bases (not in threes) causes a <b>frameshift</b>.",
+        "Effects: <b>silent</b> (same amino acid), <b>missense</b> (different amino acid), <b>nonsense</b> (early stop codon).",
+        "Mutations in body cells can cause cancer but aren't inherited. Only mutations in germ cells pass to offspring."
+      ],
+      "words": ["proofreading", "mismatch repair", "nucleotide excision repair", "point mutation", "silent mutation", "transition substitution", "transversion substitution", "induced mutation", "spontaneous mutation"]
+    }
+  },
+  "fix": {
+    "37": { "stem": [0] },
+    "38": { "stem": [{ "t": "fig", "src": "img/c14/p572-4.jpg", "w": 298, "h": 560 }, 0] }
+  },
+  "answers": {
+    "1": { "a": "b", "why": "<b>Friedrich Miescher</b> isolated \"nuclein\" from white blood cells in the 1860s." },
+    "2": { "a": "d", "why": "Transformation is when a cell <b>takes in outside DNA</b> and changes because of it." },
+    "3": { "a": "c", "why": "Forensics mostly analyzes <b>nuclear chromosomal DNA</b> (short tandem repeats). Mitochondrial DNA is used sometimes." },
+    "4": { "a": "d", "why": "The <b>radioactive phosphorus</b> (which labels DNA) ended up inside the bacteria, so DNA was what the virus injected." },
+    "5": { "a": "a", "why": "A = 27%, so T = 27%. That leaves 46% for G + C, so C = <b>23%</b>." },
+    "6": { "a": "c", "why": "Pair each base (A–T, G–C) and flip the direction: 5'-AATGCTAC-3' pairs with <b>3'-TTACGATG-5'</b>." },
+    "7": { "a": "d", "why": "<b>Uracil</b> is found in RNA, not DNA." },
+    "8": { "a": "a", "why": "Purines (A, G) are <b>double rings</b>: a six-membered ring fused to a five-membered ring." },
+    "9": { "a": "a", "why": "Sanger's method is the <b>dideoxy chain termination</b> method." },
+    "10": { "a": "c", "why": "A ddNTP has no 3' OH group, so <b>the chain can't grow any further</b>." },
+    "11": { "a": "a", "why": "Eukaryotic DNA wraps around <b>histones</b>." },
+    "12": { "a": "a", "why": "<b>DNA gyrase</b> handles supercoiling in prokaryotes. Telomerase is the eukaryotic one." },
+    "13": { "a": "d", "why": "Uracil is in RNA, like <b>mRNA</b>." },
+    "14": { "a": "b", "why": "<b>Dideoxynucleotides</b> stop the chain." },
+    "15": { "a": "b", "why": "Ligase seals gaps at the <i>end</i> of replication. It doesn't help form the fork." },
+    "16": { "a": "a", "why": "New DNA is always built <b>5'→3'</b>." },
+    "17": { "a": "d", "why": "Their results matched <b>semi-conservative</b> replication." },
+    "18": { "a": "b", "why": "Each original strand went into one copy: <b>half old, half new</b>." },
+    "19": { "a": "b", "why": "<b>Helicase</b> unzips the double strand." },
+    "20": { "a": "c", "why": "<b>DNA polymerase III</b> builds the new strand. Pol I and II mostly handle repair and swapping out primers." },
+    "21": { "a": "b", "why": "Okazaki fragments are on the <b>lagging strand</b>." },
+    "22": { "a": "d", "why": "Primase makes an <b>RNA primer</b>." },
+    "23": { "a": "d", "why": "<b>Telomerase</b> extends the telomeres at chromosome ends." },
+    "24": { "a": "d", "why": "1,000 vs. about 100 nucleotides per second: prokaryotes are about <b>10 times faster</b>." },
+    "25": { "a": "c", "why": "ARS are yeast (eukaryote) sequences that act like E. coli's <b>origin of replication</b>." },
+    "26": { "a": "d", "why": "Ordinary adult body cells like <b>liver cells</b> don't make telomerase. Stem cells, germ cells and embryonic cells do." },
+    "27": { "a": "a", "why": "<b>DNA polymerase</b> proofreads each base as it adds it." },
+    "28": { "a": "c", "why": "Eukaryotes are about 10× slower, so 100 ÷ 10 = <b>10</b> per second." },
+    "29": { "a": "d", "why": "A <b>silent</b> mutation still codes for the same amino acid." },
+    "30": { "a": "c", "why": "A <b>nonsense</b> mutation turns an amino acid codon into a stop codon." },
+    "31": { "a": "b", "why": "Skin cancer mutations are in <b>somatic</b> (body) cells, not germ cells, so they aren't passed to the baby." },
+    "32": { "a": "a", "why": "The first line of defense is <b>DNA polymerase proofreading</b> during copying. Mismatch repair comes later." },
+    "33": { "a": "c", "why": "UV light makes <b>pyrimidine (thymine) dimers</b>, which nucleotide excision repair cuts out." },
+    "34": { "a": "a", "why": "Heat-killed S plus live R killed the mouse, and live <b>S</b> came out of it. Something from the dead S cells transformed the R cells." },
+    "35": { "a": "a", "why": "Most of the sulfur (protein coat) ended up outside the cells and less of the phosphorus did. Proteins carry the <b>sulfur</b> and DNA carries the <b>phosphorus</b>." },
+    "36": { "a": "a", "why": "The base ratios (like how much A+T versus G+C) differ between species but stay the same within a species, so they can help tell species apart." },
+    "37": { "why": "If destroying protein (with protease) stopped transformation, they'd have concluded that <b>protein</b>, not DNA, was the transforming principle and the genetic material." },
+    "38": { "a": "c", "why": "The 5' end has the free phosphate (circle): <b>A and D</b>. The 3' ends finish on the sugar: <b>B and C</b>." },
+    "39": { "a": "a", "why": "It's a chain <i>termination</i> method: dye-labeled ddNTPs stop each fragment, electrophoresis <b>separates</b> them by size, and a laser reads the colors." },
+    "40": { "a": "b", "why": "Prokaryotes have one circular chromosome, supercoiled with DNA gyrase. Eukaryotes have many linear ones wrapped on histones (heterochromatin and euchromatin)." },
+    "41": { "a": "a", "why": "Polymerase reads 3'→5' and builds 5'→3'. The leading strand goes toward the fork. The lagging strand goes away from it in Okazaki fragments." },
+    "42": { "a": "a", "why": "In <b>E. coli</b>, <sup>15</sup>N DNA is heavier. After one round in <sup>14</sup>N, DNA lands halfway between, half <sup>14</sup>N, which is semi-conservative." },
+    "43": { "a": "a", "why": "Polymerase only adds to the 3' end, so the <b>lagging</b> strand is built away from the fork in short pieces." },
+    "44": { "a": "b", "why": "The enzymes are pulling the double strand apart into single strands, which is what <b>helicase</b> does." },
+    "45": { "a": "a", "why": "Okazaki fragments are <b>short</b> pieces on the <b>lagging</b> strand, built away from the fork." },
+    "46": { "a": "a", "why": "DNA pol I <b>removes RNA primers</b> and fills in DNA. Ligase <b>seals</b> the gaps between fragments." },
+    "47": { "a": "b", "why": "1.2 million × 2 = 2.4 million bases ÷ 900 per second ≈ 2,667 seconds ≈ <b>44.4 minutes</b>." },
+    "48": { "a": "a", "why": "<b>Telomerase</b> extends the ends so they can be copied." },
+    "49": { "a": "a", "why": "Prokaryotes: 10× faster, one origin, 5 polymerases, no telomerase, pol I removes primers. Eukaryotes: many origins, 14 polymerases, RNase H removes primers." },
+    "50": { "a": "c", "why": "TAT becomes TAA, a <b>stop</b> codon, which is a nonsense mutation." },
+    "51": { "a": "a", "why": "A DNA mutation is permanent and gets copied every time. An mRNA mistake only affects proteins made from that one mRNA until it breaks down." },
+    "52": { "a": "a", "why": "A substitution can change one amino acid, a nonsense mutation stops the protein early, and insertions or deletions shift the frame, often giving a useless protein." },
+    "53": { "a": "a", "why": "tRNA and rRNA are needed for translation, so mutations in them can lead to faulty proteins or none at all." },
+    "54": { "a": "c", "why": "If the phosphorus (DNA) had stayed outside the cells, DNA wasn't injected, and they'd have concluded <b>protein</b> carried the genetic information." },
+    "55": { "a": "c", "why": "The material was rich in <b>phosphorus</b>, and he named it <b>nuclein</b> because it came from the nucleus." },
+    "56": { "a": "a", "why": "Scientists compare the DNA sequence pattern in an unknown sample with DNA from a known person to see if they match." },
+    "57": { "a": "a", "why": "Franklin's X-ray work showed DNA is a helix. Watson and Crick used it to build the double-stranded model." },
+    "58": { "a": "c", "why": "The beads are <b>nucleosomes</b>, with DNA wrapped around <b>histone</b> proteins in the middle." },
+    "59": { "a": "a", "why": "Bacteria copy a plasmid every time they divide, so plasmid transformation is a way to <b>make copies of DNA</b> (cloning)." },
+    "60": { "a": "a", "why": "A–T (2 hydrogen bonds), G–C (3). The backbone is held together by covalent sugar-phosphate bonds, and the strands are antiparallel." },
+    "61": { "a": "a", "why": "Heat to separate the strands, set up four tubes with primer, DNA polymerase, dNTPs and one labeled ddNTP each, then let chains stop at ddNTPs and read them by electrophoresis and laser." },
+    "62": { "a": "a", "why": "An RNA strand is being built from a DNA template inside an opened bubble, which is <b>transcription</b>." },
+    "63": { "a": "a", "why": "Topoisomerase relieves supercoiling by cutting and rejoining the <b>phosphate backbone</b> ahead of the fork." },
+    "64": { "a": "b", "why": "Flamingos turn pink from pigments in their <b>diet</b> (shrimp and algae). The environment affects the phenotype, not their genes." },
+    "65": { "a": "b", "why": "Unrepaired UV damage can lead to <b>malignant melanoma</b> (skin cancer)." },
+    "66": { "a": "b", "why": "A <b>translocation</b> moves a chunk of one chromosome to another, which is a chromosome-level change. The others are single-base changes." },
+    "67": { "a": "a", "why": "ATC and ATT both code for isoleucine, so the protein doesn't change: a <b>silent</b> mutation." },
+    "68": { "a": "a", "why": "The neighboring T's (in CATTCTG) can form <b>thymine dimers</b> under UV light, and <b>nucleotide excision repair</b> fixes them." },
+    "69": { "a": "a", "why": "Substitutions usually change one amino acid (a small effect). Frameshifts change many, which can create very different proteins and traits." }
+  }
+}
