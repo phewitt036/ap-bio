@@ -1,0 +1,58 @@
+{
+  "chapter": 13,
+  "sections": {
+    "13.0": {
+      "big": "Genes ride on chromosomes, so where a gene sits (which chromosome, and how close to other genes) changes how it's inherited.",
+      "points": [
+        "Genes on the X chromosome act differently in males (one X) than in females (two X's).",
+        "Example: a variant of the X-linked MAOA gene is linked to aggression. Men have only one copy, while women usually have a second, normal copy to balance it out."
+      ],
+      "words": ["X inactivation"]
+    },
+    "13.1": {
+      "big": "The <b>Chromosomal Theory of Inheritance</b> says genes are on chromosomes. Genes close together on the same chromosome are <b>linked</b> and tend to be inherited together, unless <b>crossing over</b> splits them.",
+      "points": [
+        "Sutton and Boveri noticed that chromosomes in meiosis behave exactly like Mendel's \"factors\". Morgan's fruit fly work proved it.",
+        "<b>Linked genes</b> don't assort independently. You get mostly <b>parental types</b> and only a few <b>recombinants</b>.",
+        "<b>Homologous recombination</b> (crossing over) during synapsis can swap linked alleles, creating new combinations.",
+        "<b>Recombination frequency</b> works as a distance measure: 1% = 1 <b>centimorgan (cM)</b>. The farther apart two genes are, the more often they recombine.",
+        "0% recombination means perfectly linked. 50% means they act unlinked (independent assortment). It can't go above 50%.",
+        "Sturtevant used these frequencies to make the first chromosome map."
+      ],
+      "tip": "More recombinants means the genes are <b>farther apart</b>. Closest genes are \"best friends\": they almost always travel together.",
+      "words": ["Chromosomal Theory of Inheritance", "homologous recombination", "parental types", "nonparental (recombinant) type", "recombination frequency", "centimorgan"]
+    },
+    "13.2": {
+      "big": "Mistakes in chromosome <b>number</b> or <b>structure</b> cause genetic disorders, and a <b>karyotype</b> lets you see them.",
+      "points": [
+        "<b>Karyotype:</b> a picture of all the chromosomes, sorted by size, centromere position and banding. <b>p</b> is the short arm and <b>q</b> is the long arm (13q12 = chromosome 13, long arm, band 12).",
+        "<b>Nondisjunction:</b> chromosomes fail to separate (in meiosis I or II), making gametes with an extra or missing chromosome. The risk rises with the mother's age.",
+        "<b>Aneuploidy:</b> the wrong number. <b>Trisomy</b> means 3 copies (Down syndrome = trisomy 21). <b>Monosomy</b> means 1 copy (missing an autosome is fatal).",
+        "<b>Polyploidy:</b> extra whole <i>sets</i>. It's common and often helpful in plants, and rare in animals.",
+        "Sex chromosome errors are milder thanks to <b>X inactivation</b>: extra X's shut down into Barr bodies. Examples: Klinefelter (XXY, sterile male) and Turner (X0, short, sterile female).",
+        "<b>Structural changes:</b> deletions (cri-du-chat, part of 5p missing), duplications, <b>inversions</b> (a segment flipped), and <b>translocations</b> (a segment moved to another chromosome)."
+      ],
+      "words": ["karyotype", "karyogram", "nondisjunction", "aneuploid", "euploid", "trisomy", "monosomy", "polyploid", "X inactivation", "chromosome inversion", "pericentric", "paracentric", "translocation"]
+    }
+  },
+  "answers": {
+    "1": { "a": "a", "why": "Males have only one X, so a single recessive allele shows up. Females need two copies. X-linked recessive traits are much more common in <b>males</b>." },
+    "2": { "a": "a", "why": "Perfect linkage means the genes never separate: <b>0</b> recombination." },
+    "3": { "a": "c", "why": "<b>0.50</b> (50%) recombination is what independent assortment gives you: half parental types and half recombinants." },
+    "4": { "a": "d", "why": "Brown eye and aristae are 104.5 cM apart, which is very far, so they recombine often. Wing length and body color are only 17 cM apart. The other choices get the distances backwards." },
+    "5": { "a": "b", "why": "Chromosome number, then <b>q</b> for the long arm (p = short arm), then the position: <b>13q12</b>." },
+    "6": { "a": "c", "why": "To line up point for point, the inverted chromosome forms a <b>loop</b>." },
+    "7": { "a": "b", "why": "<b>Boveri and Sutton</b> proposed it: genes sit at specific places on chromosomes, and chromosomes segregate and assort independently in meiosis. That explains linkage and recombination." },
+    "8": { "a": "a", "why": "Recombinants range from 0% (fully linked) up to 50% (unlinked). They can't go over 50%." },
+    "9": { "a": "c", "why": "Nondisjunction can happen in meiosis I (homologs don't separate) or meiosis II (sister chromatids don't separate). Either way, gametes can end up n+1 or n−1." },
+    "10": { "a": "a", "why": "Nondisjunction gives aneuploid gametes. Duplications cause physical and mental abnormalities. Large deletions can be lethal. Inversions break chromosomes and can split genes. A translocation's effect depends on where the genes end up." },
+    "11": { "a": "c", "why": "<b>C and D</b> are only 3 map units apart, the closest pair, so they're most likely to stay together." },
+    "12": { "a": "b", "why": "Unlinked: all four types at 25% each. Linked (tightly): mostly the parental types EeWw and eeww, about 50% each." },
+    "13": { "a": "a", "why": "A and B are linked, so most offspring are parental types (AaBb and aabb) and only a few are recombinants. 46/4/4/46 means about 8% recombination." },
+    "14": { "a": "b", "why": "The karyotype shows <b>XXY</b> (Klinefelter syndrome), which usually causes <b>infertility</b>." },
+    "15": { "a": "c", "why": "Two X chromosomes plus a Y is <b>Klinefelter syndrome (47, XXY)</b>, which causes sterility and low testosterone." },
+    "16": { "a": "d", "why": "An inversion flips a segment in place. Here S and T reverse to give <b>RTSUV</b>. Nothing is lost or duplicated." },
+    "17": { "a": "c", "why": "Nondisjunction can happen in meiosis I or meiosis II, and either way it gives gametes with the wrong number of chromosomes (aneuploid)." },
+    "18": { "a": "d", "why": "Klinefelter is milder than Down syndrome because the extra X is mostly switched off by <b>X inactivation</b>." }
+  }
+}
