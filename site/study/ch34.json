@@ -1,0 +1,170 @@
+{
+  "chapter": 34,
+  "sections": {
+    "34.0": {
+      "big": "Animals reproduce either by copying themselves (asexual) or by combining gametes from two parents (sexual). Then a single cell develops into a whole body.",
+      "points": [
+        "This chapter covers reproduction methods, fertilization, human reproductive anatomy and hormones, embryo development, and pregnancy."
+      ],
+      "words": []
+    },
+    "34.1": {
+      "big": "<b>Asexual reproduction</b> makes identical copies fast. <b>Sexual reproduction</b> makes unique offspring that handle change better.",
+      "points": [
+        "Asexual types: <b>fission</b> (splitting in two), <b>budding</b> (an outgrowth breaks off, like hydra), <b>fragmentation</b> (body breaks into pieces that each regrow, like sea stars), <b>parthenogenesis</b> (an unfertilized egg develops, as in some lizards and bees). It's best in a <b>stable</b> environment.",
+        "Sexual reproduction mixes genes for diversity, so it's better in a <b>changing</b> environment, even though it costs more energy and needs a mate.",
+        "<b>Hermaphroditism</b>: one animal has both male and female parts (earthworms, slugs). Useful when moving around to find a mate is hard.",
+        "Sex determination: mammals XX = female, XY = male. Birds ZW = female, ZZ = male. In some reptiles, egg <b>temperature</b> decides sex."
+      ],
+      "words": ["asexual reproduction", "fission", "budding", "fragmentation", "parthenogenesis", "sexual reproduction", "hermaphroditism"]
+    },
+    "34.2": {
+      "big": "Fertilization happens either outside the body (usually in water) or inside it.",
+      "points": [
+        "<b>External fertilization</b>: eggs and sperm are released into water at the same time (spawning, often cued by temperature or day length). Lots of gametes, mixing of genes, but most offspring die.",
+        "<b>Internal fertilization</b>: sperm delivered inside the female. Fewer offspring but better survival, and the female can choose her mate. Some invertebrates store sperm in a <b>spermatheca</b>.",
+        "Egg development: <b>oviparity</b> (eggs laid outside, fed by yolk: birds, most reptiles), <b>ovoviparity</b> (eggs kept inside until they hatch: some sharks, snakes), <b>viviparity</b> (young develop inside, fed by the mother: most mammals).",
+        "Birds, reptiles and amphibians use a <b>cloaca</b>: one opening for waste and reproduction. Mating is a \"cloacal kiss\".",
+        "<b>Amniotes</b> (reptiles, birds, mammals) have eggs with protective membranes that let them reproduce on land."
+      ],
+      "words": ["external fertilization", "internal fertilization", "spermatheca", "oviparity", "ovoviparity", "viviparity", "cloaca", "amniote"]
+    },
+    "34.3": {
+      "big": "Human reproductive organs make gametes (sperm or eggs) by meiosis, and support fertilization and pregnancy.",
+      "points": [
+        "Male: the <b>testes</b> (in the <b>scrotum</b>, kept cooler) make sperm in <b>seminiferous tubules</b>, supported by <b>Sertoli cells</b>. The <b>interstitial cells of Leydig</b> make <b>testosterone</b>. <b>Semen</b> = sperm + fluid from the <b>seminal vesicles</b> (most of it), <b>prostate gland</b> and <b>bulbourethral gland</b>. The <b>penis</b> delivers it.",
+        "Female: ovaries hold the eggs. The <b>oviduct</b> (fallopian tube) has cilia that sweep the egg along, and is where fertilization usually happens. The <b>uterus</b> holds the embryo. The <b>vagina</b> is the birth canal. External parts: <b>labia majora</b>, <b>labia minora</b>, <b>clitoris</b> (same embryonic origin as the penis).",
+        "<b>Spermatogenesis</b>: one cell → <b>4 sperm</b>, all the time after puberty.",
+        "<b>Oogenesis</b>: one cell → <b>1 egg</b> (plus small polar bodies), so the egg keeps most of the cytoplasm. Starts before birth and pauses until puberty."
+      ],
+      "words": ["testes", "scrotum", "seminiferous tubule", "Sertoli cell", "interstitial cell of Leydig", "testosterone", "semen", "seminal vesicle", "prostate gland", "bulbourethral gland", "penis", "oviduct", "uterus", "vagina", "labia majora", "labia minora", "clitoris", "spermatogenesis", "oogenesis"]
+    },
+    "34.4": {
+      "big": "Hormones from the hypothalamus, pituitary and gonads control sperm production and the monthly cycle.",
+      "points": [
+        "The hypothalamus releases <b>gonadotropin-releasing hormone (GnRH)</b> → the pituitary releases <b>follicle stimulating hormone (FSH)</b> and <b>luteinizing hormone (LH)</b>.",
+        "Males: FSH → Sertoli cells (sperm production, and they release <b>inhibin</b> to slow FSH). LH → Leydig cells → testosterone. Testosterone shuts down GnRH, FSH and LH (negative feedback).",
+        "The <b>ovarian cycle</b>: follicular phase (FSH grows follicles, which make <b>estrogen</b>/<b>estradiol</b>) → high estradiol triggers an LH surge (positive feedback) → <b>ovulation</b> (egg released, about day 14) → luteal phase (the leftover follicle becomes the corpus luteum, which makes <b>progesterone</b>).",
+        "The <b>menstrual cycle</b> (uterus): estrogen rebuilds the lining, progesterone thickens it for implantation. No pregnancy → the corpus luteum breaks down → hormones drop → the lining sheds (menstruation).",
+        "<b>Menopause</b> (around age 50): the follicles run out and stop responding to FSH and LH, so estrogen and progesterone fall."
+      ],
+      "words": ["gonadotropin-releasing hormone", "follicle stimulating hormone", "luteinizing hormone", "inhibin", "ovarian cycle", "estrogen", "estradiol", "ovulation", "progesterone", "menstrual cycle", "menopause"]
+    },
+    "34.5": {
+      "big": "Fertilization makes a diploid zygote, which divides into a hollow ball and then folds into three tissue layers.",
+      "points": [
+        "Fertilization: the sperm binds the <b>zona pellucida</b> (egg coat). The <b>acrosomal reaction</b> releases enzymes that digest a path. Changes to the egg then block <b>polyspermy</b> (more than one sperm getting in). Sperm + egg = <b>diploid</b> zygote.",
+        "Cleavage: fast divisions with no growth, so the cell number rises but the cells get smaller. <b>Holoblastic</b> = complete division (little yolk). <b>Meroblastic</b> = partial (lots of yolk, like birds).",
+        "Mammals form a <b>blastocyst</b>: the <b>inner cell mass</b> (becomes the embryo; source of embryonic stem cells) and the <b>trophoblast</b> (becomes part of the placenta).",
+        "<b>Gastrulation</b>: cells move inward to form three germ layers. <b>Ectoderm</b> (skin, nervous system), <b>mesoderm</b> (muscle, bone, blood, heart), <b>endoderm</b> (gut lining, liver, lungs)."
+      ],
+      "tip": "Ecto = Exterior (skin and nerves). Endo = iNside (gut). Meso = Middle (muscle, bone, blood).",
+      "words": ["zona pellucida", "acrosomal reaction", "polyspermy", "holoblastic", "meroblastic", "blastocyst", "inner cell mass", "trophoblast", "gastrulation"]
+    },
+    "34.6": {
+      "big": "<b>Organogenesis</b> turns the three germ layers into organs, following a body plan set by genes.",
+      "points": [
+        "The notochord (mesoderm) signals the ectoderm above it to fold into the neural plate, then the <b>neural tube</b> (brain and spinal cord). Problems closing it cause spina bifida (bottom) or brain defects (top).",
+        "Mesoderm forms <b>somites</b>, blocks that become the vertebrae, back muscles and skin.",
+        "Axes (head-to-tail, back-to-belly, left-right) are set by genes and gradients of signaling molecules (Hox genes, Wnt)."
+      ],
+      "words": ["organogenesis", "neural tube", "somite"]
+    },
+    "34.7": {
+      "big": "Human pregnancy (<b>gestation</b>) lasts about 38 weeks in three trimesters, and birth is driven by positive feedback.",
+      "points": [
+        "The embryo releases <b>human beta chorionic gonadotropin (β-HCG)</b> (what pregnancy tests detect), which keeps the corpus luteum making progesterone. Later the <b>placenta</b> takes over making progesterone.",
+        "First trimester: major organs form (most sensitive time); <b>morning sickness</b> is common. Second and third: growth.",
+        "Labor: oxytocin → contractions → more oxytocin (positive feedback). Stage 1: the cervix thins and opens to about 10 cm. Stage 2: the baby is delivered. Stage 3: the placenta is delivered.",
+        "<b>Contraception</b>: barrier methods, hormones (pills, implants: the most effective short-term options, which block GnRH and so FSH and LH), and surgery.",
+        "<b>Infertility</b> causes: STDs scarring the tubes, blocked tubes, hormone problems, stress, age. Treatments include IVF (egg and sperm combined in a dish, embryo implanted)."
+      ],
+      "words": ["gestation", "human beta chorionic gonadotropin", "placenta", "morning sickness", "contraception", "infertility"]
+    }
+  },
+  "answers": {
+    "1": { "a": "a", "why": "<b>Asexual</b> reproduction makes identical copies, which works well when nothing changes." },
+    "2": { "a": "d", "why": "<b>Sexual</b> reproduction mixes genes from two parents." },
+    "3": { "a": "c", "why": "False: parthenogenesis is <b>asexual</b> (an unfertilized egg develops)." },
+    "4": { "a": "b", "why": "Each piece grows back into a whole sea star: <b>fragmentation</b>." },
+    "5": { "a": "c", "why": "<b>Hermaphrodites</b> can mate with any member of their species they meet." },
+    "6": { "a": "b", "why": "Gametes are <b>haploid</b> (one set of chromosomes)." },
+    "7": { "a": "a", "why": "Sperm need water to swim to eggs: <b>aquatic</b>." },
+    "8": { "a": "c", "why": "Many animals releasing gametes together <b>mixes genes</b> widely." },
+    "9": { "a": "a", "why": "Eggs laid outside and fed by yolk = <b>oviparity</b>." },
+    "10": { "a": "b", "why": "Birds pass the egg into the <b>cloaca</b> and lay it through the cloacal opening." },
+    "11": { "a": "a", "why": "Birds mate by touching <b>cloacas</b>." },
+    "12": { "a": "d", "why": "A spermatheca <b>stores sperm</b> for later fertilization." },
+    "13": { "a": "b", "why": "The <b>seminal vesicles</b> make most of semen's volume." },
+    "14": { "a": "c", "why": "<b>Cilia</b> lining the oviduct sweep the egg in." },
+    "15": { "a": "a", "why": "The <b>clitoris</b> and penis come from the same embryonic tissue." },
+    "16": { "a": "a", "why": "The <b>urinary bladder</b> is only part of the urinary system." },
+    "17": { "a": "a", "why": "Oogenesis makes just <b>one</b> egg (plus polar bodies)." },
+    "18": { "a": "a", "why": "At puberty, <b>GnRH</b> starts the hormone chain that turns on sperm production." },
+    "19": { "a": "b", "why": "<b>LH</b> stimulates the Leydig cells." },
+    "20": { "a": "a", "why": "<b>GnRH</b> from the hypothalamus controls FSH and LH." },
+    "21": { "a": "d", "why": "<b>Progesterone</b> prepares the lining for implantation." },
+    "22": { "a": "c", "why": "Follicles stop responding to <b>FSH and LH</b>." },
+    "23": { "a": "c", "why": "<b>Progesterone</b> from the corpus luteum thickens the lining after ovulation." },
+    "24": { "a": "a", "why": "Acrosome enzymes <b>digest the egg's outer layer</b> so the sperm can get through." },
+    "25": { "a": "a", "why": "Haploid + haploid = <b>diploid</b> again." },
+    "26": { "a": "b", "why": "False: the trophoblast becomes the placenta. It's not a germ layer." },
+    "27": { "a": "b", "why": "Major organs form in the <b>first trimester</b>." },
+    "28": { "a": "a", "why": "Cleavage <b>increases</b> the number of cells (without growing the embryo)." },
+    "29": { "a": "a", "why": "The <b>inner cell mass</b> becomes the whole embryo, including the liver." },
+    "30": { "a": "b", "why": "Skin comes from the <b>ectoderm</b>." },
+    "31": { "a": "d", "why": "<b>Cleavage → blastula → gastrula</b>." },
+    "32": { "a": "c", "why": "\"Upper-lower\" isn't a body axis term." },
+    "33": { "a": "a", "why": "Body axes are set by <b>genes</b>." },
+    "34": { "a": "a", "why": "The neural plate folds into the <b>neural tube</b>." },
+    "35": { "a": "c", "why": "<b>One sperm</b> must enter <b>one egg</b>." },
+    "36": { "a": "a", "why": "Later in pregnancy the <b>placenta</b> makes progesterone." },
+    "37": { "a": "a", "why": "<b>Oxytocin</b> drives labor contractions." },
+    "38": { "a": "a", "why": "The cervix must <b>thin and dilate</b> first." },
+    "39": { "a": "b", "why": "<b>Hormonal implants</b> are the most effective of these." },
+    "40": { "a": "c", "why": "Around ovulation, cervical mucus becomes <b>thinner and stretchier</b>." },
+    "41": { "a": "d", "why": "Of these, the book's intended answer is <b>genetic factors</b>. (In real life some genetic conditions do affect fertility.)" },
+    "42": { "a": "d", "why": "Egg and sperm combine <b>in a dish</b>, and the <b>embryo</b> is implanted." },
+    "43": { "a": "c", "why": "The left population is steady (native environment). The right one drops, then climbs (adapting to a new place)." },
+    "44": { "a": "c", "why": "It's slower and costly, but <b>genetic diversity</b> helps survive unpredictable changes." },
+    "45": { "a": "b", "why": "Yes. In many reptiles, the egg's <b>temperature</b> decides sex." },
+    "46": { "a": "c", "why": "Better offspring survival, and a <b>specific partner</b> can be chosen." },
+    "47": { "a": "a", "why": "The turtle is laying eggs that develop outside: <b>oviparous</b>." },
+    "48": { "a": "b", "why": "Birds use the cloaca. Mammals have a penis and vagina. Insects mature <b>eggs in ovaries</b> and <b>sperm in testes</b>." },
+    "49": { "a": "c", "why": "If fertilized, it moves to the <b>uterus</b> to implant. If not, it <b>breaks down and leaves</b> the body." },
+    "50": { "a": "d", "why": "Both see rises in heart rate, breathing and blood pressure. The intensity and duration differ, and arousal is specific in males, non-specific in females." },
+    "51": { "a": "c", "why": "Both use <b>meiosis</b>. Spermatogenesis makes <b>4 sperm</b>, oogenesis makes <b>1 egg</b>." },
+    "52": { "a": "c", "why": "GnRH → FSH and LH. FSH → <b>Sertoli</b> cells. LH → <b>Leydig</b> cells → testosterone." },
+    "53": { "a": "a", "why": "No implantation → corpus luteum breaks down → estrogen and progesterone <b>drop</b> → the endometrium sheds." },
+    "54": { "a": "d", "why": "Risks: stroke, heart attack, clots, breast/ovarian/endometrial cancer, gallbladder disease, possibly <b>dementia</b>." },
+    "55": { "a": "d", "why": "<b>A</b> = one-cell zygote. <b>E</b> = the hollow blastocyst ready to implant." },
+    "56": { "a": "a", "why": "The <b>inner cell mass</b> holds the stem cells that form the three germ layers." },
+    "57": { "a": "c", "why": "Cells moving inward to form layers = <b>gastrula</b>." },
+    "58": { "a": "a", "why": "Growth factors push some ectoderm toward <b>skin</b>. The rest becomes the <b>neural plate</b>." },
+    "59": { "a": "b", "why": "The top of the neural tube becomes the brain, so the <b>brain wouldn't develop properly</b>." },
+    "60": { "a": "d", "why": "In myelomeningocele the <b>spinal cord itself</b> is pushed out into the sac." },
+    "61": { "a": "b", "why": "Stage 1: the cervix thins and dilates to 10 cm. Stage 2: the baby is born. Stage 3: the placenta comes out." },
+    "62": { "a": "a", "why": "While adapting (days 10–35), the <b>sexually</b> produced offspring were more fit." },
+    "63": { "a": "d", "why": "Mammals: XX female, XY male. Birds: <b>ZW female, ZZ male</b>." },
+    "64": { "a": "c", "alt": "d", "why": "The sexually produced offspring peak around day 35, then their fitness <b>falls</b> for the rest of the study." },
+    "65": { "a": "a", "why": "New gene combos help offspring <b>survive change</b>." },
+    "66": { "a": "a", "why": "A shared cue lets <b>many</b> animals release gametes at once without pairing up." },
+    "67": { "a": "c", "why": "The <b>corpus luteum</b> makes progesterone." },
+    "68": { "a": "a", "why": "Estrogen has a second rise during the <b>luteal/secretory</b> phase." },
+    "69": { "a": "b", "why": "<b>LH</b> stimulates Leydig cells." },
+    "70": { "a": "c", "why": "A <b>diploid</b> oogonium makes a <b>haploid</b> oocyte by <b>meiosis</b>." },
+    "71": { "a": "d", "why": "<b>Crossing over</b> (and independent assortment) makes each sperm genetically different." },
+    "72": { "a": "a", "why": "Testosterone <b>shuts down</b> GnRH, LH and FSH: negative feedback." },
+    "73": { "a": "b", "why": "The follicle count only goes down over time: a <b>finite reserve</b>." },
+    "74": { "a": "c", "why": "Without progesterone, the lining isn't ready, so the embryo may not implant or get nourishment from the <b>endometrium</b>." },
+    "75": { "a": "a", "why": "Less GnRH → <b>less FSH and LH</b> → no ovulation." },
+    "76": { "a": "a", "why": "FSH and LH make follicles <b>grow</b> toward ovulation." },
+    "77": { "a": "d", "why": "Try <b>IVF</b> (bypasses the tubes) or <b>surgically remove</b> the blockage and rejoin the tubes." },
+    "78": { "a": "c", "why": "The <b>LH and FSH surge</b> triggers the follicle to burst." },
+    "79": { "a": "d", "alt": "c", "why": "The lining is thickest during the luteal phase, when <b>progesterone</b> is highest. Estrogen starts the rebuilding." },
+    "80": { "a": "b", "why": "Oxytocin jumps to about 45 and then stays level while dilation keeps increasing: once it's past a <b>threshold</b>, dilation continues." },
+    "81": { "a": "c", "why": "The <b>LH</b> surge is the pituitary's part of the positive feedback loop." },
+    "82": { "a": "b", "why": "About 66,000 of 81,000 pregnancies (around 81%) ended in <b>live births</b>." },
+    "83": { "a": "d", "why": "Oxytocin spikes and drops at intervals, with peaks of <b>different sizes</b>." }
+  }
+}
