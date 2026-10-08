@@ -1,0 +1,141 @@
+{
+  "chapter": 33,
+  "sections": {
+    "33.0": {
+      "big": "The immune system defends the body (the <b>host</b>) against <b>pathogens</b> with two layers: a fast, general <b>innate</b> defense and a slower, targeted <b>adaptive</b> defense with memory.",
+      "points": [
+        "Immune cells are white blood cells. Many travel through <b>lymph</b>, the fluid of the lymphatic system."
+      ],
+      "words": ["host", "pathogen", "lymph"]
+    },
+    "33.1": {
+      "big": "<b>Innate immunity</b> is the defense you're born with: barriers plus cells and proteins that attack any invader quickly.",
+      "points": [
+        "Barriers: dry, acidic skin; mucus; tears and saliva with enzymes; stomach acid; helpful bacteria.",
+        "Recognition: <b>pattern recognition receptors (PRRs)</b> on immune cells detect <b>pathogen-associated molecular patterns (PAMPs)</b>, parts common to many germs. That triggers <b>cytokine</b> signals.",
+        "Phagocytes eat invaders: <b>macrophages</b> (develop from <b>monocytes</b>), <b>neutrophils</b>, and <b>dendritic cells</b>. Engulfed microbes are destroyed by lysosomes.",
+        "<b>Inflammation</b>: <b>mast cells</b> (and <b>basophils</b>) release histamine → vessels widen and leak → redness, heat, swelling, and more immune cells arrive. <b>Eosinophils</b> fight parasites.",
+        "Infected cells release <b>interferons</b>, which warn nearby cells to resist viruses.",
+        "<b>Natural killer (NK) cells</b> check for <b>MHC I</b> \"self\" markers on body cells. Cells missing it (infected or cancerous) are killed with <b>perforin</b> (punches holes) and <b>granzymes</b> (trigger cell death).",
+        "The <b>complement system</b>: about 20 blood proteins that activate each other in a cascade to coat germs (<b>opsonization</b>, which speeds up phagocytosis) and punch holes in them."
+      ],
+      "words": ["innate immunity", "pattern recognition receptor", "pathogen-associated molecular pattern", "cytokine", "macrophage", "monocyte", "neutrophil", "dendritic cell", "inflammation", "mast cell", "basophil", "eosinophil", "interferon", "natural killer cell", "perforin", "granzyme", "complement system", "opsonization"]
+    },
+    "33.2": {
+      "big": "<b>Adaptive immunity</b> learns: it builds a specific attack against each new <b>antigen</b> and remembers it, so the next response is faster and stronger.",
+      "points": [
+        "<b>Antigen-presenting cells (APCs)</b> (macrophages, dendritic cells, B cells) eat germs and display pieces on <b>MHC II</b> molecules. Every body cell shows its own proteins on <b>MHC I</b>.",
+        "<b>Lymphocytes</b>: <b>B cells</b> mature in bone marrow; <b>T cells</b> mature in the thymus. Each recognizes one specific antigen.",
+        "<b>Helper T lymphocytes (TH)</b> bind antigen on an APC's MHC II, then release cytokines that activate B cells and killer T cells. HIV destroys these CD4⁺ cells.",
+        "<b>Cell-mediated immune response</b>: <b>cytotoxic T lymphocytes (CTLs)</b> kill infected cells that show foreign antigen on MHC I.",
+        "<b>Humoral immune response</b>: activated B cells become <b>plasma cells</b> that pump out <b>antibodies</b>.",
+        "<b>Clonal selection</b>: the one lymphocyte that matches an antigen multiplies into many <b>effector cells</b> plus long-lived <b>memory cells</b>. That's why vaccines work.",
+        "<b>Regulatory T (Treg) cells</b> calm the response and help keep <b>immune tolerance</b> (not attacking self). <b>Mucosa-associated lymphoid tissue (MALT)</b> guards the gut and airways.",
+        "<b>Passive immunity</b> = borrowed antibodies (from mother through the placenta or milk, or an antibody shot). Short-lived, with no memory."
+      ],
+      "tip": "B cells make antiBodies. T cells Take out infected cells (or help everyone else).",
+      "words": ["adaptive immunity", "antigen", "antigen-presenting cell", "major histocompatibility class I/II molecule", "lymphocyte", "B cell", "T cell", "helper T lymphocyte", "cell-mediated immune response", "cytotoxic T lymphocyte", "humoral immune response", "plasma cell", "antibody", "clonal selection", "effector cell", "memory cell", "regulatory T cell", "immune tolerance", "mucosa-associated lymphoid tissue", "passive immunity"]
+    },
+    "33.3": {
+      "big": "An <b>antibody</b> is a Y-shaped protein whose tips fit one specific part of an antigen like a lock and key.",
+      "points": [
+        "Structure: two heavy chains + two light chains. The <b>variable</b> regions at the tips bind the antigen. The <b>constant</b> region decides the antibody's class (IgM first, IgG most common, IgA in mucus and milk, IgE in allergies, IgD).",
+        "The exact spot an antibody binds is the <b>epitope</b>.",
+        "Diversity: in each B cell, DNA segments are randomly cut and rejoined (by DNA recombinase) before transcription, making over a trillion different antibodies from a few genes.",
+        "<b>Affinity</b> = how tightly one binding site holds. <b>Avidity</b> = total binding strength with all sites. <b>Cross reactivity</b> = an antibody also binding a similar, different antigen.",
+        "Jobs: neutralize toxins and viruses, coat germs for phagocytes (opsonization), clump them together, and activate complement."
+      ],
+      "words": ["epitope", "affinity", "avidity", "cross reactivity"]
+    },
+    "33.4": {
+      "big": "Problems arise when immunity is too weak, overreacts to harmless things, or attacks the body itself.",
+      "points": [
+        "<b>Immunodeficiency</b>: a weak or missing immune response, either inherited (SCID) or acquired (HIV/AIDS destroys helper T cells).",
+        "<b>Hypersensitivities</b> come in three types: immediate (allergies), delayed (like a poison ivy rash), and autoimmune.",
+        "<b>Allergy</b>: an immune response to something harmless (pollen, peanuts). IgE on mast cells triggers histamine release. Antihistamines block histamine's effects.",
+        "<b>Autoimmunity</b> (an <b>autoimmune response</b>): the body attacks itself with <b>autoantibodies</b>. Examples: type 1 diabetes (insulin-making cells), Graves' disease (antibodies switch on the thyroid), myasthenia gravis (antibodies block acetylcholine receptors on muscle)."
+      ],
+      "words": ["immunodeficiency", "hypersensitivities", "allergy", "autoimmunity", "autoimmune response", "autoantibody"]
+    }
+  },
+  "fix": {
+    "43": {
+      "stem": [1],
+      "opts": [
+        "<img class=\"choice\" src=\"img/c33/p1441-6.jpg\" width=\"171\" height=\"177\" alt=\"Phagocyte: ribosomes attach to the engulfed bacterium\">",
+        "<img class=\"choice\" src=\"img/c33/p1442-7.jpg\" width=\"171\" height=\"177\" alt=\"Phagocyte: antibodies inside the cell attach to the engulfed bacterium\">",
+        "<img class=\"choice\" src=\"img/c33/p1442-8.jpg\" width=\"171\" height=\"177\" alt=\"Phagocyte: lysosomes fuse with the engulfed bacterium and digest it\">",
+        "<img class=\"choice\" src=\"img/c33/p1442-9.jpg\" width=\"171\" height=\"169\" alt=\"Phagocyte: mitochondria fuse with the engulfed bacterium\">"
+      ]
+    },
+    "44": { "stem": [2] },
+    "47": {
+      "stem": [0],
+      "opts": [
+        "<img class=\"choice\" src=\"img/c33/p1443-11.jpg\" width=\"171\" height=\"225\" alt=\"Macrophage and helper T cell touch directly, with no receptors shown\">",
+        "<img class=\"choice\" src=\"img/c33/p1443-12.jpg\" width=\"171\" height=\"225\" alt=\"Helper T cell receptor touches the macrophage, but no antigen or MHC is shown\">",
+        "<img class=\"choice\" src=\"img/c33/p1443-13.jpg\" width=\"171\" height=\"224\" alt=\"Macrophage shows antigen on an MHC molecule; the helper T cell receptor binds it\">",
+        "<img class=\"choice\" src=\"img/c33/p1443-14.jpg\" width=\"171\" height=\"222\" alt=\"The receptor is on the macrophage and the MHC molecule is on the helper T cell (reversed)\">"
+      ]
+    },
+    "48": { "stem": [2, 3] }
+  },
+  "answers": {
+    "1": { "a": "d", "why": "Skin is <b>dry</b> (and acidic), so most microbes can't survive on it." },
+    "2": { "a": "d", "why": "These bacteria only grow between pH 5.4 and 7.4. Skin that keeps them out would be <b>outside that range</b> (skin is actually about pH 5)." },
+    "3": { "a": "a", "why": "<b>Macrophages</b> recognize and engulf invaders right away." },
+    "4": { "a": "a", "why": "Damaged cells and immune cells release <b>cytokines and histamine</b>, which cause inflammation." },
+    "5": { "a": "c", "why": "<b>NK cells</b> check for MHC I and kill cells without it." },
+    "6": { "a": "d", "why": "NK cells kill by <b>lysis</b> (perforin, granzymes). Macrophages <b>eat</b> invaders." },
+    "7": { "a": "d", "why": "MHC molecules are <b>proteins</b>." },
+    "8": { "a": "b", "why": "MHC I <b>displays protein pieces</b> on the cell surface." },
+    "9": { "a": "c", "why": "About 20 blood <b>proteins</b> that attack in a cascade." },
+    "10": { "a": "d", "why": "Complement coats germs, so phagocytes <b>engulf</b> them faster." },
+    "11": { "a": "a", "why": "Adaptive = <b>acquired</b> immunity." },
+    "12": { "a": "d", "why": "You build a specific response after exposure, and it's <b>remembered</b> for next time." },
+    "13": { "a": "c", "why": "<b>Mast cells</b> are innate. T cells, B cells and antibodies are adaptive." },
+    "14": { "a": "b", "why": "Adaptive immunity is slower but <b>longer-lasting</b> (memory)." },
+    "15": { "a": "d", "why": "Humoral = antibodies = <b>B cells</b>." },
+    "16": { "a": "c", "why": "At step 2 the B cell is <b>displaying</b> pieces of the antigen on its surface, ready for helper T cells." },
+    "17": { "a": "b", "why": "Binding a different but similar antigen = <b>cross reactivity</b>." },
+    "18": { "a": "c", "why": "One antibody binding several proteins = <b>cross reactivity</b>." },
+    "19": { "a": "c", "why": "<b>Two heavy + two light</b> chains." },
+    "20": { "a": "d", "why": "Different constant regions = different antibody <b>classes</b> (IgG, IgM, IgA...)." },
+    "21": { "a": "b", "why": "<b>DNA recombinase</b> cuts and rejoins the gene segments." },
+    "22": { "a": "d", "why": "DNA rearranges first, then transcription → RNA processing → translation." },
+    "23": { "a": "a", "why": "What's measured, <b>lung function</b>, is the dependent variable." },
+    "24": { "a": "b", "why": "It reacts to something <b>harmless</b> that needs no defense." },
+    "25": { "a": "d", "why": "Antibodies against self = <b>autoantibodies</b>." },
+    "26": { "a": "b", "why": "Autoantibodies attack the body's own insulin-making cells, causing inflammation and damage." },
+    "27": { "a": "c", "why": "<b>Immediate, delayed, and autoimmune</b>." },
+    "28": { "a": "b", "why": "Autoimmunity = attacking <b>self</b> antigens." },
+    "29": { "a": "c", "why": "Some entry points (mouth, nose, eyes) <b>aren't covered by skin</b>." },
+    "30": { "a": "b", "why": "NK cells act <b>immediately</b> on cells missing self markers. Interferons are <b>induced</b> after infection is detected." },
+    "31": { "a": "a", "why": "The recipient's <b>NK cells</b> see the donor's MHC I as non-self and attack." },
+    "32": { "a": "c", "why": "Without MHC I, the immune system <b>can't tell self from non-self</b> (or spot infected cells)." },
+    "33": { "a": "b", "why": "<b>Yes</b>: it's a cascade, so a broken early step stops everything after it." },
+    "34": { "a": "c", "why": "Pathogens keep changing. One adaptable system that can make <b>specific</b> responses to <b>new</b> germs saves energy and storage." },
+    "35": { "a": "a", "why": "Everyone has innate immunity, so it came <b>first</b>. Adaptive appeared after vertebrates split off, early in vertebrate history." },
+    "36": { "a": "c", "why": "Naïve = <b>not yet exposed</b>. Once activated, <b>B cells</b> make antibodies and <b>T cells</b> do cell-mediated attacks." },
+    "37": { "a": "a", "why": "The vaccine made antibodies to one strain. January's virus was <b>different enough</b> that those antibodies didn't protect." },
+    "38": { "a": "c", "why": "Variable regions let the body make antibodies with <b>many different targets</b>." },
+    "39": { "a": "c", "why": "Mother's antibodies cross the <b>placenta</b>: passive immunity." },
+    "40": { "a": "c", "why": "Allergies react to <b>harmless</b> environmental proteins. Teaching the body to treat them as \"self\" would stop that." },
+    "41": { "a": "a", "why": "Their immune system makes antibodies against their <b>own</b> salivary gland proteins." },
+    "42": { "a": "c", "why": "A dip right away, recovery, then a <b>bigger</b> dip hours later (the late phase)." },
+    "43": { "a": "c", "why": "Phagocytes destroy engulfed bacteria by fusing them with <b>lysosomes</b>." },
+    "44": { "a": "a", "why": "NK cells see <b>MHC I</b> on healthy cells and spare them. Infected cells that lose MHC I are killed." },
+    "45": { "a": "d", "why": "<b>Pathogen</b> (has PAMPs) → <b>dendritic cell</b> (has PRRs, releases cytokines) → protects <b>healthy host cells</b>." },
+    "46": { "a": "a", "why": "Helper T cells are a <b>required step</b> in activating B cells. No helpers = no antibodies." },
+    "47": { "a": "c", "why": "The macrophage shows antigen on an <b>MHC</b> molecule, and the <b>T cell receptor</b> binds it." },
+    "48": { "a": "a", "why": "APCs display vaccine antigen, helper T cells bind it, and that contact leads to <b>B cells making antibodies</b>." },
+    "49": { "a": "a", "why": "Helper <b>T cells release cytokines</b> that help B cells multiply into plasma cells." },
+    "50": { "a": "c", "why": "Antibodies grab the <b>toxins</b>, so they can't bind receptors and enter cells (neutralization)." },
+    "51": { "a": "b", "why": "In the B cell, the V and C pieces are on the <b>same</b> fragment: the DNA was <b>rearranged</b>." },
+    "52": { "a": "a", "why": "Each antibody has a <b>specific antigen-binding site</b> that fits only its target." },
+    "53": { "a": "d", "why": "Specific antibodies = <b>effective</b>. Not needing a gene per antibody = <b>efficient</b>." },
+    "54": { "a": "c", "why": "Antihistamines block histamine from acting on tissues, so <b>less itching and swelling</b>." },
+    "55": { "a": "a", "why": "Autoantibodies keep the TSH receptor switched on no matter what, so negative feedback <b>fails</b> and too much thyroid hormone is made." },
+    "56": { "a": "c", "why": "Antibodies block the <b>acetylcholine receptors</b> on muscle, so signals don't get through." }
+  }
+}
