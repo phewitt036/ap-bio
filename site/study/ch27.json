@@ -1,0 +1,123 @@
+{
+  "chapter": 27,
+  "sections": {
+    "27.0": {
+      "big": "Senses turn things in the world (light, sound, chemicals, pressure) into electrical signals your brain can understand.",
+      "points": [
+        "Special senses have their own organs: smell (<b>olfaction</b>), taste (<b>gustation</b>), hearing, balance, <b>vision</b>. General senses are spread across the body: touch, temperature, pain, and body position (<b>proprioception</b>)."
+      ],
+      "words": ["olfaction", "gustation", "vision", "proprioception"]
+    },
+    "27.1": {
+      "big": "Every sense follows the same steps: <b>reception → transduction → perception</b>.",
+      "points": [
+        "<b>Reception</b>: a <b>sensory receptor</b> detects a specific stimulus. Its <b>receptive field</b> is the area it monitors.",
+        "<b>Sensory transduction</b>: the stimulus is turned into an electrical change (a <b>receptor potential</b>), which can trigger action potentials. Some receptors are specialized cells; <b>free nerve endings</b> respond to several kinds of stimuli.",
+        "<b>Perception</b>: the brain (cerebral cortex) interprets the signal. Damage to the nerves between receptor and brain blocks perception even if the receptor works.",
+        "<b>Just-noticeable difference (JND)</b>: the smallest change you can detect. It's proportional to the starting size (Weber's law): you'd notice 1 lb added to a 1 lb bag, but not to a 20 lb bag."
+      ],
+      "words": ["reception", "sensory receptor", "receptive field", "sensory transduction", "receptor potential", "free nerve ending", "perception"]
+    },
+    "27.2": {
+      "big": "Somatosensation is touch, pressure, vibration, temperature, pain and body position, all sensed by receptors in the skin, muscles and joints.",
+      "points": [
+        "<b>Mechanoreceptors</b> sense pressure and touch. Near the surface (fine touch): <b>Merkel's discs</b> (light touch; unencapsulated) and <b>Meissner's corpuscles</b> (fine touch and grip). Deeper: <b>Ruffini endings</b> (skin stretch) and <b>Pacinian corpuscles</b> (deep pressure and high-frequency vibration).",
+        "Fingertips are packed with Merkel's and Meissner's receptors, which is why they're so sensitive. Smooth, hairless skin is called <b>glabrous</b>. Hair receptors in hairy skin sense hair movement.",
+        "Thermoreceptors sense warm and cold. Capsaicin in peppers opens the same calcium channels as heat receptors, so spicy food feels hot.",
+        "<b>Nociception</b> = sensing damaging stimuli (pain).",
+        "Body position: <b>proprioception</b> (where your limbs are) and <b>kinesthesia</b> (sense of movement), using <b>muscle spindles</b> (muscle stretch) and <b>Golgi tendon organs</b> (tendon tension)."
+      ],
+      "words": ["mechanoreceptor", "Merkel's disc", "Meissner’s corpuscle", "Ruffini ending", "Pacinian corpuscle", "glabrous", "nociception", "kinesthesia", "muscle spindle", "Golgi tendon organ"]
+    },
+    "27.3": {
+      "big": "Taste and smell are chemical senses: receptors bind molecules from food or the air.",
+      "points": [
+        "Five basic tastes: sweet, salty, sour, bitter and <b>umami</b> (savory). Bitter warns of poison and sour warns of spoiled food.",
+        "Taste molecules (<b>tastants</b>) bind receptors in <b>taste buds</b>, which sit in bumps called <b>papillae</b>. Each taste cell responds to one type of taste. Filiform papillae have no taste buds.",
+        "Smell: <b>odorants</b> bind <b>olfactory receptors</b> in the <b>olfactory epithelium</b> high in the nose. Signals go to the <b>olfactory bulb</b>, where they are sorted in <b>glomeruli</b>. Humans have about 12 million olfactory receptors; dogs have far more (and bigger snouts).",
+        "<b>Pheromones</b> are chemical signals between members of the same species. In many animals they go to the amygdala and aren't consciously noticed."
+      ],
+      "words": ["umami", "tastant", "taste bud", "papilla", "odorant", "olfactory receptor", "olfactory epithelium", "olfactory bulb", "glomerulus", "pheromone"]
+    },
+    "27.4": {
+      "big": "Hearing (<b>audition</b>) and balance (<b>vestibular sense</b>) both use <b>hair cells</b> in the inner ear that bend when fluid moves.",
+      "points": [
+        "Sound is a pressure wave. Pitch = frequency (Hz). Volume = amplitude (decibels). Humans hear about 20–20,000 Hz; bats and dolphins hear far higher (<b>ultrasound</b>).",
+        "<b>Outer ear</b>: the <b>auricle</b> (pinna) funnels sound to the <b>tympanum</b> (eardrum). <b>Middle ear</b>: three <b>ossicles</b> — <b>malleus</b>, <b>incus</b>, <b>stapes</b> — amplify vibrations onto the <b>oval window</b>.",
+        "<b>Inner ear</b>: the <b>cochlea</b> holds the <b>organ of Corti</b>. Waves move the <b>basilar membrane</b>, bending <b>stereocilia</b> on hair cells against the <b>tectorial membrane</b>. That bending opens ion channels and fires the auditory nerve.",
+        "Balance: the <b>labyrinth</b> includes the <b>semicircular canals</b> (head rotation) and the utricle and saccule, where small crystals pulled by gravity sense tilt and straight-line acceleration."
+      ],
+      "words": ["audition", "vestibular sense", "ultrasound", "outer ear", "auricle", "tympanum", "middle ear", "ossicle", "malleus", "incus", "stapes", "oval window", "inner ear", "cochlea", "organ of Corti", "basilar membrane", "stereocilia", "tectorial membrane", "labyrinth", "semicircular canal"]
+    },
+    "27.5": {
+      "big": "Vision turns light into signals in the <b>retina</b>, and the brain builds them into images.",
+      "points": [
+        "Visible light is a small slice of the spectrum (about 380–700 nm). Shorter wavelength = higher energy (violet/blue). Brightness is measured in <b>candelas</b>.",
+        "Path: the <b>cornea</b> bends light, the <b>iris</b> adjusts the <b>pupil</b>, the <b>lens</b> focuses it onto the <b>retina</b>.",
+        "<b>Rods</b>: dim light, black and white, use <b>rhodopsin</b>. <b>Cones</b>: color and detail, three types (S, M, L for blue, green, red). The <b>fovea</b> is packed with cones for sharp vision.",
+        "Odd twist: light <b>hyperpolarizes</b> rods and cones, which stops their <b>tonic activity</b> (constant neurotransmitter release in the dark). Signals pass to <b>bipolar neurons</b>, then ganglion cells. Some processing happens right in the retina.",
+        "Focus problems: <b>myopia</b> (nearsighted; image lands in front of the retina), <b>hyperopia</b> (farsighted; behind it), <b>presbyopia</b> (lens stiffens with age).",
+        "In the brain: the <b>superior colliculus</b> coordinates head and eye movement, the <b>suprachiasmatic nucleus</b> sets <b>circadian</b> rhythms from light, and the visual cortex sends \"where\" information to the parietal lobe and \"what\" to the temporal lobe."
+      ],
+      "words": ["candela", "cornea", "iris", "pupil", "lens", "retina", "rod", "rhodopsin", "cone", "fovea", "tonic activity", "bipolar neuron", "myopia", "hyperopia", "presbyopia", "superior colliculus", "suprachiasmatic nucleus", "circadian"]
+    }
+  },
+  "answers": {
+    "1": { "a": "c", "why": "Body position (<b>proprioception</b>) is a general sense. The others are special senses." },
+    "2": { "a": "b", "why": "Taste = <b>gustation</b>." },
+    "3": { "a": "b", "why": "Perception happens in the brain's <b>cerebral cortex</b>." },
+    "4": { "a": "d", "why": "Turning a stimulus into an electrical signal = <b>transduction</b>." },
+    "5": { "a": "c", "why": "The smallest detectable change is the <b>just-noticeable difference</b>." },
+    "6": { "a": "a", "alt": "cd", "why": "Differences under 20% feel the same: a (about 10%), c (about 17%) and d (about 16%) all qualify. Only b (about 21%) is noticeable." },
+    "7": { "a": "a", "why": "Receptors <b>detect specific stimuli</b>." },
+    "8": { "a": "a", "why": "<b>Merkel's discs</b> are unencapsulated. The others are wrapped in capsules." },
+    "9": { "a": "d", "why": "<b>Pacinian corpuscles</b> sense high-frequency vibration." },
+    "10": { "a": "a", "why": "<b>Free nerve endings</b> reach into the epidermis, the outer skin layer." },
+    "11": { "a": "d", "why": "<b>Hair receptors</b> are only in hairy skin and sense hairs bending." },
+    "12": { "a": "a", "why": "Nociception = responding to <b>damaging</b> stimuli (pain)." },
+    "13": { "a": "c", "why": "Capsaicin opens the <b>same calcium channels</b> as heat receptors." },
+    "14": { "a": "b", "why": "<b>Meissner's corpuscles</b> help with grip." },
+    "15": { "a": "a", "why": "Each taste cell responds to <b>one</b> type of taste." },
+    "16": { "a": "a", "why": "Both detect <b>chemicals from the environment</b>." },
+    "17": { "a": "c", "why": "Savory = <b>umami</b>." },
+    "18": { "a": "d", "why": "<b>Sour</b> taste warns of spoiled food." },
+    "19": { "a": "c", "why": "Humans have about 12 million olfactory receptors and dogs about a billion: roughly <b>83 times</b> more." },
+    "20": { "a": "d", "why": "The olfactory epithelium fills the snout, so a <b>bigger snout</b> could mean a better nose. That's testable." },
+    "21": { "a": "c", "why": "<b>Foliate</b> papillae hold about 1,300 taste buds each." },
+    "22": { "a": "d", "why": "Pitch in <b>hertz</b>, volume in <b>decibels</b>." },
+    "23": { "a": "c", "why": "Dolphins hear up to 150,000 Hz. Bats top out around 100,000." },
+    "24": { "a": "a", "why": "Louder = <b>bigger amplitude</b>." },
+    "25": { "a": "d", "why": "Frequency = <b>waves per unit of time</b>." },
+    "26": { "a": "b", "why": "The <b>cochlea</b> holds the receptors that turn vibrations into signals." },
+    "27": { "a": "d", "why": "The <b>organ of Corti</b> has hair cells with <b>stereocilia</b> that fire the auditory nerve." },
+    "28": { "a": "b", "why": "<b>Hair cells</b> are used in both hearing and balance." },
+    "29": { "a": "a", "why": "Gravity pulls the otolith layer sideways, which happens when the <b>head tilts forward</b>." },
+    "30": { "a": "d", "why": "<b>Gamma rays</b> have the highest frequency." },
+    "31": { "a": "d", "why": "<b>Blue</b> has the shortest wavelength of these." },
+    "32": { "a": "b", "why": "Light can travel through a <b>vacuum</b> (sound can't)." },
+    "33": { "a": "d", "why": "Lots of cones = <b>sharp (acute) vision</b>." },
+    "34": { "a": "a", "why": "Image in front of the retina = <b>myopia</b> (nearsightedness)." },
+    "35": { "a": "d", "why": "The <b>retina</b> starts processing before signals leave the eye." },
+    "36": { "a": "b", "why": "The <b>superior colliculus</b> coordinates head and eye movement." },
+    "37": { "a": "b", "why": "Specialized receptors detect <b>one</b> kind of stimulus. Free nerve endings respond to <b>several</b>." },
+    "38": { "a": "d", "why": "The receptor still detects and transduces the stimulus, but the signal never reaches the brain, so <b>perception</b> fails." },
+    "39": { "a": "c", "alt": "d", "why": "The JND drops as sounds get louder (and is lower at higher frequencies), so we notice <b>smaller differences in louder sounds</b>." },
+    "40": { "a": "d", "why": "All senses turn a stimulus into an <b>electrical signal</b> carried by the nervous system." },
+    "41": { "a": "b", "why": "They're <b>mechanoreceptors</b> for fine detail, which fingertips need more than palms." },
+    "42": { "a": "c", "why": "The smallest two-point distances (2.4–2.5 mm) are on the <b>long and little fingers</b>: the most receptors." },
+    "43": { "a": "b", "why": "Capsaicin opens the same <b>calcium</b> channels as heat receptors. People differ in how much they can tolerate." },
+    "44": { "a": "d", "why": "Merkel's and Meissner's are near the <b>surface</b> (fine touch). Pacinian and Ruffini are <b>deeper</b> (pressure)." },
+    "45": { "a": "b", "why": "The trend line slopes down: higher BMI, <b>weaker taste</b> on average." },
+    "46": { "a": "d", "why": "Without taste it couldn't tell <b>safe from dangerous</b> food (bitter, spoiled, sour or sweet)." },
+    "47": { "a": "b", "why": "Bloodhounds were bred for <b>more receptors</b> and a <b>bigger olfactory epithelium</b>." },
+    "48": { "a": "c", "why": "Pheromones go to the <b>amygdala</b> and aren't consciously noticed." },
+    "49": { "a": "c", "why": "Dolphins and whales hear up to about 150 kHz, far above humans' 19 kHz." },
+    "50": { "a": "d", "why": "Softer = lower <b>amplitude</b>, so lower your <b>volume</b>." },
+    "51": { "a": "a", "why": "The ossicles carry eardrum vibrations to the stapes and cochlea. Missing a link breaks the chain." },
+    "52": { "a": "a", "why": "Balance sensors rely on <b>gravity</b> pulling on crystals, so lower gravity changes how motion feels." },
+    "53": { "a": "a", "why": "Warm bodies give off <b>infrared</b>, whose frequency is too low for our eyes." },
+    "54": { "a": "a", "why": "White light stimulates <b>all three cones</b>. Rods don't do color (and are saturated in bright light)." },
+    "55": { "a": "d", "why": "Light <b>hyperpolarizes</b> photoreceptors. Most other receptors <b>depolarize</b> when stimulated." },
+    "56": { "a": "b", "why": "<b>Parietal</b> = \"where\". <b>Temporal</b> = \"what\"." }
+  }
+}
