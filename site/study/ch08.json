@@ -1,0 +1,97 @@
+{
+  "chapter": 8,
+  "sections": {
+    "8.0": {
+      "big": "Almost all the energy in the food you eat started out as sunlight captured by <b>photosynthesis</b>.",
+      "points": [
+        "Photosynthetic organisms (plants, algae, cyanobacteria) are the base of almost every food web.",
+        "When the wrong algae overgrow (an algal bloom), they can wipe out sea grass and everything that depends on it."
+      ],
+      "words": ["photoautotroph"]
+    },
+    "8.1": {
+      "big": "Photosynthesis uses <b>light energy</b> to turn <b>CO<sub>2</sub> and water</b> into <b>sugar</b>, giving off <b>oxygen</b>. It happens in the <b>chloroplast</b>.",
+      "points": [
+        "<b>Photoautotrophs</b> (plants, algae, cyanobacteria) make their own food from light. <b>Heterotrophs</b> (animals, fungi, most bacteria) eat others. <b>Chemoautotrophs</b> get energy from inorganic chemicals instead of light.",
+        "Overall: 6CO<sub>2</sub> + 6H<sub>2</sub>O + light → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub>. That's cellular respiration run backwards.",
+        "Leaves take in CO<sub>2</sub> through <b>stomata</b> (pores mostly on the underside). Photosynthesis happens in the <b>mesophyll</b> cells.",
+        "Inside the chloroplast: stacks of <b>thylakoids</b> (each stack is a <b>granum</b>) hold the chlorophyll. The fluid around them is the <b>stroma</b>.",
+        "Two stages: the <b>light-dependent reactions</b> (in the thylakoid membranes) make ATP and NADPH, then the <b>Calvin cycle</b> (in the stroma) uses them to build sugar."
+      ],
+      "tip": "<b>Stoma</b> = mouth (a pore in the leaf). <b>Stroma</b> = the fluid inside the chloroplast. One letter apart, totally different places.",
+      "words": ["photoautotroph", "heterotroph", "chemoautotroph", "mesophyll", "stoma", "chloroplast", "thylakoid", "granum", "stroma"]
+    },
+    "8.2": {
+      "big": "The <b>light-dependent reactions</b> catch sunlight with pigments and use it to split water, giving off O<sub>2</sub>, and to make the energy carriers <b>ATP</b> and <b>NADPH</b>.",
+      "points": [
+        "<b>Shorter wavelength means more energy.</b> Violet and blue carry more than red. UV and X-rays carry so much they damage cells.",
+        "<b>Chlorophyll a and b</b> absorb blue and red light and <i>reflect green</i>, which is why plants look green. <b>Carotenoids</b> absorb blue-green and safely get rid of extra energy as heat.",
+        "<b>Photosystem II</b> goes first: light excites electrons, and the electrons it loses are replaced by <b>splitting water</b>. That's where the O<sub>2</sub> comes from.",
+        "Electrons travel down an electron transport chain (with the <b>cytochrome complex</b>) to <b>photosystem I</b>, pumping H<sup>+</sup> into the thylakoid space on the way.",
+        "Photosystem I re-energizes the electrons with more light and hands them to NADP<sup>+</sup>, making <b>NADPH</b>.",
+        "H<sup>+</sup> rushes back out through <b>ATP synthase</b>, which makes <b>ATP</b>. That's chemiosmosis again, just like in mitochondria."
+      ],
+      "tip": "Photosystem <b>II</b> comes <i>before</i> photosystem <b>I</b> in the chain. They're numbered by when they were discovered, not by order.",
+      "words": ["wavelength", "electromagnetic spectrum", "pigment", "absorption spectrum", "carotenoid", "chlorophyll a", "photosystem II", "photosystem I", "reaction center", "cytochrome complex"]
+    },
+    "8.3": {
+      "big": "The <b>Calvin cycle</b> (in the stroma) uses the ATP and NADPH from the light reactions to <b>fix CO<sub>2</sub></b> from the air into sugar.",
+      "points": [
+        "<b>1. Fixation:</b> the enzyme <b>RuBisCO</b> attaches CO<sub>2</sub> to <b>RuBP</b> (5 carbons), making two 3-PGA molecules. This is <b>carbon fixation</b>: inorganic carbon becomes organic.",
+        "<b>2. Reduction:</b> ATP and NADPH turn 3-PGA into <b>G3P</b>, a 3-carbon sugar.",
+        "<b>3. Regeneration:</b> most G3P is recycled (with more ATP) to rebuild RuBP so the cycle keeps going.",
+        "It takes <b>3 turns</b> (3 CO<sub>2</sub>) to make one extra G3P that can leave the cycle, and two G3P can build a glucose.",
+        "Desert plants like cacti open their stomata at night to save water (CAM photosynthesis).",
+        "Photosynthesis and respiration are a loop: one makes the O<sub>2</sub> and sugar the other uses, and the other makes the CO<sub>2</sub> and water the first one needs."
+      ],
+      "words": ["Calvin cycle", "carbon fixation", "light-independent reaction"]
+    }
+  },
+  "answers": {
+    "1": { "a": "c", "why": "Cyanobacteria are prokaryotes, so they have <b>no chloroplasts</b>. They do photosynthesis with membranes inside the cell. Both use CO<sub>2</sub>, chlorophyll and water." },
+    "2": { "a": "b", "why": "Chemoautotrophs get their energy from <b>inorganic chemicals</b>, not light. Photoautotrophs use light." },
+    "3": { "a": "c", "why": "The light-independent reactions (Calvin cycle) happen in the <b>stroma</b>. The light reactions happen in the thylakoids." },
+    "4": { "a": "d", "why": "A granum is a <b>stack of thylakoids</b>." },
+    "5": { "a": "c", "why": "Photosynthesis makes <b>sugars and oxygen</b>. CO<sub>2</sub> is something it uses up, not makes." },
+    "6": { "a": "a", "why": "<b>Glucose</b> is the main fuel cells break down for energy." },
+    "7": { "a": "d", "why": "<b>Ultraviolet</b> light has short wavelengths and high energy, enough to damage DNA." },
+    "8": { "a": "d", "why": "The energy of a wave is measured by its <b>wavelength</b>: shorter means more energy." },
+    "9": { "a": "c", "why": "<b>Radio waves</b> have the longest wavelengths, so they carry the least energy." },
+    "10": { "a": "c", "alt": ["a"], "why": "The book stresses that carotenoids <b>absorb extra energy and get rid of it as heat</b>, protecting the plant. They also widen the colors a plant can use, so (a) counts too." },
+    "11": { "a": "b", "why": "A photosystem has antenna pigments, a reaction center and a primary electron acceptor. <b>ATP synthase</b> is a separate protein." },
+    "12": { "a": "a", "why": "The <b>antenna complex</b> just catches light and passes the energy along. It doesn't move electrons or pump H<sup>+</sup>." },
+    "13": { "a": "c", "why": "Wavelength tells you <b>how much energy</b> the light carries." },
+    "14": { "a": "a", "why": "<b>CO<sub>2</sub></b> has to keep coming in, because its carbon is what gets fixed into sugar. RuBP and RuBisCO are reused." },
+    "15": { "a": "c", "why": "RuBP + CO<sub>2</sub> → (RuBisCO) → 3-PGA → G3P. That's fixation, then reduction." },
+    "16": { "a": "a", "why": "Carbon fixation means turning inorganic <b>CO<sub>2</sub></b> into an organic compound." },
+    "17": { "a": "c", "why": "<b>RuBisCO</b> is the enzyme that attaches CO<sub>2</sub> to RuBP." },
+    "18": { "a": "b", "why": "Plants and animals both do <b>cellular respiration</b>. Only plants do photosynthesis." },
+    "19": { "a": "b", "why": "Bacteria in your intestines eat what you eat, so they're <b>heterotrophs</b>. The others all photosynthesize." },
+    "20": { "a": "a", "why": "RuBisCO catalyzes the reaction between <b>CO<sub>2</sub> and RuBP</b>, the fixation step." },
+    "21": { "a": "b", "why": "The Calvin cycle's direct product is <b>G3P</b> (glyceraldehyde-3-phosphate). Glucose is built from it afterwards." },
+    "22": { "a": "a", "why": "The light reactions make ATP and NADPH, and the Calvin cycle spends them to build <b>sugars</b>." },
+    "23": { "a": "d", "why": "The light-dependent reactions make <b>NADPH and ATP</b>, which power the light-independent reactions (Calvin cycle)." },
+    "24": { "a": "a", "why": "Photosynthesis uses energy to <b>build</b> carbohydrates. Respiration <b>breaks them down</b> to release energy. Each is the other in reverse." },
+    "25": { "a": "c", "why": "Light hits <b>PS II</b> first, which excites chlorophyll a electrons. They go down the transport chain through the cytochrome complex from <b>PS II to PS I</b>, and the products (ATP and NADPH) power the Calvin cycle." },
+    "26": { "a": "a", "why": "UV and X-rays have short wavelengths and <b>high energy</b>, enough to get into tissue and damage cells and DNA." },
+    "27": { "a": "b", "why": "Yes. Chlorophyll absorbs <b>red</b> light well, so photosynthesis can still happen." },
+    "28": { "a": "c", "why": "Splitting water at <b>PS II</b> supplies electrons, which travel down the chain to <b>PS I</b>." },
+    "29": { "a": "b", "why": "Without enough CO<sub>2</sub>, the Calvin cycle has nothing to fix, so photosynthesis slows down or stops." },
+    "30": { "a": "a", "why": "The cycle makes <b>G3P</b> and regenerates <b>RuBP</b> so it can fix more CO<sub>2</sub>." },
+    "31": { "a": "b", "why": "CAM plants open their stomata <b>at night</b>, when it's cooler, to take in CO<sub>2</sub>, and keep them closed in the heat of the day to save water." },
+    "32": { "a": "c", "why": "Lions eat herbivores, and herbivores eat plants (<b>autotrophs</b>). So the lion's energy traces back to photosynthesis." },
+    "33": { "a": "d", "why": "Each turn fixes one carbon, and G3P has three, so it takes 3 turns to fix enough <b>carbon</b> to send out one G3P." },
+    "34": { "a": "c", "why": "Both electron transport chains use a <b>cytochrome complex</b>. Chloroplasts, photosystems and thylakoids belong only to photosynthesis." },
+    "35": { "a": "b", "why": "Aerobic respiration uses <b>oxygen and glucose</b>, the very things photosynthesis makes. These shared, linked pathways point to common ancestry." },
+    "36": { "a": "b", "why": "A = outer membrane, B = stroma (the fluid), C = granum (a stack), D = thylakoid, E = inner membrane." },
+    "37": { "a": "c", "why": "Chloroplasts and mitochondria both have <b>double membranes</b>, and both electron transport chains use a <b>cytochrome complex</b>." },
+    "38": { "a": "b", "why": "Making ATP by chemiosmosis needs a <b>membrane</b> to hold the H<sup>+</sup> gradient, and the thylakoid membrane is that membrane." },
+    "39": { "a": "b", "why": "The cycle spends <b>6 ATP and 6 NADPH</b> to make G3P, which stores the energy, and uses more ATP to regenerate RuBP." },
+    "40": { "a": "d", "why": "NADP<sup>+</sup> is given back when the Calvin cycle uses NADPH. With too little CO<sub>2</sub>, the cycle stalls, NADPH isn't used, and the plant runs out of NADP<sup>+</sup>." },
+    "41": { "a": "d", "why": "Losing CO<sub>2</sub> leaves the Calvin cycle without enough carbon to fix, so it slows down or stops, even with plenty of light and water." },
+    "42": { "a": "b", "why": "Plastoquinone and plastocyanin pass electrons along through redox reactions, toward <b>photosystem I</b>." },
+    "43": { "a": "b", "why": "The light-reaction parts (photosystems I and II and NADP<sup>+</sup> reductase) sit in the <b>thylakoid membrane</b>. The Calvin cycle chemicals are kept separate inside the chloroplast." },
+    "44": { "a": "a", "why": "Chlorophylls barely absorb green (they reflect it). The book says β-carotene absorbs blue <i>and green</i>, so <b>carotenoids</b> would lose the least." },
+    "45": { "a": "b", "alt": ["a"], "why": "Antenna pigments pass light energy along until it reaches the <b>chlorophyll a</b> pair in the reaction center. That pair hands an excited electron to the primary electron acceptor, and the lost electron is replaced from water." }
+  }
+}
