@@ -1,0 +1,99 @@
+{
+  "chapter": 5,
+  "sections": {
+    "5.0": {
+      "big": "Every cell is wrapped in a thin, flexible skin called the <b>plasma membrane</b>. Its main job is to be the cell's gatekeeper.",
+      "points": [
+        "The membrane is <b>selectively permeable</b>: some molecules pass through on their own, others need a helper protein, and some need energy to get across.",
+        "One helper protein, <b>NPC1</b>, moves cholesterol across the membrane. When it is broken, cholesterol piles up inside cells (NPC disease).",
+        "Ebola also uses NPC1 to get into cells. Mice without NPC1 didn't get sick, which shows how much depends on what the membrane lets in."
+      ],
+      "words": ["selectively permeable"]
+    },
+    "5.1": {
+      "big": "The membrane is a double layer of fat molecules (<b>phospholipids</b>) with proteins floating in it, like tiles in a mosaic that keeps moving. That's the <b>fluid mosaic model</b>.",
+      "points": [
+        "A phospholipid has a water-loving (<b>hydrophilic</b>) head and two water-fearing (<b>hydrophobic</b>) tails. In water they line up tail-to-tail, forming a <b>bilayer</b>.",
+        "<b>Integral proteins</b> sit in the membrane, often all the way through, and many move things in and out. <b>Peripheral proteins</b> sit on the inside or outside surface.",
+        "<b>Carbohydrates</b> are only on the <i>outside</i>, attached to proteins (glycoproteins) or lipids (glycolipids). They work like name tags so cells can tell \"self\" from \"non-self\".",
+        "What keeps it fluid: <b>unsaturated</b> tails have kinks from double bonds, so they can't pack tightly in the cold. In animal cells, <b>cholesterol</b> buffers against both heat and cold.",
+        "By mass, a typical human cell membrane is about 50% protein, 40% lipid and 10% carbohydrate. The mix varies between membranes."
+      ],
+      "words": ["fluid mosaic model", "amphiphilic", "hydrophilic", "hydrophobic", "integral protein", "peripheral protein", "glycoprotein", "glycolipid"]
+    },
+    "5.2": {
+      "big": "<b>Passive transport</b> moves things \"downhill\", from where there's more of them to where there's less, so the cell spends <b>no energy</b>.",
+      "points": [
+        "<b>Simple diffusion:</b> small, nonpolar things like O<sub>2</sub>, CO<sub>2</sub> and fat-soluble vitamins slip straight through the lipid layer.",
+        "<b>Facilitated diffusion:</b> ions, sugars and other polar molecules need a helper protein. A <b>channel</b> is an open tunnel and a <b>carrier</b> changes shape to move them. It's still downhill and still free.",
+        "<b>Osmosis</b> is water diffusing across a membrane, often through <b>aquaporins</b>. Water moves toward the side with <i>more dissolved stuff</i> (solute).",
+        "<b>Tonicity</b> compares the outside to the inside of the cell. <b>Hypotonic</b> outside: water rushes in and animal cells can burst. <b>Hypertonic</b>: water leaves and the cell shrinks. <b>Isotonic</b>: no net change.",
+        "Plant cells handle hypotonic water fine because the cell wall pushes back (<b>turgor pressure</b>). In hypertonic conditions the membrane pulls away from the wall (<b>plasmolysis</b>) and the plant wilts.",
+        "Diffusion speeds up with a bigger concentration difference, higher temperature, smaller molecules and a shorter distance."
+      ],
+      "tip": "Memory trick: hyp<b>O</b>tonic → the cell swells up like an <b>O</b>. Hyp<b>ER</b>tonic → water gets pulled out (think \"hyper\" = more solute outside).",
+      "words": ["diffusion", "concentration gradient", "facilitated transport", "channel protein", "carrier protein", "aquaporin", "osmosis", "tonicity", "hypotonic", "hypertonic", "isotonic", "plasmolysis"]
+    },
+    "5.3": {
+      "big": "<b>Active transport</b> pushes things \"uphill\", from low concentration to high, so the cell has to pay with energy, usually <b>ATP</b>.",
+      "points": [
+        "Ions feel two pushes at once: the <b>concentration gradient</b> and the <b>electrical gradient</b> (the inside of the cell is negative). Together they make the <b>electrochemical gradient</b>.",
+        "The <b>sodium-potassium pump</b> uses one ATP to move <b>3 Na<sup>+</sup> out</b> and <b>2 K<sup>+</sup> in</b>. More positive charge leaves than comes in, so the inside stays negative. That makes it an <b>electrogenic pump</b>.",
+        "<b>Primary</b> active transport uses ATP directly, like the Na<sup>+</sup>/K<sup>+</sup> pump.",
+        "<b>Secondary</b> active transport (co-transport) uses the gradient the pump built. As Na<sup>+</sup> flows back in, it drags glucose or amino acids along. ATP pays for it indirectly.",
+        "Carrier types: <b>uniporter</b> moves one thing; <b>symporter</b> moves two things the same way; <b>antiporter</b> moves two things in opposite directions (the Na<sup>+</sup>/K<sup>+</sup> pump is an antiporter)."
+      ],
+      "words": ["active transport", "electrochemical gradient", "primary active transport", "secondary active transport", "electrogenic pump", "uniporter", "symporter", "antiporter"]
+    },
+    "5.4": {
+      "big": "Some things are too big to pass through the membrane, so the cell wraps them in a bubble of membrane (a <b>vesicle</b>). Bringing things in is <b>endocytosis</b>, sending things out is <b>exocytosis</b>, and both cost energy.",
+      "points": [
+        "<b>Phagocytosis</b> (\"cell eating\"): the membrane surrounds a big particle such as a bacterium. White blood cells called <b>neutrophils</b> do this. <b>Clathrin</b> holds that patch of membrane steady, and the vesicle later fuses with a lysosome to digest what's inside.",
+        "<b>Pinocytosis</b> (\"cell drinking\"): tiny pockets of fluid and the molecules dissolved in it. <b>Potocytosis</b> is a version that uses the protein <b>caveolin</b>.",
+        "<b>Receptor-mediated endocytosis</b> is targeted: only molecules that fit a specific receptor get pulled in, such as LDL (\"bad\") cholesterol. If those receptors are broken (familial hypercholesterolemia), cholesterol builds up in the blood.",
+        "<b>Exocytosis</b>: a vesicle fuses with the membrane and releases its contents outside, such as neurotransmitters or waste. The vesicle's membrane becomes part of the plasma membrane."
+      ],
+      "words": ["endocytosis", "phagocytosis", "pinocytosis", "potocytosis", "receptor-mediated endocytosis", "clathrin", "exocytosis"]
+    }
+  },
+  "answers": {
+    "1": { "a": "d", "why": "Proteins can be <b>peripheral</b> (sitting on the surface) or <b>integral</b> (embedded in the membrane). Carbohydrates and glycolipids only face outward, and cholesterol sits inside the bilayer." },
+    "2": { "a": "d", "why": "All membranes are phospholipid bilayers, but the mix changes. The inner mitochondrial membrane is about 76% protein, while myelin is only 18% protein." },
+    "3": { "a": "d", "why": "Double bonds put kinks in the fatty acid tails, so phospholipids can't pack tightly. That keeps the membrane fluid. Saturated (straight) tails do the opposite." },
+    "4": { "a": "a", "why": "Unsaturated tails keep the membrane from \"freezing\" when it's cold. Organisms like fish change the share of unsaturated fatty acids as temperatures change. (Cholesterol also buffers temperature, but it isn't one of the choices.)" },
+    "5": { "a": "c", "why": "Carbohydrates are found <b>only on the outside</b> of the membrane, attached to proteins (glycoproteins) or lipids (glycolipids)." },
+    "6": { "a": "a", "why": "Double bonds kink the tails, which keeps space between phospholipids and the membrane fluid." },
+    "7": { "a": "a", "why": "Diffusion is driven by the <b>concentration gradient</b>: things spread from high concentration to low. The other choices only change how fast it happens." },
+    "8": { "a": "d", "why": "Water leaving the nephron by <b>osmosis</b> is passive. Pumping H<sup>+</sup> into the thylakoid, absorbing glucose in the intestine and taking up minerals into root hairs all use energy (active transport)." },
+    "9": { "a": "b", "why": "In osmosis, water moves from where <b>water</b> is more concentrated (fewer solutes) to where it is less concentrated (more solutes)." },
+    "10": { "a": "b", "why": "Fresh water is <b>hypotonic</b> to their cells, so water keeps flowing in. Freshwater fish deal with it by taking in salt through their gills and making very dilute urine." },
+    "11": { "a": "a", "why": "The key problem in fresh water is water flowing <i>in</i> by osmosis, so the useful question is whether their bodies take in too much water." },
+    "12": { "why": "Because diffusion never stops. Substances keep leaking back <b>down</b> their gradients, so pumps have to keep working to hold those gradients in place (for example, the Na<sup>+</sup>/K<sup>+</sup> balance)." },
+    "13": { "a": "b", "why": "Diffusion keeps moving solutes back the other way, down their gradients. Active transport has to run nonstop to undo that and keep the gradients." },
+    "14": { "a": "c", "why": "Each cycle sends <b>3 Na<sup>+</sup> out</b> and brings <b>2 K<sup>+</sup> in</b>. One more positive ion leaves than enters, so the inside becomes more negative." },
+    "15": { "a": "b", "why": "<b>Primary</b> active transport uses ATP directly. <b>Secondary</b> active transport uses the gradient that primary transport built, so it depends on ATP indirectly." },
+    "16": { "a": "c", "why": "When the vesicle fuses with the plasma membrane, its membrane becomes part of the plasma membrane." },
+    "17": { "a": "c", "why": "Receptor-mediated endocytosis is targeted: only molecules that bind the specific receptor get taken in. Phagocytosis engulfs large particles." },
+    "18": { "a": "a", "why": "Phospholipids are <b>amphipathic</b> (amphiphilic): the polar heads face water and the nonpolar tails hide from water by facing each other. That's why bilayers and spheres form on their own." },
+    "19": { "a": "a", "why": "Being fluid lets the membrane bend (red blood cells squeeze through capillaries) and lets proteins and lipids move around, which transport needs." },
+    "20": { "a": "a", "why": "Every item in (a) is a real membrane part with a real job. Choices (c) and (d) list <i>intermediate filaments</i>, which are part of the cytoskeleton, not the membrane. Choice (b) mixes up cholesterol and proteins." },
+    "21": { "a": "b", "why": "Bigger molecules diffuse more slowly, higher temperature means faster movement, a denser medium slows diffusion, and a longer distance slows it down." },
+    "22": { "a": "a", "why": "An isotonic IV fluid matches the blood, so there's no net water movement into or out of blood cells. They don't swell and burst or shrivel." },
+    "23": { "a": "c", "why": "Bursting means water rushed <i>into</i> the red blood cells, which only happens in a <b>hypotonic</b> solution. So the solution wasn't really isotonic." },
+    "24": { "a": "b", "alt": ["a"], "why": "The pump sends <b>3 Na<sup>+</sup> out for every 2 K<sup>+</sup> in</b>, leaving extra positive charge outside and making the inside negative. Choice (a) says the same thing in fewer words, so it counts too." },
+    "25": { "a": "c", "why": "The Na<sup>+</sup>/K<sup>+</sup> pump needs K<sup>+</sup> to finish each cycle. Without enough potassium, it can't keep pushing sodium out, so sodium builds up in the cell." },
+    "26": { "a": "a", "why": "In receptor-mediated endocytosis, a ligand binds its receptor and a <b>clathrin-coated vesicle</b> forms and comes in. In exocytosis, a vesicle fuses with the plasma membrane from the inside and releases its contents." },
+    "27": { "a": "c", "why": "Potocytosis uses <b>caveolin</b>-coated pits (caveolae) to bring in small molecules. Pinocytosis takes in extracellular fluid." },
+    "28": { "a": "b", "why": "Normally Cl<sup>−</sup> is moved out into the mucus and water follows it by osmosis. If Cl<sup>−</sup> can't get out, water stays in the cells and the mucus becomes thick and <b>dehydrated</b>, as in cystic fibrosis." },
+    "29": { "a": "a", "why": "No ATP means the active transport of ions into the mucus slows down. With fewer ions in the mucus, water doesn't follow, so the mucus dries out, as in CF." },
+    "30": { "a": "a", "why": "The CFTR protein moves <b>chloride ions (Cl<sup>−</sup>)</b>, using ATP. Water then follows by osmosis, which is passive, and mucus isn't moved across the membrane at all." },
+    "31": { "a": "c", "why": "Compare experiments 2 and 3: transport works with ATP <i>inside</i> the cell but not with ATP only outside. So ATP binds the part of the pump inside the cell." },
+    "32": { "a": "c", "why": "As the solution gets less salty (lower osmolarity), more water flows into the Paramecium by osmosis, so the contractile vacuole has to pump faster. That's the line sloping down on the graph." },
+    "33": { "a": "a", "why": "As osmolarity outside drops, more water diffuses in, so the vacuole contracts more often to pump it out." },
+    "34": { "a": "b", "why": "Ouabain <i>outside</i> the cell stops K<sup>+</sup> transport (experiment 7), so K<sup>+</sup> binds on the outer surface. Ouabain <i>inside</i> stops Na<sup>+</sup> transport (experiment 6), so Na<sup>+</sup> binds on the inner surface." },
+    "35": { "a": "a", "why": "Fructose is a single sugar (monosaccharide), small enough to fit through the tubing's pores. Lactose is a double sugar (disaccharide), too big to get through." },
+    "36": { "a": "a", "why": "The interlocking clathrin cage holds the patch of membrane steady as it curves into a vesicle." },
+    "37": { "a": "d", "why": "During phagocytosis, clathrin coats and stabilizes the inward-facing membrane that wraps around and engulfs the target." },
+    "38": { "a": "d", "why": "Endosomes come from endocytosis. Neutrophils and monocytes both engulf things (phagocytosis). Mast cells mostly send signals out, which is exocytosis." }
+  }
+}

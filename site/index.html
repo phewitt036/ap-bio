@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bio Buddy</title>
+<meta name="description" content="AP Biology, made easier — searchable study site built from OpenStax Biology for AP Courses.">
+<meta name="theme-color" content="#0f766e">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon.svg">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="#/" aria-label="Bio Buddy home"><span class="logo">🧬</span><span class="brand-text">Bio Buddy</span></a>
+  <form class="search" id="searchForm" role="search">
+    <input id="q" type="search" autocomplete="off" placeholder="Search the book… try “osmosis” or “4.3”" aria-label="Search the book">
+  </form>
+</header>
+<main id="app" tabindex="-1"></main>
+<footer class="foot">
+  <p>Book text and figures from <a href="https://openstax.org/details/books/biology-ap-courses" target="_blank" rel="noopener"><i>Biology for AP® Courses</i></a> by Julianne Zedalis &amp; John Eggebrecht, © Rice University, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>. <b>Access for free at openstax.org.</b></p>
+  <p>Study notes, flashcards and quizzes on this site adapt that book and are shared under the same license. Not affiliated with OpenStax or the College Board.</p>
+</footer>
+<div id="pop" class="pop" hidden></div>
+<div id="lightbox" class="lightbox" hidden><img alt=""><p></p><button class="lb-close" aria-label="Close">✕</button></div>
+<div id="confetti" aria-hidden="true"></div>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+{
+  "name": "bio-buddy-tools",
+  "private": true,
+  "type": "module",
+  "description": "Turns the OpenStax Biology for AP Courses PDF into the Bio Buddy site data",
+  "dependencies": { "mupdf": "^1.28.1" }
+}
