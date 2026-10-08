@@ -1,0 +1,99 @@
+{
+  "chapter": 12,
+  "sections": {
+    "12.0": {
+      "big": "Gregor Mendel worked out the basic rules of inheritance by carefully breeding thousands of pea plants and <b>counting</b> the results.",
+      "points": [
+        "We now know Mendel's \"factors\" are <b>genes</b> on chromosomes.",
+        "Not every gene follows Mendel's simple rules, but they're the starting point for all of genetics."
+      ],
+      "words": ["model system"]
+    },
+    "12.1": {
+      "big": "Mendel crossed true-breeding pea plants and found that traits don't blend. One trait hides in the first generation (F<sub>1</sub>) and comes back in a <b>3:1</b> ratio in the next (F<sub>2</sub>).",
+      "points": [
+        "Peas were perfect: they normally self-pollinate (so they breed true), grow in one season, and you can grow thousands of them.",
+        "P<sub>0</sub> (parents) → F<sub>1</sub> (their kids) → F<sub>2</sub> (grandkids). F<sub>1</sub> all showed the <b>dominant</b> trait, and the <b>recessive</b> trait came back in about ¼ of F<sub>2</sub>.",
+        "This disproved the <b>blending theory</b>: the recessive trait was hidden, not lost.",
+        "<b>Product rule (\"and\"):</b> multiply. The chance of event A <i>and</i> event B is P(A) × P(B).",
+        "<b>Sum rule (\"or\"):</b> add. The chance of A <i>or</i> B (when they can't both happen) is P(A) + P(B).",
+        "Big samples matter. Small ones can stray from the expected ratio just by chance."
+      ],
+      "tip": "\"<b>And</b>\" means <b>multiply</b>; \"<b>or</b>\" means <b>add</b>. Example: chance of two heads in a row = ½ × ½ = ¼.",
+      "words": ["hybridization", "P0", "F1", "F2", "dominant", "recessive", "reciprocal cross", "blending theory of inheritance", "product rule", "sum rule"]
+    },
+    "12.2": {
+      "big": "Your <b>genotype</b> is which alleles you carry, like Yy. Your <b>phenotype</b> is what shows, like yellow. A <b>Punnett square</b> predicts what offspring will get.",
+      "points": [
+        "<b>Homozygous:</b> two of the same allele (YY or yy). <b>Heterozygous:</b> two different (Yy). A recessive trait shows only when homozygous (yy).",
+        "<b>Yy × Yy</b> gives a genotype ratio of 1 YY : 2 Yy : 1 yy, and a phenotype ratio of <b>3 dominant : 1 recessive</b>.",
+        "<b>Test cross:</b> cross a dominant-looking individual with a recessive one (yy). If all the offspring show the dominant trait, the parent is probably YY. If about half show the recessive trait, the parent is Yy.",
+        "<b>Incomplete dominance:</b> the heterozygote is in between (red × white snapdragons → pink).",
+        "<b>Codominance:</b> both alleles show fully (AB blood type, MN blood groups).",
+        "<b>Multiple alleles:</b> a population can have more than two versions of a gene (ABO blood types, rabbit coat colors).",
+        "<b>X-linked traits:</b> males have one X, so one recessive allele is enough. That's why color blindness and hemophilia are far more common in males.",
+        "<b>Lethal alleles:</b> a recessive lethal kills homozygotes, so Aa × Aa gives a 2:1 ratio among survivors."
+      ],
+      "words": ["allele", "genotype", "phenotype", "homozygous", "heterozygous", "Punnett square", "monohybrid", "test cross", "incomplete dominance", "codominance", "X-linked", "hemizygous", "recessive lethal", "dominant lethal"]
+    },
+    "12.3": {
+      "big": "Mendel's laws: each parent passes on one of their two alleles (<b>segregation</b>), and genes on different chromosomes sort <b>independently</b>. Linked genes and gene interactions are the exceptions.",
+      "points": [
+        "<b>Law of segregation:</b> the two alleles separate when gametes form (homologs separate in anaphase I), so each gamete gets one.",
+        "<b>Law of independent assortment:</b> genes on different chromosomes don't affect each other's sorting (homologous pairs line up randomly in metaphase I).",
+        "<b>Dihybrid cross</b> (YyRr × YyRr): a <b>9:3:3:1</b> phenotype ratio, which is just two 3:1 ratios multiplied together.",
+        "For lots of genes, use the forked-line or probability method instead of a giant Punnett square. With n heterozygous genes you get 2<sup>n</sup> gamete types, 3<sup>n</sup> genotypes and 2<sup>n</sup> phenotypes.",
+        "<b>Linkage:</b> genes close together on the same chromosome tend to be inherited together, unless crossing over separates them.",
+        "<b>Epistasis:</b> one gene masks another. In mice, cc means albino no matter what the A gene says, giving a 9:3:4 ratio."
+      ],
+      "tip": "Any ratio that adds up to <b>16</b> (9:3:3:1, 9:3:4, 12:3:1, 15:1) means <b>two genes</b> are involved.",
+      "words": ["law of segregation", "law of independent assortment", "dihybrid", "linkage", "epistasis"]
+    }
+  },
+  "fix": {
+    "18": {
+      "stem": [0, 1, "What conclusions about the physical relationship between the traits can be drawn from the experiment?"],
+      "opts": ["The traits are probably coded by linked genes.", "The traits follow the law of independent assortment.", "The traits are located on different chromosomes.", "There was epistasis."]
+    }
+  },
+  "answers": {
+    "1": { "a": "a", "why": "Pollen comes from the <b>anther</b>, the male part. Mendel moved it onto the stigma of another plant." },
+    "2": { "a": "c", "why": "<b>Seed texture</b> (round or wrinkled) was one of Mendel's seven characteristics." },
+    "3": { "a": "b", "why": "True-breeding YY × yy gives all Yy, so <b>100% yellow</b>: the dominant trait." },
+    "4": { "a": "c", "why": "The F<sub>2</sub> ratio is 3 inflated : 1 constricted, and 650 ÷ 3 ≈ <b>217</b>." },
+    "5": { "a": "c", "why": "The traits you can observe make up the <b>phenotype</b>." },
+    "6": { "a": "d", "why": "A recessive trait shows only when someone has <b>two copies</b> of the recessive allele (homozygous)." },
+    "7": { "a": "c", "why": "Gray is a blend between black and white, which means <b>incomplete dominance</b>." },
+    "8": { "a": "d", "why": "There are three alleles (<b>multiple alleles</b>), and A and B are both fully expressed in AB (<b>codominance</b>)." },
+    "9": { "a": "c", "why": "Normally 1:2:1, but the homozygous recessive offspring die before birth, so it's <b>1 : 2 : 0</b>." },
+    "10": { "a": "b", "why": "Both methods multiply the chances for each gene: the <b>product rule</b>." },
+    "11": { "a": "d", "why": "s from one parent and s from the other gives <b>ss</b>." },
+    "12": { "a": "d", "why": "Genes on <b>separate chromosomes</b> assort independently, just as Mendel's laws describe." },
+    "13": { "a": "d", "why": "With 3 heterozygous genes: 3<sup>3</sup> = <b>27 genotypes</b> and 2<sup>3</sup> = <b>8 phenotypes</b>." },
+    "14": { "a": "c", "why": "RR × rr can only give <b>Rr</b>, and Rr is pink (incomplete dominance)." },
+    "15": { "a": "a", "why": "Homologous pairs <b>line up randomly</b> in meiosis I, so genes on different chromosomes sort independently." },
+    "16": { "a": "d", "why": "Each gamete gets one of each pair, which is the <b>law of segregation</b>." },
+    "17": { "a": "d", "why": "One gene hiding the effect of another is <b>epistasis</b>." },
+    "18": { "a": "a", "why": "Independent assortment would give 9:3:3:1. Instead, the parental combinations (purple/long and white/round) dominate and only a few recombinants appear, so the genes are <b>linked</b> on the same chromosome." },
+    "19": { "a": "b", "why": "One gene masking or changing another's effect is <b>epistasis</b>." },
+    "20": { "a": "b", "why": "Pea flowers stay tightly closed, which <b>prevents cross-fertilization</b>, so plants self-pollinate and breed true. That gave Mendel control over every cross." },
+    "21": { "a": "b", "why": "A reciprocal cross swaps which parent gives the pollen: true-breeding tall pollen on a dwarf plant, then dwarf pollen on a tall plant." },
+    "22": { "a": "d", "why": "AA × aa gives all <b>Aa (axial)</b> in F<sub>1</sub>. Aa × Aa then gives AA (axial), Aa (axial) and aa (terminal) in F<sub>2</sub>." },
+    "23": { "a": "a", "why": "tt × Tt gives ½ Tt (tall) and ½ tt (dwarf), so <b>1 : 1</b>." },
+    "24": { "a": "b", "why": "Color blindness is <b>X-linked</b>. Males have only one X, so one recessive allele means they <i>have</i> the condition. They can't be hidden carriers." },
+    "25": { "a": "c", "why": "AA × Aa → ½ AA, ½ Aa. BB × bb → all Bb. Cc × cc → ½ Cc, ½ cc. Combined: AABbCc, AABbcc, AaBbCc and AaBbcc, each ¼, so <b>1:1:1:1</b>." },
+    "26": { "a": "b", "why": "Pairs line up randomly in <b>metaphase I</b>, homologs separate in <b>anaphase I</b>, and sister chromatids separate in <b>anaphase II</b>, giving four different haploid gametes." },
+    "27": { "a": "a", "why": "Any dominant W makes the fruit white (W is <b>epistatic</b> to Y). With ww, Y_ gives yellow, and only wwyy is green." },
+    "28": { "a": "b", "why": "The father's mother had a straight hairline (ww), so the father must be <b>Ww</b>. Ww × ww gives ½ widow's peak, so <b>0.5</b>." },
+    "29": { "a": "a", "why": "The weak taster is a heterozygote and the strong taster is homozygous. The father passes on a tasting allele every time, so the son can't be a non-taster: <b>0</b>." },
+    "30": { "a": "c", "why": "Knowing they're both carriers gives them <b>medical</b> information: each child has a ¼ chance of Tay-Sachs, so they can plan and get tested." },
+    "31": { "a": "c", "why": "Every birth is independent. Earlier children don't matter, so it's still <b>50%</b>." },
+    "32": { "a": "d", "why": "Daughter <i>and</i> daughter <i>and</i> daughter: ½ × ½ × ½ = <b>⅛</b>." },
+    "33": { "a": "c", "why": "Blue × red gives violet, an in-between color, which is <b>incomplete dominance</b>." },
+    "34": { "a": "d", "why": "Violet × violet (both heterozygous) gives 1 blue : 2 violet : 1 red, so <b>25% / 50% / 25%</b>." },
+    "35": { "a": "d", "why": "The F<sub>1</sub> all looked wild type, so <b>gray body and red eyes are dominant</b>." },
+    "36": { "a": "a", "why": "Predicting equal numbers of all four combinations assumes the traits <b>assort independently</b>. Big differences from that prediction point to linkage." },
+    "37": { "a": "c", "why": "Calico shows both colors at once (<b>codominance</b>), and the gene is on the X chromosome (<b>sex-linked</b>)." },
+    "38": { "a": "d", "why": "Since it's X-linked, the outcome depends on <b>which parent is male</b>. Daughters would be calico, but sons get their color from the mother. We aren't told which cat is which, so there isn't enough information." }
+  }
+}

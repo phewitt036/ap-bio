@@ -139,6 +139,13 @@
   }
 
   // ---------- question cards ----------
+  // study files can repair a question the PDF garbled: fix[n] = { stem: [blockIndex | "html", …], opts: ["html", …] }
+  function fixQ(q, study) {
+    const f = study?.fix?.[q.n];
+    if (!f) return q;
+    const stem = f.stem ? f.stem.map(x => typeof x === "number" ? q.stem[x] : { t: "p", html: x }).filter(Boolean) : q.stem;
+    return { ...q, stem, opts: f.opts || q.opts };
+  }
   function questionCard(q, ctx, key) {
     const ans = key?.[q.n];
     const opts = q.opts.length ? `<ol class="opts">${q.opts.map((o, i) => `<li><button class="opt" data-q="${q.n}" data-i="${i}" ${ans ? "" : "disabled"}><span class="letter">${"abcde"[i]}</span><span>${enhance(o, ctx)}</span></button></li>`).join("")}</ol>` : "";
@@ -414,7 +421,7 @@
       body = `<p class="muted">Tap <a href="#/cards/${n}">Flashcards</a> to practice these.</p><dl class="terms">${s.terms.map((t, k) => `<p id="t${k}" data-say><b>${esc(t.term)}</b> — ${t.def}</p>`).join("")}</dl>`;
     } else if (s.questions) {
       const key = study?.answers;
-      body = (s.kind === "challenge" ? `<p class="muted">These are longer, AP-exam-style questions. Work them on paper.</p>` : "") + s.questions.map(q => questionCard(q, ctx, key)).join("");
+      body = (s.kind === "challenge" ? `<p class="muted">These are longer, AP-exam-style questions. Work them on paper.</p>` : "") + s.questions.map(q => questionCard(fixQ(q, study), ctx, key)).join("");
     } else {
       body = renderBlocks(s.blocks, ctx);
     }
@@ -562,7 +569,7 @@
     if (!chap) return notFound();
     setTitle(`Quiz · Chapter ${n}`);
     const key = study?.answers || {};
-    const pool = chap.sections.filter(s => s.questions && s.kind !== "challenge").flatMap(s => s.questions.filter(q => q.opts.length >= 2 && key[q.n]).map(q => ({ q, s })));
+    const pool = chap.sections.filter(s => s.questions && s.kind !== "challenge").flatMap(s => s.questions.map(q => fixQ(q, study)).filter(q => q.opts.length >= 2 && key[q.n]).map(q => ({ q, s })));
     const head = `<div class="crumbs"><a href="#/">Home</a> › <a href="#/c/${n}">Chapter ${n}: ${esc(chap.title)}</a></div>`;
     if (!pool.length) {
       const rs = chap.sections.find(s => s.kind === "review");
