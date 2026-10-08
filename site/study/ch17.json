@@ -1,0 +1,121 @@
+{
+  "chapter": 17,
+  "sections": {
+    "17.0": {
+      "big": "Biotechnology uses living things and their DNA to make useful products, from medicines and better crops to lab-grown human tissue.",
+      "points": [
+        "Scientists have grown working human intestinal tissue inside mice, which could help babies and patients with intestinal failure.",
+        "Genomics compares whole genomes to map and understand organisms."
+      ],
+      "words": ["biotechnology", "genomics"]
+    },
+    "17.1": {
+      "big": "<b>Biotechnology</b> toolkit: pull DNA out, cut it, copy it, sort it, paste it into other organisms, and use that to treat disease or improve crops.",
+      "points": [
+        "<b>Extraction:</b> break cells open (<b>lysis buffer</b>), destroy proteins and RNA with enzymes, and precipitate the DNA with alcohol.",
+        "<b>Gel electrophoresis:</b> DNA is negative, so it runs toward the + end. Small pieces travel farthest.",
+        "<b>PCR</b> makes millions of copies of one DNA region: heat to separate the strands, cool so primers stick, extend with polymerase, and repeat. <b>RT-PCR</b> starts from mRNA.",
+        "<b>Southern blot</b> finds DNA sequences and <b>northern blot</b> finds RNA, both using labeled probes.",
+        "<b>Molecular cloning:</b> cut the gene and a <b>plasmid</b> with the same <b>restriction enzyme</b>, glue them with ligase into <b>recombinant DNA</b>, then put it into bacteria to make copies or protein (like human insulin).",
+        "<b>Reproductive cloning</b> (somatic cell nuclear transfer): put a body-cell nucleus into an egg with its nucleus removed. That's how Dolly the sheep was made.",
+        "<b>GMOs / transgenic organisms:</b> Bt corn makes its own insecticide, Ti plasmids carry genes into plants, and transgenic goats make proteins in their milk.",
+        "<b>Gene therapy</b> delivers a working gene (often with a virus) to fix a disease."
+      ],
+      "words": ["biotechnology", "lysis buffer", "gel electrophoresis", "polymerase chain reaction", "reverse transcriptase PCR", "probe", "Southern blotting", "northern blotting", "molecular cloning", "restriction endonuclease", "recombinant DNA", "reproductive cloning", "genetic engineering", "genetically modified organism", "transgenic", "gene therapy", "Ti plasmid"]
+    },
+    "17.2": {
+      "big": "<b>Genome mapping</b> finds where genes are on chromosomes, like making a road map of DNA.",
+      "points": [
+        "<b>Genetic maps</b> use <b>linkage analysis</b>: the more often two genes recombine, the farther apart they are. They're like a highway map with landmarks (<b>genetic markers</b>).",
+        "Good markers vary between people: RFLPs, VNTRs, microsatellites and SNPs.",
+        "<b>Physical maps</b> give actual distances: <b>cytogenetic</b> (stained chromosomes under a microscope, approximate), <b>radiation hybrid</b> (break DNA with X-rays, not affected by recombination), and <b>sequence mapping</b> (from DNA sequences).",
+        "Genetic maps give the big picture and physical maps fill in the details, so you need both."
+      ],
+      "words": ["genome mapping", "genetic map", "genetic marker", "linkage analysis", "physical map", "cytogenetic mapping", "radiation hybrid mapping", "sequence mapping", "restriction fragment length polymorphism", "single nucleotide polymorphism"]
+    },
+    "17.3": {
+      "big": "<b>Whole-genome sequencing</b> reads every base of a genome. Faster, cheaper machines now make it practical for medicine.",
+      "points": [
+        "Built on Sanger's <b>chain termination</b> method, using fluorescent ddNTPs that stop the chain.",
+        "<b>Shotgun sequencing:</b> chop the DNA randomly, sequence the pieces, and let a computer line up the overlaps into <b>contigs</b>. <b>Pairwise-end</b> sequencing reads both ends of each piece.",
+        "<b>Next-generation sequencing:</b> automated machines read millions of short fragments in a day.",
+        "<b>Whole-exome sequencing</b> reads only the protein-coding parts. It's cheaper, and it once saved a boy with a mystery disease.",
+        "Model organisms like E. coli, yeast, fruit flies and mice were sequenced first.",
+        "Big benefits, but also ethics questions: genetic discrimination and privacy."
+      ],
+      "words": ["whole-genome sequencing", "chain termination method", "dideoxynucleotide", "shotgun sequencing", "contig", "next-generation sequencing", "model organism", "DNA microarray"]
+    },
+    "17.4": {
+      "big": "Genomics is being put to work: predicting disease risk, choosing drugs, studying microbes, and improving crops.",
+      "points": [
+        "Single-gene diseases are only about 5% of diseases in developed countries. Most, like heart disease, are <b>polygenic</b> (many genes plus environment).",
+        "<b>Pharmacogenomics:</b> using your genome to choose drugs that will work for you and are least likely to harm you.",
+        "<b>Metagenomics:</b> sequencing all the microbes in an environment at once. It finds new species fast and tracks pollution.",
+        "Microbial genomics can lead to new biofuels, vaccines, antibiotics and cleanup methods.",
+        "<b>Mitochondrial DNA</b> comes only from your mother and mutates fast, so it's used to trace ancestry and in forensics."
+      ],
+      "words": ["polygenic", "pharmacogenomics", "metagenomics"]
+    },
+    "17.5": {
+      "big": "The <b>proteome</b> is all the proteins a cell makes. Unlike the genome, it changes from tissue to tissue and moment to moment.",
+      "points": [
+        "<b>Proteomics</b> studies proteins and backs up what genomics predicts. <b>Metabolomics</b> studies all the small molecules (the <b>metabolome</b>).",
+        "Tools: mass spectrometry, X-ray crystallography and NMR. Proteins are unstable, which makes them harder to study than DNA.",
+        "A <b>biomarker</b> is one protein linked to a disease. A <b>protein signature</b> is a whole set of proteins with altered levels. Both are used to screen for cancer, ideally from blood or urine.",
+        "<b>Systems biology</b> studies how all of these parts interact."
+      ],
+      "words": ["proteome", "proteomics", "metabolome", "metabolomics", "biomarker", "protein signature", "systems biology"]
+    }
+  },
+  "answers": {
+    "1": { "a": "a", "why": "A GMO is any organism that has had <b>recombinant DNA</b> put into it, by any method." },
+    "2": { "a": "d", "why": "<b>PCR</b> makes millions of copies (amplifies) of a DNA region." },
+    "3": { "a": "b", "why": "Plasmids are <b>vectors</b> that carry the gene into bacteria." },
+    "4": { "a": "a", "why": "Recombinant DNA is <b>chimeric</b>: its parts come from different sources." },
+    "5": { "a": "b", "why": "Bt toxin is an <b>insecticide protein made by a bacterium</b> (Bacillus thuringiensis)." },
+    "6": { "a": "a", "why": "The Flavr Savr tomato was engineered to resist rotting and have a <b>longer shelf life</b>." },
+    "7": { "a": "d", "why": "First you break the cells open: <b>lysis</b>." },
+    "8": { "a": "a", "why": "Genomics studies <b>whole genomes</b>: all the genes, their sequence and organization, and how they interact." },
+    "9": { "a": "b", "why": "Genetic maps give the outline. You also need a <b>physical map</b> for actual distances." },
+    "10": { "a": "a", "why": "Recombination happens by <b>crossing over</b>." },
+    "11": { "a": "a", "why": "Individuals of a species are <b>genetically similar</b> but not identical, and those small differences are what mapping uses." },
+    "12": { "a": "a", "why": "Staining chromosomes and looking under a microscope is <b>cytogenetic mapping</b>." },
+    "13": { "a": "b", "why": "Linkage analysis is built on <b>natural recombination</b> during meiosis." },
+    "14": { "a": "b", "why": "<b>Dideoxynucleotides</b> (no 3' OH) stop the chain, which is how chain termination works." },
+    "15": { "a": "b", "why": "<b>Sequence alignment</b> lines up DNA, RNA or proteins to find regions that match." },
+    "16": { "a": "d", "why": "Whole-genome sequencing is driving advances in <b>medicine</b>: diagnosis and treatment." },
+    "17": { "a": "b", "why": "It can help <b>predict faulty genes</b> behind disease. It's possible today and does raise legal and privacy issues." },
+    "18": { "a": "d", "why": "<b>All of the above</b>: better yields, disease resistance, and new hybrids." },
+    "19": { "a": "d", "why": "Metagenomics is great for <b>finding new species fast</b> and <b>tracking pollutant effects</b>." },
+    "20": { "a": "a", "why": "Personal genomics can show <b>disease risks for your future children</b>." },
+    "21": { "a": "a", "why": "Only about <b>5% (0.05)</b> of diseases come from single-gene defects. Most are polygenic." },
+    "22": { "a": "a", "why": "<b>Metagenomics</b>: sequencing whole environmental communities at once." },
+    "23": { "a": "c", "why": "<b>Genomics</b>, by looking at a parent's genome, can predict risks for their children." },
+    "24": { "a": "b", "why": "A biomarker is a <b>protein uniquely produced in a disease state</b>." },
+    "25": { "a": "d", "why": "The metabolome is the <b>complete set of metabolites</b>." },
+    "26": { "a": "b", "why": "A set of proteins with altered levels is a <b>protein signature</b>." },
+    "27": { "a": "b", "why": "A protein signature is a <b>unique set of proteins present in disease</b>." },
+    "28": { "a": "d", "why": "One protein uniquely made in disease is a <b>biomarker</b>." },
+    "29": { "a": "c", "why": "All of an organism's metabolites together make up the <b>metabolome</b>." },
+    "30": { "a": "b", "why": "Southern blot: separate DNA on a gel, <b>transfer</b> it to a nylon membrane, <b>then</b> add labeled probes." },
+    "31": { "a": "c", "why": "Cancer cells are already clones of one another (they come from one runaway cell), so you can just grow them in culture and study them." },
+    "32": { "a": "a", "why": "Mapping helps find disease genes, engineer microbes that clean up pollution, and improve crops." },
+    "33": { "a": "a", "why": "Your genome can reveal ancestry, disease risks, and how you might respond to drugs." },
+    "34": { "a": "b", "why": "Cytogenetic mapping uses stained chromosomes under a microscope and gives <b>approximate</b> distances. Radiation mapping is <i>not</i> affected by recombination." },
+    "35": { "a": "b", "why": "Chain termination = ddNTPs stop replication. Shotgun = random fragments assembled by overlaps. Next-gen = automated, many short fragments." },
+    "36": { "a": "b", "why": "The biggest challenges are <b>ethical</b>, like genetic discrimination and privacy." },
+    "37": { "a": "a", "why": "Lining up random fragments by their overlapping regions is <b>shotgun sequencing</b>." },
+    "38": { "a": "b", "why": "Pharmacogenomics would <b>screen patients' genes</b> first to predict who is sensitive to the drug, and dose it accordingly." },
+    "39": { "a": "d", "why": "Maps help find the <b>faulty alleles</b> that cause disease." },
+    "40": { "a": "c", "why": "Mitochondrial DNA comes <b>from the mother</b>, so it's used to trace ancestry." },
+    "41": { "a": "c", "why": "The genome is the same everywhere, but which proteins are made varies by tissue. Proteomics shows what's actually being expressed." },
+    "42": { "a": "c", "why": "Proteomics finds <b>biomarkers</b> whose levels change with cancer, which helps with early detection and drug targets." },
+    "43": { "a": "b", "why": "Microbial genomics has given us antibiotics, enzymes, better vaccines, treatments and cleanup methods." },
+    "44": { "a": "c", "why": "RNA doesn't damage DNA, and the RNA is broken down by ribonucleases during extraction anyway. No change to the method is needed." },
+    "45": { "a": "b", "why": "To detect a DNA polymorphism (the sickle-cell mutation), you'd look at the <b>DNA</b>, so Southern blotting." },
+    "46": { "a": "b", "why": "If the purple-legged insects survive Bt better, they leave more offspring, which is <b>natural selection</b>." },
+    "47": { "a": "a", "why": "Same restriction enzyme for both, insert into lacZ (which breaks down lactose and X-gal), anneal, transform into bacteria, then pick colonies that can't break down X-gal (white)." },
+    "48": { "a": "b", "why": "Cytogenetic mapping gives <b>approximate</b> distances, radiation hybrid mapping is <b>not</b> affected by recombination, and sequence mapping uses DNA sequences." },
+    "49": { "a": "b", "why": "Breaking chromosomes with X-rays makes a <b>radiation hybrid map</b>." }
+  }
+}
