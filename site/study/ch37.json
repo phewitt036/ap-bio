@@ -1,0 +1,100 @@
+{
+  "chapter": 37,
+  "sections": {
+    "37.0": {
+      "big": "An <b>ecosystem</b> is a community of living things plus their nonliving surroundings. Energy flows through it one way, and matter cycles around and around.",
+      "points": [
+        "Energy enters as sunlight and leaves as heat. Carbon, nitrogen, water and other elements are recycled."
+      ],
+      "words": ["ecosystem"]
+    },
+    "37.1": {
+      "big": "Ecosystems are studied as webs of feeding relationships, and scientists test them with experiments and models.",
+      "points": [
+        "<b>Resistance</b> = staying the same despite a disturbance. <b>Resilience</b> = how fast it recovers. A steady state is <b>equilibrium</b>. The study of how ecosystems change is <b>ecosystem dynamics</b>.",
+        "A <b>food chain</b> is one linear path. A <b>food web</b> shows all the connections (more realistic). A <b>trophic level</b> is a step on the chain.",
+        "<b>Primary producers</b> (plants, algae, phytoplankton; in the dark, <b>chemoautotrophs</b>) → <b>primary consumers</b> (herbivores) → <b>secondary consumers</b> → <b>tertiary consumers</b> → <b>apex consumers</b> at the top.",
+        "<b>Grazing food web</b>: starts with living plants. <b>Detrital food web</b>: starts with dead material and decomposers.",
+        "Experiments: a <b>mesocosm</b> fences off part of the real ecosystem. A <b>microcosm</b> rebuilds a mini-ecosystem in the lab. Both may not behave exactly like the real thing.",
+        "Models: a <b>conceptual model</b> (flow chart), an <b>analytical model</b> (math equations for simple, linear systems), a <b>simulation model</b> (computer programs for complex systems), and a <b>holistic ecosystem model</b> (tries to include everything)."
+      ],
+      "words": ["resistance", "resilience", "equilibrium", "ecosystem dynamics", "food chain", "food web", "trophic level", "primary producer", "chemoautotroph", "primary consumer", "secondary consumer", "tertiary consumer", "apex consumer", "grazing food web", "detrital food web", "mesocosm", "microcosm", "conceptual model", "analytical model", "simulation model", "holistic ecosystem model"]
+    },
+    "37.2": {
+      "big": "Only about <b>10%</b> of the energy at one trophic level makes it to the next. The rest is lost as heat. That's why food chains are short.",
+      "points": [
+        "<b>Biomass</b> = the mass of living things at a point in time.",
+        "<b>Gross primary productivity</b> = all the energy producers capture. <b>Net primary productivity</b> = that minus what they burn in respiration, which is what's actually available to consumers.",
+        "For consumers: <b>assimilation</b> = energy absorbed from food (not lost in feces). <b>Net consumer productivity</b> = assimilated energy minus respiration. <b>Net production efficiency (NPE)</b> = net productivity ÷ assimilation.",
+        "<b>Trophic level transfer efficiency (TLTE)</b> = (production at this level ÷ production at the level below) × 100, usually about 10%. The second law of thermodynamics means some energy is always lost as heat.",
+        "<b>Ecological pyramids</b>: <b>energy</b> (never upside down, the most accurate), <b>biomass</b> (can flip: tiny, fast-reproducing phytoplankton in the English Channel), <b>numbers</b> (can flip: one tree feeding thousands of insects).",
+        "<b>Biomagnification</b>: toxins like DDT, PCBs and mercury build up in fat and get <b>more concentrated</b> at each level up, so top predators get the most."
+      ],
+      "tip": "10% rule: 10,000 → 1,000 → 100 → 10 kcal going up four levels.",
+      "words": ["biomass", "gross primary productivity", "net primary productivity", "assimilation", "net consumer productivity", "net production efficiency", "trophic level transfer efficiency", "ecological pyramid", "biomagnification"]
+    },
+    "37.3": {
+      "big": "<b>Biogeochemical cycles</b> move water, carbon, nitrogen, phosphorus and sulfur between living things, air, water and rock.",
+      "points": [
+        "Water: evaporation, condensation, precipitation, <b>surface runoff</b>, groundwater. <b>Residence time</b> = how long a molecule stays in one reservoir. All of Earth's water is the <b>hydrosphere</b>.",
+        "Carbon: photosynthesis pulls CO₂ out of the air, and respiration, decomposition and burning put it back. The oceans are the biggest carbon reservoir (dissolved carbon and rock). Fossil fuels are a <b>non-renewable resource</b>. Carbon also cycles through rock, as at <b>subduction</b> zones and volcanoes.",
+        "Nitrogen: bacteria fix N₂ from the air into ammonia (nitrogen fixation), nitrify it, and denitrify it back to N₂. Plants take up ammonium and nitrate.",
+        "Phosphorus: no gas form. It comes mainly from <b>weathering rock</b>, cycles through living things, and settles in ocean sediment. Often the limiting nutrient.",
+        "Too much N and P (fertilizer runoff) → <b>eutrophication</b> → algal blooms → decomposers use up oxygen → <b>dead zones</b>.",
+        "Sulfur: from volcanoes and burning fossil fuels as SO₂ → falls as sulfuric <b>acid rain</b>. Particles settling out of the air are <b>fallout</b>."
+      ],
+      "words": ["biogeochemical cycle", "residence time", "hydrosphere", "non-renewable resource", "subduction", "eutrophication", "dead zone", "acid rain", "fallout"]
+    }
+  },
+  "answers": {
+    "1": { "a": "b", "why": "<b>Freshwater</b> ecosystems are the rarest (under 2% of Earth's surface)." },
+    "2": { "a": "c", "why": "Resilience = <b>recovering quickly</b> after a disturbance." },
+    "3": { "a": "c", "why": "A lab re-creation = <b>microcosm</b>." },
+    "4": { "a": "a", "why": "Fencing off part of the real forest = <b>mesocosm</b>." },
+    "5": { "a": "a", "why": "Math equations for simple, linear systems = <b>analytical</b> model." },
+    "6": { "a": "c", "why": "A flow chart = <b>conceptual</b> model." },
+    "7": { "a": "d", "why": "In the ocean, <b>phytoplankton</b> are the main producers." },
+    "8": { "a": "d", "why": "Energy is lost at each step, so the <b>top has the least</b>." },
+    "9": { "a": "a", "why": "Coral reefs grow in <b>shallow ocean</b> water, where light reaches." },
+    "10": { "a": "d", "why": "The mass of living things = <b>biomass</b>." },
+    "11": { "a": "c", "why": "It assimilated 200 − 100 (feces) = 100 J and grew 33 J: 33 ÷ 100 ≈ <b>33–34%</b>." },
+    "12": { "a": "b", "why": "The <b>second law of thermodynamics</b>: every conversion loses some energy as heat." },
+    "13": { "a": "a", "why": "Only about 10% passes up each level, so energy runs out after a few levels." },
+    "14": { "a": "b", "why": "<b>Energy</b> pyramids always show the true structure (they never invert)." },
+    "15": { "a": "d", "why": "Phytoplankton reproduce so fast (<b>high turnover</b>) that a small standing crop feeds many consumers." },
+    "16": { "a": "b", "why": "Making energy from inorganic chemicals without light = <b>chemoautotrophs</b>." },
+    "17": { "a": "c", "why": "Turning N₂ into usable forms = <b>nitrogen fixation</b>." },
+    "18": { "a": "a", "why": "Phosphorus comes from <b>weathering rock</b>." },
+    "19": { "a": "c", "why": "Eutrophication causes oxygen-free <b>dead zones</b>." },
+    "20": { "a": "d", "why": "Excess N and P → algal blooms → oxygen used up → a <b>dead zone</b>." },
+    "21": { "a": "b", "why": "Water flowing over land after rain or snowmelt = <b>surface runoff</b>." },
+    "22": { "a": "d", "why": "Carbon levels depend mostly on <b>exchange between the atmosphere and water</b>." },
+    "23": { "a": "c", "why": "Each biome has <b>lots of variation inside it</b> that one label hides." },
+    "24": { "a": "a", "why": "Fencing off (mesocosm) or rebuilding (microcosm) can <b>change how the system behaves</b>." },
+    "25": { "a": "d", "why": "A <b>simulation model</b> uses computers to handle complex relationships." },
+    "26": { "a": "d", "why": "Both show energy flow. Chains are linear and simple. Webs are non-linear, more accurate and holistic, and can feed simulation models." },
+    "27": { "a": "d", "why": "Lightning (natural fire) and pollution (human) both <b>alter</b> ecosystems." },
+    "28": { "a": "a", "why": "A small phytoplankton biomass supports a lot of zooplankton, so they must be very <b>productive</b> (they reproduce fast)." },
+    "29": { "a": "d", "why": "Few producers by number but huge biomass = <b>big trees</b>." },
+    "30": { "a": "b", "why": "<b>Number and biomass</b> pyramids can invert: a summer temperate forest (numbers) and English Channel phytoplankton (biomass). Energy pyramids never do." },
+    "31": { "a": "d", "why": "Producers burn some energy themselves, so <b>NPP is what consumers actually get</b>." },
+    "32": { "a": "b", "why": "Adding nitrogen lowered species richness: <b>some species outcompete others</b>." },
+    "33": { "a": "c", "why": "The deep ocean holds about 37,100 Gt of carbon: the <b>oceans</b>." },
+    "34": { "a": "d", "why": "<b>Sulfur dioxide</b> leaves the air as <b>sulfuric acid rain</b>." },
+    "35": { "a": "a", "why": "Excess producers die and decompose, and decomposers <b>use up the oxygen</b>." },
+    "36": { "a": "c", "why": "Producers turn light into chemical energy by <b>photosynthesis</b>, and consumers eat them (or each other)." },
+    "37": { "a": "c", "why": "Larger dissolved carbon particles <b>block light</b>, so producers decrease." },
+    "38": { "a": "a", "why": "Two species raised the dissolved carbon particle size, which <b>blocked light</b> and limited algae." },
+    "39": { "a": "d", "why": "Producers are the <b>base</b> of the pyramid (D)." },
+    "40": { "a": "d", "why": "Without otters, the <b>larger</b> fish's growth and trophic position changed most. Small fish look about the same." },
+    "41": { "a": "b", "why": "Coyotes lose deer and rabbits and must share voles, so their biomass <b>drops sharply</b>." },
+    "42": { "a": "c", "why": "Row B feeds the top level. Lose it and the <b>top predators starve</b>, possibly collapsing the web." },
+    "43": { "a": "d", "why": "Less light → fewer plants → <b>fewer herbivores</b>." },
+    "44": { "a": "d", "why": "Without predators, herbivores <b>overate their food</b>, then starved." },
+    "45": { "a": "c", "why": "Too many consumers <b>eat up the producers</b>." },
+    "46": { "a": "a", "why": "900 ÷ 1600 × 100 ≈ 56%, closest to <b>50</b>." },
+    "47": { "a": "a", "why": "About 10% per step: 33,000 → 3,300 → 330 → ~33. Of the choices, <b>75</b> is the only plausible small value." },
+    "48": { "a": "c", "why": "Decomposers feed on dead material from <b>every</b> level. Tertiary consumers eat only secondary consumers." },
+    "49": { "a": "c", "why": "<b>Photosynthesis</b> pulls CO₂ out of the air." }
+  }
+}
