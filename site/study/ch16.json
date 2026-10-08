@@ -1,0 +1,173 @@
+{
+  "chapter": 16,
+  "sections": {
+    "16.0": {
+      "big": "Every cell in your body has the same DNA. What makes a muscle cell different from a nerve cell is <b>which genes are switched on</b>.",
+      "points": [
+        "In one study, exercising one leg for 3 months changed which genes were active in that leg's muscle.",
+        "The DNA sequence didn't change. Methyl groups were added to some genes (<b>DNA methylation</b>), switching them off. Changes like this are <b>epigenetic</b>."
+      ],
+      "words": ["epigenetic", "DNA methylation", "gene expression"]
+    },
+    "16.1": {
+      "big": "<b>Gene expression</b> means turning a gene into its RNA and protein. Cells control which genes are on, when, and how much.",
+      "points": [
+        "Same genome, different genes switched on: that's why bone and fat cells differ, and why even identical twins can turn out differently.",
+        "Switching genes on only when they're needed saves energy and space.",
+        "<b>Prokaryotes</b> mostly control genes at <b>transcription</b>, because transcription and translation happen together in the cytoplasm.",
+        "<b>Eukaryotes</b> can control every step: epigenetic (DNA access), transcription, RNA processing and export, translation, and changes to the finished protein."
+      ],
+      "words": ["gene expression", "epigenetic", "post-transcriptional", "post-translational"]
+    },
+    "16.2": {
+      "big": "Bacteria group related genes into <b>operons</b>, which switch on or off together depending on what's around.",
+      "points": [
+        "An operon has a <b>promoter</b> (where RNA polymerase lands), an <b>operator</b> (the on/off switch) and the genes. A <b>repressor</b> sitting on the operator blocks transcription.",
+        "<b>trp operon (repressible, normally ON):</b> when tryptophan is plentiful, it binds the repressor, which then sits on the operator and shuts the operon off. Why make what you already have?",
+        "<b>CAP (activator):</b> when glucose is low, cAMP builds up, binds CAP, and CAP helps RNA polymerase turn on genes for other sugars.",
+        "<b>lac operon (inducible, normally OFF):</b> it turns on only when <b>lactose is present</b> (lactose pulls the repressor off) <b>and glucose is absent</b> (CAP-cAMP boosts transcription)."
+      ],
+      "tip": "lac = \"I'll make lactose-eating enzymes only if there's lactose to eat and no glucose I'd rather eat.\" trp = \"I'll stop making tryptophan once I have enough.\"",
+      "words": ["operon", "operator", "repressor", "activator", "inducer", "trp operon", "catabolite activator protein", "lac operon", "inducible operon", "negative regulator", "positive regulator"]
+    },
+    "16.3": {
+      "big": "<b>Epigenetic</b> control decides whether a stretch of DNA is even reachable, by changing how tightly it's wound around histones.",
+      "points": [
+        "Nucleosomes can slide or pack tighter to hide or expose genes.",
+        "<b>Acetyl groups on histones</b> make them less positive, so they grip DNA loosely and the gene is <b>open (ON)</b>.",
+        "<b>Methyl groups on DNA</b> (at CpG islands) plus <b>deacetylated histones</b> pack the DNA tight, so the gene is <b>closed (OFF)</b>.",
+        "These tags don't change the DNA sequence, they can be reversed, and they can be passed on when cells divide. Example: one X chromosome is silenced in female mammals."
+      ],
+      "tip": "<b>A</b>cetylation = <b>A</b>ccess (on). <b>M</b>ethylation = <b>M</b>uted (off).",
+      "words": ["epigenetic", "histone acetylation", "DNA methylation"]
+    },
+    "16.4": {
+      "big": "In eukaryotes, <b>transcription factors</b> have to gather at the promoter before RNA polymerase can start, and distant <b>enhancers</b> can boost the signal.",
+      "points": [
+        "TFIID binds the <b>TATA box</b> first and recruits other factors, then RNA polymerase II joins.",
+        "<b>Enhancers</b> can be far away. DNA-bending proteins loop the DNA so the activators on the enhancer touch the promoter complex.",
+        "<b>Repressors</b> bind promoters or enhancers to block transcription.",
+        "Each cell type has its own mix of transcription factors, which is how the same genome builds different cells."
+      ],
+      "words": ["transcription factor", "transcription factor binding site", "enhancer", "cis-acting element", "trans-acting element"]
+    },
+    "16.5": {
+      "big": "After transcription, cells can still control gene expression through <b>splicing</b> and by controlling <b>how long the mRNA lasts</b>.",
+      "points": [
+        "<b>Alternative splicing</b> mixes exons in different ways, so one gene makes several proteins. About 70% of human genes do this.",
+        "The 5' cap and poly-A tail protect the mRNA. <b>RNA-binding proteins</b> on the <b>UTRs</b> (untranslated regions) can make it last longer or break down sooner.",
+        "<b>microRNAs</b> (21–24 nucleotides, cut out by <b>dicer</b>) join the <b>RISC</b> complex and destroy matching mRNAs."
+      ],
+      "words": ["RNA stability", "untranslated region", "RNA-binding protein", "microRNA", "dicer", "RISC"]
+    },
+    "16.6": {
+      "big": "Cells can also control <b>translation</b> and what happens to the <b>finished protein</b>: what it does, where it goes, and how long it lasts.",
+      "points": [
+        "<b>eIF-2</b> (bound to GTP) starts the initiation complex. If eIF-2 gets phosphorylated, translation slows down.",
+        "Adding phosphate, methyl or acetyl groups to proteins changes how active they are and where they go.",
+        "A <b>ubiquitin</b> tag marks a protein for destruction in the <b>proteasome</b>."
+      ],
+      "words": ["initiation complex", "proteasome"]
+    },
+    "16.7": {
+      "big": "<b>Cancer</b> is a disease of gene expression gone wrong, and it can happen at any level of control.",
+      "points": [
+        "Over half of cancers have a broken <b>p53</b>, a tumor-suppressor transcription factor.",
+        "Oncogenes like <b>myc</b> (a transcription factor) can drive runaway growth when overactive.",
+        "Cancer cells often <b>silence</b> protective genes with DNA methylation and histone deacetylation. Drugs that reverse this can switch those genes back on.",
+        "Changes in miRNAs, RNA stability, translation, or protein modification (like phosphorylated cyclin B) can all contribute.",
+        "<b>Targeted therapies / personalized medicine:</b> drugs matched to a tumor's specific gene expression, like anti-EGFR or anti-estrogen-receptor drugs."
+      ],
+      "words": ["myc"]
+    }
+  },
+  "fix": {
+    "44": {
+      "stem": [0],
+      "opts": [
+        "<img class=\"choice\" src=\"img/c16/p659-3.jpg\" width=\"360\" height=\"183\" alt=\"Repressor holding lactose, off the operator; RNA polymerase transcribing\">",
+        "<img class=\"choice\" src=\"img/c16/p659-4.jpg\" width=\"360\" height=\"86\" alt=\"Repressor holding lactose but bound to the operator\">",
+        "<img class=\"choice\" src=\"img/c16/p659-5.jpg\" width=\"360\" height=\"115\" alt=\"RNA polymerase moving across the operator\">",
+        "<img class=\"choice\" src=\"img/c16/p659-6.jpg\" width=\"360\" height=\"66\" alt=\"Repressor (no lactose) bound to the operator\">"
+      ]
+    },
+    "45": { "stem": [2] },
+    "58": {
+      "opts": [
+        "In an environment with low fixed nitrogen, treating the Anabaena cells with a calcium-binding compound should prevent heterocyst differentiation.",
+        "A strain that overexpresses the patS gene should develop many more heterocysts in a low nitrogen environment.",
+        "In an environment with abundant fixed nitrogen, free calcium levels should be high in all cells, preventing heterocysts from developing.",
+        "In environments with abundant fixed nitrogen, loss of the hetR gene should induce heterocyst development."
+      ]
+    },
+    "59": {
+      "stem": [0, "Which of the following statements about <i>Anabaena</i> is false?"],
+      "opts": [
+        "Decreasing the concentration of free calcium ions will prevent heterocyst development.",
+        "In the presence of fixed nitrogen, NtcA will not be expressed.",
+        "Low fixed nitrogen levels result in increased PatS levels.",
+        "A mutation in HetR that makes it nonfunctional will also allow adjacent cells to develop as heterocysts."
+      ]
+    }
+  },
+  "answers": {
+    "1": { "a": "d", "why": "Eukaryotes can control <b>every level</b>: epigenetic, transcription, translation, and after translation." },
+    "2": { "a": "b", "why": "Figure X has no nucleus and translates right on the DNA (<b>prokaryote</b>). Figure Y processes mRNA in a nucleus first (<b>eukaryote</b>)." },
+    "3": { "a": "a", "why": "No glucose plus lactose present is exactly when the lac operon is <b>turned on</b>." },
+    "4": { "a": "b", "why": "If the repressor can't grab the operator, nothing blocks transcription, so the operon is on <b>even without lactose</b>." },
+    "5": { "a": "c", "why": "The repressor can't block the operator, so the trp genes are transcribed <b>even when tryptophan is present</b>." },
+    "6": { "a": "a", "why": "Epigenetic changes are <b>reversible tags on histones and DNA</b>. They don't change the DNA sequence." },
+    "7": { "a": "a", "why": "That's false: adding acetyl groups makes histones <b>less</b> positive, which loosens their grip on DNA." },
+    "8": { "a": "b", "why": "Epigenetic tags let histones <b>move</b>, opening or closing regions. They don't change the sequence, and they can turn genes off as well as on." },
+    "9": { "a": "d", "why": "In eukaryotes, <b>transcription factors</b> have to bind first and then bring in RNA polymerase." },
+    "10": { "a": "b", "why": "Without DNA bending, distant enhancers can't loop over to reach the transcription factors at the promoter, so transcription drops." },
+    "11": { "a": "b", "why": "Enhancers can be far away, and factors bound there <b>increase</b> transcription of their gene." },
+    "12": { "a": "a", "why": "<b>RNA splicing</b> happens after transcription and before translation. The others act on proteins." },
+    "13": { "a": "c", "why": "<b>Alternative splicing</b> can make two different-sized proteins from one gene." },
+    "14": { "a": "d", "why": "It depends on the protein: RNA-binding proteins can <b>either increase or decrease</b> stability." },
+    "15": { "a": "a", "why": "Proteins binding the 5' UTR control stability, so blocking them could make the RNA <b>more or less</b> stable." },
+    "16": { "a": "d", "why": "Post-translational control works on proteins through <b>chemical modifications</b>. Splicing, capping and the poly-A tail happen to RNA." },
+    "17": { "a": "b", "why": "Phosphorylating eIF-2 normally <i>shuts off</i> translation, so preventing phosphorylation wouldn't block initiation. The other three would." },
+    "18": { "a": "d", "why": "<b>Ubiquitin</b> tags a protein for destruction in the proteasome." },
+    "19": { "a": "c", "why": "Cancer-causing genes are <b>oncogenes</b>." },
+    "20": { "a": "c", "why": "An estrogen-receptor blocker helps patients whose tumors <b>overexpress</b> the estrogen receptor (ER alpha)." },
+    "21": { "a": "d", "why": "Normal cells have working p53, which stops the virus. Cancer cells often don't, so the virus <b>replicates only in cancer cells</b> and bursts them." },
+    "22": { "a": "a", "why": "Silenced genes are methylated with deacetylated histones. To switch them back on, block <b>DNA methylation</b> and <b>histone deacetylation</b>." },
+    "23": { "a": "c", "why": "When mutated, positive regulators (proto-oncogenes) become <b>oncogenes</b>." },
+    "24": { "a": "b", "why": "Eukaryotes have a <b>nucleus</b> and more compartments, which gives them more places to regulate genes." },
+    "25": { "a": "a", "why": "Prokaryotes regulate mainly at <b>transcription</b>. Eukaryotes regulate at <b>many levels</b>." },
+    "26": { "why": "Every cell has the same genes, but each cell type has a different set of <b>transcription factors</b> and different <b>epigenetic</b> marks (open or closed chromatin), so different genes get switched on. Splicing, RNA stability, translation and protein control then differ too. The result is different proteins, which means different cell types." },
+    "27": { "a": "c", "why": "Lactose is the <b>inducer</b>: it switches the operon on when glucose is absent." },
+    "28": { "a": "d", "why": "A missense mutation changes one amino acid in an enzyme. The operon is still transcribed, but that enzyme may not work, so lactose isn't handled properly." },
+    "29": { "why": "Reverse the silencing marks: use drugs that <b>block DNA methylation</b> (or remove methyl groups) and <b>block histone deacetylases</b> so histones stay acetylated. The chromatin loosens and the genes can be transcribed again." },
+    "30": { "a": "a", "why": "In seedlings FLC is ON, so its histones are <b>acetylated</b>. After cold, FLC is shut OFF by <b>methylation</b>." },
+    "31": { "a": "c", "why": "Changing where transcription factors bind can make transcription go <b>up or down</b>." },
+    "32": { "a": "a", "why": "Too much activator means <b>too much transcription</b>, which can disrupt how the cell works (as in cancer)." },
+    "34": { "a": "a", "why": "If an RNA-binding protein occupies the site first, the miRNA can't bind and target the mRNA for destruction." },
+    "35": { "a": "b", "why": "Signals from outside the cell can <b>phosphorylate RNA-binding proteins</b>, changing how stable the RNA is." },
+    "36": { "a": "a", "why": "Phosphorylation can change translation, RNA shuttling, RNA stability and processing, so it reaches many levels of control." },
+    "37": { "a": "a", "why": "UV could trigger <b>methylation and deacetylation</b>, packing DNA tighter and shutting genes off." },
+    "38": { "a": "a", "why": "Keeping DNA unmethylated and histones acetylated keeps silenced protective genes (like tumor suppressors) switched <b>on</b>." },
+    "39": { "a": "a", "why": "Most of the mutation hot spots are in the <b>central region</b> of the gene." },
+    "40": { "a": "a", "why": "Personalized medicine matches treatment to the <b>specific mutations and gene expression</b> in a person's tumor." },
+    "41": { "a": "c", "why": "Both have <b>promoters</b>. Caps, poly-A tails and introns are eukaryotic." },
+    "42": { "a": "b", "why": "Without the poly-A tail, eukaryotic mRNA becomes <b>less stable</b>. Prokaryotes don't rely on poly-A tails, so there's no effect there." },
+    "43": { "a": "a", "why": "Different: prokaryotes translate while transcribing, while eukaryotes transcribe first (in the nucleus). Same: both use transcription factors, activators and repressors." },
+    "44": { "a": "d", "why": "With no lactose to use, the <b>repressor sits on the operator</b> (holding no lactose) and blocks transcription." },
+    "45": { "a": "b", "why": "Lactose normally pulls the repressor off. If the repressor can't bind lactose, it <b>stays on the operator even with lactose present</b>, so the operon stays off." },
+    "46": { "a": "a", "why": "At birth the GR gene starts out silenced, so its DNA is <b>heavily methylated</b>." },
+    "47": { "a": "c", "why": "Nurturing removes the silencing in highly nurtured rats, so their GR DNA has <b>few methyl groups</b> and the gene is on." },
+    "48": { "a": "c", "why": "Deleting an enhancer <b>lowers</b> transcription. Only deletion 3 drops to \"+\"." },
+    "49": { "a": "a", "why": "Deleting a repressor site <b>raises</b> transcription. Deletion 1 jumps to \"+++\"." },
+    "50": { "a": "b", "why": "Region 2 is in the finished protein, so a mutation there would change it. Region 3 is spliced out, and 1 and 5 aren't translated." },
+    "51": { "a": "d", "why": "Regions 1 and 5 are in the mature mRNA but not the protein: they're <b>untranslated regions (UTRs)</b>." },
+    "52": { "a": "a", "why": "The mature mRNA keeps 1, 3 and 5, so those are <b>exons</b>. 2 and 4 were removed (<b>introns</b>)." },
+    "53": { "a": "a", "why": "The short transcript jumps from exon 1 to exon 4, which is <b>exon skipping</b>." },
+    "54": { "a": "d", "why": "Peeling comes from p53-triggered apoptosis of damaged skin cells. Without p53, <b>no peeling</b>, and damaged cells survive." },
+    "55": { "a": "d", "why": "DNA damage still happens, but p53 activation, p21 activation and apoptosis (<b>2, 3 and 4</b>) don't." },
+    "56": { "a": "a", "why": "Tryptophan helps the repressor <b>bind the operator</b>, which blocks RNA synthesis." },
+    "57": { "a": "c", "why": "Without tryptophan, the repressor <b>lets go of the operator</b> and the genes are transcribed." },
+    "58": { "a": "a", "why": "Heterocyst development is triggered by rising free Ca<sup>2+</sup>. Soaking up calcium with a binding compound should <b>block</b> it." },
+    "59": { "a": "d", "why": "That's false: HetR is <i>required</i> to make heterocysts, so cells with broken HetR can't become heterocysts at all." }
+  }
+}

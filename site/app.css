@@ -188,6 +188,7 @@ details.ap .tablewrap td:first-child { font-weight: 600; width: 22%; }
 .opt { display: flex; gap: 10px; align-items: flex-start; width: 100%; text-align: left; padding: 10px 12px; border-radius: 10px; border: 1.5px solid var(--line); background: var(--card); cursor: pointer; line-height: 1.45; }
 .opt:hover:not([disabled]) { border-color: var(--brand); }
 .opt .letter { flex: none; width: 24px; height: 24px; border-radius: 50%; display: grid; place-items: center; background: var(--brand-soft); color: var(--brand); font-weight: 600; font-size: .8rem; }
+.opt img.choice { display: block; max-width: 100%; height: auto; border-radius: 6px; background: #fff; }
 .opt.right { border-color: var(--good); background: var(--good-soft); }
 .opt.right .letter { background: var(--good); color: #fff; }
 .opt.wrong { border-color: var(--bad); background: var(--bad-soft); }
