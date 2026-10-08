@@ -1,0 +1,121 @@
+{
+  "chapter": 38,
+  "sections": {
+    "38.0": {
+      "big": "<b>Biodiversity</b>, the variety of life, is disappearing faster than at almost any time in Earth's history, mostly because of humans.",
+      "points": [
+        "This chapter covers what biodiversity is, why it matters to people, what threatens it, and how we protect it."
+      ],
+      "words": ["biodiversity"]
+    },
+    "38.1": {
+      "big": "Biodiversity has three levels: genes, species and ecosystems. Earth has gone through five mass extinctions, and many scientists think we're causing a sixth.",
+      "points": [
+        "About 1.5–2 million species have been named, out of many millions that exist.",
+        "<b>Genetic diversity</b> (variety within a species, which helps it survive change), species diversity, <b>ecosystem diversity</b> (variety of habitats), and <b>chemical diversity</b> (the variety of molecules organisms make, a source of medicines).",
+        "<b>Endemic species</b> live in only one place (lemurs in Madagascar). A <b>biodiversity hotspot</b> is a region with many endemic species that's also under threat.",
+        "The tropics have the most species: more energy, more habitat variety (<b>heterogeneity</b>), and a long stable history.",
+        "<b>Extinction</b> is normal, but the <b>extinction rate</b> today is far above the background rate. Mass extinctions: Ordovician, Devonian, Permian (the worst, about 96% of marine species), Triassic, Cretaceous–Paleogene (an asteroid: iridium layer, a Yucatán crater, dinosaurs gone). After each, survivors went through <b>adaptive radiation</b> into empty niches.",
+        "About 10,000 years ago many big animals (<b>megafauna</b>) like mammoths vanished, likely from climate warming plus human hunting."
+      ],
+      "words": ["genetic diversity", "ecosystem diversity", "chemical diversity", "endemic species", "biodiversity hotspot", "heterogeneity", "extinction", "extinction rate", "adaptive radiation", "megafauna"]
+    },
+    "38.2": {
+      "big": "Biodiversity keeps people alive: medicines, food, crops, clean water, pollination and pest control.",
+      "points": [
+        "Medicine: many drugs come from plants' <b>secondary plant compounds</b> (chemicals made for defense), from microbes (most antibiotics), or from venoms (a snake venom led to blood-pressure drugs, and venom anticoagulants to blood thinners).",
+        "Agriculture: wild relatives of crops carry genes for pest and disease resistance (French vineyards were saved by American rootstock). Monocultures (one crop variety) are risky.",
+        "Ecosystem services: pollinators (bees), natural pest control (insect predators), soil formation, water purification (wetlands).",
+        "Wild foods like fish and <b>bush meat</b> feed many people. Overharvesting them is a threat."
+      ],
+      "words": ["secondary plant compound", "bush meat"]
+    },
+    "38.3": {
+      "big": "The biggest threats: habitat loss, overharvesting, exotic species, and climate change.",
+      "points": [
+        "Habitat loss (the #1 threat): clearing forests, farming, dams, cities. Using the <b>species-area relationship</b>, scientists estimate how many species are lost when habitat shrinks.",
+        "Overharvesting: overfishing (the collapse of the Atlantic cod), hunting for bush meat or rhino horn. The <b>tragedy of the commons</b>: shared resources get overused because no one owns them.",
+        "<b>Exotic species</b> (invasive, non-native) have no natural predators. Islands are especially vulnerable (brown tree snakes in Guam). That's why customs confiscates fruit.",
+        "Diseases spread by people: <b>chytridiomycosis</b> (a fungus killing frogs worldwide), <b>white-nose syndrome</b> (killing bats).",
+        "Climate change shifts ranges north and uphill. Specialists like polar bears (which need sea ice to hunt seals) suffer most."
+      ],
+      "words": ["species-area relationship", "tragedy of the commons", "exotic species", "chytridiomycosis", "white-nose syndrome"]
+    },
+    "38.4": {
+      "big": "Protecting biodiversity takes measurement, laws, preserves, and restoring damaged habitats.",
+      "points": [
+        "<b>DNA barcoding</b> identifies species fast using a short gene that varies more between species than within one (mitochondrial genes for animals, chloroplast genes for plants).",
+        "Laws: the Endangered Species Act, CITES (international trade in endangered species), the Migratory Bird Treaty, the Kyoto Protocol (the first climate treaty). International treaties are hard to enforce.",
+        "Preserves work best as large areas, connected by corridors, and planned with local people.",
+        "Restoration: reintroducing keystone species (wolves in Yellowstone brought back willows and beavers), restoring water flow to wetlands, and bioremediation (bacteria cleaning up pollution)."
+      ],
+      "words": ["DNA barcoding"]
+    }
+  },
+  "fix": {
+    "53": {
+      "stem": ["The following graphs show the changes in the human population and the rate of extinction:", 0, 1, "Which statement most likely explains how the increase in human population could lead to a decrease in biodiversity?"],
+      "opts": [
+        "Every human added to the planet replaces a different species of organism.",
+        "The more people inhabiting the planet, the more the average temperature increases, causing loss of other species.",
+        "With the increase in population the demands for land, water, food, and energy increase, leading to the destruction of habitat.",
+        "Increases in human population reduce the amount of land available for use by all species."
+      ]
+    }
+  },
+  "answers": {
+    "1": { "a": "c", "why": "About <b>1.5–2 million</b> species have been identified." },
+    "2": { "a": "b", "why": "More <b>genetic diversity</b> = more chance some individuals have traits that suit the new environment." },
+    "3": { "a": "a", "why": "Adaptive radiation = a <b>burst of new species</b> from one ancestor." },
+    "4": { "a": "a", "why": "In the Cambrian explosion, new species <b>radiated</b> from existing ones." },
+    "5": { "a": "d", "why": "A mass extinction = over 50% of species disappearing in a short span (between neighboring layers)." },
+    "6": { "a": "c", "why": "Small animals need <b>less food</b> and <b>reproduce quickly</b>." },
+    "7": { "a": "a", "why": "Hotspots are defined by their number of <b>endemic</b> species." },
+    "8": { "a": "b", "why": "Secondary plant compounds are a source of <b>new drugs</b>." },
+    "9": { "a": "d", "why": "Something that stops clotting could become a <b>blood thinner</b>." },
+    "10": { "a": "b", "why": "Varieties that grow at different altitudes <b>expand the land</b> where potatoes can be farmed." },
+    "11": { "a": "b", "why": "<b>Diverse varieties in a diverse ecosystem</b> are most likely to survive." },
+    "12": { "a": "d", "why": "<b>Insect predators</b> do a pesticide's job naturally." },
+    "13": { "a": "a", "why": "Using wetlands to clean water = an <b>ecosystem service</b>." },
+    "14": { "a": "a", "why": "Most antibiotics come from <b>microbes</b> (fungi and bacteria)." },
+    "15": { "a": "b", "why": "Turning prairie into farmland = <b>habitat loss</b>." },
+    "16": { "a": "d", "why": "A dam flooding a large plain destroys a <b>huge area</b> of habitat." },
+    "17": { "a": "c", "why": "<b>Island</b> species often evolved without those predators." },
+    "18": { "a": "d", "why": "Fruit can carry <b>exotic pests</b>." },
+    "19": { "a": "b", "why": "<b>Polar bears</b> depend on sea ice to hunt seals." },
+    "20": { "a": "d", "why": "<b>All of these</b> problems can follow birds moving north." },
+    "21": { "a": "d", "why": "For animals and other non-plant eukaryotes, <b>mitochondrial</b> genes are used." },
+    "22": { "a": "d", "why": "A good barcode gene varies <b>less within a species than between species</b>." },
+    "23": { "a": "c", "why": "<b>Tropical rain forests</b> pack the most diversity into a small area." },
+    "24": { "a": "d", "why": "Include scientists, policy makers, <b>and the tribes</b> who depend on the fishery." },
+    "25": { "a": "b", "why": "Often just <b>restoring the water supply</b> brings a wetland back." },
+    "26": { "a": "b", "why": "Using bacteria to clean pollution = <b>bioremediation</b>." },
+    "27": { "a": "d", "why": "The <b>Kyoto Protocol</b> was the first international climate agreement." },
+    "28": { "a": "d", "why": "The tropics have many more <b>micro-ecosystems</b> (habitat variety)." },
+    "29": { "a": "d", "why": "Past-record methods <b>underestimate</b> (they miss unobserved extinctions). For a dam, use the <b>habitat-loss</b> method, though it may overestimate." },
+    "30": { "a": "d", "why": "An <b>iridium</b> layer, sudden species loss, and the <b>Yucatán crater</b>." },
+    "31": { "a": "d", "why": "Long <b>isolation</b> let species evolve without outside influence." },
+    "32": { "a": "d", "why": "Snake toxin → drugs that <b>lower blood pressure</b>. Opium → <b>painkillers</b>." },
+    "33": { "a": "d", "why": "Wild relatives supply <b>genes</b> (like pest resistance) that crops need." },
+    "34": { "a": "d", "why": "No bees → <b>no pollination</b> → fruit crops fail, plus the industries that depend on them." },
+    "35": { "a": "a", "why": "No cold winters to kill insects, so tropical plants need <b>year-round</b> defense." },
+    "36": { "a": "b", "why": "More people → more resource use, habitat loss, overhunting, and <b>climate change</b> from fossil fuels." },
+    "37": { "a": "b", "why": "<b>Climate change</b>, <b>exotic species</b> (like chytrid fungus), and <b>habitat destruction</b>." },
+    "38": { "a": "d", "why": "These diseases spread through <b>mosquitoes</b>, which move into warming areas." },
+    "39": { "a": "a", "alt": "d", "why": "Without wolves, elk overpopulated and ate the willows. With wolves back, elk dropped. Willows suffer from elk when there are <b>no wolves</b>." },
+    "40": { "a": "a", "why": "The horns are traded <b>across borders</b>." },
+    "41": { "a": "d", "why": "<b>Larger</b> areas protect more species and whole ecosystems." },
+    "42": { "a": "b", "why": "Without wolves, <b>elk boom</b> and many other species (willows, beavers, songbirds) decline." },
+    "43": { "a": "c", "why": "Nations <b>don't follow through</b>, and <b>no body enforces</b> the treaties." },
+    "44": { "a": "a", "why": "Both fern spores and angiosperm pollen <b>dropped</b> right at the K-Pg boundary." },
+    "45": { "a": "a", "why": "Ferns are fast early colonizers of bare ground, and surviving species <b>spread into the empty niches</b>." },
+    "46": { "a": "c", "why": "The Devonian extinction hit <b>marine</b> life, so look for marine fossils near water." },
+    "47": { "a": "b", "why": "<b>Fewer grains</b> = fewer plants. <b>Fewer shapes</b> = less diversity." },
+    "48": { "a": "c", "why": "Shells, coral and trilobites mean <b>sea floor</b>, and the vertebrae date to the Permian (about 250 million years ago)." },
+    "49": { "a": "b", "why": "A <b>sudden warming</b> about 10,000 years ago, plus human hunting." },
+    "50": { "a": "c", "why": "Caribou dropped <b>after</b> lichens (their winter food) dropped." },
+    "51": { "a": "a", "why": "Polar bears are <b>top predators</b>. On land they'd outcompete the foxes and lynx but still not get enough calories." },
+    "52": { "a": "b", "why": "Catches peaked when factory ships arrived, then crashed: <b>overfishing</b>." },
+    "53": { "a": "c", "why": "More people need more <b>land, water, food and energy</b>, which destroys habitat." }
+  }
+}
