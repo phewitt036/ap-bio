@@ -1,0 +1,70 @@
+{
+  "chapter": 11,
+  "sections": {
+    "11.0": {
+      "big": "Sexual reproduction mixes DNA from two parents. To do that, each parent makes special cells with only <b>half</b> the chromosomes, and two of them fuse into one new, unique cell.",
+      "points": [
+        "Some organisms (yeast, sponges) can just clone themselves. Most multicellular life uses two parents.",
+        "Each parent makes a <b>haploid</b> cell, and fertilization joins two of them into a <b>diploid</b> cell with a brand-new mix of genes.",
+        "Some species can do both. Aging termite queens clone new queens (parthenogenesis)."
+      ],
+      "words": ["meiosis", "fertilization"]
+    },
+    "11.1": {
+      "big": "<b>Meiosis</b> is one round of DNA copying followed by <b>two divisions</b>. It turns one diploid cell into <b>four haploid cells</b>, each genetically unique.",
+      "points": [
+        "<b>Meiosis I</b> separates <b>homologous pairs</b>, cutting the chromosome sets from 2 to 1. That's why it's called the <b>reduction division</b>.",
+        "<b>Prophase I:</b> homologs pair up tightly (<b>synapsis</b>, held by the <b>synaptonemal complex</b>) to form <b>tetrads</b>. They swap pieces (<b>crossing over</b>) at <b>chiasmata</b>, which is <b>variation source #1</b>.",
+        "<b>Metaphase I:</b> pairs line up in random orientation (<b>independent assortment</b>), which is <b>variation source #2</b>. With 23 pairs, that's over 8 million (2<sup>23</sup>) combinations.",
+        "<b>Anaphase I:</b> homologs separate, but the sister chromatids stay together.",
+        "<b>Meiosis II</b> works like mitosis: sister chromatids separate. There's no DNA copying beforehand (interkinesis has no S phase).",
+        "Mitosis makes 2 identical diploid cells. Meiosis makes 4 different haploid cells."
+      ],
+      "tip": "Meiosis <b>I</b> splits the <b>pairs</b> (homologs). Meiosis <b>II</b> splits the <b>sisters</b> (chromatids), just like mitosis.",
+      "words": ["meiosis I", "meiosis II", "reduction division", "synapsis", "synaptonemal complex", "tetrad", "crossover", "chiasmata", "recombination nodules", "interkinesis", "cohesin"]
+    },
+    "11.2": {
+      "big": "Sex is costly, but it makes <b>varied</b> offspring, and variety helps populations survive changing environments, predators and parasites.",
+      "points": [
+        "Asexual reproduction is quick and needs no mate, but its only source of variation is mutation.",
+        "Sexual reproduction reshuffles genes three ways: <b>crossing over</b>, <b>independent assortment</b>, and <b>random fertilization</b>.",
+        "<b>Red Queen hypothesis:</b> species are always co-evolving with rivals and parasites, so they have to keep changing just to keep up.",
+        "<b>Diploid-dominant</b> (most animals, including you): the only haploid cells are gametes.",
+        "<b>Haploid-dominant</b> (fungi, some algae): the main body is haploid. The diploid zygote immediately does meiosis to make spores.",
+        "<b>Alternation of generations</b> (plants): a multicellular haploid <b>gametophyte</b> alternates with a multicellular diploid <b>sporophyte</b>."
+      ],
+      "words": ["life cycle", "diploid-dominant", "germ cells", "haploid-dominant", "spore", "alternation of generations", "gametophyte", "sporophyte"]
+    }
+  },
+  "answers": {
+    "1": { "a": "a", "why": "Meiosis makes <b>four haploid</b> cells." },
+    "2": { "a": "d", "why": "The <b>synaptonemal complex</b> is the protein zipper that holds homologous chromosomes together as a tetrad." },
+    "3": { "a": "b", "why": "Sister chromatids separate in <b>anaphase II</b>. Anaphase I separates homologous pairs." },
+    "4": { "a": "a", "why": "By metaphase I the synaptonemal complex is gone, and homologs are held together only at the <b>chiasmata</b> (crossover points)." },
+    "5": { "a": "d", "why": "Interkinesis has <b>no S phase</b>: DNA isn't copied again before meiosis II." },
+    "6": { "a": "d", "why": "<b>Meiosis II</b> separates sister chromatids, just like mitosis." },
+    "7": { "a": "d", "why": "Spindle fibers aren't part of crossing over. That happens between paired homologs in prophase I, helped by recombination nodules." },
+    "8": { "a": "b", "why": "The second source of variation is random alignment of homologous pairs in <b>metaphase I</b>." },
+    "9": { "a": "a", "why": "<b>Alternation of generations</b> (plants) has both a multicellular haploid and a multicellular diploid stage." },
+    "10": { "a": "b", "why": "In asexual reproduction, the only new variation comes from <b>mutations</b> in DNA." },
+    "11": { "a": "b", "why": "Sex creates <b>variation</b>, which helps a population adapt and survive change." },
+    "12": { "a": "a", "why": "In most sexual species, only <b>half</b> the population (the females) can bear offspring, so it grows more slowly than an all-female asexual population would." },
+    "13": { "a": "d", "why": "Fungi are <b>haploid-dominant</b>: their main body is haploid." },
+    "14": { "a": "a", "why": "In diploid-dominant organisms like animals, meiosis makes <b>gametes</b> (egg and sperm)." },
+    "15": { "a": "a", "why": "Tetrads form in prophase I of <b>meiosis</b>, line up at the metaphase plate, and each pair orients randomly, independently of the others." },
+    "16": { "a": "a", "why": "Metaphase I lines up homologous <b>pairs</b>. Metaphase II lines up single chromosomes, each made of two sister chromatids." },
+    "17": { "a": "b", "why": "Meiosis <b>halves</b> the chromosome number and <b>adds variation</b>. Mitosis does neither." },
+    "18": { "a": "a", "why": "Each pair lines up randomly, so which parent's chromosome ends up in each gamete is random, and that creates new combinations." },
+    "19": { "a": "b", "why": "As one species improves, its competitors have to improve too just to keep up, like running to stay in the same place." },
+    "20": { "a": "d", "why": "<b>Crossing over</b>, <b>random assortment</b> and <b>random fertilization</b> all mix genes differently each time." },
+    "21": { "a": "a", "why": "Diploid-dominant: humans. Haploid-dominant: fungi. Alternation of generations (both stages multicellular): plants." },
+    "22": { "a": "c", "why": "Body cells are <b>somatic cells</b>. They're diploid, with double the chromosome number of gametes." },
+    "23": { "a": "a", "why": "Spores are <b>haploid</b> reproductive cells that grow into haploid organisms by mitosis, with no fertilization needed." },
+    "24": { "a": "a", "why": "The <b>synaptonemal complex</b> is a protein lattice that zips homologous chromosomes together along their whole length." },
+    "25": { "a": "c", "why": "Crossing over happens between <b>non-sister chromatids of homologous chromosomes</b> during <b>prophase I</b>." },
+    "26": { "a": "d", "why": "All three are random: where crossovers happen, how pairs line up, and which sperm meets which egg." },
+    "27": { "a": "b", "why": "In <b>diploid-dominant</b> life cycles (animals), the only haploid cells are single-celled gametes." },
+    "28": { "a": "d", "why": "The diploid sporophyte makes spores by <b>meiosis</b>." },
+    "29": { "a": "b", "why": "<b>(+) and (−) mating types</b> belong to haploid-dominant life cycles like fungi. Both cycles have meiosis, spores and free-living haploid stages." }
+  }
+}
