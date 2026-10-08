@@ -1,0 +1,148 @@
+{
+  "chapter": 7,
+  "sections": {
+    "7.0": {
+      "big": "Plants store the sun's energy in glucose. <b>Cellular respiration</b> is how every living thing gets that energy back out, as ATP the cell can use.",
+      "points": [
+        "Like a power plant turning heat into electricity, cells turn the energy in glucose into a form they can actually use (ATP).",
+        "<b>Glycolysis</b> is the first step, and almost every organism on Earth does it.",
+        "Block one key glycolysis enzyme (pyruvate kinase) and the organism dies. Scientists use this to target parasites that cause deadly diseases."
+      ],
+      "words": ["glycolysis", "aerobic respiration"]
+    },
+    "7.1": {
+      "big": "Energy moves through cells by passing <b>electrons</b> from one molecule to another (<b>redox reactions</b>), and it gets stored in <b>ATP</b>, a rechargeable battery.",
+      "points": [
+        "<b>OIL RIG:</b> <b>O</b>xidation <b>I</b>s <b>L</b>oss of electrons, <b>R</b>eduction <b>I</b>s <b>G</b>ain. The molecule that loses electrons loses energy, and the one that gains them gains energy.",
+        "<b>NAD<sup>+</sup></b> and <b>FAD</b> are electron taxis. They pick up high-energy electrons (becoming <b>NADH</b> and <b>FADH<sub>2</sub></b>) and drop them off later to make ATP.",
+        "ATP → ADP + P<sub>i</sub> releases energy. ADP + P<sub>i</sub> → ATP stores it again, like recharging a battery.",
+        "ATP gets made two ways. <b>Substrate-level phosphorylation</b> moves a phosphate straight onto ADP and makes only a little ATP. <b>Oxidative phosphorylation</b> (chemiosmosis in the mitochondria) makes about 90% of it."
+      ],
+      "words": ["redox reaction", "phosphorylation", "dephosphorylation", "substrate-level phosphorylation", "oxidative phosphorylation"]
+    },
+    "7.2": {
+      "big": "<b>Glycolysis</b> splits one glucose (6 carbons) into two <b>pyruvate</b> (3 carbons each), in the <b>cytoplasm</b>, without needing oxygen.",
+      "points": [
+        "<b>First half (investment):</b> spend <b>2 ATP</b> to add phosphates to glucose, which traps it in the cell and makes it ready to split in two.",
+        "<b>Second half (payoff):</b> make <b>4 ATP</b> and <b>2 NADH</b>.",
+        "<b>Net result per glucose: 2 ATP, 2 NADH, 2 pyruvate.</b>",
+        "<b>Phosphofructokinase</b> is the main control valve. When ATP is plentiful it slows glycolysis down.",
+        "Glycolysis needs NAD<sup>+</sup> to keep going, so NADH has to be recycled back to NAD<sup>+</sup>, either by the electron transport chain or by fermentation.",
+        "Red blood cells have no mitochondria, so glycolysis is their only source of ATP."
+      ],
+      "tip": "Think of it like investing: put in 2 ATP, get back 4, keep a <b>profit of 2</b>.",
+      "words": ["glycolysis", "pyruvate", "GLUT protein", "isomerase"]
+    },
+    "7.3": {
+      "big": "If oxygen is around, pyruvate goes into the <b>mitochondria</b>, becomes <b>acetyl CoA</b>, and gets fully broken down to CO<sub>2</sub> in the <b>citric acid (Krebs) cycle</b>, filling up lots of electron taxis.",
+      "points": [
+        "<b>Pyruvate → acetyl CoA:</b> one CO<sub>2</sub> comes off and one NADH is made (per pyruvate).",
+        "<b>Citric acid cycle</b> (in the mitochondrial <b>matrix</b>): acetyl (2C) + oxaloacetate (4C) → citrate (6C). The cycle then gives off 2 CO<sub>2</sub> and rebuilds oxaloacetate to start again.",
+        "<b>Each turn makes 3 NADH, 1 FADH<sub>2</sub>, and 1 ATP (or GTP).</b> Glucose gives two pyruvate, so the cycle turns <b>twice</b> per glucose.",
+        "By the end, all 6 carbons of the original glucose have left as CO<sub>2</sub>. That's the CO<sub>2</sub> you breathe out.",
+        "The cycle makes very little ATP directly. Its real job is loading NADH and FADH<sub>2</sub> for the next stage."
+      ],
+      "tip": "Count the carbons: glucose (6) → 2 pyruvate (3 + 3) → 2 acetyl (2 + 2) plus 2 CO<sub>2</sub> → 4 more CO<sub>2</sub> in the cycle. 6 in, 6 out.",
+      "words": ["acetyl CoA", "citric acid cycle", "Krebs cycle", "TCA cycle"]
+    },
+    "7.4": {
+      "big": "The <b>electron transport chain</b> uses the electrons from NADH and FADH<sub>2</sub> to pump H<sup>+</sup> across a membrane. Then H<sup>+</sup> rushes back through <b>ATP synthase</b>, which makes most of the cell's ATP.",
+      "points": [
+        "The chain is a relay of proteins (complexes I–IV) in the <b>inner mitochondrial membrane</b>. Electrons pass down it, releasing a little energy at each step.",
+        "That energy pumps <b>H<sup>+</sup></b> from the matrix into the intermembrane space, building up a gradient, like water behind a dam.",
+        "<b>Oxygen is the final electron acceptor:</b> it grabs the electrons at the end and combines with H<sup>+</sup> to make <b>water</b>. No O<sub>2</sub> means the chain backs up and stops.",
+        "<b>Chemiosmosis:</b> H<sup>+</sup> flows back through <b>ATP synthase</b>, which spins like a turbine and makes ATP from ADP + P<sub>i</sub>.",
+        "FADH<sub>2</sub> skips complex I, so it pumps fewer H<sup>+</sup> and makes less ATP than NADH. All together, one glucose gives about <b>36–38 ATP</b>.",
+        "Cyanide blocks the end of the chain. DNP pokes holes so H<sup>+</sup> leaks back without making ATP. Either way, ATP production crashes."
+      ],
+      "words": ["ubiquinone", "prosthetic group", "chemiosmosis", "ATP synthase", "oxidative phosphorylation"]
+    },
+    "7.5": {
+      "big": "Without oxygen, cells still need to recycle NADH back to NAD<sup>+</sup> so glycolysis can keep making its 2 ATP. <b>Fermentation</b> does that.",
+      "points": [
+        "<b>Anaerobic respiration</b> (some bacteria and archaea) still uses an electron transport chain, but the last electron acceptor is something <i>inorganic</i> other than O<sub>2</sub>, like sulfate or CO<sub>2</sub> (methanogens make methane).",
+        "<b>Fermentation</b> uses an <i>organic</i> molecule as the last electron acceptor, and only glycolysis makes ATP (2 per glucose).",
+        "<b>Lactic acid fermentation</b> (your muscles when they run low on oxygen, red blood cells, yogurt bacteria): pyruvate + NADH → lactate + NAD<sup>+</sup>.",
+        "<b>Alcohol fermentation</b> (yeast): pyruvate → CO<sub>2</sub> + acetaldehyde → ethanol, recycling NAD<sup>+</sup>. The CO<sub>2</sub> is what makes bread rise.",
+        "<b>Facultative</b> anaerobes can switch between respiration and fermentation. <b>Obligate</b> anaerobes are killed by oxygen."
+      ],
+      "words": ["anaerobic", "anaerobic cellular respiration", "fermentation"]
+    },
+    "7.6": {
+      "big": "It isn't only glucose. Carbs, proteins and fats all feed into glycolysis and the citric acid cycle at different entry points.",
+      "points": [
+        "<b>Other sugars and glycogen</b> get converted into glycolysis intermediates (glycogen → glucose-1-phosphate → glucose-6-phosphate).",
+        "<b>Proteins:</b> amino acids lose their amino group (which becomes ammonia, then urea in your pee). Their carbon skeletons enter glycolysis or the citric acid cycle.",
+        "<b>Fats:</b> glycerol enters glycolysis. Fatty acids are chopped into 2-carbon acetyl groups by <b>beta-oxidation</b> and enter as acetyl CoA.",
+        "These pathways are \"porous\": molecules come in from other pathways and intermediates leave to build other things.",
+        "In evolution, glycolysis came first, then early (anoxygenic) photosynthesis, then oxygen-producing photosynthesis. The citric acid cycle and the full ETC came after that."
+      ],
+      "words": ["acetyl CoA", "glycolysis"]
+    },
+    "7.7": {
+      "big": "Cells don't run respiration full-blast all the time. Key enzymes speed up or slow down based on how much energy the cell already has.",
+      "points": [
+        "The usual signal: <b>lots of ATP (or NADH) means slow down</b>, and <b>lots of ADP or AMP means speed up</b>. This is negative feedback.",
+        "<b>Phosphofructokinase</b> is the main control point of glycolysis. High ATP, high citrate or low pH turn it down.",
+        "Hexokinase and pyruvate kinase are also controlled, and so are the citric acid cycle enzymes that make the first NADH.",
+        "The electron transport chain speeds up when ADP builds up (ATP is being used) and slows down when ATP piles up.",
+        "Glucose entry itself is controlled. For example, insulin brings GLUT4 transporters to the cell surface."
+      ],
+      "words": ["GLUT protein"]
+    }
+  },
+  "answers": {
+    "1": { "a": "a", "why": "<b>ATP</b> is the cell's main energy currency. ADP and AMP are what's left after ATP gives up phosphates." },
+    "2": { "a": "b", "why": "<b>Reduction is gain</b> of electrons (OIL RIG). When a chemical is reduced, an electron is added to it." },
+    "3": { "a": "a", "why": "Oxidizing agents <i>accept</i> electrons. FAD and NAD<sup>+</sup> are the empty electron taxis. FADH<sub>2</sub> and NADH are already full, so they're reducing agents." },
+    "4": { "a": "c", "why": "<b>ATP + H<sub>2</sub>O → ADP + phosphate</b> is ATP hydrolysis, which releases energy. The others add phosphates, which takes energy." },
+    "5": { "a": "c", "why": "The second half of glycolysis is the payoff: it <b>produces ATP</b> (4) and NADH. The first half uses ATP and splits the sugar." },
+    "6": { "a": "d", "why": "Hexokinase uses <b>ATP</b> to put a phosphate on glucose. The charged (polar) phosphate can't cross the oily middle of the membrane, so glucose is trapped inside." },
+    "7": { "a": "a", "why": "Invest 2 ATP in the first half, get 4 ATP back in the second half, for a net gain of 2." },
+    "8": { "a": "d", "why": "A carboxyl group comes off pyruvate as <b>CO<sub>2</sub></b>, leaving the 2-carbon acetyl group." },
+    "9": { "a": "b", "why": "NADH carries those electrons to the <b>electron transport chain</b>, where they're used to make most of the ATP." },
+    "10": { "a": "b", "why": "The step from succinyl CoA to succinate makes GTP (or ATP) by substrate-level phosphorylation." },
+    "11": { "a": "c", "why": "Each turn makes <b>3 NADH</b>, plus 1 FADH<sub>2</sub> and 1 ATP/GTP." },
+    "12": { "a": "a", "why": "NADH hands its electrons to complex I, which contains <b>FMN</b> (flavin mononucleotide). From there they go to ubiquinone (Q)." },
+    "13": { "a": "c", "why": "In chemiosmosis, <b>hydrogen ions (H<sup>+</sup>)</b>, not whole atoms, flow across the <b>inner mitochondrial membrane</b> through ATP synthase." },
+    "14": { "a": "b", "why": "As electrons move down the chain, their energy <b>powers the pumps</b> that push H<sup>+</sup> across the membrane. Oxygen is reduced at the end, not oxidized." },
+    "15": { "a": "a", "why": "If H<sup>+</sup> could leak back in anywhere, there'd be no flow through ATP synthase and no gradient to use, so <b>no ATP</b> would be made by chemiosmosis." },
+    "16": { "a": "a", "why": "Your muscles use <b>lactic acid fermentation</b> when they run low on oxygen." },
+    "17": { "a": "d", "why": "Glycolysis makes <b>pyruvate and NADH</b>. Fermentation uses both: NADH hands its electrons to pyruvate (or something made from it) to get NAD<sup>+</sup> back." },
+    "18": { "a": "c", "why": "Yeast turn pyruvate into <b>ethanol</b>, recycling NADH back to <b>NAD<sup>+</sup></b>. CO<sub>2</sub> is given off too." },
+    "19": { "a": "a", "why": "Hexokinase adds a phosphate to glucose, making <b>glucose-6-phosphate</b>." },
+    "20": { "a": "c", "why": "<b>Beta-oxidation</b> breaks fatty acids into 2-carbon acetyl groups that enter the citric acid cycle as acetyl CoA." },
+    "21": { "a": "a", "why": "That's the false one. Carbohydrates feed into <i>glycolysis</i>, not straight into oxidative phosphorylation. The other three are true." },
+    "22": { "a": "b", "why": "High ATP means the cell has plenty, so it <b>slows down</b> glycolysis enzymes like phosphofructokinase (negative feedback)." },
+    "23": { "a": "b", "why": "<b>Phosphofructokinase</b> is the main control valve of glycolysis." },
+    "24": { "a": "b", "why": "High ATP <i>slows</i> pyruvate kinase (ATP is a negative regulator), so increased pyruvate kinase activity is the one that does <b>not</b> happen. The other three do." },
+    "25": { "a": "a", "why": "ATP is a standard energy packet: every reaction can use the same \"coin\". If cells pulled energy straight from different carbohydrates, every reaction would need its own setup." },
+    "26": { "a": "a", "why": "NAD<sup>+</sup> is an <b>oxidizing agent</b>: it accepts electrons (and a proton) from food molecules and becomes <b>NADH</b>." },
+    "27": { "a": "a", "why": "RH loses electrons, so it's the <b>reducing agent</b>. NAD<sup>+</sup> gains them, so it's the <b>oxidizing agent</b>. The products are NADH and R." },
+    "28": { "a": "d", "why": "Something found in nearly every organism most likely came from a <b>common ancestor</b> long ago. It's very unlikely to have evolved separately many times." },
+    "29": { "a": "b", "why": "Every cell needs energy for basic jobs like running the Na<sup>+</sup>/K<sup>+</sup> pump. Red blood cells get ATP only from glycolysis, so blocking it would wreck their ion balance and they would die." },
+    "30": { "a": "a", "why": "In a circular pathway like the citric acid cycle, the last product (oxaloacetate) is also what starts the next turn. A linear pathway starts and ends with different molecules." },
+    "31": { "a": "a", "why": "The first step of pyruvate oxidation removes a <b>carboxyl group</b>, which leaves as CO<sub>2</sub>. The pyruvate dehydrogenase complex does it." },
+    "32": { "a": "a", "why": "In order: (1) remove a carboxyl group, releasing CO<sub>2</sub>; (2) oxidize the leftover group to acetyl, making NADH; (3) attach the acetyl group to CoA, making acetyl CoA." },
+    "33": { "a": "d", "why": "Ubiquinone (Q) and cytochrome c are <b>mobile</b> carriers that shuttle electrons between complexes. The big complexes stay fixed in the inner membrane." },
+    "34": { "a": "c", "why": "NADH made in glycolysis can't easily get into the mitochondria, so its electrons are shuttled in, sometimes onto FAD, which makes fewer ATP. That's one reason the total varies." },
+    "35": { "a": "a", "why": "Complex IV holds oxygen between iron and copper ions. The electrons end up on oxygen, which picks up H<sup>+</sup> to form water." },
+    "36": { "a": "b", "why": "Fermentation uses <b>only glycolysis</b> and hands its electrons to an <b>organic</b> molecule. Anaerobic respiration uses the full pathway with an ETC but ends with an <b>inorganic</b> acceptor that isn't O<sub>2</sub>." },
+    "37": { "a": "a", "why": "This is a methanogen: NADH's electrons end up on <b>CO<sub>2</sub></b>, an inorganic molecule, making methane. No oxygen is used, so it's anaerobic respiration." },
+    "38": { "a": "c", "why": "They're economical: feedback inhibition stops the cell making what it doesn't need, and intermediates get reused by other pathways." },
+    "39": { "a": "d", "why": "The book names cholesterol and triglycerides as the lipids tied to glucose pathways. Glycerol (from triglycerides) becomes glycerol-3-phosphate and enters glycolysis." },
+    "40": { "a": "b", "why": "When citrate or ATP builds up, it slows <b>phosphofructokinase</b>, so they're negative regulators. The cell already has enough." },
+    "41": { "a": "a", "why": "Negative feedback brings things back to normal (homeostasis). Positive feedback pushes things further and further away, so it's only useful in special cases." },
+    "42": { "a": "c", "why": "The setup measures a drop in gas volume as oxygen is used. But the animals breathe out CO<sub>2</sub>, which would fill that space back in, so you need something that <b>absorbs the CO<sub>2</sub></b>." },
+    "43": { "a": "c", "why": "Mice are warm-blooded: in the cold they burn <i>more</i> fuel (and oxygen) to make heat. Crickets are cold-blooded: cold slows their metabolism, so they use <i>less</i>." },
+    "44": { "a": "a", "why": "Glycolysis happens in the <b>cytosol</b> (cytoplasm) in both prokaryotes and eukaryotes." },
+    "45": { "a": "d", "why": "An obligate anaerobe can't use oxygen, but almost everything does <b>glycolysis</b>, which doesn't need oxygen." },
+    "46": { "a": "c", "why": "Being found in <b>all three domains</b>, working without oxygen, and happening in the cytosol (no mitochondria needed) all point to a very old pathway." },
+    "47": { "a": "a", "why": "This is the electron transport chain, which sits in the <b>inner mitochondrial membrane</b> of eukaryotes." },
+    "48": { "a": "a", "why": "Structure Z is <b>cytochrome c</b>, which carries electrons from complex III to complex IV. Block it and that handoff stops." },
+    "49": { "a": "b", "why": "Electrons come from <b>NADH and FADH<sub>2</sub></b> and end up on <b>oxygen</b>, which becomes water." },
+    "50": { "a": "c", "why": "<b>Glycolysis → oxidation of pyruvate → citric acid cycle → oxidative phosphorylation.</b>" },
+    "51": { "a": "a", "why": "These are different organisms using <i>different</i> metabolic tricks for the same problem, surviving the cold: one changes its membrane fats, the other makes antifreeze proteins." },
+    "52": { "a": "a", "why": "This is the whole chain in order: glycolysis → pyruvate → acetyl CoA → citric acid cycle → NADH/FADH<sub>2</sub> → ETC pumps protons → ATP synthase (chemiosmosis), together called oxidative phosphorylation." }
+  }
+}

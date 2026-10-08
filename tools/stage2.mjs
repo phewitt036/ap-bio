@@ -364,7 +364,7 @@ function buildChapter(ch) {
     const a = analysePage(loadPage(p), mathSink);
     // a frame that runs to the bottom of the page and picks up again at the top of the next page is one box, not two
     if (p + 1 < ch.end && loadPage(p + 1).rules.some(r => r.k === "f" && isColored(r.c) && W(r.b) > 400 && r.b[3] - r.b[1] > 20 && r.b[1] < 75))
-      a.items = a.items.filter(i => !(i.kind === "boxend" && i.frame && i.y > 680));
+      a.items = a.items.filter(i => !(i.kind === "boxend" && i.frame && i.y > 600 && !a.items.some(o => o.kind === "line" && o.y > i.y + 2)));
     if (a.printed == null && lastPrinted != null) a.printed = lastPrinted + (p - lastPdf);
     if (a.printed != null) { lastPrinted = a.printed; lastPdf = p; }
     stream.push({ kind: "page", printed: a.printed, pdf: p });
@@ -542,7 +542,7 @@ function buildChapter(ch) {
           held = [];
           qs.push(q); continue;
         }
-        if (!q) { continue; }
+        if (!q) { if (/^(fig|table|tableimg)$/.test(b.t)) held.push(b); continue; } // a picture before the first question belongs to it
         if ((b.t === "fig" || b.t === "tableimg" || b.t === "table") && q.opts.length >= 2) { held.push(b); continue; }
         if (b.t === "opt") { q.opts.push(b.html.replace(/^[a-e]\.\s*/, "")); continue; }
         if (q.opts.length && b.t === "p" && !/^(fig|table|tableimg)$/.test(b.t)) { q.opts[q.opts.length - 1] += " " + b.html; continue; }
