@@ -1,0 +1,151 @@
+{
+  "chapter": 22,
+  "sections": {
+    "22.0": {
+      "big": "Prokaryotes (Bacteria and Archaea) are everywhere: in soil, water, extreme places, and on and inside you. Most are harmless or helpful.",
+      "points": [
+        "There are about 10 times more bacterial cells in and on your body than human cells. Many help with digestion and protection."
+      ],
+      "words": []
+    },
+    "22.1": {
+      "big": "Prokaryotes were Earth's first life, about 3.5 billion years ago, and they can live almost anywhere, even in extreme places.",
+      "points": [
+        "Early Earth had <b>no oxygen</b> (it was <b>anoxic</b>), strong radiation (no ozone layer), lots of volcanoes and quakes. The first life was <b>anaerobic</b>.",
+        "<b>Microbial mats</b> (layered sheets of prokaryotes) may be the earliest life, possibly around <b>hydrothermal vents</b>. <b>Stromatolites</b> are their fossilized layers.",
+        "<b>Cyanobacteria</b> evolved photosynthesis that releases oxygen, which slowly filled the atmosphere and made aerobic life possible.",
+        "<b>Extremophiles</b> love extreme conditions: <b>acidophiles</b> (pH 3 or below), <b>alkaliphiles</b> (pH 9+), <b>thermophiles</b> (60–80 °C), <b>hyperthermophiles</b> (80–122 °C), <b>psychrophiles</b> (cold, −15 to 10 °C), <b>halophiles</b> (salty, like the Dead Sea), <b>osmophiles</b> (high sugar), and <b>radioresistant</b> types.",
+        "Over 99% of prokaryotes <b>can't be grown in a lab</b>. Some are alive but in a <b>viable-but-non-culturable (VBNC) state</b>; they may come back to life later (<b>resuscitation</b>). Scientists detect them with DNA tools like PCR instead.",
+        "<b>Biofilms</b> are communities of microbes glued together on a surface by a slimy matrix (like dental plaque). They're much harder to kill than single cells."
+      ],
+      "words": ["anoxic", "anaerobic", "microbial mat", "hydrothermal vent", "stromatolite", "cyanobacteria", "extremophile", "acidophile", "alkaliphile", "thermophile", "hyperthermophile", "psychrophile", "halophile", "osmophile", "radioresistant", "viable-but-non-culturable state", "resuscitation", "biofilm"]
+    },
+    "22.2": {
+      "big": "A prokaryote is a simple cell: no nucleus and no membrane-bound organelles, but it has everything needed to live.",
+      "points": [
+        "Every cell has a plasma membrane, cytoplasm, DNA, and <b>ribosomes</b>. Prokaryotes keep their circular DNA in a <b>nucleoid</b> region, not a nucleus, and often carry extra <b>plasmids</b>.",
+        "Shapes: cocci (round), bacilli (rods), spirilli (spirals).",
+        "Extras: a <b>capsule</b> (sticky protective coat), flagella (swimming), a <b>pilus</b> (attachment and passing DNA), and an <b>S-layer</b> (protein layer).",
+        "Bacterial cell walls are made of <b>peptidoglycan</b>. <b>Gram-positive</b>: thick peptidoglycan wall with <b>teichoic acid</b> (stains purple). <b>Gram-negative</b>: thin wall plus an outer membrane (stains pink).",
+        "Archaea have <b>pseudopeptidoglycan</b> (or none) in their walls, and their membranes use different lipids (phytanyl groups instead of fatty acids).",
+        "Reproduction is by binary fission (copying). New genes come in by <b>transformation</b> (picking up DNA), <b>transduction</b> (a virus carries it), and <b>conjugation</b> (DNA passed through a pilus)."
+      ],
+      "tip": "Gram positive = purple = thick Peptidoglycan. Gram negative = pink = thin wall + outer membrane.",
+      "words": ["capsule", "pilus", "S-layer", "peptidoglycan", "Gram positive", "Gram negative", "teichoic acid", "pseudopeptidoglycan", "transformation", "transduction", "conjugation"]
+    },
+    "22.3": {
+      "big": "Prokaryotes get energy and carbon in every possible way, and they keep Earth's carbon and nitrogen cycles running.",
+      "points": [
+        "A <b>nutrient</b> is anything needed to live. Macronutrients (needed a lot): C, H, O, N, P, S. Carbon is about 50% of a cell. Micronutrients (small amounts): iron, manganese, boron, and others.",
+        "Energy: <b>phototrophs</b> use light. <b>Chemotrophs</b> use chemicals.",
+        "Carbon: <b>autotrophs</b> fix CO₂. <b>Heterotrophs</b> get carbon from organic compounds. Combine them: chemoheterotroph, photoautotroph, and so on.",
+        "Carbon cycle: prokaryotes are <b>decomposers</b> that return CO₂ to the air.",
+        "Nitrogen cycle, all done by prokaryotes: <b>nitrogen fixation</b> (N₂ gas → ammonia, which plants and animals can use), <b>ammonification</b> (dead stuff → ammonia), <b>nitrification</b> (ammonia → nitrite → nitrate), <b>denitrification</b> (nitrate → N₂ gas back to the air)."
+      ],
+      "tip": "Photo/chemo = where energy comes from. Auto/hetero = where carbon comes from.",
+      "words": ["nutrient", "phototroph", "chemotroph", "autotroph", "heterotroph", "decomposer", "nitrogen fixation", "ammonification", "nitrification", "denitrification"]
+    },
+    "22.4": {
+      "big": "A few bacteria cause serious disease, and antibiotic resistance is making them harder to treat.",
+      "points": [
+        "Disease words: <b>epidemic</b> (many cases at once), <b>pandemic</b> (worldwide epidemic), <b>endemic disease</b> (always around, usually at low levels), <b>emerging disease</b> (new, or suddenly rising).",
+        "History: the Plague of Athens (likely typhoid), the <b>Black Death</b> (bubonic plague from <i>Yersinia pestis</i>, spread by fleas on rats; it killed about half of Europe). A <b>zoonosis</b> is a disease that jumps from animals to people.",
+        "Biofilms cause problems on teeth (plaque), medical devices, wounds and food equipment.",
+        "<b>Antibiotics</b> kill bacteria, not viruses. Overuse (for colds and in livestock feed) selects for resistant superbugs like <b>MRSA</b> and community-acquired <b>CA-MRSA</b>.",
+        "<b>Foodborne disease</b>: <i>E. coli</i>, <i>Salmonella</i>, <b>botulism</b> (toxin from <i>Clostridium</i>, whose spores survive heat). Different strains of one species are called <b>serotypes</b>."
+      ],
+      "words": ["epidemic", "pandemic", "endemic disease", "emerging disease", "Black Death", "zoonosis", "antibiotic", "MRSA", "CA-MRSA", "foodborne disease", "botulism", "serotype"]
+    },
+    "22.5": {
+      "big": "Most prokaryotes help us: they fertilize soil, make food, and clean up pollution.",
+      "points": [
+        "<b>Biological nitrogen fixation</b>: Rhizobia live in root <b>nodules</b> of legumes (beans, peas). The plant gets nitrogen, the bacteria get sugars, and the soil gets fertilized. That's symbiosis.",
+        "<b>Biotechnology</b> started with microbes: cheese, yogurt, and bread (yeast). Fermentation also kept food from spoiling.",
+        "<b>Bioremediation</b>: microbes break down pollutants like oil spills (Exxon Valdez), pesticides and industrial waste. Success depends on the type of oil, the right microbes, and temperature."
+      ],
+      "words": ["biological nitrogen fixation", "nodule", "biotechnology", "bioremediation"]
+    }
+  },
+  "fix": {
+    "67": { "stem": [0, "<i>Heads up: the book left out the description of the organisms this question refers to. Use it to practice the vocabulary instead.</i>"], "opts": [] }
+  },
+  "answers": {
+    "1": { "a": "d", "why": "Fossil <b>microbial mats</b> date back about 3.5 billion years." },
+    "2": { "a": "d", "why": "False: early Earth had <b>lots</b> of geologic upheaval and volcanoes." },
+    "3": { "a": "d", "why": "Cold-loving = <b>psychrophiles</b>." },
+    "4": { "a": "d", "why": "A <b>normal drought</b> is a moderate condition. Some bacteria survive it as spores." },
+    "5": { "a": "d", "why": "Over <b>99%</b> can't be cultured." },
+    "6": { "a": "a", "why": "We simply <b>don't know what most of them need</b> to grow." },
+    "7": { "a": "b", "why": "<b>Microbial mats</b> may be the earliest life. Stromatolites are their fossils." },
+    "8": { "a": "c", "why": "Different atmosphere, strong radiation, <b>and</b> lots of geologic and volcanic activity." },
+    "9": { "a": "b", "why": "Halophiles need salt of at least <b>0.2 M</b>." },
+    "10": { "a": "b", "why": "Only <b>eukaryotes</b> have a membrane-bound nucleus." },
+    "11": { "a": "b", "why": "Every cell has <b>ribosomes</b>." },
+    "12": { "a": "d", "why": "False: their cell walls <b>differ</b> (peptidoglycan vs. pseudopeptidoglycan)." },
+    "13": { "a": "c", "why": "Pseudopeptidoglycan is found in <b>Archaea</b>." },
+    "14": { "a": "b", "why": "The cell wall is <b>outside</b> the cell membrane." },
+    "15": { "a": "d", "why": "<b>Sulfur</b> is a macronutrient (needed in large amounts). Boron, manganese and iron are micronutrients." },
+    "16": { "a": "d", "why": "False: iron is a <b>micronutrient</b>, needed only in small amounts." },
+    "17": { "a": "c", "why": "Energy from chemicals = <b>chemotrophs</b>." },
+    "18": { "a": "d", "why": "Organic compounds for both energy and carbon = <b>chemoorganotrophs</b> (chemoheterotrophs)." },
+    "19": { "a": "b", "why": "They're <b>decomposers</b> that return carbon to the air." },
+    "20": { "a": "a", "why": "Ammonification = decomposers <b>release ammonia</b> from dead organic matter." },
+    "21": { "a": "a", "why": "<b>Phosphorus</b> is a macronutrient (in DNA, ATP, membranes)." },
+    "22": { "a": "b", "why": "Constantly present = <b>endemic</b>." },
+    "23": { "a": "c", "why": "Plague, diphtheria and cholera are bacterial. Yellow fever and dengue are viral." },
+    "24": { "a": "a", "why": "Dental <b>plaque</b> is a biofilm." },
+    "25": { "a": "d", "why": "False: biofilms <b>do</b> form in wounds, burns and devices like pacemakers." },
+    "26": { "a": "c", "why": "Bacteria are becoming <b>resistant</b> to our antibiotics." },
+    "27": { "a": "d", "why": "False: patients' <b>ages</b> have nothing to do with resistance. Overuse is the cause." },
+    "28": { "a": "c", "why": "False: endemic diseases are usually at <b>low</b> incidence, not high." },
+    "29": { "a": "d", "why": "<b>Eukaryotes</b> can't use N₂ gas, so it must be converted to ammonia." },
+    "30": { "a": "c", "why": "False: <b>algae</b> can't fix nitrogen. Only prokaryotes (like cyanobacteria), lightning, and industry can." },
+    "31": { "a": "b", "why": "<b>Cheese, yogurt and bread</b> all rely on microbes." },
+    "32": { "a": "b", "why": "Fermenting foods <b>preserved</b> their nutrients (kept them from spoiling)." },
+    "33": { "a": "c", "why": "Bioremediation = microbes <b>removing pollutants</b>." },
+    "34": { "a": "d", "why": "False: ammonia in soil is a <b>nutrient</b>, not a pollutant to clean up." },
+    "35": { "a": "c", "why": "Nitrogen fixation turns N₂ into <b>ammonia</b>." },
+    "36": { "a": "c", "why": "No O₂ at first, so life was anaerobic. Phototrophs came within a billion years, then cyanobacteria, which made oxygen." },
+    "37": { "a": "d", "why": "Their natural adaptations (like DNA repair in <b>radiation</b>-resistant species) can be put to work for us." },
+    "38": { "a": "c", "why": "Detect them with <b>molecular biology</b> tools, and amplify their DNA with <b>PCR</b>." },
+    "39": { "a": "b", "why": "Little oxygen, no ozone (strong radiation), and lots of volcanic activity: an extreme world for extremophiles." },
+    "40": { "a": "a", "why": "Cell wall, membrane, cytoplasm, ribosomes and a <b>nucleoid</b> (no nucleus), plus optional capsule, flagellum, pili and plasmids." },
+    "41": { "a": "a", "why": "Same parts. Bacteria have peptidoglycan walls and <b>fatty acid</b> membranes. Archaea have neither peptidoglycan nor fatty acids (they use <b>phytanyl</b> groups)." },
+    "42": { "a": "c", "why": "All three shapes have the same basic parts. Only the shape differs." },
+    "43": { "a": "c", "why": "<b>Carbon</b> is in every macromolecule and makes up about 50% of a cell." },
+    "44": { "a": "a", "alt": "d", "why": "No light, so energy comes from chemicals (<b>chemo</b>). Carbon comes from an amino acid, which is organic (<b>heterotroph</b>). (Choices a and d are the same.)" },
+    "45": { "a": "b", "why": "You'd still need fruits and vegetables (for other nutrients) and water, but nitrogen could come straight from the <b>air</b>." },
+    "46": { "a": "d", "why": "Both are <b>essential</b>. Micronutrients are just needed in smaller amounts." },
+    "47": { "a": "c", "alt": "d", "why": "Pick a time <b>above</b> the line. At 85 °C you need about 50–200 minutes, so 300 is safe. At 90 °C about 10–25 minutes, so 30 also works. At 70–75 °C you'd need hundreds or thousands of minutes." },
+    "48": { "a": "d", "why": "Yes. Better canning cut botulism, and outbreaks now come mostly from <b>large-scale</b> food production." },
+    "49": { "a": "b", "why": "Spores drop from about 10⁶ to about 10³ in the first ~10 minutes, so <b>most</b> die fast. A few survive much longer." },
+    "50": { "a": "d", "why": "It was likely <b>typhoid</b> (<i>Salmonella</i> Typhi), which still causes 16–33 million cases and over 200,000 deaths a year." },
+    "51": { "a": "d", "why": "Plants get <b>endless nitrogen</b>, the soil is fertilized, and the bacteria get <b>sugars</b> from the plant." },
+    "52": { "a": "a", "alt": "b", "why": "Every bacterium's mercury line rises (only the control stays flat), and most level off by day 3–4." },
+    "53": { "a": "d", "why": "It depends on the <b>type of oil</b>, the <b>oil-eating microbes</b> present, and the <b>temperature</b>." },
+    "54": { "a": "b", "why": "<b>Rhizobia</b> give plants nitrogen, and the plants give them sugars (photosynthates). Both benefit." },
+    "55": { "a": "d", "why": "Bacteria stuck together in a polysaccharide matrix = a <b>biofilm</b>." },
+    "56": { "a": "d", "why": "Without an energy source (like lightning), the molecules don't react. Early Earth must have had that energy." },
+    "57": { "a": "c", "why": "At 45 °C, E. coli, Clostridium AK1 and Thermoanaerobacterium AK17 all show growth. AK15 starts near 48 °C and Paenibacillus stops near 35 °C." },
+    "58": { "a": "c", "why": "Figure 22.10 shows a prokaryote: a <b>bacterial</b> cell." },
+    "59": { "a": "a", "why": "Both have ribosomes, prokaryotes usually have walls (some eukaryotes too), and DNA is in a nucleoid vs. a nucleus." },
+    "60": { "a": "d", "why": "False: <b>binary fission</b> only copies a cell. It doesn't move genes to a different bacterium." },
+    "61": { "a": "b", "why": "Conjugation lets <b>some</b> cells get new gene combos, which helps in a changing environment." },
+    "62": { "a": "c", "why": "On ampicillin, only resistant cells survive: plate <b>IV</b>." },
+    "63": { "a": "a", "why": "Only <b>some</b> cells took up the plasmid, and only those survive ampicillin." },
+    "64": { "a": "a", "why": "A loose <b>circular DNA</b> in a nucleoid (no nucleus) marks a prokaryote. Ribosomes, walls and cytoplasm also exist in eukaryotes." },
+    "65": { "a": "a", "why": "Studying a new methanogen can show whether <b>metabolic pathways</b> evolved separately in Bacteria and Archaea." },
+    "66": { "a": "b", "why": "It fixes the most nitrogen at 15 cm, the deepest level with the <b>least oxygen</b>, so it's probably <b>anaerobic</b>." },
+    "67": { "why": "Know the pieces. <b>Chemo</b> = energy from chemicals. <b>Auto</b> = makes its own carbon compounds from CO₂. <b>Hetero</b> = takes carbon from organic food. <b>Obligate anaerobes</b> die in oxygen. <b>Facultative anaerobes</b> can live with or without it." },
+    "68": { "a": "c", "why": "Strain 1 made more potassium <b>available</b> (uptake went up). Strain 2 made less available." },
+    "69": { "a": "c", "why": "Plaque is bacteria stuck together on teeth: a <b>biofilm</b>." },
+    "70": { "a": "b", "why": "It was contained after 1945, then cases shot up again: <b>re-emerging</b>." },
+    "71": { "a": "a", "why": "The 20-year-old spores formed while the pollutant was present, so they're likely <b>adapted</b> to it and grow better." },
+    "72": { "a": "b", "why": "3GCRKP's bubble sits slightly <b>right</b> (more cases) and slightly <b>lower</b> (fewer deaths) than CRPA." },
+    "73": { "a": "a", "alt": "b", "why": "France has the highest penicillin use <b>and</b> the most resistance, so cutting back could help. The Netherlands is the low-use, low-resistance model." },
+    "74": { "a": "b", "why": "The trend line goes up: more outpatient use, <b>more resistance</b>." },
+    "75": { "a": "c", "why": "The productivity line is highest on the right, where fields use <b>synthetic fertilizer</b> (green bars)." },
+    "76": { "a": "d", "alt": "a", "why": "The graph shows farmers <b>switching</b> from legumes to synthetic fertilizer, but not how efficient either one is. Usage trends alone can't prove efficiency." },
+    "77": { "a": "a", "why": "Healthy-skin strains just eat oil (<b>commensal</b>). Acne strains cause harm (<b>parasitic</b>)." }
+  }
+}
