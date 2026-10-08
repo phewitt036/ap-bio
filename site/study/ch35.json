@@ -1,0 +1,142 @@
+{
+  "chapter": 35,
+  "sections": {
+    "35.0": {
+      "big": "<b>Ecology</b> studies how living things interact with each other and with their environment, from one organism up to the whole planet.",
+      "points": [
+        "This chapter covers the levels of ecology, why organisms live where they do, Earth's biomes, and climate change."
+      ],
+      "words": ["ecology"]
+    },
+    "35.1": {
+      "big": "Ecology works at four levels: organism → population → community → ecosystem (all the way up to the biosphere).",
+      "points": [
+        "<b>Biotic</b> = living factors (plants, animals, microbes). <b>Abiotic</b> = nonliving factors (temperature, water, sunlight, soil, nutrients).",
+        "Organismal ecology: adaptations that let individuals live in a habitat (like a butterfly's wing patterns).",
+        "Population ecology: how many individuals of one species (<b>conspecifics</b>) live in an area and why that number changes. Example: the endangered Karner blue butterfly, which depends on wild lupine.",
+        "Community ecology: interactions among different species (<b>heterospecifics</b>), such as a <b>predator</b> and its prey, competition, or mutualism.",
+        "Ecosystem ecology: living things <b>plus</b> abiotic factors, including energy flow and nutrient cycling. Nature also gives people free <b>ecosystem services</b> (clean water, pollination)."
+      ],
+      "words": ["biotic", "abiotic", "conspecifics", "heterospecifics", "predator", "ecosystem services"]
+    },
+    "35.2": {
+      "big": "<b>Biogeography</b> explains where organisms live, based on climate, geography and history.",
+      "points": [
+        "Species found only in one place are <b>endemic</b> (koalas in Australia). Generalists live almost anywhere (raccoons).",
+        "Key abiotic factors: energy (sunlight), temperature, water, nutrients and soil, plus wind and fire.",
+        "Moving up a mountain is like moving toward the poles: the temperature and rainfall change, so biomes change too.",
+        "<b>Net primary productivity</b> = energy plants capture minus what they use for respiration. Often measured as <b>aboveground biomass</b>. Highest in tropical rain forests and reefs, lowest in deserts and tundra."
+      ],
+      "words": ["biogeography", "endemic", "net primary productivity", "aboveground biomass"]
+    },
+    "35.3": {
+      "big": "A <b>biome</b> is a big region defined by its climate and the plants adapted to it. Temperature and rainfall decide which biome you get.",
+      "points": [
+        "Tropical wet forest: hot, wet all year, the most species and highest productivity. Layers from the <b>canopy</b> down; understory plants compete for light.",
+        "Savanna: grass with scattered trees, a long dry season, frequent fires.",
+        "Subtropical desert: very dry. Plants have deep roots, few leaves, thick cuticles, and seeds that wait for rain.",
+        "Chaparral: dry summers, shrubs adapted to fire (ash fertilizes regrowth).",
+        "Temperate grassland: cold winters, fires; grasses regrow from deep roots.",
+        "Temperate (deciduous) forest: four seasons; trees drop their leaves in winter.",
+        "Boreal forest (taiga): long cold winters, conifers with needles, acidic soil.",
+        "Arctic tundra: frozen <b>permafrost</b> soil, a very short growing season, low-growing plants."
+      ],
+      "words": ["biome", "canopy", "permafrost"]
+    },
+    "35.4": {
+      "big": "Aquatic biomes are shaped by light, temperature, salt and how fast the water moves.",
+      "points": [
+        "Ocean zones by light: the <b>photic zone</b> (sunlit, where photosynthesis happens) and the <b>aphotic zone</b> (dark).",
+        "By position: the <b>pelagic realm</b> (open water), the <b>benthic realm</b> (the bottom, all the way down to the deep <b>abyssal zone</b>), the <b>intertidal zone</b> (exposed at low tide: harsh waves and drying; many animals have hard shells), the <b>neritic zone</b> (shallow water over the continental shelf), the <b>oceanic zone</b> (open ocean).",
+        "<b>Coral reefs</b>: corals and their photosynthetic algae partners build reefs full of life, including hidden small animals called <b>cryptofauna</b>. The <b>Sargassum</b> sea has floating seaweed.",
+        "<b>Ocean upwelling</b> brings nutrients up from the deep, boosting productivity. <b>Planktivores</b> eat plankton.",
+        "<b>Estuary</b>: where a river meets the sea. Salinity changes constantly; a very productive nursery.",
+        "Lakes: in summer a <b>thermocline</b> separates warm surface water from cold deep water. <b>Fall and spring turnover</b> mix the layers, bringing nutrients up. Water is densest at 4 °C, so ice floats and life survives below.",
+        "Too many nutrients (fertilizer runoff) cause an <b>algal bloom</b>, which blocks light and uses up oxygen as the algae die.",
+        "Rivers: from the <b>source water</b> down through the <b>channel</b>. Wetlands (marshes, swamps) have slow water and <b>emergent vegetation</b> (plants rooted underwater that stick out above it)."
+      ],
+      "words": ["photic zone", "aphotic zone", "pelagic realm", "benthic realm", "abyssal zone", "intertidal zone", "neritic zone", "oceanic zone", "coral reef", "cryptofauna", "Sargassum", "ocean upwelling", "planktivore", "estuary", "thermocline", "fall and spring turnover", "algal bloom", "source water", "channel", "emergent vegetation"]
+    },
+    "35.5": {
+      "big": "<b>Climate</b> is long-term patterns. <b>Weather</b> is day to day. Since the Industrial Revolution, burning fossil fuels has been warming the planet.",
+      "points": [
+        "<b>Greenhouse gases</b> (CO₂, methane, nitrous oxide, water vapor) let sunlight in but trap the heat radiated back from Earth: the <b>greenhouse effect</b>.",
+        "Natural climate drivers: <b>Milankovitch cycles</b> (changes in Earth's orbit), <b>solar intensity</b>, and volcanoes (their ash causes <b>haze-effect cooling</b>). Methane frozen in <b>clathrates</b> can be released as things warm.",
+        "Human driver: burning coal, oil and gas releases CO₂. Atmospheric CO₂ is higher now than in the last 400,000+ years (measured in ice cores).",
+        "Effects of <b>global climate change</b>: melting glaciers, rising seas, shifting seasons (flowers and insects out of sync), and biodiversity loss.",
+        "History: the Medieval Climate Anomaly (warm, when Vikings settled Greenland) and the Little Ice Age (cool). The Permian mass extinction was linked to warming."
+      ],
+      "words": ["climate", "weather", "greenhouse gases", "greenhouse effect", "Milankovitch cycles", "solar intensity", "haze-effect cooling", "clathrates", "global climate change"]
+    }
+  },
+  "answers": {
+    "1": { "a": "d", "why": "Nutrient cycling (living and nonliving parts) is <b>ecosystem</b> ecology." },
+    "2": { "a": "d", "why": "<b>Population < community < ecosystem < biosphere</b>." },
+    "3": { "a": "b", "why": "One species' adaptations for its habitat = <b>organismal</b> ecology." },
+    "4": { "a": "a", "why": "Both biotic and abiotic factors = <b>ecosystem</b> ecologist." },
+    "5": { "a": "a", "why": "Bacteria are living: a <b>biotic</b> factor." },
+    "6": { "a": "b", "why": "They make their own food from <b>CO₂ and sunlight</b>, feeding everyone else." },
+    "7": { "a": "a", "why": "Population ecology = <b>how many of one species</b> and why that changes." },
+    "8": { "a": "b", "why": "How abiotic factors affect where things live = <b>biogeography</b>." },
+    "9": { "a": "a", "why": "Pines spread widely without being split apart long enough to become separate species." },
+    "10": { "a": "c", "why": "Climbing a mountain doesn't change your <b>latitude</b>." },
+    "11": { "a": "d", "why": "Under the canopy, <b>sunlight</b> is limited." },
+    "12": { "a": "a", "why": "<b>Estuaries</b> are shallow and constantly mixed by tides and rivers." },
+    "13": { "a": "a", "why": "Hairs and thick cuticles <b>save water</b>." },
+    "14": { "a": "a", "why": "Of these, <b>deciduous forests</b> have the most productivity." },
+    "15": { "a": "c", "why": "NPP = carbon fixed <b>minus</b> what's used in respiration, measured as <b>aboveground</b> biomass." },
+    "16": { "a": "a", "why": "Biogeography studies the <b>abiotic</b> factors that affect where things live." },
+    "17": { "a": "a", "why": "<b>Tundra</b> has permafrost." },
+    "18": { "a": "b", "why": "Grasses regrow from <b>deep roots</b> after fires." },
+    "19": { "a": "c", "why": "Savannas have <b>long dry seasons</b>." },
+    "20": { "a": "d", "why": "Fallen conifer needles make <b>acidic soil</b>." },
+    "21": { "a": "c", "why": "The <b>tundra</b> growing season is very short." },
+    "22": { "a": "b", "why": "The <b>pelagic</b> realm is all the open water." },
+    "23": { "a": "a", "why": "The algae <b>feed the coral</b>, letting it thrive in nutrient-poor water." },
+    "24": { "a": "c", "why": "Marine biomes are defined by <b>salt</b> water." },
+    "25": { "a": "a", "why": "Exposed at low tide, covered at high tide = <b>intertidal</b>." },
+    "26": { "a": "b", "why": "Still lake water suits floating <b>phytoplankton</b>. Rivers sweep them away." },
+    "27": { "a": "c", "why": "Marshes and swamps have <b>slow</b> water flow." },
+    "28": { "a": "b", "why": "Estuaries mix fresh and salt water, so <b>salinity varies</b>." },
+    "29": { "a": "a", "why": "The <b>Permian</b> extinction was linked to major warming." },
+    "30": { "a": "a", "why": "Warming changes habitats, which indirectly causes <b>biodiversity loss</b>." },
+    "31": { "a": "a", "why": "The Industrial Revolution ran on <b>coal</b>." },
+    "32": { "a": "c", "why": "<b>Temperature</b> rises and falls with CO₂." },
+    "33": { "a": "c", "why": "<b>Earthquakes</b> don't change global temperature." },
+    "34": { "a": "b", "why": "<b>Burning fossil fuels</b>." },
+    "35": { "a": "d", "why": "<b>Oxygen</b> isn't a greenhouse gas." },
+    "36": { "a": "d", "why": "Sunlight becomes heat at Earth's surface, and these gases trap some of the heat radiated back." },
+    "37": { "a": "a", "why": "The warmer climate let the <b>Vikings settle Greenland</b>." },
+    "38": { "a": "b", "why": "Community ecology = interactions <b>among species</b> (birds, crabs and grasses in a marsh)." },
+    "39": { "a": "a", "why": "If moose died from a <b>harsh winter</b>, not from wolves, the wolves wouldn't have gained food." },
+    "40": { "a": "c", "why": "The wolves crashed from about 50 to 14 <b>right after 1980</b>." },
+    "41": { "a": "d", "why": "Cheetah numbers stayed fairly steady (about 50–80), so there's <b>no visible effect</b>." },
+    "42": { "a": "b", "why": "Below 200 m, every month's line comes together: <b>little change</b> all year." },
+    "43": { "a": "c", "why": "They migrate for <b>food, warmth and good habitat</b>." },
+    "44": { "a": "b", "why": "Open ocean covers about <b>65% of Earth</b>, so its low rate adds up to a lot." },
+    "45": { "a": "a", "why": "<b>Extreme desert, rock, sand and ice</b> has the lowest productivity." },
+    "46": { "a": "d", "why": "Endemic = found in <b>one limited area</b> (koala). Generalist = widespread (raccoon)." },
+    "47": { "a": "b", "why": "<b>Deep roots</b>, fewer leaves, fleshy leaves with sunken stomata, and seeds that can wait for rain." },
+    "48": { "a": "c", "why": "Both have <b>little available water</b>, so productivity is low." },
+    "49": { "a": "b", "why": "Chaparral = fire-adapted shrubs. Deserts = <b>low</b> rainfall and water-storing plants." },
+    "50": { "a": "c", "why": "Ice floats, and water is densest at <b>4 °C</b>, so liquid water stays below where life survives." },
+    "51": { "a": "b", "why": "<b>Periodic</b> exposure to air, sun, drying and waves, so some have hard shells." },
+    "52": { "a": "a", "why": "Blooms block light from other photosynthesizers, and dying algae <b>use up oxygen</b>." },
+    "53": { "a": "c", "why": "<b>Salinity</b> (freshwater organisms can't handle much salt) and <b>sunlight</b> (blooms block it, then oxygen runs out)." },
+    "54": { "a": "c", "alt": "b", "why": "Changes are already happening, so they can't simply be undone, but cutting fossil fuels can <b>slow</b> climate change." },
+    "55": { "a": "a", "why": "Measured <b>CO₂ level</b> = dependent variable." },
+    "56": { "a": "b", "why": "20% of industry's 29% ≈ <b>6%</b> of the total." },
+    "57": { "a": "a", "why": "CO₂ climbs through the northern winter and peaks in spring, then drops in summer when plants grow." },
+    "58": { "a": "b", "why": "Living things only: <b>butterfly and lupine</b>." },
+    "59": { "a": "c", "why": "Grasses regrow from roots, the herbivores come back, and productivity <b>recovers</b>." },
+    "60": { "a": "c", "why": "Both benefit: <b>mutualism</b>." },
+    "61": { "a": "a", "why": "<b>Light and nutrients</b> control productivity." },
+    "62": { "a": "b", "why": "Temperature drops <b>fast</b> near the surface, then barely changes deeper down." },
+    "63": { "a": "c", "why": "A controlled experiment: <b>add nutrients</b> to some water and compare phytoplankton growth." },
+    "64": { "a": "c", "why": "Fewer <b>species</b> at high latitudes (the graph counts species, not biomass)." },
+    "65": { "a": "a", "why": "Fast-growing tall trees form a <b>canopy</b> that shades out oak seedlings." },
+    "66": { "a": "d", "why": "Oil <b>blocks light and oxygen</b>, killing phytoplankton and trapping animals. Clean up with chemicals and bioremediation." },
+    "67": { "a": "a", "why": "Emissions were <b>close to zero</b> at the start of the graph (around 1850)." },
+    "68": { "a": "c", "why": "Short term: seasonal shifts and life-cycle changes. Long term: <b>melting glaciers and rising seas</b>." }
+  }
+}
