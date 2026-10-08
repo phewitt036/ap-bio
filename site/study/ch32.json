@@ -1,0 +1,137 @@
+{
+  "chapter": 32,
+  "sections": {
+    "32.0": {
+      "big": "Animals must keep the right balance of water and salts, and get rid of toxic nitrogen waste. Kidneys (and simpler organs in other animals) do both.",
+      "points": [
+        "Balancing water and salt is <b>osmoregulation</b>. Getting rid of waste is excretion."
+      ],
+      "words": ["osmoregulation"]
+    },
+    "32.1": {
+      "big": "<b>Osmotic balance</b> = keeping water and dissolved salts at the right levels inside the body.",
+      "points": [
+        "Water moves across a <b>semi-permeable membrane</b> toward the side with more solute. The pull is called <b>osmotic pressure</b>.",
+        "<b>Electrolytes</b> are dissolved ions (Na⁺, K⁺, Cl⁻). A <b>non-electrolyte</b> (like glucose) doesn't form ions. The Na⁺/K⁺ pump keeps Na⁺ high outside cells and K⁺ high inside.",
+        "Units: a <b>mole</b> is an amount of particles. <b>Molarity</b> = moles per liter of solution. <b>Molality</b> = moles per kilogram of solvent. mEq = millimoles × charge (so 1 mEq of Fe³⁺ = ⅓ mmol). Body fluids are about 300 mOsm.",
+        "IV fluids are isotonic saline so cells don't swell or shrink. In a hypotonic solution cells swell; in a hypertonic one they shrink.",
+        "<b>Osmoconformers</b> (many sea invertebrates) match the sea's salt level. <b>Osmoregulators</b> keep their own level no matter what. Freshwater fish soak up water and pee a lot of dilute urine. Saltwater fish lose water, drink seawater, and pump out salt. Salmon switch between both."
+      ],
+      "words": ["osmotic balance", "semi-permeable membrane", "osmotic pressure", "electrolyte", "non-electrolyte", "mole", "molarity", "molality", "osmoconformer", "osmoregulator"]
+    },
+    "32.2": {
+      "big": "The <b>kidney</b> filters blood, takes back what's useful, and sends the rest out as <b>urine</b>.",
+      "points": [
+        "Outside to in: <b>renal fascia</b>, <b>perirenal fat capsule</b>, <b>renal capsule</b>. Inside: the <b>cortex</b> (outer), the <b>medulla</b> (with <b>renal pyramids</b> separated by <b>renal columns</b>; grouped into <b>lobes of the kidney</b>), then the <b>calyx</b> → <b>renal pelvis</b> → <b>ureter</b> → <b>urinary bladder</b>. Vessels and the ureter connect at the <b>hilum</b>.",
+        "Blood: aorta → <b>renal artery</b> → <b>segmental artery</b> → <b>interlobar artery</b> → <b>arcuate artery</b> → <b>cortical radiate artery</b> → <b>afferent arteriole</b> → <b>glomerulus</b> → <b>efferent arteriole</b> → <b>peritubular capillary network</b> and <b>vasa recta</b> → <b>renal vein</b> → <b>inferior vena cava</b>.",
+        "The <b>nephron</b> is the working unit (about a million per kidney). <b>Renal corpuscle</b> = glomerulus + <b>Bowman's capsule</b>. Then the <b>renal tubule</b>: <b>proximal convoluted tubule (PCT)</b> → <b>loop of Henle</b> (<b>descending limb</b> lets water out; <b>ascending limb</b> pumps salt out) → <b>distal convoluted tubule (DCT)</b> → collecting duct.",
+        "<b>Cortical nephrons</b> have short loops. <b>Juxtamedullary nephrons</b> have long loops that dip deep into the medulla, so they're better at concentrating urine.",
+        "Three steps: <b>glomerular filtration</b> (blood pressure forces water and small solutes into Bowman's capsule; the speed is the <b>glomerular filtration rate (GFR)</b>), <b>tubular reabsorption</b> (useful stuff goes back to the blood, mostly in the PCT, which has <b>microvilli</b>; each substance has a <b>transport maximum</b>), and <b>tubular secretion</b> (extra wastes added in).",
+        "The loop of Henle is a <b>countercurrent multiplier</b>: it builds a very salty medulla so water can be pulled out of the urine. The vasa recta act as a <b>countercurrent exchanger</b> that keeps that gradient."
+      ],
+      "words": ["kidney", "urine", "renal fascia", "perirenal fat capsule", "renal capsule", "cortex", "medulla", "renal pyramid", "renal column", "lobes of the kidney", "calyx", "renal pelvis", "ureter", "urinary bladder", "hilum", "renal artery", "segmental artery", "interlobar artery", "arcuate artery", "cortical radiate artery", "afferent arteriole", "glomerulus", "efferent arteriole", "peritubular capillary network", "vasa recta", "renal vein", "inferior vena cava", "nephron", "renal corpuscle", "Bowman's capsule", "renal tubule", "proximal convoluted tubule", "loop of Henle", "descending limb", "ascending limb", "distal convoluted tubule", "cortical nephron", "juxtamedullary nephron", "glomerular filtration", "glomerular filtration rate", "tubular reabsorption", "microvilli", "transport maximum", "tubular secretion", "countercurrent multiplier", "countercurrent exchanger"]
+    },
+    "32.3": {
+      "big": "Simpler animals use simpler excretory organs that all do the same job: filter, reabsorb, release.",
+      "points": [
+        "Single cells: contractile vacuoles pump out extra water (and some waste) by exocytosis. Without them, a freshwater cell would swell and burst.",
+        "Flatworms: <b>flame cells</b> with beating cilia push fluid through tubules (a protonephridium) and out of pores.",
+        "Earthworms: <b>nephridia</b> collect fluid, reabsorb useful stuff through capillaries, and release waste through a <b>nephridiopore</b>.",
+        "Insects: <b>Malpighian tubules</b> pump K⁺ in, water follows, wastes are dumped into the gut, and water is reabsorbed. They excrete dry uric acid."
+      ],
+      "words": ["flame cell", "nephridia", "nephridiopore", "Malpighian tubule"]
+    },
+    "32.4": {
+      "big": "Breaking down proteins makes toxic <b>ammonia</b>. Animals get rid of it as ammonia, urea or uric acid, depending on how much water they can spare.",
+      "points": [
+        "<b>Ammonotelic</b> (most aquatic animals): excrete ammonia directly. It's very toxic, but plenty of water dilutes it.",
+        "<b>Ureotelic</b> (mammals, many amphibians): the liver turns ammonia into urea through the <b>urea cycle</b> (also called the ornithine cycle; 5 steps, the first 2 in mitochondria). Urea is less toxic and very soluble. Doctors measure <b>blood urea nitrogen (BUN)</b>.",
+        "Birds, reptiles and insects make <b>uric acid</b>: a white paste that's almost insoluble, so it saves water (and works inside eggs). It costs the most energy.",
+        "Too much uric acid in humans can cause gout. <b>Antioxidants</b> are another role uric acid plays in the blood."
+      ],
+      "words": ["ammonia", "ammonotelic", "ureotelic", "urea cycle", "blood urea nitrogen", "uric acid", "antioxidant"]
+    },
+    "32.5": {
+      "big": "Hormones fine-tune how much water and salt the kidneys keep.",
+      "points": [
+        "Epinephrine and norepinephrine (stress) shift blood flow away from the kidneys and slow filtration.",
+        "<b>Renin-angiotensin-aldosterone</b>: low blood pressure → <b>juxtaglomerular cells</b> (sensing with the <b>macula densa</b>) release renin → angiotensinogen becomes <b>angiotensin I</b> → <b>angiotensin converting enzyme (ACE)</b> turns it into <b>angiotensin II</b> → constricts vessels and releases aldosterone and ADH → blood pressure and volume rise.",
+        "Aldosterone (a mineralocorticoid) keeps Na⁺ (water follows) and dumps K⁺. Not enough = Addison's disease.",
+        "<b>Anti-diuretic hormone (ADH)</b>, also called <b>vasopressin</b>, puts water channels in the collecting duct so water is kept. Alcohol blocks it.",
+        "Atrial natriuretic peptide (from the heart) does the opposite: it's a <b>vasodilator</b> and makes the kidneys release Na⁺ and water, lowering blood pressure."
+      ],
+      "words": ["renin-angiotensin-aldosterone", "juxtaglomerular cell", "macula densa", "angiotensin I", "angiotensin converting enzyme", "angiotensin II", "anti-diuretic hormone", "vasopressin", "vasodilator"]
+    }
+  },
+  "fix": {
+    "4": { "stem": [0, "<i>Heads up: the book's answer choices (0.13, 0.75, 0.5, 0.25) don't include the correct value. Work it out yourself.</i>"], "opts": [] }
+  },
+  "answers": {
+    "1": { "a": "b", "why": "The <b>Na⁺/K⁺ pump</b> pushes sodium out of cells." },
+    "2": { "a": "b", "why": "<b>Isotonic saline</b> so cells don't swell or shrink." },
+    "3": { "a": "b", "why": "Body fluids are about <b>300 mOsm</b>." },
+    "4": { "why": "mEq = millimoles × charge. Fe³⁺ has a charge of 3, so 1 mEq = 1 ÷ 3 = <b>about 0.33 millimoles</b>." },
+    "5": { "a": "d", "why": "Osmo<b>conformers</b> match the environment. Osmo<b>regulators</b> keep their own level." },
+    "6": { "a": "b", "why": "Salmon move between <b>fresh and salt water</b>, so they must adjust." },
+    "7": { "a": "d", "why": "In a hypotonic solution, water flows in and cells <b>swell</b>." },
+    "8": { "a": "a", "why": "The kidney's main job is <b>osmoregulation</b> (and filtering blood)." },
+    "9": { "a": "c", "why": "The nephron is the kidney's <b>functional unit</b>." },
+    "10": { "a": "a", "why": "Juxtamedullary nephrons have <b>longer loops</b>, so they concentrate urine better." },
+    "11": { "a": "c", "why": "<b>Bowman's capsule</b> surrounds the glomerulus." },
+    "12": { "a": "d", "why": "Descending = permeable to <b>water</b>. Ascending = permeable to <b>solutes</b> (salt)." },
+    "13": { "a": "b", "why": "Humans excrete <b>urea</b>, which is <b>more soluble</b> than uric acid." },
+    "14": { "a": "b", "why": "Renal veins join the <b>inferior</b> vena cava, arcuate arteries come before the cortical radiate arteries, and there are <b>no segmental veins</b>." },
+    "15": { "a": "c", "why": "Contractile vacuoles form from membrane and fuse with the <b>cell membrane</b> to empty." },
+    "16": { "a": "a", "why": "Waste vesicles fuse with the membrane and release their contents: <b>exocytosis</b>." },
+    "17": { "a": "c", "why": "Pumping K⁺ in makes water follow (urine) <b>and</b> keeps the fluids in osmotic balance." },
+    "18": { "a": "d", "why": "Flame cells are found in <b>flatworms</b>." },
+    "19": { "a": "d", "why": "Without contractile vacuoles, a cell in fresh water would keep taking on water and <b>burst</b>." },
+    "20": { "a": "c", "why": "Breaking down protein makes toxic <b>ammonia</b>." },
+    "21": { "a": "a", "why": "Aquatic animals excrete <b>ammonia</b> because water easily dilutes it." },
+    "22": { "a": "d", "why": "<b>Uric acid</b> is purine-like, insoluble, and forms a white paste." },
+    "23": { "a": "b", "why": "The urea cycle = the <b>ornithine</b> cycle." },
+    "24": { "a": "c", "why": "Renin starts the chain that <b>raises blood pressure</b>." },
+    "25": { "a": "d", "why": "<b>Epinephrine</b> drives fight or flight under extreme stress." },
+    "26": { "a": "d", "why": "Addison's = <b>no aldosterone</b>, so sodium is lost. Treat by taking in more sodium (and hormone replacement)." },
+    "27": { "a": "b", "why": "ANP is a <b>vasodilator</b>: it widens vessels." },
+    "28": { "a": "a", "why": "<b>Juxtaglomerular (granular) cells</b> release renin." },
+    "29": { "a": "c", "why": "Sugar can't cross, so water moves to the sugar side: the left arm rises <b>a lot</b>." },
+    "30": { "a": "b", "why": "Osmolality = moles of solute per kg of <b>solvent</b>. Higher = more concentrated, so B." },
+    "31": { "a": "d", "why": "A hypertonic environment pulls water out, so it must be an <b>osmoregulator</b> to keep water in." },
+    "32": { "a": "d", "why": "Wastes build up and must be <b>excreted</b> to keep balance and homeostasis." },
+    "33": { "a": "d", "why": "Renal corpuscle + renal tubule + capillaries from the <b>cortical radiate</b> arteries." },
+    "34": { "a": "d", "why": "Descending: water <b>leaves</b>, so the filtrate gets saltier. Ascending: NaCl leaves, with active Na⁺ transport higher up." },
+    "35": { "a": "c", "why": "Organs specialized for excretion divide the work efficiently and <b>save metabolic energy</b>." },
+    "36": { "a": "d", "why": "Exocytosis in single cells, and <b>flame cells</b> in flatworms." },
+    "37": { "a": "d", "why": "They expel water and waste by <b>exocytosis</b>." },
+    "38": { "a": "b", "why": "Ammonia → urea in 5 enzyme steps: the first 2 in <b>mitochondria</b>, the last 3 in the cytosol." },
+    "39": { "a": "d", "why": "Mammals make urea. Birds, reptiles and insects make uric acid. Urea is <b>cheaper and simpler</b> to make." },
+    "40": { "a": "a", "why": "Life moving <b>onto land</b> needed a less toxic waste that saves water." },
+    "41": { "a": "a", "why": "What the scientist changes (the <b>epinephrine dose</b>) is the independent variable." },
+    "42": { "a": "d", "why": "Renin → angiotensin I → ACE → angiotensin II → aldosterone + ADH → <b>stable</b> blood pressure." },
+    "43": { "a": "b", "why": "The curve is flat at low doses and climbs only past a <b>threshold</b>." },
+    "44": { "a": "d", "why": "The dialysate has a <b>lower</b> urea level than blood, so urea <b>diffuses</b> across into it." },
+    "45": { "a": "a", "why": "Shriveled cells in A = <b>high osmolarity</b> (hypertonic). Plump cells in B = low." },
+    "46": { "a": "b", "why": "Water flows in and dilute urine flows out: a <b>freshwater</b> fish in a <b>hypotonic</b> environment." },
+    "47": { "a": "b", "why": "<b>Freshwater</b> is low osmolarity, so water keeps <b>diffusing in</b>." },
+    "48": { "a": "d", "why": "Small <b>urea</b> passes through. Big <b>red blood cells</b> don't." },
+    "49": { "a": "d", "why": "If salt isn't pumped out, the filtrate stays salty instead of getting diluted, so its osmolarity is <b>higher</b>." },
+    "50": { "a": "a", "why": "Water leaving the descending limb dilutes the interstitial fluid. Without it, the fluid gets <b>saltier</b>." },
+    "51": { "a": "a", "why": "Less blood reaching the kidney = <b>less filtration</b> in the glomerulus." },
+    "52": { "a": "b", "alt": "d", "why": "The arcuate arteries run over the pyramids to send branches into the <b>cortex</b>, where the glomeruli and convoluted tubules are." },
+    "53": { "a": "a", "why": "More blood flow → more filtrate → <b>more water</b> reaching the collecting duct." },
+    "54": { "a": "a", "why": "Without ADH, the <b>collecting duct keeps less water</b>, so more urine." },
+    "55": { "a": "d", "why": "Urea makes the medulla saltier, so the osmolarity <b>increases</b> and more water can be pulled back." },
+    "56": { "a": "c", "why": "The cilia drive <b>filtration</b>, like the <b>glomerulus</b>." },
+    "57": { "a": "b", "why": "The branched tubes are where reabsorption happens, like the <b>convoluted tubules</b>." },
+    "58": { "a": "a", "why": "Excretory pores are where waste <b>leaves the body</b>, like the urethral opening." },
+    "59": { "a": "a", "why": "More solute outside the tubule <b>pulls water out</b> of it." },
+    "60": { "a": "d", "why": "Flame cells filter, like <b>Bowman's capsule</b> (the start of filtration)." },
+    "61": { "a": "a", "why": "In water, cheap ammonia excretion becomes an option, so they might evolve to <b>switch</b> between the two." },
+    "62": { "a": "b", "why": "Uric acid <b>saves water</b> on dry land." },
+    "63": { "a": "b", "why": "Both rise together over time, so they're <b>related</b>. (The graph alone can't show which causes which.)" },
+    "64": { "a": "a", "why": "Water content is lower at every site with ANP: it <b>reduces</b> brain edema." },
+    "65": { "a": "d", "why": "<b>Angiotensin I</b> should be in the box where ACE is, and <b>ACE</b> should be beside the arrow (it converts angiotensin I to II)." },
+    "66": { "a": "d", "why": "Angiotensin → <b>angiotensin I</b> (renin) → <b>angiotensin II</b> (ACE) → aldosterone and ADH." }
+  }
+}
