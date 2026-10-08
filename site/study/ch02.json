@@ -1,0 +1,83 @@
+{
+  "chapter": 2,
+  "sections": {
+    "2.0": {
+      "big": "Life is chemistry. Everything living is built from atoms bonded into molecules, mostly carbon, hydrogen, oxygen and nitrogen, in a world full of water.",
+      "points": [
+        "<b>Matter</b> is anything that takes up space and has mass. An <b>element</b> is a pure substance made of one kind of atom."
+      ],
+      "words": ["matter", "element"]
+    },
+    "2.1": {
+      "big": "An <b>atom</b> is a <b>nucleus</b> (<b>protons</b> + <b>neutrons</b>) surrounded by <b>electrons</b>. Atoms bond by sharing or transferring electrons.",
+      "points": [
+        "<b>Atomic number</b> = number of protons (defines the element). <b>Mass number</b> = protons + neutrons. Neutrons = mass number − atomic number. <b>Atomic weight</b> = the average mass of an element's isotopes.",
+        "<b>Isotopes</b> = same element, different numbers of neutrons (carbon-12 vs. carbon-14). A <b>radioisotope</b> is unstable and decays (used for dating fossils and in medicine).",
+        "The <b>periodic table</b> arranges elements by atomic number. Elements in the same column behave alike.",
+        "Electrons fill <b>electron orbitals</b> (each <b>orbital</b> holds 2) in shells: 2, then 8, then 8. The <b>electron configuration</b> describes how they're arranged. The outer <b>valence shell</b> controls <b>chemical reactivity</b>. The <b>octet rule</b>: atoms want 8 outer electrons. A <b>noble gas</b> (<b>inert gas</b>) already has a full shell.",
+        "A <b>molecule</b> is atoms bonded together. A <b>compound</b> has two or more different elements.",
+        "A <b>chemical reaction</b> turns <b>reactants</b> into <b>products</b>. A <b>balanced chemical equation</b> has the same atoms on both sides. A <b>reversible chemical reaction</b> goes both ways and reaches <b>equilibrium</b> (the <b>law of mass action</b>: adding more reactant pushes it forward). An <b>irreversible chemical reaction</b> goes one way.",
+        "<b>Chemical bonds</b>: <b>ionic bond</b> (one atom gives electrons to another by <b>electron transfer</b>, making an <b>ion</b>: <b>cation</b> + and <b>anion</b> −, which attract; dissolved ions are <b>electrolytes</b>), <b>covalent bond</b> (shared electrons; the strongest), <b>nonpolar covalent bond</b> (shared equally), <b>polar covalent bond</b> (shared unequally because one atom has higher <b>electronegativity</b>).",
+        "Weak attractions: the <b>hydrogen bond</b> (a partly positive H attracted to a partly negative atom) and the <b>van der Waals interaction</b>. They're weak alone but hold DNA and proteins in shape."
+      ],
+      "tip": "Neutrons = mass number − atomic number. Example: xenon 108 − 54 = 54 neutrons.",
+      "words": ["atom", "nucleus", "proton", "neutron", "electron", "atomic number", "mass number", "atomic weight", "isotope", "radioisotope", "periodic table", "electron orbital", "orbital", "electron configuration", "valence shell", "chemical reactivity", "octet rule", "noble gas", "inert gas", "molecule", "compound", "chemical reaction", "reactant", "product", "balanced chemical equation", "reversible chemical reaction", "equilibrium", "law of mass action", "irreversible chemical reaction", "chemical bond", "ionic bond", "electron transfer", "ion", "cation", "anion", "electrolyte", "covalent bond", "nonpolar covalent bond", "polar covalent bond", "electronegativity", "hydrogen bond", "van der Waals interaction"]
+    },
+    "2.2": {
+      "big": "Water's special properties all come from its <b>polarity</b> and the hydrogen bonds between water molecules.",
+      "points": [
+        "Oxygen pulls electrons harder than hydrogen, so O is slightly negative and the H's slightly positive.",
+        "<b>Hydrophilic</b> (water-loving) substances are polar or charged and dissolve. <b>Hydrophobic</b> (water-fearing) ones are nonpolar, like oils.",
+        "Ice floats because hydrogen bonds lock molecules into a spread-out lattice, so solid water is less dense. Lakes freeze from the top, insulating life below.",
+        "High <b>specific heat capacity</b>: water takes lots of energy to warm up, so it steadies temperatures (a <b>calorie</b> is the heat to raise 1 g of water by 1 °C). High <b>heat of vaporization of water</b>: <b>evaporation</b> of sweat carries away lots of heat.",
+        "Water is a great <b>solvent</b>: it surrounds ions with a <b>sphere of hydration</b>, causing <b>dissociation</b>.",
+        "<b>Cohesion</b> (water sticks to water) causes <b>surface tension</b>, so insects can walk on it. <b>Adhesion</b> (water sticks to other things) plus cohesion drives <b>capillary action</b> up thin tubes like plant xylem.",
+        "<b>pH scale</b>: 0–14. Below 7 = <b>acid</b> (gives off H⁺). Above 7 = <b>base</b> (takes up H⁺ or gives off OH⁻). Each step is 10× different. Test with <b>litmus paper</b> or <b>pH paper</b>.",
+        "<b>Buffers</b> soak up extra H⁺ or OH⁻ to keep pH steady. The bicarbonate system buffers blood."
+      ],
+      "words": ["hydrophilic", "hydrophobic", "specific heat capacity", "calorie", "heat of vaporization of water", "evaporation", "solvent", "sphere of hydration", "dissociation", "cohesion", "surface tension", "adhesion", "capillary action", "pH scale", "acid", "base", "litmus paper", "pH paper", "buffer"]
+    },
+    "2.3": {
+      "big": "Carbon is the backbone of life because it can form <b>four covalent bonds</b>, building chains, branches and rings.",
+      "points": [
+        "<b>Organic molecules</b> contain carbon (and hydrogen). A <b>hydrocarbon</b> is just C and H. <b>Aliphatic hydrocarbons</b> are chains. <b>Aromatic hydrocarbons</b> have rings. A <b>substituted hydrocarbon</b> has other groups attached.",
+        "<b>Isomers</b>: same formula, different arrangement. <b>Structural isomers</b> have different bonding. <b>Geometric isomers</b> (cis/trans) differ around a double bond. <b>Enantiomers</b> are mirror images, needing a carbon with four different groups attached.",
+        "Saturated fats: all single bonds, straight chains, solid at room temperature. Unsaturated fats: double bonds cause kinks, liquid.",
+        "<b>Functional groups</b> give molecules their chemistry: hydroxyl (–OH, polar), carbonyl (C=O), carboxyl (–COOH, releases H⁺, acidic; in amino acids and fatty acids), amino (–NH₂, basic), phosphate (–PO₄, in DNA and ATP), sulfhydryl (–SH), methyl (–CH₃, nonpolar)."
+      ],
+      "words": ["organic molecule", "hydrocarbon", "aliphatic hydrocarbon", "aromatic hydrocarbon", "substituted hydrocarbon", "isomers", "structural isomers", "geometric isomer", "enantiomers", "functional group"]
+    }
+  },
+  "answers": {
+    "1": { "a": "b", "why": "Same element, different neutrons = <b>isotopes</b>." },
+    "2": { "a": "c", "why": "19 electrons: 2 + 8 + 8 = 18, so shells 1–3 are full and shell 4 has <b>1</b>." },
+    "3": { "a": "b", "why": "<b>Hydrogen bonds</b> are weak." },
+    "4": { "a": "d", "why": "False: in water, ionic bonds <b>break apart</b>, so they're weaker than covalent bonds." },
+    "5": { "a": "b", "why": "108 − 54 = <b>54</b> neutrons." },
+    "6": { "a": "d", "why": "Ionic bonds form between ions with <b>opposite charges</b>." },
+    "7": { "a": "c", "alt": "d", "why": "Cl (3.16) pulls harder than H (2.20), so H is partly <b>positive</b> and Cl partly negative. (LiF's charges are also right; it's ionic.)" },
+    "8": { "a": "d", "why": "False: nitrogen (N₂) is the most abundant molecule in the atmosphere." },
+    "9": { "a": "c", "why": "Oxygen is more <b>electronegative</b>, so electrons sit closer to it, making O partly negative." },
+    "10": { "a": "a", "why": "Adding acid adds H⁺, so pH <b>drops</b>." },
+    "11": { "a": "b", "why": "Acids and bases <b>neutralize</b> each other." },
+    "12": { "a": "b", "why": "Adhesion = water sticking to <b>other</b> substances." },
+    "13": { "a": "b", "why": "A <b>base</b> soaks up extra H⁺." },
+    "14": { "a": "a", "why": "Carbon forms <b>4</b> bonds." },
+    "15": { "a": "d", "why": "Enantiomers need <b>four different</b> groups on a central carbon." },
+    "16": { "a": "d", "why": "<b>Sodium</b> is an ion, not a functional group." },
+    "17": { "a": "c", "why": "<b>Methyl</b> (–CH₃) is all C–H bonds: nonpolar." },
+    "18": { "a": "c", "why": "Enantiomers = <b>mirror images</b>." },
+    "19": { "a": "a", "why": "Both have 6 protons (atomic number <b>6</b>). Mass numbers are <b>13</b> and <b>12</b>." },
+    "20": { "a": "a", "why": "Their many <b>weak</b> attractions hold DNA and proteins in their working shapes." },
+    "21": { "a": "a", "why": "Group 1 gives up 1 electron easily and Group 17 needs 1: a strong <b>ionic</b> pair (like NaCl)." },
+    "22": { "a": "a", "why": "Water's high <b>surface tension</b> (from cohesion)." },
+    "23": { "a": "a", "why": "Buffers absorb extra H⁺ <b>and</b> OH⁻. Example: the <b>bicarbonate</b> system in blood." },
+    "24": { "a": "a", "why": "Ice is <b>less</b> dense and floats, water has a <b>high</b> specific heat, and a <b>high</b> heat of vaporization makes sweating cool you." },
+    "25": { "a": "a", "why": "0–14, with below 7 acidic and above 7 basic. <b>Bicarbonate</b> buffers blood." },
+    "26": { "a": "a", "why": "Up to <b>4 bonds</b>, so carbon can build long chains." },
+    "27": { "a": "a", "why": "Carboxyl groups release <b>H⁺</b>. They're in <b>amino acids and fatty acids</b>." },
+    "28": { "a": "a", "why": "Saturated = <b>single bonds, solid</b>. Unsaturated = <b>double bonds, liquid</b>." },
+    "29": { "a": "d", "why": "High <b>specific heat capacity</b> keeps body temperature steady." },
+    "30": { "a": "a", "why": "Cohesion (water–water: surface tension), adhesion (water–other: capillary action in plants), heat of vaporization (liquid → gas: sweating cools)." }
+  }
+}
