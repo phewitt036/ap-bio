@@ -1,0 +1,63 @@
+{
+  "chapter": 1,
+  "sections": {
+    "1.0": {
+      "big": "<b>Biology</b> is the study of life, from molecules up to the whole planet. It's a <b>natural science</b>, a <b>life science</b>, and it runs on evidence.",
+      "points": [
+        "Life on Earth has been evolving for about 3.5 billion years, which is why all organisms share basic features."
+      ],
+      "words": ["biology", "natural science", "life science"]
+    },
+    "1.1": {
+      "big": "<b>Science</b> is a way of learning about nature by observing, asking questions, and testing ideas that could be proven wrong.",
+      "points": [
+        "<b>Natural sciences</b> study the physical world: biology, chemistry, physics, astronomy. Math and computer science are tools, not natural sciences. A <b>physical science</b> studies nonliving matter.",
+        "<b>Inductive reasoning</b>: many specific observations → a general conclusion (used in <b>descriptive science</b>). <b>Deductive reasoning</b>: a general rule → a specific prediction (used in <b>hypothesis-based science</b>).",
+        "The <b>scientific method</b>: observe → ask a question → form a <b>hypothesis</b> (a testable explanation) → predict → experiment → analyze → draw a <b>conclusion</b>.",
+        "A good hypothesis is <b>falsifiable</b>: it can be proven wrong. \"Is mac and cheese tastier?\" isn't (it's opinion).",
+        "Experiments have a <b>control</b> group (unchanged, for comparison) and test one <b>variable</b> at a time.",
+        "A <b>theory</b> is a well-tested explanation backed by lots of evidence (evolution, cell theory). It's much stronger than a guess.",
+        "<b>Basic science</b> seeks knowledge for its own sake. <b>Applied science</b> solves real problems (medicine, crops). Sometimes discoveries come by <b>serendipity</b> (happy accident, like penicillin).",
+        "Reporting: a <b>peer-reviewed manuscript</b> has an <b>abstract</b>, <b>introduction</b>, <b>materials and methods</b>, <b>results</b>, and <b>discussion</b>. A <b>review article</b> summarizes many studies. <b>Plagiarism</b> (using others' work without credit) is dishonest."
+      ],
+      "words": ["science", "physical science", "inductive reasoning", "descriptive science", "deductive reasoning", "hypothesis-based science", "scientific method", "hypothesis", "conclusion", "falsifiable", "control", "variable", "theory", "basic science", "applied science", "serendipity", "peer-reviewed manuscript", "abstract", "introduction", "materials and methods", "results", "discussion", "review article", "plagiarism"]
+    },
+    "1.2": {
+      "big": "All living things share the same properties of life, and they're organized in levels from atoms up to the <b>biosphere</b>.",
+      "points": [
+        "Properties of life: order, sensitivity to stimuli, reproduction, adaptation, growth and development, regulation, <b>homeostasis</b> (keeping a stable inside), and energy processing. Viruses aren't considered alive because they aren't made of cells.",
+        "Levels: <b>atom</b> → <b>molecule</b> (and big <b>macromolecules</b>) → <b>organelle</b> → <b>cell</b> → <b>tissue</b> → <b>organ</b> → <b>organ system</b> → <b>organism</b> → <b>population</b> (one species in one area) → <b>community</b> (all species there) → <b>ecosystem</b> (community + nonliving surroundings) → biosphere.",
+        "<b>Prokaryotes</b> (bacteria, archaea) have no nucleus. <b>Eukaryotes</b> have a membrane-bound nucleus.",
+        "<b>Evolution</b> explains both the unity and the diversity of life. A <b>phylogenetic tree</b> shows relationships: the base is the oldest ancestor and the branch tips are the most recent species. Carl Woese used ribosomal RNA to identify three domains: Bacteria, Archaea, Eukarya.",
+        "Branches of biology: <b>biochemistry</b>, <b>molecular biology</b>, <b>microbiology</b>, <b>neurobiology</b>, <b>paleontology</b> (fossils), <b>zoology</b> (animals), <b>botany</b> (plants), and more."
+      ],
+      "tip": "Levels in order: Atom, Molecule, Organelle, Cell, Tissue, Organ, System, Organism, Population, Community, Ecosystem, Biosphere.",
+      "words": ["homeostasis", "atom", "molecule", "macromolecule", "organelle", "cell", "tissue", "organ", "organ system", "organism", "population", "community", "ecosystem", "biosphere", "prokaryote", "eukaryote", "evolution", "phylogenetic tree", "biochemistry", "molecular biology", "microbiology", "neurobiology", "paleontology", "zoology", "botany"]
+    }
+  },
+  "answers": {
+    "1": { "a": "b", "why": "A testable explanation = <b>hypothesis</b>." },
+    "2": { "a": "c", "why": "<b>Computer science</b> is a tool, not a study of the natural world." },
+    "3": { "a": "c", "why": "Experts check the work before publication: <b>peer review</b>." },
+    "4": { "a": "a", "why": "Disease and pollution affecting species are biology. Geometry and planetary orbits are not." },
+    "5": { "a": "d", "why": "Deductive = from <b>general rules</b> to a specific prediction (deserts need water saved, so desert plants should have small leaves)." },
+    "6": { "a": "a", "why": "Viruses <b>aren't made of cells</b>." },
+    "7": { "a": "b", "why": "Only <b>eukaryotes</b> have a nucleus." },
+    "8": { "a": "d", "why": "One species in one area = <b>population</b>." },
+    "9": { "a": "a", "why": "From biggest to smallest: biosphere → ecosystem → community → population → organism." },
+    "10": { "a": "c", "why": "The most recently evolved organisms are at the <b>branch tips</b>." },
+    "11": { "a": "c", "why": "Prokaryotes have <b>no nucleus</b>, so it's not universal." },
+    "12": { "a": "b", "why": "Math is a <b>tool</b> natural sciences use, but it studies relationships and calculations, not nature itself." },
+    "13": { "a": "c", "why": "Observe (2) → question (1) → hypothesis (5) → prediction (4) → test result (6) → new test (3)." },
+    "14": { "a": "d", "why": "Taste (1) and morality (4) are <b>opinions</b>. Hummingbirds and red (2) and the moon (3) can be tested." },
+    "15": { "a": "a", "why": "Atom → molecule → cell → organ → organism → population → ecosystem → planet." },
+    "16": { "a": "b", "why": "Woese compared <b>ribosomal RNA</b> sequences." },
+    "17": { "a": "b", "why": "<b>Astronomy</b> makes testable predictions based on physics. Astrology doesn't." },
+    "18": { "a": "b", "why": "All life uses <b>DNA/RNA</b> as genetic material." },
+    "19": { "a": "d", "why": "Similar <b>DNA sequences</b> are the strongest evidence of close relationship." },
+    "20": { "a": "d", "why": "<b>5</b> branches off at the root (D), farthest from 2." },
+    "21": { "a": "b", "why": "1 and 3 last share ancestor <b>B</b>." },
+    "22": { "a": "b", "why": "E. coli is a prokaryote, but its core processes are <b>shared</b> with all life through common ancestry." },
+    "23": { "a": "a", "why": "Fossils like <b>Archaeopteryx</b> link birds to reptiles (dinosaurs)." }
+  }
+}
