@@ -1,0 +1,109 @@
+{
+  "chapter": 24,
+  "sections": {
+    "24.0": {
+      "big": "An animal's body shape, tissues and internal controls are all built around one job: staying alive and stable in its environment.",
+      "points": [
+        "This chapter covers body plans, the four basic tissue types, and <b>homeostasis</b>: how the body keeps its insides steady."
+      ],
+      "words": ["homeostasis"]
+    },
+    "24.1": {
+      "big": "An animal's size and shape are limited by physics (support, diffusion, heat), and its energy needs depend on its size and lifestyle.",
+      "points": [
+        "Symmetry: <b>asymmetrical</b> (no pattern, like sponges), radial (like a pie, as in jellyfish; good for catching food from every side), bilateral (left and right mirror halves, like us).",
+        "Exoskeletons (chitin) limit size: double the body length and weight goes up about 8×, so the shell would have to get far too thick. Muscles attach to inward bumps called <b>apodemes</b>.",
+        "Fast swimmers (sharks, dolphins) have a <b>fusiform</b> shape: tapered at both ends to cut through water.",
+        "Diffusion only works over short distances, so big animals need lungs, circulation and folded surfaces.",
+        "<b>Endotherms</b> (birds, mammals) make their own body heat and stay at a constant temperature. <b>Ectotherms</b> (reptiles, fish) take heat from the environment.",
+        "Metabolic rate: <b>BMR</b> (basal metabolic rate) for endotherms at rest, <b>SMR</b> (standard metabolic rate) for ectotherms. Small animals have more surface area per gram, lose heat faster, and need more energy per gram.",
+        "Saving energy: <b>torpor</b> (a short drop in body temperature and activity, like hummingbirds at night), <b>hibernation</b> (long winter torpor), <b>estivation</b> (summer torpor in heat and drought).",
+        "Body planes: <b>sagittal</b> (left/right), <b>midsagittal</b> (exactly down the middle), <b>frontal (coronal)</b> (front/back, i.e. ventral/dorsal), <b>transverse</b> (top/bottom). Cavities: the <b>dorsal cavity</b> (brain, spinal cord) and the <b>ventral cavity</b> (thoracic: heart and lungs; abdominal: digestive organs)."
+      ],
+      "tip": "Smaller animal = more surface for its size = loses heat faster = has to eat more for its size.",
+      "words": ["asymmetrical", "apodeme", "fusiform", "endotherm", "ectotherm", "basal metabolic rate", "standard metabolic rate", "torpor", "hibernation", "estivation", "sagittal plane", "midsagittal plane", "frontal plane", "transverse plane", "dorsal cavity", "ventral cavity"]
+    },
+    "24.2": {
+      "big": "Animals are made of four tissue types: <b>epithelial</b>, <b>connective</b>, <b>muscle</b> and <b>nervous</b>.",
+      "points": [
+        "<b>Epithelial tissue</b> covers and lines surfaces. Shapes: <b>squamous</b> (flat, good for diffusion, like air sacs), <b>cuboidal</b> (cubes, for secretion), <b>columnar</b> (tall, for absorption, like the intestine), <b>transitional</b> (stretchy, like the bladder).",
+        "Layers: <b>simple</b> (one layer), <b>stratified</b> (many layers, for protection like skin), <b>pseudostratified</b> (looks layered but isn't).",
+        "<b>Connective tissue</b> = cells spread out in a <b>matrix</b>. Types: <b>loose (areolar)</b> (packing material), <b>fibrous</b> (tendons, ligaments), <b>cartilage</b> (made by <b>chondrocytes</b>, no blood vessels), bone, adipose (fat), and blood (matrix = plasma).",
+        "Bone: compact bone is built from <b>osteons</b>. Cells sit in small spaces (<b>lacunae</b>) linked by tiny channels (<b>canaliculi</b>). Spongy bone has struts called <b>trabeculae</b>. Osteoclasts break bone down to release calcium.",
+        "Muscle: smooth (involuntary, in organs), skeletal (voluntary, moves bones, striped), cardiac (heart, striped, linked by intercalated discs that pass signals cell to cell).",
+        "Nervous: neurons (dendrites receive, the cell body holds the nucleus, the axon sends) plus support cells. Myelin speeds up signals."
+      ],
+      "words": ["epithelial tissue", "squamous epithelia", "cuboidal epithelia", "columnar epithelia", "transitional epithelia", "simple epithelia", "stratified epithelia", "pseudostratified", "connective tissue", "matrix", "loose connective tissue", "fibrous connective tissue", "cartilage", "chondrocyte", "osteon", "lacuna", "canaliculus", "trabecula"]
+    },
+    "24.3": {
+      "big": "<b>Homeostasis</b> keeps your body's conditions (temperature, glucose, calcium) in a safe range, mostly through <b>negative feedback</b>.",
+      "points": [
+        "Every loop has a sensor (receptor), a control center (often the brain), and an effector (a muscle or gland) that makes the change.",
+        "A <b>set point</b> is the target value (like 37 °C or about 5 mmol/L of blood glucose). The body stays in a range around it (dynamic equilibrium).",
+        "<b>Negative feedback loop</b> = reverse the change. High blood sugar → insulin → sugar goes down. Low calcium → parathyroid hormone (PTH) → calcium goes up.",
+        "<b>Positive feedback loop</b> = amplify the change until an endpoint. Childbirth: pressure → oxytocin → stronger contractions → more oxytocin. Blood clotting works the same way. Rare in the body.",
+        "An <b>alteration</b> changes the set point (like a fever). <b>Acclimatization</b> is adjusting to a new environment (like high altitude).",
+        "<b>Thermoregulation</b>: hot → vasodilation (blood to the skin) and sweating. Cold → vasoconstriction, shivering and insulation. Heat moves by conduction (touch), convection (air or water flow), radiation, and evaporation. The hypothalamus is the thermostat."
+      ],
+      "tip": "Negative feedback = thermostat (back to normal). Positive feedback = snowball (keeps growing until done).",
+      "words": ["set point", "negative feedback loop", "positive feedback loop", "alteration", "acclimatization", "thermoregulation"]
+    }
+  },
+  "answers": {
+    "1": { "a": "b", "why": "The pleural cavities (around the lungs) are in the <b>thoracic</b> cavity." },
+    "2": { "a": "c", "why": "The <b>coronal (frontal)</b> plane splits front (ventral) from back (dorsal)." },
+    "3": { "a": "c", "why": "A hard outer shell = <b>exoskeleton</b>." },
+    "4": { "a": "b", "why": "A <b>dolphin</b> is torpedo-shaped (fusiform) for swimming." },
+    "5": { "a": "a", "why": "<b>Endotherms</b> keep a constant body temperature." },
+    "6": { "a": "b", "why": "Smaller animals have <b>more surface area per unit of mass</b>." },
+    "7": { "a": "b", "why": "Many layers = <b>stratified</b>." },
+    "8": { "a": "a", "why": "Thin, flat <b>squamous</b> cells are best for diffusion." },
+    "9": { "a": "c", "why": "Breaking down bone <b>releases stored calcium</b>." },
+    "10": { "a": "b", "why": "Plasma is the liquid <b>matrix</b> of blood." },
+    "11": { "a": "b", "why": "Skeletal muscle is voluntary so we can choose to <b>move our bones</b>." },
+    "12": { "a": "a", "why": "Intercalated discs pass <b>electrical signals</b> between heart cells so they beat together." },
+    "13": { "a": "c", "why": "The nucleus is in the <b>cell body</b>." },
+    "14": { "a": "d", "why": "Myelin insulates the axon so signals travel <b>faster and more efficiently</b>." },
+    "15": { "a": "b", "why": "A steady internal state = <b>homeostasis</b>." },
+    "16": { "a": "d", "why": "Equilibrium means body functions stay <b>within a range</b>." },
+    "17": { "a": "a", "why": "<b>Positive</b> feedback pushes further from normal." },
+    "18": { "a": "c", "why": "Endotherms make heat right away by <b>shivering</b> (muscle activity). Growing fur takes time." },
+    "19": { "a": "b", "why": "Most homeostasis runs on <b>negative</b> feedback." },
+    "20": { "a": "a", "why": "Blood sugar rises, then insulin brings it back down: <b>negative</b> feedback. The others are positive feedback." },
+    "21": { "a": "d", "why": "Heat by direct contact = <b>conduction</b>." },
+    "22": { "a": "c", "why": "Animal 1's temperature follows the environment (<b>ectotherm</b>). Animal 2 stays steady (<b>endotherm</b>)." },
+    "23": { "a": "b", "why": "Asymmetrical = <b>no pattern</b>. Radial and bilateral bodies can be cut into equal halves." },
+    "24": { "a": "d", "why": "Double the size = <b>8× the weight</b>, so the exoskeleton would have to get much thicker and heavier." },
+    "25": { "a": "b", "why": "The line goes up: <b>bigger animals have a higher total BMR</b> (though lower per gram)." },
+    "26": { "a": "d", "why": "Radial = equal halves around a central axis with no left or right. It helps animals that don't move much <b>catch food from any direction</b>." },
+    "27": { "a": "c", "why": "The cells are <b>tall</b>: columnar." },
+    "28": { "a": "c", "why": "Both are <b>connective tissue</b> with a matrix that gives strength and some flexibility. (Bone has blood vessels; cartilage doesn't.)" },
+    "29": { "a": "b", "why": "The <b>autonomic</b> nervous system (fight or flight) speeds up the heart." },
+    "30": { "a": "a", "why": "Its branches (dendrites) pulled back, so it can't <b>receive input</b> properly." },
+    "31": { "a": "c", "why": "<b>Single</b> layers allow exchange. <b>Stratified</b> layers protect and get replaced as the top wears off." },
+    "32": { "a": "b", "why": "Homeostasis = <b>constant adjustments</b> that keep body functions within a range (which still fluctuates a bit)." },
+    "33": { "a": "d", "why": "Receptor → control center → <b>effector</b> (the gland)." },
+    "34": { "a": "c", "why": "The normal (middle) line stays flat at about <b>5 mmol/L</b>." },
+    "35": { "a": "a", "why": "Vasodilation sends blood to the skin to <b>lose heat</b>. Vasoconstriction keeps blood in the core to <b>save heat</b>." },
+    "36": { "a": "b", "why": "Metabolism <b>actively produces heat</b> as a byproduct. Insulation only keeps heat in." },
+    "37": { "a": "a", "why": "Ectotherms get heat from <b>outside</b>. Endotherms make it <b>from metabolism</b>." },
+    "38": { "a": "a", "why": "It shows two different species (animals and plants) using <b>different strategies</b> for the same cold problem." },
+    "39": { "a": "d", "why": "The smallest cat, the <b>cheetah</b>, has the most surface area for its size, so it loses heat fastest." },
+    "40": { "a": "c", "why": "Alligators are ectotherms: they cool off by <b>moving into shade</b> (behavior)." },
+    "41": { "a": "d", "why": "The warm-up spikes are about 10–12 days apart: roughly <b>every ten days</b>." },
+    "42": { "a": "a", "why": "Tiny bodies lose heat so fast (high metabolism, big surface-to-volume) that they can't last a long hibernation. They use nightly torpor instead." },
+    "43": { "a": "c", "why": "Small hibernators have to <b>wake up</b> now and then. Bears can stay inactive all winter." },
+    "44": { "a": "a", "why": "The bigger the animal, the <b>longer</b> it takes to cool down and warm up." },
+    "45": { "a": "b", "why": "The bear takes 741 minutes to warm up, the shrew 13. <b>Larger animals take longer</b>." },
+    "46": { "a": "b", "why": "High glucose → insulin → glucose goes <b>back down</b>: negative feedback." },
+    "47": { "a": "a", "why": "The <b>parathyroid</b> senses low calcium and releases <b>PTH</b>, which raises calcium. Then PTH shuts off." },
+    "48": { "a": "c", "why": "Time is on the x-axis (<b>independent</b>). Glucose and glucagon are measured (<b>dependent</b>)." },
+    "49": { "a": "b", "why": "Glucagon rises when glucose is <b>low</b>, so it makes the body turn other molecules <b>into glucose</b>." },
+    "50": { "a": "b", "why": "Erythropoietin peaks at about <b>10 days</b>, so that's when the signal to make red blood cells is strongest." },
+    "51": { "a": "d", "why": "Insulin helps cells take in and store glucose, <b>lowering</b> blood sugar after a meal." },
+    "52": { "a": "c", "why": "Oxytocin makes the uterus <b>contract harder</b> when the baby presses on it." },
+    "53": { "a": "a", "why": "Stretch → nerves → brain → <b>oxytocin from the pituitary</b> → contractions." },
+    "54": { "a": "d", "why": "Each clotting factor activates more: a <b>chain reaction</b>, which is positive feedback." },
+    "55": { "a": "a", "why": "<b>Clotting</b> is positive feedback: clotting factors trigger more clotting factors." }
+  }
+}
